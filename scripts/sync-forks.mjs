@@ -98,7 +98,8 @@ function localizeResult(result) {
     'sync-token-missing': '缺少同步令牌',
     'sync-failed': '自动同步失败',
     'compare-failed': '比较失败',
-    'missing-parent': '缺少上游信息'
+    'missing-parent': '缺少上游信息',
+    'force-reset': '已强制对齐上游'
   };
   return map[result] || result;
 }
@@ -112,12 +113,14 @@ function localizeReason(reason) {
     .replace('FORK_SYNC_TOKEN is not configured, so auto-sync is disabled.', '未配置 FORK_SYNC_TOKEN，已禁用自动同步。')
     .replace('Auto-sync failed:', '自动同步失败：')
     .replace('Failed to compare fork with upstream:', '比较 fork 与上游失败：')
-    .replace('Merged upstream branch ', '已合并上游分支 ');
+    .replace('Merged upstream branch ', '已合并上游分支 ')
+    .replace('Force-reset fork branch to upstream commit ', '已将 fork 分支强制重置到上游提交 ');
 }
 
 function localizeAction(action) {
   const map = {
     'merge-upstream': '合并上游更新',
+    'force-reset': '强制对齐上游',
     skip: '跳过处理',
     'not-configured': '未启用自动同步',
     none: '无'
@@ -128,6 +131,24 @@ function localizeAction(action) {
 async function getForkRepos() {
   const repos = await paginate('/user/repos?type=owner&sort=full_name', syncToken);
   return repos.filter((repo) => repo.fork);
+}
+
+async function forceResetForkToUpstream(repoName, branch, upstreamOwner, upstreamRepo, upstreamBranch) {
+  const upstreamBranchData = await api(`/repos/${upstreamOwner}/${upstreamRepo}/branches/${encodeURIComponent(upstreamBranch)}`, {
+    token: syncToken
+  });
+  const targetSha = upstreamBranchData.commit.sha;
+
+  await api(`/repos/${owner}/${repoName}/git/refs/heads/${encodeURIComponent(branch)}`, {
+    method: 'PATCH',
+    token: syncToken,
+    body: {
+      sha: targetSha,
+      force: true
+    }
+  });
+
+  return targetSha;
 }
 
 async function inspectFork(repo) {
@@ -199,16 +220,6 @@ async function inspectFork(repo) {
 
     if (behindBy === 0) return result;
 
-    if (aheadBy > 0) {
-      return {
-        ...result,
-        status: 'manual',
-        action: 'skip',
-        result: 'diverged',
-        reason: 'Fork has local commits and is behind upstream. Manual review is required.'
-      };
-    }
-
     if (!canAttemptSync) {
       return {
         ...result,
@@ -217,6 +228,27 @@ async function inspectFork(repo) {
         result: 'sync-token-missing',
         reason: 'FORK_SYNC_TOKEN is not configured, so auto-sync is disabled.'
       };
+    }
+
+    if (aheadBy > 0) {
+      try {
+        const targetSha = await forceResetForkToUpstream(repo.name, branch, parent.owner.login, parent.name, parent.default_branch);
+        return {
+          ...result,
+          status: 'updated',
+          action: 'force-reset',
+          result: 'force-reset',
+          reason: `Force-reset fork branch to upstream commit ${targetSha}.`
+        };
+      } catch (error) {
+        return {
+          ...result,
+          status: 'manual',
+          action: 'force-reset',
+          result: 'sync-failed',
+          reason: `Auto-sync failed: ${error.message}`
+        };
+      }
     }
 
     try {
@@ -293,7 +325,7 @@ function renderReadme(report) {
   ]);
 
   const updatedList = renderBulletList(updatedRows, (r) =>
-    `- ${repoLink(r.repo)} ← ${upstreamLink(r.upstream)} ｜同步前落后 **${r.behind_by}** 个提交 ｜动作：**${localizeAction(r.action)}**`
+    `- ${repoLink(r.repo)} ← ${upstreamLink(r.upstream)} ｜同步前落后 **${r.behind_by}** 个提交 ｜动作：**${localizeAction(r.action)}** ｜结果：**${localizeResult(r.result)}**`
   );
 
   const manualList = renderBulletList(manualRows, (r) =>
@@ -311,7 +343,7 @@ function renderReadme(report) {
   return [
     '# fork-updater',
     '',
-    '> 自动巡检并同步账号下的 fork 仓库，并将最新状态汇总为可读的仪表盘。',
+    '> 自动巡检并同步账号下的 fork 仓库，并将最新状态汇总为可读的仪表盘。当前策略：**以上游为准自动同步；如本地与上游分叉，将直接强制对齐到上游最新提交。**',
     '',
     '## 运行总览',
     '',
@@ -356,7 +388,7 @@ function renderReadme(report) {
     '',
     '- 本仓库会在每次定时运行后自动更新 README 与状态数据。',
     '- 如需自动同步你账号下的 fork 仓库，请在仓库 Secrets 中配置 `FORK_SYNC_TOKEN`。',
-    '- 如果未配置 `FORK_SYNC_TOKEN`，系统仍会检查并展示哪些 fork 落后于上游，但不会自动同步。',
+    '- 当前策略为：普通落后使用 merge-upstream；本地已分叉但仍需跟上游同步时，直接强制重置到上游最新提交。',
     `- 仪表盘仓库： [${repoSlug}](${serverUrl}/${repoSlug})`,
     ''
   ].join('\n');
