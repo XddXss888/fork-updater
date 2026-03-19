@@ -1,0 +1,12 @@
+{
+  "run_started_at": null,
+  "run_completed_at": null,
+  "summary": {
+    "scanned": 0,
+    "updated": 0,
+    "up_to_date": 0,
+    "manual": 0,
+    "errors": 0
+  },
+  "repos": []
+}
