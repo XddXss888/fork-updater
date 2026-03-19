@@ -92,7 +92,7 @@ function localizeStatus(status) {
 function localizeResult(result) {
   const map = {
     synced: '同步成功',
-    already-current: '已是最新',
+    'already-current': '已是最新',
     diverged: '已分叉',
     archived: '仓库已归档',
     'sync-token-missing': '缺少同步令牌',
