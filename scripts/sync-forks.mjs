@@ -11,7 +11,7 @@ if (!owner || !repoSlug || !dashboardToken) {
   throw new Error('Missing required environment: GITHUB_OWNER, GITHUB_REPOSITORY, or GITHUB_TOKEN');
 }
 
-async function api(path, { method = 'GET', token = dashboardToken, body } = {}) {
+async function api(path, { method = 'GET', token = syncToken, body } = {}) {
   const response = await fetch(`https://api.github.com${path}`, {
     method,
     headers: {
@@ -40,11 +40,11 @@ async function api(path, { method = 'GET', token = dashboardToken, body } = {}) 
   return data;
 }
 
-async function paginate(path) {
+async function paginate(path, token = syncToken) {
   const results = [];
   let page = 1;
   while (true) {
-    const data = await api(`${path}${path.includes('?') ? '&' : '?'}per_page=100&page=${page}`);
+    const data = await api(`${path}${path.includes('?') ? '&' : '?'}per_page=100&page=${page}`, { token });
     if (!Array.isArray(data) || data.length === 0) break;
     results.push(...data);
     if (data.length < 100) break;
@@ -70,12 +70,12 @@ function summarizeCommits(commits = []) {
 }
 
 async function getForkRepos() {
-  const repos = await paginate(`/user/repos?type=owner&sort=full_name`);
+  const repos = await paginate('/user/repos?type=owner&sort=full_name', syncToken);
   return repos.filter((repo) => repo.fork);
 }
 
 async function inspectFork(repo) {
-  const full = await api(`/repos/${owner}/${repo.name}`);
+  const full = await api(`/repos/${owner}/${repo.name}`, { token: syncToken });
   const parent = full.parent;
   const branch = full.default_branch;
   const now = new Date().toISOString();
@@ -115,7 +115,7 @@ async function inspectFork(repo) {
   }
 
   try {
-    const compare = await api(`/repos/${owner}/${repo.name}/compare/${encodeURIComponent(branch)}...${parent.owner.login}:${encodeURIComponent(parent.default_branch)}`);
+    const compare = await api(`/repos/${owner}/${repo.name}/compare/${encodeURIComponent(branch)}...${parent.owner.login}:${encodeURIComponent(parent.default_branch)}`, { token: syncToken });
     const aheadBy = compare.ahead_by ?? 0;
     const behindBy = compare.behind_by ?? 0;
     const commits = compare.commits || [];
@@ -213,7 +213,7 @@ function renderReadme(report) {
   const manualRows = report.repos.filter((r) => r.status === 'manual');
   const errorRows = report.repos.filter((r) => r.status === 'error');
 
-  return `# fork-updater\n\n自动巡检并同步 \`${owner}\` 账号下的 fork 仓库，并将结果汇总到本 README。\n\n## Overview\n\n- Last run start: ${report.run_started_at}\n- Last run finish: ${report.run_completed_at}\n- Forks scanned: ${report.summary.scanned}\n- Updated automatically: ${report.summary.updated}\n- Already up to date: ${report.summary.up_to_date}\n- Needs manual action: ${report.summary.manual}\n- Errors: ${report.summary.errors}\n- Auto-sync token configured: ${canAttemptSync ? 'Yes' : 'No'}\n\n## Today\'s Changes\n\n${renderTable(updatedRows, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Upstream', value: (r) => `[${r.upstream}](${serverUrl}/${r.upstream})` },\n  { label: 'Behind Before', value: (r) => r.behind_by },\n  { label: 'Action', value: (r) => r.action },\n  { label: 'Recent Commits', value: (r) => summarizeCommits(r.commits) },\n  { label: 'Updated At', value: (r) => r.updated_at }\n])}\n\n## Needs Manual Action\n\n${renderTable(manualRows, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Upstream', value: (r) => `[${r.upstream}](${serverUrl}/${r.upstream})` },\n  { label: 'Ahead', value: (r) => r.ahead_by },\n  { label: 'Behind', value: (r) => r.behind_by },\n  { label: 'Result', value: (r) => r.result },\n  { label: 'Reason', value: (r) => r.reason }\n])}\n\n## Errors\n\n${renderTable(errorRows, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Result', value: (r) => r.result },\n  { label: 'Reason', value: (r) => r.reason }\n])}\n\n## Current Fleet Status\n\n${renderTable(report.repos, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Upstream', value: (r) => `[${r.upstream}](${serverUrl}/${r.upstream})` },\n  { label: 'Branch', value: (r) => r.branch },\n  { label: 'Ahead', value: (r) => r.ahead_by },\n  { label: 'Behind', value: (r) => r.behind_by },\n  { label: 'Status', value: (r) => r.status },\n  { label: 'Result', value: (r) => r.result },\n  { label: 'Last Checked', value: (r) => r.updated_at }\n])}\n\n## Notes\n\n- This repository updates itself after each scheduled run.\n- To enable automatic fork syncing across your fork repositories, set a repository secret named \`FORK_SYNC_TOKEN\`.\n- If \`FORK_SYNC_TOKEN\` is missing, the dashboard still reports which forks are behind upstream, but it will not sync them automatically.\n- Dashboard repo: [${repoSlug}](${serverUrl}/${repoSlug})\n`;
+  return `# fork-updater\n\n自动巡检并同步 \`${owner}\` 账号下的 fork 仓库，并将结果汇总到本 README。\n\n## Overview\n\n- Last run start: ${report.run_started_at}\n- Last run finish: ${report.run_completed_at}\n- Forks scanned: ${report.summary.scanned}\n- Updated automatically: ${report.summary.updated}\n- Already up to date: ${report.summary.up_to_date}\n- Needs manual action: ${report.summary.manual}\n- Errors: ${report.summary.errors}\n- Auto-sync token configured: ${canAttemptSync ? 'Yes' : 'No'}\n\n## Today's Changes\n\n${renderTable(updatedRows, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Upstream', value: (r) => `[${r.upstream}](${serverUrl}/${r.upstream})` },\n  { label: 'Behind Before', value: (r) => r.behind_by },\n  { label: 'Action', value: (r) => r.action },\n  { label: 'Recent Commits', value: (r) => summarizeCommits(r.commits) },\n  { label: 'Updated At', value: (r) => r.updated_at }\n])}\n\n## Needs Manual Action\n\n${renderTable(manualRows, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Upstream', value: (r) => `[${r.upstream}](${serverUrl}/${r.upstream})` },\n  { label: 'Ahead', value: (r) => r.ahead_by },\n  { label: 'Behind', value: (r) => r.behind_by },\n  { label: 'Result', value: (r) => r.result },\n  { label: 'Reason', value: (r) => r.reason }\n])}\n\n## Errors\n\n${renderTable(errorRows, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Result', value: (r) => r.result },\n  { label: 'Reason', value: (r) => r.reason }\n])}\n\n## Current Fleet Status\n\n${renderTable(report.repos, [\n  { label: 'Fork', value: (r) => `[${r.repo}](${serverUrl}/${owner}/${r.repo})` },\n  { label: 'Upstream', value: (r) => `[${r.upstream}](${serverUrl}/${r.upstream})` },\n  { label: 'Branch', value: (r) => r.branch },\n  { label: 'Ahead', value: (r) => r.ahead_by },\n  { label: 'Behind', value: (r) => r.behind_by },\n  { label: 'Status', value: (r) => r.status },\n  { label: 'Result', value: (r) => r.result },\n  { label: 'Last Checked', value: (r) => r.updated_at }\n])}\n\n## Notes\n\n- This repository updates itself after each scheduled run.\n- To enable automatic fork syncing across your fork repositories, set a repository secret named \`FORK_SYNC_TOKEN\`.\n- If \`FORK_SYNC_TOKEN\` is missing, the dashboard still reports which forks are behind upstream, but it will not sync them automatically.\n- Dashboard repo: [${repoSlug}](${serverUrl}/${repoSlug})\n`;
 }
 
 async function main() {
