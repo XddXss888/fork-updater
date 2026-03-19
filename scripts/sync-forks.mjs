@@ -115,6 +115,16 @@ function localizeReason(reason) {
     .replace('Merged upstream branch ', '已合并上游分支 ');
 }
 
+function localizeAction(action) {
+  const map = {
+    'merge-upstream': '合并上游更新',
+    skip: '跳过处理',
+    'not-configured': '未启用自动同步',
+    none: '无'
+  };
+  return map[action] || action;
+}
+
 async function getForkRepos() {
   const repos = await paginate('/user/repos?type=owner&sort=full_name', syncToken);
   return repos.filter((repo) => repo.fork);
@@ -260,34 +270,16 @@ function renderTable(rows, columns) {
   return `${header}\n${divider}\n${body}`;
 }
 
+function renderBulletList(rows, formatter) {
+  if (rows.length === 0) return '- 无';
+  return rows.map(formatter).join('\n');
+}
+
 function renderReadme(report) {
   const updatedRows = report.repos.filter((r) => r.status === 'updated');
   const manualRows = report.repos.filter((r) => r.status === 'manual');
   const errorRows = report.repos.filter((r) => r.status === 'error');
-
-  const todayChanges = renderTable(updatedRows, [
-    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
-    { label: '上游仓库', value: (r) => upstreamLink(r.upstream) },
-    { label: '同步前落后提交数', value: (r) => r.behind_by },
-    { label: '执行动作', value: (r) => r.action === 'merge-upstream' ? '合并上游更新' : r.action },
-    { label: '最近提交', value: (r) => summarizeCommits(r.commits) },
-    { label: '更新时间', value: (r) => r.updated_at }
-  ]);
-
-  const manualTable = renderTable(manualRows, [
-    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
-    { label: '上游仓库', value: (r) => upstreamLink(r.upstream) },
-    { label: '领先提交数', value: (r) => r.ahead_by },
-    { label: '落后提交数', value: (r) => r.behind_by },
-    { label: '结果', value: (r) => localizeResult(r.result) },
-    { label: '原因', value: (r) => localizeReason(r.reason) }
-  ]);
-
-  const errorTable = renderTable(errorRows, [
-    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
-    { label: '结果', value: (r) => localizeResult(r.result) },
-    { label: '原因', value: (r) => localizeReason(r.reason) }
-  ]);
+  const healthyRows = report.repos.filter((r) => r.status === 'up_to_date').slice(0, 5);
 
   const fleetTable = renderTable(report.repos, [
     { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
@@ -300,41 +292,69 @@ function renderReadme(report) {
     { label: '最后检查时间', value: (r) => r.updated_at }
   ]);
 
+  const updatedList = renderBulletList(updatedRows, (r) =>
+    `- ${repoLink(r.repo)} ← ${upstreamLink(r.upstream)} ｜同步前落后 **${r.behind_by}** 个提交 ｜动作：**${localizeAction(r.action)}**`
+  );
+
+  const manualList = renderBulletList(manualRows, (r) =>
+    `- ${repoLink(r.repo)} ｜领先 **${r.ahead_by}** / 落后 **${r.behind_by}** ｜结果：**${localizeResult(r.result)}** ｜${localizeReason(r.reason)}`
+  );
+
+  const errorList = renderBulletList(errorRows, (r) =>
+    `- ${repoLink(r.repo)} ｜结果：**${localizeResult(r.result)}** ｜${localizeReason(r.reason)}`
+  );
+
+  const healthyList = renderBulletList(healthyRows, (r) =>
+    `- ${repoLink(r.repo)} ｜上游：${upstreamLink(r.upstream)} ｜状态：**已是最新**`
+  );
+
   return [
     '# fork-updater',
     '',
-    `自动巡检并同步 \`${owner}\` 账号下的 fork 仓库，并将结果汇总到本 README。`,
+    '> 自动巡检并同步账号下的 fork 仓库，并将最新状态汇总为可读的仪表盘。',
     '',
-    '## 概览',
+    '## 运行总览',
     '',
-    `- 本次运行开始时间：${report.run_started_at}`,
-    `- 本次运行结束时间：${report.run_completed_at}`,
-    `- 已扫描 fork 仓库数：${report.summary.scanned}`,
-    `- 自动同步成功数：${report.summary.updated}`,
-    `- 已是最新数：${report.summary.up_to_date}`,
-    `- 需要人工处理数：${report.summary.manual}`,
-    `- 检查异常数：${report.summary.errors}`,
-    `- 是否已配置自动同步令牌：${canAttemptSync ? '是' : '否'}`,
+    `- **账号**：\`${owner}\``,
+    `- **开始时间**：${report.run_started_at}`,
+    `- **结束时间**：${report.run_completed_at}`,
+    `- **自动同步令牌**：${canAttemptSync ? '已配置' : '未配置'}`,
     '',
-    '## 今日更新',
+    '| 指标 | 数值 |',
+    '| --- | ---: |',
+    `| 已扫描 Fork 仓库 | ${report.summary.scanned} |`,
+    `| 自动同步成功 | ${report.summary.updated} |`,
+    `| 已是最新 | ${report.summary.up_to_date} |`,
+    `| 需要人工处理 | ${report.summary.manual} |`,
+    `| 检查异常 | ${report.summary.errors} |`,
     '',
-    todayChanges,
+    '## 今日快照',
     '',
-    '## 需要人工处理',
+    '### 已自动同步',
     '',
-    manualTable,
+    updatedList,
     '',
-    '## 检查异常',
+    '### 需要人工处理',
     '',
-    errorTable,
+    manualList,
     '',
-    '## 当前全部 Fork 状态',
+    '### 检查异常',
+    '',
+    errorList,
+    '',
+    '### 近期稳定仓库（示例）',
+    '',
+    healthyList,
+    '',
+    '## 全量状态明细',
+    '',
+    '> 如果你要逐仓库核对 ahead / behind / 状态，请看下面这张全量表。',
     '',
     fleetTable,
     '',
-    '## 说明',
+    '## 使用说明',
     '',
-    '- 本仓库会在每次定时运行后自动更新自身 README 与状态数据。',
+    '- 本仓库会在每次定时运行后自动更新 README 与状态数据。',
     '- 如需自动同步你账号下的 fork 仓库，请在仓库 Secrets 中配置 `FORK_SYNC_TOKEN`。',
     '- 如果未配置 `FORK_SYNC_TOKEN`，系统仍会检查并展示哪些 fork 落后于上游，但不会自动同步。',
     `- 仪表盘仓库： [${repoSlug}](${serverUrl}/${repoSlug})`,
