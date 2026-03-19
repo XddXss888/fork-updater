@@ -73,10 +73,46 @@ function summarizeCommits(commits = []) {
     .slice(0, 3)
     .map((commit) => {
       const sha = shortenSha(commit.sha);
-      const msg = commit.commit?.message?.split('\n')[0] || 'No message';
+      const msg = commit.commit?.message?.split('\n')[0] || '无提交说明';
       return `${sha} ${msg}`;
     })
-    .join(' ; ');
+    .join('；');
+}
+
+function localizeStatus(status) {
+  const map = {
+    updated: '已自动同步',
+    up_to_date: '已是最新',
+    manual: '需要人工处理',
+    error: '检查异常'
+  };
+  return map[status] || status;
+}
+
+function localizeResult(result) {
+  const map = {
+    synced: '同步成功',
+    already-current: '已是最新',
+    diverged: '已分叉',
+    archived: '仓库已归档',
+    'sync-token-missing': '缺少同步令牌',
+    'sync-failed': '自动同步失败',
+    'compare-failed': '比较失败',
+    'missing-parent': '缺少上游信息'
+  };
+  return map[result] || result;
+}
+
+function localizeReason(reason) {
+  if (!reason) return '';
+  return reason
+    .replace('Fork metadata has no parent repository information.', 'Fork 元数据中缺少上游仓库信息。')
+    .replace('Repository is archived and cannot be updated automatically.', '仓库已归档，无法自动更新。')
+    .replace('Fork has local commits and is behind upstream. Manual review is required.', '当前 fork 有本地提交且落后于上游，需要人工处理。')
+    .replace('FORK_SYNC_TOKEN is not configured, so auto-sync is disabled.', '未配置 FORK_SYNC_TOKEN，已禁用自动同步。')
+    .replace('Auto-sync failed:', '自动同步失败：')
+    .replace('Failed to compare fork with upstream:', '比较 fork 与上游失败：')
+    .replace('Merged upstream branch ', '已合并上游分支 ');
 }
 
 async function getForkRepos() {
@@ -215,7 +251,7 @@ async function inspectFork(repo) {
 }
 
 function renderTable(rows, columns) {
-  if (rows.length === 0) return '_None_';
+  if (rows.length === 0) return '_无_';
   const header = `| ${columns.map((c) => c.label).join(' | ')} |`;
   const divider = `| ${columns.map(() => '---').join(' | ')} |`;
   const body = rows
@@ -230,38 +266,38 @@ function renderReadme(report) {
   const errorRows = report.repos.filter((r) => r.status === 'error');
 
   const todayChanges = renderTable(updatedRows, [
-    { label: 'Fork', value: (r) => repoLink(r.repo) },
-    { label: 'Upstream', value: (r) => upstreamLink(r.upstream) },
-    { label: 'Behind Before', value: (r) => r.behind_by },
-    { label: 'Action', value: (r) => r.action },
-    { label: 'Recent Commits', value: (r) => summarizeCommits(r.commits) },
-    { label: 'Updated At', value: (r) => r.updated_at }
+    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
+    { label: '上游仓库', value: (r) => upstreamLink(r.upstream) },
+    { label: '同步前落后提交数', value: (r) => r.behind_by },
+    { label: '执行动作', value: (r) => r.action === 'merge-upstream' ? '合并上游更新' : r.action },
+    { label: '最近提交', value: (r) => summarizeCommits(r.commits) },
+    { label: '更新时间', value: (r) => r.updated_at }
   ]);
 
   const manualTable = renderTable(manualRows, [
-    { label: 'Fork', value: (r) => repoLink(r.repo) },
-    { label: 'Upstream', value: (r) => upstreamLink(r.upstream) },
-    { label: 'Ahead', value: (r) => r.ahead_by },
-    { label: 'Behind', value: (r) => r.behind_by },
-    { label: 'Result', value: (r) => r.result },
-    { label: 'Reason', value: (r) => r.reason }
+    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
+    { label: '上游仓库', value: (r) => upstreamLink(r.upstream) },
+    { label: '领先提交数', value: (r) => r.ahead_by },
+    { label: '落后提交数', value: (r) => r.behind_by },
+    { label: '结果', value: (r) => localizeResult(r.result) },
+    { label: '原因', value: (r) => localizeReason(r.reason) }
   ]);
 
   const errorTable = renderTable(errorRows, [
-    { label: 'Fork', value: (r) => repoLink(r.repo) },
-    { label: 'Result', value: (r) => r.result },
-    { label: 'Reason', value: (r) => r.reason }
+    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
+    { label: '结果', value: (r) => localizeResult(r.result) },
+    { label: '原因', value: (r) => localizeReason(r.reason) }
   ]);
 
   const fleetTable = renderTable(report.repos, [
-    { label: 'Fork', value: (r) => repoLink(r.repo) },
-    { label: 'Upstream', value: (r) => upstreamLink(r.upstream) },
-    { label: 'Branch', value: (r) => r.branch },
-    { label: 'Ahead', value: (r) => r.ahead_by },
-    { label: 'Behind', value: (r) => r.behind_by },
-    { label: 'Status', value: (r) => r.status },
-    { label: 'Result', value: (r) => r.result },
-    { label: 'Last Checked', value: (r) => r.updated_at }
+    { label: 'Fork 仓库', value: (r) => repoLink(r.repo) },
+    { label: '上游仓库', value: (r) => upstreamLink(r.upstream) },
+    { label: '默认分支', value: (r) => r.branch },
+    { label: '领先提交数', value: (r) => r.ahead_by },
+    { label: '落后提交数', value: (r) => r.behind_by },
+    { label: '状态', value: (r) => localizeStatus(r.status) },
+    { label: '结果', value: (r) => localizeResult(r.result) },
+    { label: '最后检查时间', value: (r) => r.updated_at }
   ]);
 
   return [
@@ -269,39 +305,39 @@ function renderReadme(report) {
     '',
     `自动巡检并同步 \`${owner}\` 账号下的 fork 仓库，并将结果汇总到本 README。`,
     '',
-    '## Overview',
+    '## 概览',
     '',
-    `- Last run start: ${report.run_started_at}`,
-    `- Last run finish: ${report.run_completed_at}`,
-    `- Forks scanned: ${report.summary.scanned}`,
-    `- Updated automatically: ${report.summary.updated}`,
-    `- Already up to date: ${report.summary.up_to_date}`,
-    `- Needs manual action: ${report.summary.manual}`,
-    `- Errors: ${report.summary.errors}`,
-    `- Auto-sync token configured: ${canAttemptSync ? 'Yes' : 'No'}`,
+    `- 本次运行开始时间：${report.run_started_at}`,
+    `- 本次运行结束时间：${report.run_completed_at}`,
+    `- 已扫描 fork 仓库数：${report.summary.scanned}`,
+    `- 自动同步成功数：${report.summary.updated}`,
+    `- 已是最新数：${report.summary.up_to_date}`,
+    `- 需要人工处理数：${report.summary.manual}`,
+    `- 检查异常数：${report.summary.errors}`,
+    `- 是否已配置自动同步令牌：${canAttemptSync ? '是' : '否'}`,
     '',
-    '## Today\'s Changes',
+    '## 今日更新',
     '',
     todayChanges,
     '',
-    '## Needs Manual Action',
+    '## 需要人工处理',
     '',
     manualTable,
     '',
-    '## Errors',
+    '## 检查异常',
     '',
     errorTable,
     '',
-    '## Current Fleet Status',
+    '## 当前全部 Fork 状态',
     '',
     fleetTable,
     '',
-    '## Notes',
+    '## 说明',
     '',
-    '- This repository updates itself after each scheduled run.',
-    '- To enable automatic fork syncing across your fork repositories, set a repository secret named `FORK_SYNC_TOKEN`.',
-    '- If `FORK_SYNC_TOKEN` is missing, the dashboard still reports which forks are behind upstream, but it will not sync them automatically.',
-    `- Dashboard repo: [${repoSlug}](${serverUrl}/${repoSlug})`,
+    '- 本仓库会在每次定时运行后自动更新自身 README 与状态数据。',
+    '- 如需自动同步你账号下的 fork 仓库，请在仓库 Secrets 中配置 `FORK_SYNC_TOKEN`。',
+    '- 如果未配置 `FORK_SYNC_TOKEN`，系统仍会检查并展示哪些 fork 落后于上游，但不会自动同步。',
+    `- 仪表盘仓库： [${repoSlug}](${serverUrl}/${repoSlug})`,
     ''
   ].join('\n');
 }
