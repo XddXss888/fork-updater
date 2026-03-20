@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-03-20T03:26:53.124Z",
-  "run_completed_at": "2026-03-20T03:27:02.881Z",
+  "run_started_at": "2026-03-20T07:39:38.600Z",
+  "run_completed_at": "2026-03-20T07:39:48.360Z",
   "summary": {
     "scanned": 18,
     "updated": 2,
@@ -13,14 +13,14 @@
       "repo": "AI-Account-Toolkit",
       "upstream": "adminlove520/AI-Account-Toolkit",
       "branch": "main",
-      "ahead_by": 21,
+      "ahead_by": 45,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...adminlove520:main",
-      "updated_at": "2026-03-20T03:26:53.798Z",
+      "updated_at": "2026-03-20T07:39:39.229Z",
       "commits": [
         {
           "sha": "365fe085e152e36b15389167aa364b452e98888b",
@@ -1688,6 +1688,1974 @@
               "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/0b8ecd06649e7642172e53ca09b53ad0f76ac9ea"
             }
           ]
+        },
+        {
+          "sha": "41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e",
+          "node_id": "C_kwDORrQXeNoAKDQxMjQzYzJlYmYzM2ZkYzhjZGYyMGZhMmY0OTJkOGEyZjVhMGI4OGU",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:06:35Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:06:35Z"
+            },
+            "message": "fix: 添加 .html 到 PR 触发路径",
+            "tree": {
+              "sha": "011af5c876722c01461b71e0d82405a3f803b6be",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/011af5c876722c01461b71e0d82405a3f803b6be"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "54575e1ecf151c16dc31833ec14696c1fc23b699",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/54575e1ecf151c16dc31833ec14696c1fc23b699",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/54575e1ecf151c16dc31833ec14696c1fc23b699"
+            }
+          ]
+        },
+        {
+          "sha": "1497bf56b5303ca6b99432f71259c8da49d5c049",
+          "node_id": "C_kwDORrQXeNoAKDE0OTdiZjU2YjUzMDNjYTZiOTk0MzJmNzEyNTljOGRhNDlkNWMwNDk",
+          "commit": {
+            "author": {
+              "name": "banana2556",
+              "email": "85877291+banana2556@users.noreply.github.com",
+              "date": "2026-03-20T04:08:25Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:08:25Z"
+            },
+            "message": "fix: 修复 Cloudflare Temp Email 配置保存时 API 地址未写入的问题 (#19)\n\n* fix: preserve cloudflare temp email api base on save\n\n* chore: remove temporary markup regression test",
+            "tree": {
+              "sha": "fe873dfcb87ea2839d6c4dfb3749f60b3f842d84",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/fe873dfcb87ea2839d6c4dfb3749f60b3f842d84"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/1497bf56b5303ca6b99432f71259c8da49d5c049",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvMg5CRC1aQ7uu5UhlAAAfcMQAAm3u7IaBgv9Oe8SVixTEdxo\nDll6g7lPlEJ6I1c/0cSyGlKgoSAX1fHV/U5tsyTNLXwUNkny/R7j5Lr6S/pE9k6Y\nCYduYKbCHnt6xH7rSaQIAxEkgZOkX7ALJNLBGBWvmKf2jY1EVT96hOIiVQXOGXSg\nqVKalU7/s012g6gt+f3vonzMA6c95LWCj/42JI7EH5sMXL1LZ5aqrVpHsYwgzdxk\nP4lh6R722dvOcgxpZlKilkU2+SKbkPNwJUai3h8cR1ueY5LfZFdpl24v1EVv1/lr\nYKo6sSXiVqAvfEMMtH45Z5tt7oAQ7SU+q0gcBoxJHGB6lvoGQko1FAB/fcIbfKOM\nC8gwyZIEDzVcFZ3w5gCc1EhZ9lqR+m9GHkMJBJeFpTkFxqpzGA5Z6KmVmnHNPYEX\n4leYRGBiylfjdD1xFVWSG4cz2lpChk1ThYKMpHNIL1zirGWXID0DWZBDa+ZbG6tJ\n35gS0m+Ydj/IEzDvEoXddHDeBPvCGgLCOe9y68Bk6HVTrvQGwOsWhaYJ4IDotRt/\nrjCsElLke3/Yajl3ilxBuL85IvbWK0Vx/54Qz9aMAi5m77WPIlJ0KTnykAn6xgFC\n142m3m0lPLSE9yPhykaljJcpXHpaSUGV/LZDnLfqB6qvSHdEBVAhVoyFYNQ11lmf\nknS4NyMfoHwCRX+ob9LI\n=ByGW\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree fe873dfcb87ea2839d6c4dfb3749f60b3f842d84\nparent 41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e\nauthor banana2556 <85877291+banana2556@users.noreply.github.com> 1773979705 +0800\ncommitter GitHub <noreply@github.com> 1773979705 +0800\n\nfix: 修复 Cloudflare Temp Email 配置保存时 API 地址未写入的问题 (#19)\n\n* fix: preserve cloudflare temp email api base on save\n\n* chore: remove temporary markup regression test",
+              "verified_at": "2026-03-20T04:08:26Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1497bf56b5303ca6b99432f71259c8da49d5c049",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1497bf56b5303ca6b99432f71259c8da49d5c049",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1497bf56b5303ca6b99432f71259c8da49d5c049/comments",
+          "author": {
+            "login": "banana2556",
+            "id": 85877291,
+            "node_id": "MDQ6VXNlcjg1ODc3Mjkx",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85877291?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/banana2556",
+            "html_url": "https://github.com/banana2556",
+            "followers_url": "https://api.github.com/users/banana2556/followers",
+            "following_url": "https://api.github.com/users/banana2556/following{/other_user}",
+            "gists_url": "https://api.github.com/users/banana2556/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/banana2556/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/banana2556/subscriptions",
+            "organizations_url": "https://api.github.com/users/banana2556/orgs",
+            "repos_url": "https://api.github.com/users/banana2556/repos",
+            "events_url": "https://api.github.com/users/banana2556/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/banana2556/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/41243c2ebf33fdc8cdf20fa2f492d8a2f5a0b88e"
+            }
+          ]
+        },
+        {
+          "sha": "94f4aadb0228dfd274d39e9cba649e5b7e597e1c",
+          "node_id": "C_kwDORrQXeNoAKDk0ZjRhYWRiMDIyOGRmZDI3NGQzOWU5Y2JhNjQ5ZTViN2U1OTdlMWM",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:09:56Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:10:08Z"
+            },
+            "message": "fix: 添加 actions 权限用于下载 artifact",
+            "tree": {
+              "sha": "a6e83d34b2bfcadd0ce56f6b1c00e4bf88101348",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/a6e83d34b2bfcadd0ce56f6b1c00e4bf88101348"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/94f4aadb0228dfd274d39e9cba649e5b7e597e1c",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/94f4aadb0228dfd274d39e9cba649e5b7e597e1c",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/94f4aadb0228dfd274d39e9cba649e5b7e597e1c",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/94f4aadb0228dfd274d39e9cba649e5b7e597e1c/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1497bf56b5303ca6b99432f71259c8da49d5c049",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1497bf56b5303ca6b99432f71259c8da49d5c049",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1497bf56b5303ca6b99432f71259c8da49d5c049"
+            }
+          ]
+        },
+        {
+          "sha": "55e6ba1eab35571bdd1c1214cda52edc4372e862",
+          "node_id": "C_kwDORrQXeNoAKDU1ZTZiYTFlYWIzNTU3MWJkZDFjMTIxNGNkYTUyZWRjNDM3MmU4NjI",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:12:37Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:12:37Z"
+            },
+            "message": "fix: fork PR 没有 secrets 时跳过 AI 审查",
+            "tree": {
+              "sha": "59a31e6620ac25be935f7de061234872006444dd",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/59a31e6620ac25be935f7de061234872006444dd"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/55e6ba1eab35571bdd1c1214cda52edc4372e862",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/55e6ba1eab35571bdd1c1214cda52edc4372e862",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/55e6ba1eab35571bdd1c1214cda52edc4372e862",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/55e6ba1eab35571bdd1c1214cda52edc4372e862/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "94f4aadb0228dfd274d39e9cba649e5b7e597e1c",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/94f4aadb0228dfd274d39e9cba649e5b7e597e1c",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/94f4aadb0228dfd274d39e9cba649e5b7e597e1c"
+            }
+          ]
+        },
+        {
+          "sha": "22865b975025949db6c5c06ea19b47bb38e49485",
+          "node_id": "C_kwDORrQXeNoAKDIyODY1Yjk3NTAyNTk0OWRiNmM1YzA2ZWExOWI0N2JiMzhlNDk0ODU",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:13:29Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:13:29Z"
+            },
+            "message": "Revert: 撤销之前的条件判断，修复会在脚本内处理",
+            "tree": {
+              "sha": "a6e83d34b2bfcadd0ce56f6b1c00e4bf88101348",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/a6e83d34b2bfcadd0ce56f6b1c00e4bf88101348"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/22865b975025949db6c5c06ea19b47bb38e49485",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/22865b975025949db6c5c06ea19b47bb38e49485",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/22865b975025949db6c5c06ea19b47bb38e49485",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/22865b975025949db6c5c06ea19b47bb38e49485/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "55e6ba1eab35571bdd1c1214cda52edc4372e862",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/55e6ba1eab35571bdd1c1214cda52edc4372e862",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/55e6ba1eab35571bdd1c1214cda52edc4372e862"
+            }
+          ]
+        },
+        {
+          "sha": "1c354ba0582c5cbe0515a47c0876e352ec9a1e15",
+          "node_id": "C_kwDORrQXeNoAKDFjMzU0YmEwNTgyYzVjYmUwNTE1YTQ3YzA4NzZlMzUyZWM5YTFlMTU",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:26:07Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:26:07Z"
+            },
+            "message": "fix: fork PR 跳过评论步骤（权限不足）",
+            "tree": {
+              "sha": "d67644195a61e8a8fe441c7726aed18f446c7ae4",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/d67644195a61e8a8fe441c7726aed18f446c7ae4"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/1c354ba0582c5cbe0515a47c0876e352ec9a1e15",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1c354ba0582c5cbe0515a47c0876e352ec9a1e15",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1c354ba0582c5cbe0515a47c0876e352ec9a1e15",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1c354ba0582c5cbe0515a47c0876e352ec9a1e15/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "22865b975025949db6c5c06ea19b47bb38e49485",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/22865b975025949db6c5c06ea19b47bb38e49485",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/22865b975025949db6c5c06ea19b47bb38e49485"
+            }
+          ]
+        },
+        {
+          "sha": "59c78f08e0b4b5440af687f4a05a71e2d15ce1af",
+          "node_id": "C_kwDORrQXeNoAKDU5Yzc4ZjA4ZTBiNGI1NDQwYWY2ODdmNGEwNWE3MWUyZDE1Y2UxYWY",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:28:29Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:28:29Z"
+            },
+            "message": "fix: fork PR 完全跳过 AI 审查和评论",
+            "tree": {
+              "sha": "92c9cca33f83bbea582272c76fe15d5f851d4ca2",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/92c9cca33f83bbea582272c76fe15d5f851d4ca2"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/59c78f08e0b4b5440af687f4a05a71e2d15ce1af",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/59c78f08e0b4b5440af687f4a05a71e2d15ce1af",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/59c78f08e0b4b5440af687f4a05a71e2d15ce1af",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/59c78f08e0b4b5440af687f4a05a71e2d15ce1af/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1c354ba0582c5cbe0515a47c0876e352ec9a1e15",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1c354ba0582c5cbe0515a47c0876e352ec9a1e15",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1c354ba0582c5cbe0515a47c0876e352ec9a1e15"
+            }
+          ]
+        },
+        {
+          "sha": "c42c9db72fa8426c08a2edb0ee5c0606075328c3",
+          "node_id": "C_kwDORrQXeNoAKGM0MmM5ZGI3MmZhODQyNmMwOGEyZWRiMGVlNWMwNjA2MDc1MzI4YzM",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:33:44Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:33:44Z"
+            },
+            "message": "Revert: 恢复 fork PR 处理逻辑",
+            "tree": {
+              "sha": "a6e83d34b2bfcadd0ce56f6b1c00e4bf88101348",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/a6e83d34b2bfcadd0ce56f6b1c00e4bf88101348"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/c42c9db72fa8426c08a2edb0ee5c0606075328c3",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/c42c9db72fa8426c08a2edb0ee5c0606075328c3",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/c42c9db72fa8426c08a2edb0ee5c0606075328c3",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/c42c9db72fa8426c08a2edb0ee5c0606075328c3/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "59c78f08e0b4b5440af687f4a05a71e2d15ce1af",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/59c78f08e0b4b5440af687f4a05a71e2d15ce1af",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/59c78f08e0b4b5440af687f4a05a71e2d15ce1af"
+            }
+          ]
+        },
+        {
+          "sha": "c2d3a19c26b5768254f02f13cef70f12645d6574",
+          "node_id": "C_kwDORrQXeNoAKGMyZDNhMTljMjZiNTc2ODI1NGYwMmYxM2NlZjcwZjEyNjQ1ZDY1NzQ",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:35:49Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:35:49Z"
+            },
+            "message": "Update pr-review.yml\n\nrevert files",
+            "tree": {
+              "sha": "595f274eb1a6615fa0708f9328c96431a250a567",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/595f274eb1a6615fa0708f9328c96431a250a567"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/c2d3a19c26b5768254f02f13cef70f12645d6574",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvM6lCRC1aQ7uu5UhlAAAYdcQACsJn1TripT7LIRhYKDh+Rkj\nkw1kaaxJCpeU+zayvBLIdPY/5vhwQ+sBrOlPWBtUpMTASs4jWFVtw/Ti7PGxFJAE\nC9HWM4JEjW0Xp+8laYxeSTRZ2YVl2Rt5hNaqQOle8YijTiVcgmD08ED2IofFdV+1\n5LlRqX0t5vK97yNxPGwYsUkoNePzRNGjcVu8bAEJZ6PARpxscL8hbB9tFbTx/3LZ\nHPfTLi5y39Yyv4hU0K9HAcxGXZD6QtNkPf82PnCElaqg7V0c3B1Oum5OdF3ITR+G\n2DnbLTQSH374P6hqFA+ZqtAELxPtuSPn3to4C5i/di1jsJ39UGHPbwSI/jUZ6Jra\nYFuHIUqEa1pHepKr3n+CwZ5GBMlfIBBPuaCVmSTxkGTB+kPCb1jGZvpIP8+jAful\nEFiug7f8e/75heETYvw9puH2GenAs9HUIjW+ojGTfjoSy7li5GoVTNC3E3VzCeHW\n3vmIaLLCD0Lg0INPKVdXmB2/nVwJiQtObQT6vsPekG5EXxDW2+NVE8xZvrqUbZfU\negJs8zY8zJZDXN/10RQaD0ib11I6F8HFRhaxYnV2ZEzZRtBpahTpEjjVjme9DJLw\nRhxO3nJybM0/Jad8s7kzCAMqPtQ4Q2WCpic/ZVQIt46ZiFwIUw4PCyKDoAqMx//h\nrzVhUoviilkNH1cCpkCO\n=xUhK\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 595f274eb1a6615fa0708f9328c96431a250a567\nparent c42c9db72fa8426c08a2edb0ee5c0606075328c3\nauthor Anonymous <791751568@qq.com> 1773981349 +0800\ncommitter GitHub <noreply@github.com> 1773981349 +0800\n\nUpdate pr-review.yml\n\nrevert files",
+              "verified_at": "2026-03-20T04:35:50Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/c2d3a19c26b5768254f02f13cef70f12645d6574",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/c2d3a19c26b5768254f02f13cef70f12645d6574",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/c2d3a19c26b5768254f02f13cef70f12645d6574/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c42c9db72fa8426c08a2edb0ee5c0606075328c3",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/c42c9db72fa8426c08a2edb0ee5c0606075328c3",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/c42c9db72fa8426c08a2edb0ee5c0606075328c3"
+            }
+          ]
+        },
+        {
+          "sha": "980e80b205263fea0e7736837e5cdc9dc3cb786c",
+          "node_id": "C_kwDORrQXeNoAKDk4MGU4MGIyMDUyNjNmZWEwZTc3MzY4MzdlNWNkYzlkYzNjYjc4NmM",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:36:48Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:36:48Z"
+            },
+            "message": "Revert \"fix: 修复 Cloudflare Temp Email 配置保存时 API 地址未写入的问题 (#19)\" (#20)\n\nThis reverts commit 1497bf56b5303ca6b99432f71259c8da49d5c049.",
+            "tree": {
+              "sha": "bbedeb20766428499ab3fd6a7e8623c6ed352d55",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/bbedeb20766428499ab3fd6a7e8623c6ed352d55"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/980e80b205263fea0e7736837e5cdc9dc3cb786c",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvM7gCRC1aQ7uu5UhlAAAlL8QAK+YVLIIaEJthBCy0mmi5S43\nHlvXCqrYFu9LCg0x/fgjSRFoUTycyuBjjJdBUEdqqvUaWSUcdRdZJpwgBouxmFLH\nP+NK8Ao+vrNCNHCGvkXYkGq1M5SXdB0hwD7Xt5UCtjyAmhLWpRmAOOYtUhsxlLj9\njW2gMzbB+TOGBrVuPSj6z++YuLCCtwEODAUCQFGRMnMTBgrvhqrHRzBVTShKK2GT\nRSt7FcV3oQUAuiXYn9SNDWtMyTQmShjEdHci2BRrgXOa/cV92t37rBCnbW6YHpLo\nSKFEAjf6Md8N1s3/hih7Tu8RacZlwYWmiQ6Oxrsn5B2oetjav4+TQkMPytdSCwMP\nlFLRSar9dYCRKBYqOaik1z0uCKicp9Z/p19opQ3SbY2sq1k8iWjxR17QqBI4E0Pb\nS1k5Ezq9AEAGN2rckV9/jaQ4qh6KbK3ygSKxt5oPBhrTcFnTuaGnReBPgKxvartG\nwUoVPFjLxVkKfVz5+VU3rEeb+MJMFHuQYwqECyAbf7E14rfmWnoFSWJvtqhHahoj\nQkqppMh0oY/ZlnqafvRTqOlsGy0YVsAQlm2/CDtWOYSKr4O4oH1+vcUU3bW1fLm9\na70qRNRJzM6NAXdL2Tg6Zp2Wk8/30fkz8bQtAl1tsP9KA5ZMqqxHnsTli0hP2PgY\nQTAj/ZQUmsTcORMKRuoh\n=3vko\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree bbedeb20766428499ab3fd6a7e8623c6ed352d55\nparent c2d3a19c26b5768254f02f13cef70f12645d6574\nauthor Anonymous <791751568@qq.com> 1773981408 +0800\ncommitter GitHub <noreply@github.com> 1773981408 +0800\n\nRevert \"fix: 修复 Cloudflare Temp Email 配置保存时 API 地址未写入的问题 (#19)\" (#20)\n\nThis reverts commit 1497bf56b5303ca6b99432f71259c8da49d5c049.",
+              "verified_at": "2026-03-20T04:36:49Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/980e80b205263fea0e7736837e5cdc9dc3cb786c",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/980e80b205263fea0e7736837e5cdc9dc3cb786c",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/980e80b205263fea0e7736837e5cdc9dc3cb786c/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c2d3a19c26b5768254f02f13cef70f12645d6574",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/c2d3a19c26b5768254f02f13cef70f12645d6574",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/c2d3a19c26b5768254f02f13cef70f12645d6574"
+            }
+          ]
+        },
+        {
+          "sha": "8018920f87d0f03a57f022df42d77248ac680cc3",
+          "node_id": "C_kwDORrQXeNoAKDgwMTg5MjBmODdkMGYwM2E1N2YwMjJkZjQyZDc3MjQ4YWM2ODBjYzM",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:37:43Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:37:43Z"
+            },
+            "message": "Update CHANGELOG.md",
+            "tree": {
+              "sha": "67ea943c27ed277a64e471d3dac509168fce5c38",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/67ea943c27ed277a64e471d3dac509168fce5c38"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/8018920f87d0f03a57f022df42d77248ac680cc3",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvM8XCRC1aQ7uu5UhlAAAx9YQAFU6SKbjenJIL3YDUebh96B5\nBPpZfHrwHIYf+YEBEWshl13UGvWCfV3lQr+HNddaohdsXE8LU0IVQziSOdjJAwix\nS+7+ya8k8va8z2ww2ALl1tyi40/A1ziI1zvbJHkQ+bcKDFDhxmVwDn/vqfFvOiZA\n4XdNHmC3zHUsVQw16i/x6U7mMBBDz4ecmWoHYhE7mpMW51d4Mwaaqmt/8dHRBJqR\nvotS6S0yN7xkU3db85wmue2Lo0vnvTWugniuDGHzuEjia4rysVdRGLoICWc4zC9C\nvvmBgmi2NBDRa5/oPuA5K2MKGrbdxv+KyOennuzwRyTj/XTo9YNk3bvaTbMalQOK\nONn0M3bDqlNLs3c78Ofb0zIilpK8STBBmAJTVjfNuOb2+GaQxEXJzpltudyHcdod\nEKCPXqYxEysXG+eAK2Q13DYG2uMP6xMCLQfLDgfaZTJxI6v4d4ZOj4hczl/Tg3Kl\nOi94bIclqyCoCjIlnr1B2CvOAblFqWO+HyZCva65ONDgVvMvnqDRqtUZNPRZa1UN\nPHd3f590v2wCaHkl4AoYDiXvVbYRiogM0CxPi7J3OLudQnBStQn/XWSHfCs/3EHM\nD+EOlgzCV5LQj1N2i4ITkrAlC/GBlUpMkDNGot2+2VtTgbWGX+N+3Xs4HZTQmDSO\nPTs02Ey7l380aqqFuMZ8\n=Vqhh\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 67ea943c27ed277a64e471d3dac509168fce5c38\nparent 980e80b205263fea0e7736837e5cdc9dc3cb786c\nauthor Anonymous <791751568@qq.com> 1773981463 +0800\ncommitter GitHub <noreply@github.com> 1773981463 +0800\n\nUpdate CHANGELOG.md",
+              "verified_at": "2026-03-20T04:37:44Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/8018920f87d0f03a57f022df42d77248ac680cc3",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/8018920f87d0f03a57f022df42d77248ac680cc3",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/8018920f87d0f03a57f022df42d77248ac680cc3/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "980e80b205263fea0e7736837e5cdc9dc3cb786c",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/980e80b205263fea0e7736837e5cdc9dc3cb786c",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/980e80b205263fea0e7736837e5cdc9dc3cb786c"
+            }
+          ]
+        },
+        {
+          "sha": "d6f286b09804784425978e1e725b228fbdb63217",
+          "node_id": "C_kwDORrQXeNoAKGQ2ZjI4NmIwOTgwNDc4NDQyNTk3OGUxZTcyNWIyMjhmYmRiNjMyMTc",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:38:57Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:38:57Z"
+            },
+            "message": "Update register-openai.py\n\n更新摘要",
+            "tree": {
+              "sha": "83b4116dafb1ecd7eff2ca19fc6c8859167d9bda",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/83b4116dafb1ecd7eff2ca19fc6c8859167d9bda"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/d6f286b09804784425978e1e725b228fbdb63217",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvM9hCRC1aQ7uu5UhlAAAYLYQACY+OP5/urpO/dzj/7B7vCBE\nk31LXf8WOJocvJ9RD9gM1o456nGpd/raq4qdQG2PyIvDoHgSKfyE4qrp8PH72Opl\nroYmC8eNJxEwOx0tGtpu0Ja9PDyThEah0UAWsDH+3QybC+VcB8Fu6WY5YTTp14wY\nXHH8AUKlGQtyvKZAicYIbqUMIdZEhrPgygtfoR+tDT0fGQ3/WNMpKo+aJzn1WCSf\nXnTtrZ/VY+vyA9gLwzU44OlWNepRP7gDJOV08n0QZUkMbCBWBN0LU15tfhBxO9of\nX95MiIdeBvu36VVAm7DKEU3yAxcoO7g6HsenTvpNB/sdD9HmWeveurCfywmi2qZE\nZT4FvX/WYlINuB8Jc+uFYJ1dQn+h1i/NYz/mIzcw+mOLyac85ExEArH30kJPb9TR\nl/fObs0Ybdyc2FTaVQgnLDDqAkvlLqb+0eOrAoBVG9Bx1N6GMW5FtlmUxx2fWJb/\n8/M2e/wJgIhucD93V96KuSXDFMAasC6dJtdrG8kIr57fQys+3RodZjYu+1Hg9Ajl\n4Zka9Ou2yMcRIfH8giuvyJevZeYgbQ8fqdkYGBgH0GWnlZzwv90pHHGOtcgdIVmT\n74kaCZdXZiycGV435aVzMr7bdBdirhrCl6PURpgaPGV9wmZWRwz6BoKee4XfAU9f\n048K4gonZKgK5jaEoYMd\n=ABnm\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 83b4116dafb1ecd7eff2ca19fc6c8859167d9bda\nparent 8018920f87d0f03a57f022df42d77248ac680cc3\nauthor Anonymous <791751568@qq.com> 1773981537 +0800\ncommitter GitHub <noreply@github.com> 1773981537 +0800\n\nUpdate register-openai.py\n\n更新摘要",
+              "verified_at": "2026-03-20T04:38:58Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/d6f286b09804784425978e1e725b228fbdb63217",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/d6f286b09804784425978e1e725b228fbdb63217",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/d6f286b09804784425978e1e725b228fbdb63217/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "8018920f87d0f03a57f022df42d77248ac680cc3",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/8018920f87d0f03a57f022df42d77248ac680cc3",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/8018920f87d0f03a57f022df42d77248ac680cc3"
+            }
+          ]
+        },
+        {
+          "sha": "ee8c72f0281b393a91c07ffbc8cfd13bfcfee244",
+          "node_id": "C_kwDORrQXeNoAKGVlOGM3MmYwMjgxYjM5M2E5MWMwN2ZmYmM4Y2ZkMTNiZmNmZWUyNDQ",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:43:37Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:43:37Z"
+            },
+            "message": "Create cr.yml\n\nadd code review bot",
+            "tree": {
+              "sha": "a93c21f4169c523ef9626fc3ba6faacbaabff757",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/a93c21f4169c523ef9626fc3ba6faacbaabff757"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/ee8c72f0281b393a91c07ffbc8cfd13bfcfee244",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNB5CRC1aQ7uu5UhlAAA0kMQAAJZzLsMK6X0XnTr5Wq3/K7g\nRewjkUnfSU/5/Y6T4TRO0me3Km0ba2LCdWGP045RzGbYrhSmtSR128m7LnfZLS5k\naCykwABeUlp/kxlksXIBds/EoQsScOSAYtBoeORJi6joTzHdmiY87AaOP309O4+u\n9eJLCwX0W2D9h8o5o8vSkFMLNtzkHog8cH+ZfV/Z7QVUaha8UJYeDQ4emQozd8xg\nwqZkluTT1x+/bzg28BujtrLUWW5ywh+PdmRYehS5E0F305BN/eQ9KqVSmHxEET+w\nQekRLExUVF4zuogpSjtc2kDHOj9hV7rRSn/Pq6y8yD5Gupt7JXhSOdVa7bl/YGm1\nbHuWW1oq5RNGoboFhK89GP53YsGca19mCH6A16eXXZ0hyI/Hhg/xx+Ak1i9s2LSp\nkCxus7DadDTuAtPQ8K7y9y53SnDJFpZ7xPhmOnhrJKdPUqb43N28F4r9CjQbki78\ne9cNRjJEi1pCZtHpnkbWXqeX//FRRgpemwtK8s0NPjU6nFK8U0a+QekpVop29f7u\nZAruCCHi0gXJQ8mSZ+sVVGqSWHM8E1n1OygHRgQ2a1Jpf7eQyKsZbWI7+LJfio8/\npxfutK2lgV5FI7RBqQBIYQyyiyWFTIaaZtseDjn9Ujdq8PEMILQBQFWvGXOoTNDm\nkfqBd3qgobxFa0lrAmyc\n=azkR\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree a93c21f4169c523ef9626fc3ba6faacbaabff757\nparent d6f286b09804784425978e1e725b228fbdb63217\nauthor Anonymous <791751568@qq.com> 1773981817 +0800\ncommitter GitHub <noreply@github.com> 1773981817 +0800\n\nCreate cr.yml\n\nadd code review bot",
+              "verified_at": "2026-03-20T04:43:38Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/ee8c72f0281b393a91c07ffbc8cfd13bfcfee244",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/ee8c72f0281b393a91c07ffbc8cfd13bfcfee244",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/ee8c72f0281b393a91c07ffbc8cfd13bfcfee244/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "d6f286b09804784425978e1e725b228fbdb63217",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/d6f286b09804784425978e1e725b228fbdb63217",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/d6f286b09804784425978e1e725b228fbdb63217"
+            }
+          ]
+        },
+        {
+          "sha": "a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17",
+          "node_id": "C_kwDORrQXeNoAKGExYjRlM2U1ZTI5MzcyYzY3ZWJlM2QzYTU0OTA0YjVlYTg5NDRmMTc",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:44:01Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:44:01Z"
+            },
+            "message": "Delete .github/cr.yml",
+            "tree": {
+              "sha": "83b4116dafb1ecd7eff2ca19fc6c8859167d9bda",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/83b4116dafb1ecd7eff2ca19fc6c8859167d9bda"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNCRCRC1aQ7uu5UhlAAAqqAQAJLIP3J1iQ+5uPCl7kiF8XJ/\nSr8L4/awwfOB2kpZb80C3t9Y3xpZi5Jkzz4ARg34C4HD5XCtBmA6/zvmCyod6wJw\nqg3cbxtMb9/llIi1hxMVegH2y73+Gi920ozG2ksN3dcORl5GMkUux11F/bYbrhGQ\n67sqhXrKnlUoiJrnTXRwOBUHlo9fve7Q1kMNHQ6tqIj9wHMOpZE4uBcxnvRYO9tn\n+O/YiYRC/Bi6siLYtDkgMrv+UNHtkAqOrvCbrdbj97kXaAf5o3C/lEBQFL64SefR\nLWJoz42swpd9VzDYNKBHcOHj55LtVPfu6DUPHXOWEYCoc0bDrUhqNdd+MXlU8Bpi\n66MvKQV0wwNQZWoijBF5iFOr02t8CVb/qSM4dym6xLfrvX4f/8JqL2LXSMuR01T/\nJCt8CNpeTkM0ZHx+4gPy2MO8pK0OD43VHYujmPPr9hGUsVCorVvrGkhKNp8SrB7F\nSRQuaPPRvcT9ek2QsuNKC7A0SDj4wNin+gX81nXOFRngT7IBw+wtDxPtJzNRZouG\nKlHhQy0xf85fOBlT7h7kDN5C7nMc7DiuVG+3B8fHFxhbL20FzTOLDfEDMWG9sHAN\n0upstjoji9rG5D+GFnhkw+GI1P5grEdgHSzBRcRdJno24ZeERPQ2BUaumCi7nP/Y\nRD8Zc3lnMbc5XPp4oyle\n=3MMs\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 83b4116dafb1ecd7eff2ca19fc6c8859167d9bda\nparent ee8c72f0281b393a91c07ffbc8cfd13bfcfee244\nauthor Anonymous <791751568@qq.com> 1773981841 +0800\ncommitter GitHub <noreply@github.com> 1773981841 +0800\n\nDelete .github/cr.yml",
+              "verified_at": "2026-03-20T04:44:02Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "ee8c72f0281b393a91c07ffbc8cfd13bfcfee244",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/ee8c72f0281b393a91c07ffbc8cfd13bfcfee244",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/ee8c72f0281b393a91c07ffbc8cfd13bfcfee244"
+            }
+          ]
+        },
+        {
+          "sha": "997ca4f3808d1e5f1680d0176220c4e9c24f3a97",
+          "node_id": "C_kwDORrQXeNoAKDk5N2NhNGYzODA4ZDFlNWYxNjgwZDAxNzYyMjBjNGU5YzI0ZjNhOTc",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:44:46Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:44:46Z"
+            },
+            "message": "Add GitHub Actions workflow for code review",
+            "tree": {
+              "sha": "21cae255808731ba901e0e138f1c5011be497cf0",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/21cae255808731ba901e0e138f1c5011be497cf0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/997ca4f3808d1e5f1680d0176220c4e9c24f3a97",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNC+CRC1aQ7uu5UhlAAA3KUQAKRsCwG0cKSGBoZFLExdI9NG\n4pfd5QOsEkYUnf4u+JrWVCc0Z0z1Qr58uVNxSgBgqkcgUGnGqs2iaw98I531gr9v\nxuTGnjgz5WtAT495ZUmBlOi6MOaLprpXXiV/Wxq4hf0cAXibQZHNyygM9S1sqL+O\nUoWYD+HfVrnGOWb1eIMY/oN4C5tqJWq/4sautSXWxXMjRP5DqJqJORs0I8ynMgOr\n1KG00+TkcVq+AFZg4sM+AHF/VNKqrSimn0RfcQGY1b14nUtwqoyZp43Dzcwbq88s\nBt5RZV3hhJx3+LltktixMBJc/kfcmAcBQpaESjFPniX4vHb+kSAWHXl/3pGTwLJb\n925Iqpv8bt0Bj4KDKszAcWwsc/v/LH0EO4c28mK72WfkwI2y7zq+AG28Oo//qXO6\n+wyrSalJXUHWTBeOy3VhYoGp+lQbF0jUO7+KXRqzk4r2LbQNeX4XjC1pcjIvkqMB\nLi6ZZkWZ/M6qudt+zd6Qbg2a0Uh1lAC+1/4D3OAz9/y8vNj+a2UPkzXrgrJMOj/0\nlOK6QiF6D91SVWYvAg1NFqH4X0YP+pSK55kHc/RbF5ugypQiqFQA6MDo19odrxR/\nTCqpOwy++9ciq/OzRWk1yT6ql2QqcfNGjldtZHT6kFfO+9V4E5oHQIvYUpfuzYxA\nbhFazONFQmWa6IEYCZ7E\n=fgdQ\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 21cae255808731ba901e0e138f1c5011be497cf0\nparent a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17\nauthor Anonymous <791751568@qq.com> 1773981886 +0800\ncommitter GitHub <noreply@github.com> 1773981886 +0800\n\nAdd GitHub Actions workflow for code review",
+              "verified_at": "2026-03-20T04:44:47Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/997ca4f3808d1e5f1680d0176220c4e9c24f3a97",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/997ca4f3808d1e5f1680d0176220c4e9c24f3a97",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/997ca4f3808d1e5f1680d0176220c4e9c24f3a97/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/a1b4e3e5e29372c67ebe3d3a54904b5ea8944f17"
+            }
+          ]
+        },
+        {
+          "sha": "1b2eea01e2da92866e35eba44b28e16ee3ca56d7",
+          "node_id": "C_kwDORrQXeNoAKDFiMmVlYTAxZTJkYTkyODY2ZTM1ZWJhNDRiMjhlMTZlZTNjYTU2ZDc",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:49:31Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:49:31Z"
+            },
+            "message": "Update code review.yml",
+            "tree": {
+              "sha": "a53b1a7e5ac03afac77158ee1ca3c0b924684e55",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/a53b1a7e5ac03afac77158ee1ca3c0b924684e55"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/1b2eea01e2da92866e35eba44b28e16ee3ca56d7",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNHbCRC1aQ7uu5UhlAAAOAMQAHIThrZfSq3kFa3S6iBWAonJ\nn96dG93k9XM0Jn2oSUiU2rTVohu7r9olEp1T19akn/mFQpPjvaFKbZSxVDGMVxKe\nWEjar7TxyUUveI/D4xz7atL1UpXw6slNE2W40FqMVdYLK5gfHSyDEmL2nSgqxky3\n7HqaurYZeYZ951852eoUFUPuUDecPN++KnTHrFEeHqQ09OKKoMODeYdBHMBqtIaB\n7OfgvCpRx+eNJ6PJ8ysvcXicpXA5PXCj3MfuTiprCgyORymNsSzYJfGNwU+56t4H\n3k/cEAezFX1h/fRgK4oDDKxKL4AOrOqfu/1VF9sxZT5sHezZGrBdbnGFN4PLUy3r\nGIoBvH2LzxLmTmUyjQmCBWEIeEAh/c00h4r5JGjfRcLAg7nfWmfzkAm4IlQEyzJY\n81Pgdt6NMsuLSnhH4mEsC6wR5tc4BeAOJ8pQKe7x2iFkrtls01nzHcdod2Pswbpq\ndZ6+PywEMv0WoD0OPQic2lxsWC61Uy9fkJW/w5P7FkOQpb1cAxa+zUPawtrd6s9h\n+z71pQ0LtoIEOIqyQl9QQ0OvbvZmdCuvqxhWM0m5VB/xnkfGDAlD/IDRQSqk/cb5\nGWSbw/RDscCTzKPs5ulvm8UsfClkAOjG0B8/NeQXzwnS6guQHWWzGaMtRWUM/pAh\nQKp7oQSqlK0MvZZH41R8\n=MVdm\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree a53b1a7e5ac03afac77158ee1ca3c0b924684e55\nparent 997ca4f3808d1e5f1680d0176220c4e9c24f3a97\nauthor Anonymous <791751568@qq.com> 1773982171 +0800\ncommitter GitHub <noreply@github.com> 1773982171 +0800\n\nUpdate code review.yml",
+              "verified_at": "2026-03-20T04:49:32Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1b2eea01e2da92866e35eba44b28e16ee3ca56d7",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1b2eea01e2da92866e35eba44b28e16ee3ca56d7",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1b2eea01e2da92866e35eba44b28e16ee3ca56d7/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "997ca4f3808d1e5f1680d0176220c4e9c24f3a97",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/997ca4f3808d1e5f1680d0176220c4e9c24f3a97",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/997ca4f3808d1e5f1680d0176220c4e9c24f3a97"
+            }
+          ]
+        },
+        {
+          "sha": "1438856d27399dddc3022a0f4657545a6f0105b8",
+          "node_id": "C_kwDORrQXeNoAKDE0Mzg4NTZkMjczOTlkZGRjMzAyMmEwZjQ2NTc1NDVhNmYwMTA1Yjg",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:52:05Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:52:05Z"
+            },
+            "message": "Update pr-review.yml",
+            "tree": {
+              "sha": "9531f13256d12e4df7166273f6847d5d622116c6",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/9531f13256d12e4df7166273f6847d5d622116c6"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/1438856d27399dddc3022a0f4657545a6f0105b8",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNJ1CRC1aQ7uu5UhlAAA8NEQAJxosgHCA4be2BtTowBfU0T/\nO7tinmryFWKwqEITQmHJRfMVuaFVoxa9TIblzBrI4NbfGxWHq7E8Hz8wnlpM7v3i\nm1eDpB1XJnzU6uDCohC+/0VK/tQL2dGlewHxWL70/BtyRBtRd+HPq5/NGT3GKDsF\n8ho4TNwZiZgw1hdmUvjy40ENXL4EWRyulPG+mVjmPUITz6G0ZtetoPF46pQjhxeo\nHNUyB4Fs9NCxIIeGTIceE0T6pJZrxy7Fbtcd6lHA14bktXB5rDC4V/UdIrfWEvyK\nTxsALPlP5Zl9yUrJDlU5MMrVn+M6Uvlhes0jlA7uRTZ6jY9X48CGUNP1lvruFhYZ\nN8LKuHTzHgOoDOuzZ8DhnYuyXX0nBO78CJKpxc4LQ+cbuMy3UGYv1H4Hrkh1DSQz\n2rk1wGdz6dtdrdhzmWll8M8tqw9WisAVvr2y9xxvY4paqJJLZCHq9s0ny5aFsCmC\nGZnir0OF3LxqkkS/QZVJrFPuf4mIxeoCr8YjCuVehAZWko76dimURRT0owcKns14\nvztdYSeSdh1XYUvncrYu+IcUR8nZ5QlANxRpcDd5G2eQtwqyrnPFxCiO0Y/f2hnA\nFZSFQ/5mKl5AxJGUs1gTrpr16lsCYdSazpdRvOfJ9rLhNUVXPLSguMVqKjwBcf0c\nfvXSUQjFm7VBIa2YMf1D\n=KR5G\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 9531f13256d12e4df7166273f6847d5d622116c6\nparent 1b2eea01e2da92866e35eba44b28e16ee3ca56d7\nauthor Anonymous <791751568@qq.com> 1773982325 +0800\ncommitter GitHub <noreply@github.com> 1773982325 +0800\n\nUpdate pr-review.yml",
+              "verified_at": "2026-03-20T04:52:05Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1438856d27399dddc3022a0f4657545a6f0105b8",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1438856d27399dddc3022a0f4657545a6f0105b8",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1438856d27399dddc3022a0f4657545a6f0105b8/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1b2eea01e2da92866e35eba44b28e16ee3ca56d7",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1b2eea01e2da92866e35eba44b28e16ee3ca56d7",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1b2eea01e2da92866e35eba44b28e16ee3ca56d7"
+            }
+          ]
+        },
+        {
+          "sha": "2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb",
+          "node_id": "C_kwDORrQXeNoAKDJiYTgxOTRiOWRjNTRkZDZmOTVjOWYzNWQzNTgwZDRkYTk0YTlhZWI",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T04:55:22Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T04:55:22Z"
+            },
+            "message": "Update pr-review.yml",
+            "tree": {
+              "sha": "b9cdf8c03ee1be75e6d76d4a3ff5db11be5aca01",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/b9cdf8c03ee1be75e6d76d4a3ff5db11be5aca01"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNM6CRC1aQ7uu5UhlAAAPjsQAGOjc5zB2x1o/S8Y1wfg0iWw\n276is4+DY+TYywjpa9ueozfZ16JX/MJOhKMM8aPTLaYLPe9EEqN+vSJQtudLw5Ni\nuL6CVSJMqywf8EPpAVg8ZXlcRsXu6Vm1xrlJIDsGV6M37o2ZIG6ZspQNDonV4pkG\nv/YWiumINUy8w1Q/7yyefekcXA8aVVwMu+KtRd2xJ1O1M+2EWdS//GlzA1M6LFaF\nr7nswYgHvJOUKgGkNqtMje3ih/BewDQxIX/E2CzOT4Qkwu481I9Q3rA1/yb29tVL\nFohHdIBj78/u9u8iw/wl1Rhwj2B+kZwo6FuqPlD7mTg5lOBGX4gkjp53j3UWpoJJ\nDYbyIakirq7RzWBsiCVsPGbAFZJa0bCsnfM3WMFIppLF3ttdWHLn2doW3UpJlsZG\nSbdvQEjY+EolZe/BHOBJBRFl82vXhjGbmqiEPkRYIbjp0d8e2FfvJmw7a+45+qtZ\nsaVxtX6I644GksPl0gNzEAv8ntdeGMxxgi3nKgQjouoN4Ku57ygeOz0WhOzPGT6K\nxl1Ui+h4B3J3J0bdrRabV9hJgKye/xpyKviGbZMk/6mc/ZYD4Yq+ugK9A/8BPRIU\ni3L6iKdrEgbce7uX1kHCzQi8xWpBjBF8Dzg0pprd3U3spIf30tHHl+/fxsYnvZE6\nD9Ut+gjU+AwrovOH2gJD\n=evJd\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree b9cdf8c03ee1be75e6d76d4a3ff5db11be5aca01\nparent 1438856d27399dddc3022a0f4657545a6f0105b8\nauthor Anonymous <791751568@qq.com> 1773982522 +0800\ncommitter GitHub <noreply@github.com> 1773982522 +0800\n\nUpdate pr-review.yml",
+              "verified_at": "2026-03-20T04:55:23Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1438856d27399dddc3022a0f4657545a6f0105b8",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/1438856d27399dddc3022a0f4657545a6f0105b8",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/1438856d27399dddc3022a0f4657545a6f0105b8"
+            }
+          ]
+        },
+        {
+          "sha": "b6e987ddb76e645074fd57997ea15f726f50e59d",
+          "node_id": "C_kwDORrQXeNoAKGI2ZTk4N2RkYjc2ZTY0NTA3NGZkNTc5OTdlYTE1ZjcyNmY1MGU1OWQ",
+          "commit": {
+            "author": {
+              "name": "Anonymous",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T05:04:51Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-20T05:04:51Z"
+            },
+            "message": "Delete .github/workflows/code review.yml",
+            "tree": {
+              "sha": "29735ff1d26506f57cb7fdd576aeb5ac14e4721f",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/29735ff1d26506f57cb7fdd576aeb5ac14e4721f"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/b6e987ddb76e645074fd57997ea15f726f50e59d",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpvNVzCRC1aQ7uu5UhlAAA+bsQAGunXnWv6cyohnfImCDhYoBw\ndeWj2PPi4eyLABLvZahCkfYLZr47cYwKWzdzuO/oQ+b2sAaMm0pbNaLDrrTU+3+9\n2jYiDaZB7qJOU2RWL8xJpD9o6xwHNtjYcl3TNdr171p2Q2QrchSGG2DnOxbBjBMy\nNGJLIOneZIlYhu+ZzMaE5j8hENoPaSExAllhi5+2zdIontyrsgM67cpHfY9k2FiN\nSNfzKwoB3USSKatbTFIoPwD+c+i+8gVMtQ1YoUiqhKmO6unGtP3w49WtCSSh5Cak\n7PNWer2spygL/MvLO5uwnXcs9t1jDuXHqufynb8BU/zZtGJIsCM5G1PHijApZlx9\n84jhjNgbucW7ox44bBfXsxlASW8iKf73jvLKQdeSShf7i1NUJbQ1rJ7i/8ZoGJMu\ntfCzK/HleE1XM9doUvKJc4QNwQIOyMO1yGm20rykZYD18inHOJyxvks135zfEMFf\n3ZkRAbZfRqdiv0aaUYDX2CE625/A/K9w//6ViP+DbLFbEZAIODfz9WfGHgHh0brV\ntA8fGd3WpgdFIwjO1cHC/C7+WrDhvilc+J720nuqCCWS9FwTU4/t7CmMetaDoA5g\nHeANO+fsAgJBIGY+wECwAYirYU18u4bgoifUzs3paGZkLuWt0te4qVg8nrrGKszj\nAxEZkUj0QFJD6TNXUQ3i\n=LmKq\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 29735ff1d26506f57cb7fdd576aeb5ac14e4721f\nparent 2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb\nauthor Anonymous <791751568@qq.com> 1773983091 +0800\ncommitter GitHub <noreply@github.com> 1773983091 +0800\n\nDelete .github/workflows/code review.yml",
+              "verified_at": "2026-03-20T05:04:52Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/b6e987ddb76e645074fd57997ea15f726f50e59d",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/b6e987ddb76e645074fd57997ea15f726f50e59d",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/b6e987ddb76e645074fd57997ea15f726f50e59d/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/2ba8194b9dc54dd6f95c9f35d3580d4da94a9aeb"
+            }
+          ]
+        },
+        {
+          "sha": "f8cb56afe212b483609c779756cf08624b78d0f3",
+          "node_id": "C_kwDORrQXeNoAKGY4Y2I1NmFmZTIxMmI0ODM2MDljNzc5NzU2Y2YwODYyNGI3OGQwZjM",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T06:54:49Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T06:54:49Z"
+            },
+            "message": "Update submodule paths to packages/ directory",
+            "tree": {
+              "sha": "fd4699c5c36413a0422d0a0f29afa12a21e35b44",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/fd4699c5c36413a0422d0a0f29afa12a21e35b44"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/f8cb56afe212b483609c779756cf08624b78d0f3",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/f8cb56afe212b483609c779756cf08624b78d0f3",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/f8cb56afe212b483609c779756cf08624b78d0f3",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/f8cb56afe212b483609c779756cf08624b78d0f3/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "b6e987ddb76e645074fd57997ea15f726f50e59d",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/b6e987ddb76e645074fd57997ea15f726f50e59d",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/b6e987ddb76e645074fd57997ea15f726f50e59d"
+            }
+          ]
+        },
+        {
+          "sha": "674a0f72ad2fe9f3a65fff361f8a5de7b99245a0",
+          "node_id": "C_kwDORrQXeNoAKDY3NGEwZjcyYWQyZmU5ZjNhNjVmZmYzNjFmOGE1ZGU3Yjk5MjQ1YTA",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T06:55:27Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T06:55:27Z"
+            },
+            "message": "Remove old submodule references",
+            "tree": {
+              "sha": "1c7b1e96189073155d0151cd6b5b509dad38f75f",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/1c7b1e96189073155d0151cd6b5b509dad38f75f"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/674a0f72ad2fe9f3a65fff361f8a5de7b99245a0",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/674a0f72ad2fe9f3a65fff361f8a5de7b99245a0",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/674a0f72ad2fe9f3a65fff361f8a5de7b99245a0",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/674a0f72ad2fe9f3a65fff361f8a5de7b99245a0/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "f8cb56afe212b483609c779756cf08624b78d0f3",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/f8cb56afe212b483609c779756cf08624b78d0f3",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/f8cb56afe212b483609c779756cf08624b78d0f3"
+            }
+          ]
+        },
+        {
+          "sha": "14a5ce7f99cfb7682721943dbc8365b0478cdbde",
+          "node_id": "C_kwDORrQXeNoAKDE0YTVjZTdmOTljZmI3NjgyNzIxOTQzZGJjODM2NWIwNDc4Y2RiZGU",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T07:04:46Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T07:04:46Z"
+            },
+            "message": "Remove old submodule paths",
+            "tree": {
+              "sha": "5b0fbc6bc7e0040d3f33e533c2ea862524d3ca8a",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/5b0fbc6bc7e0040d3f33e533c2ea862524d3ca8a"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/14a5ce7f99cfb7682721943dbc8365b0478cdbde",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/14a5ce7f99cfb7682721943dbc8365b0478cdbde",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/14a5ce7f99cfb7682721943dbc8365b0478cdbde",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/14a5ce7f99cfb7682721943dbc8365b0478cdbde/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "674a0f72ad2fe9f3a65fff361f8a5de7b99245a0",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/674a0f72ad2fe9f3a65fff361f8a5de7b99245a0",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/674a0f72ad2fe9f3a65fff361f8a5de7b99245a0"
+            }
+          ]
+        },
+        {
+          "sha": "f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4",
+          "node_id": "C_kwDORrQXeNoAKGYxZmI5MmI2YTQ1YmNkMjBjMWRkZDJiY2Q3MmQwYjExNGU2NTg2YTQ",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T07:12:47Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T07:12:47Z"
+            },
+            "message": "Move submodules to packages directory and organize by category",
+            "tree": {
+              "sha": "2454348349ebe511b550062026c3a4034fc69cda",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/2454348349ebe511b550062026c3a4034fc69cda"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "14a5ce7f99cfb7682721943dbc8365b0478cdbde",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/14a5ce7f99cfb7682721943dbc8365b0478cdbde",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/14a5ce7f99cfb7682721943dbc8365b0478cdbde"
+            }
+          ]
+        },
+        {
+          "sha": "42077187811521ce4f75592801bd885baf093052",
+          "node_id": "C_kwDORrQXeNoAKDQyMDc3MTg3ODExNTIxY2U0Zjc1NTkyODAxYmQ4ODViYWYwOTMwNTI",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T07:17:31Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-20T07:17:31Z"
+            },
+            "message": "Update documentation with new package structure",
+            "tree": {
+              "sha": "af2a73a8cc433750c848741c98d59f515b6c92ce",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/trees/af2a73a8cc433750c848741c98d59f515b6c92ce"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/git/commits/42077187811521ce4f75592801bd885baf093052",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/42077187811521ce4f75592801bd885baf093052",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/42077187811521ce4f75592801bd885baf093052",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/42077187811521ce4f75592801bd885baf093052/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkit/commits/f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkit/commit/f1fb92b6a45bcd20c1ddd2bcd72d0b114e6586a4"
+            }
+          ]
         }
       ]
     },
@@ -1702,7 +3670,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-03-20T03:26:54.442Z",
+      "updated_at": "2026-03-20T07:39:40.003Z",
       "commits": []
     },
     {
@@ -1716,7 +3684,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-03-20T03:26:54.858Z",
+      "updated_at": "2026-03-20T07:39:40.410Z",
       "commits": []
     },
     {
@@ -1730,7 +3698,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-03-20T03:26:55.194Z",
+      "updated_at": "2026-03-20T07:39:40.739Z",
       "commits": []
     },
     {
@@ -1744,7 +3712,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-03-20T03:26:55.530Z",
+      "updated_at": "2026-03-20T07:39:41.095Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -3563,7 +5531,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-03-20T03:26:56.168Z",
+      "updated_at": "2026-03-20T07:39:41.796Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -7842,7 +9810,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-03-20T03:26:56.985Z",
+      "updated_at": "2026-03-20T07:39:42.682Z",
       "commits": []
     },
     {
@@ -7856,7 +9824,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-03-20T03:26:57.345Z",
+      "updated_at": "2026-03-20T07:39:43.053Z",
       "commits": []
     },
     {
@@ -7868,30 +9836,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 01c8b694cc63944c1d5bb94844ae0b109220c059.",
+      "reason": "Force-reset fork branch to upstream commit 4bebf4d00a13dea3b936b582acd5b3f8a3d4e84f.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-03-20T03:26:57.986Z",
+      "updated_at": "2026-03-20T07:39:43.674Z",
       "commits": [
         {
-          "sha": "01c8b694cc63944c1d5bb94844ae0b109220c059",
-          "node_id": "C_kwDORKtM3doAKDAxYzhiNjk0Y2M2Mzk0NGMxZDViYjk0ODQ0YWUwYjEwOTIyMGMwNTk",
+          "sha": "4bebf4d00a13dea3b936b582acd5b3f8a3d4e84f",
+          "node_id": "C_kwDORKtM3doAKDRiZWJmNGQwMGExM2RlYTNiOTM2YjU4MmFjZDViM2Y4YTNkNGU4NGY",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-20T01:22:33Z"
+              "date": "2026-03-20T06:27:15Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-20T01:22:33Z"
+              "date": "2026-03-20T06:27:15Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/01c8b694cc63944c1d5bb94844ae0b109220c059",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/4bebf4d00a13dea3b936b582acd5b3f8a3d4e84f",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -7901,9 +9869,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/01c8b694cc63944c1d5bb94844ae0b109220c059",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/01c8b694cc63944c1d5bb94844ae0b109220c059",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/01c8b694cc63944c1d5bb94844ae0b109220c059/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/4bebf4d00a13dea3b936b582acd5b3f8a3d4e84f",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/4bebf4d00a13dea3b936b582acd5b3f8a3d4e84f",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/4bebf4d00a13dea3b936b582acd5b3f8a3d4e84f/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -7967,7 +9935,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-03-20T03:26:58.741Z",
+      "updated_at": "2026-03-20T07:39:44.349Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -8397,7 +10365,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-03-20T03:26:59.236Z",
+      "updated_at": "2026-03-20T07:39:44.817Z",
       "commits": []
     },
     {
@@ -8411,7 +10379,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-03-20T03:26:59.565Z",
+      "updated_at": "2026-03-20T07:39:45.226Z",
       "commits": []
     },
     {
@@ -8425,7 +10393,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service/compare/master...idinging:master",
-      "updated_at": "2026-03-20T03:26:59.954Z",
+      "updated_at": "2026-03-20T07:39:45.608Z",
       "commits": []
     },
     {
@@ -8439,7 +10407,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-03-20T03:27:00.417Z",
+      "updated_at": "2026-03-20T07:39:45.935Z",
       "commits": []
     },
     {
@@ -8453,7 +10421,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-03-20T03:27:00.734Z",
+      "updated_at": "2026-03-20T07:39:46.305Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -8550,7 +10518,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-03-20T03:27:01.163Z",
+      "updated_at": "2026-03-20T07:39:46.716Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -20783,7 +22751,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...510myRday:main",
-      "updated_at": "2026-03-20T03:27:02.085Z",
+      "updated_at": "2026-03-20T07:39:47.642Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -21208,7 +23176,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-03-20T03:27:02.565Z",
+      "updated_at": "2026-03-20T07:39:48.125Z",
       "commits": []
     }
   ]
