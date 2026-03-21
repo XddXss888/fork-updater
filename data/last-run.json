@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-03-21T03:16:15.330Z",
-  "run_completed_at": "2026-03-21T03:16:26.504Z",
+  "run_started_at": "2026-03-21T07:27:16.272Z",
+  "run_completed_at": "2026-03-21T07:27:29.024Z",
   "summary": {
     "scanned": 20,
     "updated": 2,
@@ -20,7 +20,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-03-21T03:16:16.129Z",
+      "updated_at": "2026-03-21T07:27:17.226Z",
       "commits": []
     },
     {
@@ -34,7 +34,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-03-21T03:16:16.573Z",
+      "updated_at": "2026-03-21T07:27:17.842Z",
       "commits": []
     },
     {
@@ -48,7 +48,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-03-21T03:16:16.957Z",
+      "updated_at": "2026-03-21T07:27:18.437Z",
       "commits": []
     },
     {
@@ -62,7 +62,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-03-21T03:16:17.491Z",
+      "updated_at": "2026-03-21T07:27:18.869Z",
       "commits": []
     },
     {
@@ -76,7 +76,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-03-21T03:16:17.848Z",
+      "updated_at": "2026-03-21T07:27:19.274Z",
       "commits": []
     },
     {
@@ -90,7 +90,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-03-21T03:16:18.198Z",
+      "updated_at": "2026-03-21T07:27:19.694Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -1909,7 +1909,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-03-21T03:16:18.975Z",
+      "updated_at": "2026-03-21T07:27:20.637Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -6188,7 +6188,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-03-21T03:16:19.772Z",
+      "updated_at": "2026-03-21T07:27:21.649Z",
       "commits": []
     },
     {
@@ -6202,7 +6202,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-03-21T03:16:20.245Z",
+      "updated_at": "2026-03-21T07:27:22.111Z",
       "commits": []
     },
     {
@@ -6214,30 +6214,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 56458b06971d6e953dbdd494d87ae150793fda96.",
+      "reason": "Force-reset fork branch to upstream commit b16aa3311624a7e92635393754a0a4100bc6a9aa.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-03-21T03:16:20.937Z",
+      "updated_at": "2026-03-21T07:27:22.924Z",
       "commits": [
         {
-          "sha": "56458b06971d6e953dbdd494d87ae150793fda96",
-          "node_id": "C_kwDORKtM3doAKDU2NDU4YjA2OTcxZDZlOTUzZGJkZDQ5NGQ4N2FlMTUwNzkzZmRhOTY",
+          "sha": "b16aa3311624a7e92635393754a0a4100bc6a9aa",
+          "node_id": "C_kwDORKtM3doAKGIxNmFhMzMxMTYyNGE3ZTkyNjM1MzkzNzU0YTBhNDEwMGJjNmE5YWE",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-21T00:24:08Z"
+              "date": "2026-03-21T05:33:01Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-21T00:24:08Z"
+              "date": "2026-03-21T05:33:01Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/56458b06971d6e953dbdd494d87ae150793fda96",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/b16aa3311624a7e92635393754a0a4100bc6a9aa",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -6247,9 +6247,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/56458b06971d6e953dbdd494d87ae150793fda96",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/56458b06971d6e953dbdd494d87ae150793fda96",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/56458b06971d6e953dbdd494d87ae150793fda96/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/b16aa3311624a7e92635393754a0a4100bc6a9aa",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/b16aa3311624a7e92635393754a0a4100bc6a9aa",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/b16aa3311624a7e92635393754a0a4100bc6a9aa/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -6313,7 +6313,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-03-21T03:16:21.780Z",
+      "updated_at": "2026-03-21T07:27:23.761Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -6912,7 +6912,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-03-21T03:16:22.296Z",
+      "updated_at": "2026-03-21T07:27:24.374Z",
       "commits": []
     },
     {
@@ -6926,7 +6926,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-03-21T03:16:22.667Z",
+      "updated_at": "2026-03-21T07:27:24.838Z",
       "commits": []
     },
     {
@@ -6940,7 +6940,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service/compare/master...idinging:master",
-      "updated_at": "2026-03-21T03:16:23.080Z",
+      "updated_at": "2026-03-21T07:27:25.253Z",
       "commits": []
     },
     {
@@ -6954,7 +6954,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-03-21T03:16:23.397Z",
+      "updated_at": "2026-03-21T07:27:25.671Z",
       "commits": []
     },
     {
@@ -6968,7 +6968,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-03-21T03:16:23.735Z",
+      "updated_at": "2026-03-21T07:27:26.092Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -7065,7 +7065,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-03-21T03:16:24.256Z",
+      "updated_at": "2026-03-21T07:27:26.636Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -19298,7 +19298,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...510myRday:main",
-      "updated_at": "2026-03-21T03:16:25.228Z",
+      "updated_at": "2026-03-21T07:27:27.611Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -19716,14 +19716,14 @@
       "repo": "outlookEmailPlus",
       "upstream": "ZeroPointSix/outlookEmailPlus",
       "branch": "main",
-      "ahead_by": 8,
+      "ahead_by": 9,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-03-21T03:16:25.693Z",
+      "updated_at": "2026-03-21T07:27:28.139Z",
       "commits": [
         {
           "sha": "c49029d5a687c81c929aa351770ff07830704037",
@@ -20380,6 +20380,88 @@
               "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/aed5b8533e88f76a7b5ca71197e2b48ff10c43b9"
             }
           ]
+        },
+        {
+          "sha": "7e051760756786fcac9c0e226cdc819a2c96282d",
+          "node_id": "C_kwDORsORztoAKDdlMDUxNzYwNzU2Nzg2ZmNhYzljMGUyMjZjZGM4MTlhMmM5NjI4MmQ",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-03-21T04:56:13Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-03-21T04:56:13Z"
+            },
+            "message": "docs: update readmes and registration docs",
+            "tree": {
+              "sha": "f414a3c5f5a46a9be319ec2fe46e220e4ab6bac0",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/f414a3c5f5a46a9be319ec2fe46e220e4ab6bac0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/7e051760756786fcac9c0e226cdc819a2c96282d",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7e051760756786fcac9c0e226cdc819a2c96282d",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/7e051760756786fcac9c0e226cdc819a2c96282d",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7e051760756786fcac9c0e226cdc819a2c96282d/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "0be8fd1fc8fe52e26c93a2abd270464853276de8",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0be8fd1fc8fe52e26c93a2abd270464853276de8",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/0be8fd1fc8fe52e26c93a2abd270464853276de8"
+            }
+          ]
         }
       ]
     },
@@ -20394,7 +20476,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-03-21T03:16:26.255Z",
+      "updated_at": "2026-03-21T07:27:28.769Z",
       "commits": []
     }
   ]
