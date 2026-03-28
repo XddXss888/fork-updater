@@ -5,15 +5,15 @@
 ## 运行总览
 
 - **账号**：`XddXss888`
-- **开始时间**：2026-03-27T07:54:14.828Z
-- **结束时间**：2026-03-27T07:54:37.674Z
+- **开始时间**：2026-03-28T03:32:26.031Z
+- **结束时间**：2026-03-28T03:32:41.063Z
 - **自动同步令牌**：已配置
 
 | 指标 | 数值 |
 | --- | ---: |
-| 已扫描 Fork 仓库 | 26 |
+| 已扫描 Fork 仓库 | 28 |
 | 自动同步成功 | 2 |
-| 已是最新 | 23 |
+| 已是最新 | 25 |
 | 需要人工处理 | 1 |
 | 检查异常 | 0 |
 
@@ -35,10 +35,10 @@
 ### 近期稳定仓库（示例）
 
 - [ABCard](https://github.com/XddXss888/ABCard) ｜上游：[kaima2022/ABCard](https://github.com/kaima2022/ABCard) ｜状态：**已是最新**
+- [AI-Account-Toolkits](https://github.com/XddXss888/AI-Account-Toolkits) ｜上游：[adminlove520/AI-Account-Toolkit](https://github.com/adminlove520/AI-Account-Toolkit) ｜状态：**已是最新**
 - [airforce-api-auto-register-system](https://github.com/XddXss888/airforce-api-auto-register-system) ｜上游：[lza6/AirForce-API-Auto-Register-System](https://github.com/lza6/AirForce-API-Auto-Register-System) ｜状态：**已是最新**
 - [any-auto-register](https://github.com/XddXss888/any-auto-register) ｜上游：[lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) ｜状态：**已是最新**
 - [bytebot](https://github.com/XddXss888/bytebot) ｜上游：[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) ｜状态：**已是最新**
-- [cfspider-workers-ip-manager](https://github.com/XddXss888/cfspider-workers-ip-manager) ｜上游：[violettoolssite/CFspider](https://github.com/violettoolssite/CFspider) ｜状态：**已是最新**
 
 ## 全量状态明细
 
@@ -46,32 +46,34 @@
 
 | Fork 仓库 | 上游仓库 | 默认分支 | 领先提交数 | 落后提交数 | 状态 | 结果 | 最后检查时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ABCard](https://github.com/XddXss888/ABCard) | [kaima2022/ABCard](https://github.com/kaima2022/ABCard) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:16.065Z |
-| [AI-Account-Toolkit](https://github.com/XddXss888/AI-Account-Toolkit) | [HaudioHC/chatgpt_register](https://github.com/HaudioHC/chatgpt_register) | main | 0 | 7 | 需要人工处理 | 自动同步失败 | 2026-03-27T07:54:16.588Z |
-| [airforce-api-auto-register-system](https://github.com/XddXss888/airforce-api-auto-register-system) | [lza6/AirForce-API-Auto-Register-System](https://github.com/lza6/AirForce-API-Auto-Register-System) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:17.278Z |
-| [any-auto-register](https://github.com/XddXss888/any-auto-register) | [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) | main | 6 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:17.828Z |
-| [bytebot](https://github.com/XddXss888/bytebot) | [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:18.880Z |
-| [cfspider-workers-ip-manager](https://github.com/XddXss888/cfspider-workers-ip-manager) | [violettoolssite/CFspider](https://github.com/violettoolssite/CFspider) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:19.374Z |
-| [chatgpt_register_v2_by_AI](https://github.com/XddXss888/chatgpt_register_v2_by_AI) | [DestinyCycloid/chatgpt_register_v2_by_AI](https://github.com/DestinyCycloid/chatgpt_register_v2_by_AI) | main | 2 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:19.967Z |
-| [Claude-Code-Guide-Zh](https://github.com/XddXss888/Claude-Code-Guide-Zh) | [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) | main | 22 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:20.561Z |
-| [cloudflare-temp-mail-service](https://github.com/XddXss888/cloudflare-temp-mail-service) | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | main | 56 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:22.523Z |
-| [codex-auto-register-tool](https://github.com/XddXss888/codex-auto-register-tool) | [0x5uo2hen/codex_register](https://github.com/0x5uo2hen/codex_register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:23.724Z |
-| [codex-console](https://github.com/XddXss888/codex-console) | [DestinyCycloid/codex-console](https://github.com/DestinyCycloid/codex-console) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:24.270Z |
-| [comicspuncher-auto-checkin-bot](https://github.com/XddXss888/comicspuncher-auto-checkin-bot) | [RahabHub/ComicsPuncher](https://github.com/RahabHub/ComicsPuncher) | main | 0 | 1 | 已自动同步 | 同步成功 | 2026-03-27T07:54:24.810Z |
-| [cursor-free-vip-account-tool](https://github.com/XddXss888/cursor-free-vip-account-tool) | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | main | 1 | 1 | 已自动同步 | 已强制对齐上游 | 2026-03-27T07:54:25.817Z |
-| [cursor-toolbox-extension](https://github.com/XddXss888/cursor-toolbox-extension) | [510myRday/Cursor-Toolbox](https://github.com/510myRday/Cursor-Toolbox) | main | 7 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:26.802Z |
-| [cyCronet](https://github.com/XddXss888/cyCronet) | [2833844911/cyCronet](https://github.com/2833844911/cyCronet) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:27.487Z |
-| [fanqiang](https://github.com/XddXss888/fanqiang) | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:28.006Z |
-| [freemail-mailfree-service](https://github.com/XddXss888/freemail-mailfree-service) | [pEJXexhX/mailfree](https://github.com/pEJXexhX/mailfree) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:28.480Z |
-| [freemail-temp-mail-service](https://github.com/XddXss888/freemail-temp-mail-service) | [idinging/freemail](https://github.com/idinging/freemail) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:29.032Z |
-| [grok-batch-register-tool](https://github.com/XddXss888/grok-batch-register-tool) | [piaoyaozhe/grokzhuce](https://github.com/piaoyaozhe/grokzhuce) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:29.534Z |
-| [grok2api](https://github.com/XddXss888/grok2api) | [TQZHR/grok2api](https://github.com/TQZHR/grok2api) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:30.094Z |
-| [keepalive-automation-client](https://github.com/XddXss888/keepalive-automation-client) | [klaas8/cs](https://github.com/klaas8/cs) | main | 149 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:30.715Z |
-| [mcp-gateway-platform](https://github.com/XddXss888/mcp-gateway-platform) | [510myRday/MCP-Gateway](https://github.com/510myRday/MCP-Gateway) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:31.893Z |
-| [outlookEmailPlus](https://github.com/XddXss888/outlookEmailPlus) | [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) | main | 27 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:32.603Z |
-| [qwen-auto-register](https://github.com/XddXss888/qwen-auto-register) | [2263648274/qwen-auto-register](https://github.com/2263648274/qwen-auto-register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:33.648Z |
-| [qwen2api](https://github.com/XddXss888/qwen2api) | [smanx/qwen2api](https://github.com/smanx/qwen2api) | master | 2 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:36.404Z |
-| [regplatformm](https://github.com/XddXss888/regplatformm) | [xiaolajiaoyyds/regplatformm](https://github.com/xiaolajiaoyyds/regplatformm) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-03-27T07:54:37.073Z |
+| [ABCard](https://github.com/XddXss888/ABCard) | [kaima2022/ABCard](https://github.com/kaima2022/ABCard) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:26.900Z |
+| [AI-Account-Toolkit](https://github.com/XddXss888/AI-Account-Toolkit) | [HaudioHC/chatgpt_register](https://github.com/HaudioHC/chatgpt_register) | main | 0 | 7 | 需要人工处理 | 自动同步失败 | 2026-03-28T03:32:27.247Z |
+| [AI-Account-Toolkits](https://github.com/XddXss888/AI-Account-Toolkits) | [adminlove520/AI-Account-Toolkit](https://github.com/adminlove520/AI-Account-Toolkit) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:27.722Z |
+| [airforce-api-auto-register-system](https://github.com/XddXss888/airforce-api-auto-register-system) | [lza6/AirForce-API-Auto-Register-System](https://github.com/lza6/AirForce-API-Auto-Register-System) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:28.087Z |
+| [any-auto-register](https://github.com/XddXss888/any-auto-register) | [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) | main | 9 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:28.499Z |
+| [bytebot](https://github.com/XddXss888/bytebot) | [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:29.311Z |
+| [cfspider-workers-ip-manager](https://github.com/XddXss888/cfspider-workers-ip-manager) | [violettoolssite/CFspider](https://github.com/violettoolssite/CFspider) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:29.680Z |
+| [chatgpt_register_v2_by_AI](https://github.com/XddXss888/chatgpt_register_v2_by_AI) | [DestinyCycloid/chatgpt_register_v2_by_AI](https://github.com/DestinyCycloid/chatgpt_register_v2_by_AI) | main | 2 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:30.099Z |
+| [clash-auto-switch](https://github.com/XddXss888/clash-auto-switch) | [adminlove520/clash-auto-switch](https://github.com/adminlove520/clash-auto-switch) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:30.605Z |
+| [Claude-Code-Guide-Zh](https://github.com/XddXss888/Claude-Code-Guide-Zh) | [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) | main | 22 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:31.002Z |
+| [cloudflare-temp-mail-service](https://github.com/XddXss888/cloudflare-temp-mail-service) | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | main | 56 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:31.719Z |
+| [codex-auto-register-tool](https://github.com/XddXss888/codex-auto-register-tool) | [0x5uo2hen/codex_register](https://github.com/0x5uo2hen/codex_register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:32.424Z |
+| [codex-console](https://github.com/XddXss888/codex-console) | [DestinyCycloid/codex-console](https://github.com/DestinyCycloid/codex-console) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:32.830Z |
+| [comicspuncher-auto-checkin-bot](https://github.com/XddXss888/comicspuncher-auto-checkin-bot) | [RahabHub/ComicsPuncher](https://github.com/RahabHub/ComicsPuncher) | main | 0 | 1 | 已自动同步 | 同步成功 | 2026-03-28T03:32:33.205Z |
+| [cursor-free-vip-account-tool](https://github.com/XddXss888/cursor-free-vip-account-tool) | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | main | 1 | 1 | 已自动同步 | 已强制对齐上游 | 2026-03-28T03:32:33.846Z |
+| [cursor-toolbox-extension](https://github.com/XddXss888/cursor-toolbox-extension) | [510myRday/Cursor-Toolbox](https://github.com/510myRday/Cursor-Toolbox) | main | 7 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:34.574Z |
+| [cyCronet](https://github.com/XddXss888/cyCronet) | [2833844911/cyCronet](https://github.com/2833844911/cyCronet) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:35.128Z |
+| [fanqiang](https://github.com/XddXss888/fanqiang) | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:35.571Z |
+| [freemail-mailfree-service](https://github.com/XddXss888/freemail-mailfree-service) | [pEJXexhX/mailfree](https://github.com/pEJXexhX/mailfree) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:35.932Z |
+| [freemail-temp-mail-service](https://github.com/XddXss888/freemail-temp-mail-service) | [idinging/freemail](https://github.com/idinging/freemail) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:36.294Z |
+| [grok-batch-register-tool](https://github.com/XddXss888/grok-batch-register-tool) | [piaoyaozhe/grokzhuce](https://github.com/piaoyaozhe/grokzhuce) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:36.615Z |
+| [grok2api](https://github.com/XddXss888/grok2api) | [TQZHR/grok2api](https://github.com/TQZHR/grok2api) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:37.048Z |
+| [keepalive-automation-client](https://github.com/XddXss888/keepalive-automation-client) | [klaas8/cs](https://github.com/klaas8/cs) | main | 149 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:37.498Z |
+| [mcp-gateway-platform](https://github.com/XddXss888/mcp-gateway-platform) | [510myRday/MCP-Gateway](https://github.com/510myRday/MCP-Gateway) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:38.393Z |
+| [outlookEmailPlus](https://github.com/XddXss888/outlookEmailPlus) | [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) | main | 27 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:38.858Z |
+| [qwen-auto-register](https://github.com/XddXss888/qwen-auto-register) | [2263648274/qwen-auto-register](https://github.com/2263648274/qwen-auto-register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:39.643Z |
+| [qwen2api](https://github.com/XddXss888/qwen2api) | [smanx/qwen2api](https://github.com/smanx/qwen2api) | master | 3 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:40.086Z |
+| [regplatformm](https://github.com/XddXss888/regplatformm) | [xiaolajiaoyyds/regplatformm](https://github.com/xiaolajiaoyyds/regplatformm) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-03-28T03:32:40.681Z |
 
 ## 使用说明
 
