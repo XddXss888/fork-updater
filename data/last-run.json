@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-03-28T07:38:45.848Z",
-  "run_completed_at": "2026-03-28T07:39:03.232Z",
+  "run_started_at": "2026-03-29T03:51:48.360Z",
+  "run_completed_at": "2026-03-29T03:52:02.484Z",
   "summary": {
     "scanned": 28,
     "updated": 2,
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-03-28T07:38:46.602Z",
+      "updated_at": "2026-03-29T03:51:48.953Z",
       "commits": []
     },
     {
@@ -34,7 +34,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-03-28T07:38:47.011Z",
+      "updated_at": "2026-03-29T03:51:49.295Z",
       "commits": []
     },
     {
@@ -48,7 +48,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-03-28T07:38:47.593Z",
+      "updated_at": "2026-03-29T03:51:49.747Z",
       "commits": []
     },
     {
@@ -62,21 +62,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-03-28T07:38:48.050Z",
+      "updated_at": "2026-03-29T03:51:50.073Z",
       "commits": []
     },
     {
       "repo": "any-auto-register",
       "upstream": "lxf746/any-auto-register",
       "branch": "main",
-      "ahead_by": 9,
+      "ahead_by": 12,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-03-28T07:38:48.481Z",
+      "updated_at": "2026-03-29T03:51:50.424Z",
       "commits": [
         {
           "sha": "2bc29550e5977879dbb5513a3cbb5b37f9cc49cb",
@@ -580,6 +580,257 @@
               "html_url": "https://github.com/XddXss888/any-auto-register/commit/ec057e776128f5841dd77820e1ce5a59a23c5f4a"
             }
           ]
+        },
+        {
+          "sha": "9207ea65ca67d436aa746310e3f246bc94497861",
+          "node_id": "C_kwDORsOUJtoAKDkyMDdlYTY1Y2E2N2Q0MzZhYTc0NjMxMGUzZjI0NmJjOTQ0OTc4NjE",
+          "commit": {
+            "author": {
+              "name": "Barhma IP!!~",
+              "email": "costa.biaggi@gmail.com",
+              "date": "2026-03-28T05:20:57Z"
+            },
+            "committer": {
+              "name": "Barhma IP!!~",
+              "email": "costa.biaggi@gmail.com",
+              "date": "2026-03-28T05:20:57Z"
+            },
+            "message": "fix: detail modal scroll, bulk delete button, encoding & geoip fixes\n\n- Fix DetailModal: pin header/footer, only content body scrolls (flex col layout)\n\n- Add max-h-40 overflow-y-auto on long credential value blocks\n\n- Add bulk delete button in toolbar when accounts are selected\n\n- Fix GBK encoding crash in _dump_debug by specifying utf-8\n\n- Add geoip=True to Camoufox proxy config to suppress LeakWarning",
+            "tree": {
+              "sha": "e5d7b00a6aabba9084701a5854327b7454c3739f",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/trees/e5d7b00a6aabba9084701a5854327b7454c3739f"
+            },
+            "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/commits/9207ea65ca67d436aa746310e3f246bc94497861",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9207ea65ca67d436aa746310e3f246bc94497861",
+          "html_url": "https://github.com/XddXss888/any-auto-register/commit/9207ea65ca67d436aa746310e3f246bc94497861",
+          "comments_url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9207ea65ca67d436aa746310e3f246bc94497861/comments",
+          "author": {
+            "login": "biaggii",
+            "id": 10355830,
+            "node_id": "MDQ6VXNlcjEwMzU1ODMw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10355830?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/biaggii",
+            "html_url": "https://github.com/biaggii",
+            "followers_url": "https://api.github.com/users/biaggii/followers",
+            "following_url": "https://api.github.com/users/biaggii/following{/other_user}",
+            "gists_url": "https://api.github.com/users/biaggii/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/biaggii/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/biaggii/subscriptions",
+            "organizations_url": "https://api.github.com/users/biaggii/orgs",
+            "repos_url": "https://api.github.com/users/biaggii/repos",
+            "events_url": "https://api.github.com/users/biaggii/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/biaggii/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "biaggii",
+            "id": 10355830,
+            "node_id": "MDQ6VXNlcjEwMzU1ODMw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10355830?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/biaggii",
+            "html_url": "https://github.com/biaggii",
+            "followers_url": "https://api.github.com/users/biaggii/followers",
+            "following_url": "https://api.github.com/users/biaggii/following{/other_user}",
+            "gists_url": "https://api.github.com/users/biaggii/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/biaggii/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/biaggii/subscriptions",
+            "organizations_url": "https://api.github.com/users/biaggii/orgs",
+            "repos_url": "https://api.github.com/users/biaggii/repos",
+            "events_url": "https://api.github.com/users/biaggii/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/biaggii/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "78320a833999d237ab670befd770d112bfe133ec",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/78320a833999d237ab670befd770d112bfe133ec",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/78320a833999d237ab670befd770d112bfe133ec"
+            }
+          ]
+        },
+        {
+          "sha": "4395b55019cb13ac087f44e06dd598950bb8ccf9",
+          "node_id": "C_kwDORsOUJtoAKDQzOTViNTUwMTljYjEzYWMwODdmNDRlMDZkZDU5ODk1MGJiOGNjZjk",
+          "commit": {
+            "author": {
+              "name": "Barhma IP!!~",
+              "email": "costa.biaggi@gmail.com",
+              "date": "2026-03-28T06:16:21Z"
+            },
+            "committer": {
+              "name": "Barhma IP!!~",
+              "email": "costa.biaggi@gmail.com",
+              "date": "2026-03-28T06:16:21Z"
+            },
+            "message": "fix(cpa_upload): add chatgpt_account_id and chatgpt_user_id to token json",
+            "tree": {
+              "sha": "3d7a648007d7e32ebae65aa1b72986067ac87c92",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/trees/3d7a648007d7e32ebae65aa1b72986067ac87c92"
+            },
+            "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/commits/4395b55019cb13ac087f44e06dd598950bb8ccf9",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/4395b55019cb13ac087f44e06dd598950bb8ccf9",
+          "html_url": "https://github.com/XddXss888/any-auto-register/commit/4395b55019cb13ac087f44e06dd598950bb8ccf9",
+          "comments_url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/4395b55019cb13ac087f44e06dd598950bb8ccf9/comments",
+          "author": {
+            "login": "biaggii",
+            "id": 10355830,
+            "node_id": "MDQ6VXNlcjEwMzU1ODMw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10355830?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/biaggii",
+            "html_url": "https://github.com/biaggii",
+            "followers_url": "https://api.github.com/users/biaggii/followers",
+            "following_url": "https://api.github.com/users/biaggii/following{/other_user}",
+            "gists_url": "https://api.github.com/users/biaggii/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/biaggii/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/biaggii/subscriptions",
+            "organizations_url": "https://api.github.com/users/biaggii/orgs",
+            "repos_url": "https://api.github.com/users/biaggii/repos",
+            "events_url": "https://api.github.com/users/biaggii/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/biaggii/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "biaggii",
+            "id": 10355830,
+            "node_id": "MDQ6VXNlcjEwMzU1ODMw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/10355830?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/biaggii",
+            "html_url": "https://github.com/biaggii",
+            "followers_url": "https://api.github.com/users/biaggii/followers",
+            "following_url": "https://api.github.com/users/biaggii/following{/other_user}",
+            "gists_url": "https://api.github.com/users/biaggii/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/biaggii/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/biaggii/subscriptions",
+            "organizations_url": "https://api.github.com/users/biaggii/orgs",
+            "repos_url": "https://api.github.com/users/biaggii/repos",
+            "events_url": "https://api.github.com/users/biaggii/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/biaggii/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9207ea65ca67d436aa746310e3f246bc94497861",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9207ea65ca67d436aa746310e3f246bc94497861",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/9207ea65ca67d436aa746310e3f246bc94497861"
+            }
+          ]
+        },
+        {
+          "sha": "9aadc6a1969ca11187688586c7176249b49d96e8",
+          "node_id": "C_kwDORsOUJtoAKDlhYWRjNmExOTY5Y2ExMTE4NzY4ODU4NmM3MTc2MjQ5YjQ5ZDk2ZTg",
+          "commit": {
+            "author": {
+              "name": "陈晓",
+              "email": "fanlixing@gdmu.edu.cn",
+              "date": "2026-03-28T13:11:15Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-28T13:11:15Z"
+            },
+            "message": "Merge pull request #24 from kattelusanjelmalek596/fix/ui-scroll-bulk-delete-encoding\n\nfix: detail modal scroll, bulk delete button, encoding & geoip",
+            "tree": {
+              "sha": "3d7a648007d7e32ebae65aa1b72986067ac87c92",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/trees/3d7a648007d7e32ebae65aa1b72986067ac87c92"
+            },
+            "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/commits/9aadc6a1969ca11187688586c7176249b49d96e8",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpx9NzCRC1aQ7uu5UhlAAABssQAEA7wR+7SuDtuTgRgcI2ZDkq\nNZdsvtnPE0b1jhGAPBs0oLcelETb6ceT2x70pQbr8fqXYeet03is+UD+mRB9gmSY\nNPzg3BMPfz/9B7MDOo5hafp3VkvT8azlxyfqKlzMrPpWyUPzDSzbRys2dI1tk+6l\nCrjIk5BhCFRUWBnMw70RNmHvKlJy0XVrzDcGseutdawtG0srTwF62o9Wp6+LXMtf\nH0+H0fkKEBdBmOSr7cbEXbWvIjgYWLAtYxKmroNDgYrv++HxuAbjbp7DooufdUub\nNUqspEKJyYyl23qpLv9OsAhu5Ne1tl+gnrwTLl5C+2qfYtkx0TCrbaAf2FaVctk5\nk9ZL32kLhHq5RNDzOdBL992GlKsDu5NpFMzqJoYu2Nsc7cmz8Ce3b1b6BnzSJSLM\nvaHP8Qvm8gPMjt/eKovznSU3W1mQ+WGY5BAo+Srxt6YzboDiq9miP1piHseNsdNt\n/hfDCsZbF2asNTjuls1qODegJZ5RcqmUbgHANgPZ0vTVprf2qkHsWc5hSiSElLeK\njdF6vokL2Nom2Cg4yboQJCPH8bIOwdpnT/FDfkBKqF0yOgd3/jmYT8p0HOAMOy1k\n16D7O1XWJyoBfRBbo9T++JKzC0dwxszzc5GvlN+sZsYHIEh0cNsaex90T0mBFNqK\nUqmNOQMWbWGSkERhiyFT\n=LJRQ\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 3d7a648007d7e32ebae65aa1b72986067ac87c92\nparent 78320a833999d237ab670befd770d112bfe133ec\nparent 4395b55019cb13ac087f44e06dd598950bb8ccf9\nauthor 陈晓 <fanlixing@gdmu.edu.cn> 1774703475 +0800\ncommitter GitHub <noreply@github.com> 1774703475 +0800\n\nMerge pull request #24 from kattelusanjelmalek596/fix/ui-scroll-bulk-delete-encoding\n\nfix: detail modal scroll, bulk delete button, encoding & geoip",
+              "verified_at": "2026-03-28T13:11:15Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9aadc6a1969ca11187688586c7176249b49d96e8",
+          "html_url": "https://github.com/XddXss888/any-auto-register/commit/9aadc6a1969ca11187688586c7176249b49d96e8",
+          "comments_url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9aadc6a1969ca11187688586c7176249b49d96e8/comments",
+          "author": {
+            "login": "lxf746",
+            "id": 216264444,
+            "node_id": "U_kgDODOPu_A",
+            "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lxf746",
+            "html_url": "https://github.com/lxf746",
+            "followers_url": "https://api.github.com/users/lxf746/followers",
+            "following_url": "https://api.github.com/users/lxf746/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lxf746/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lxf746/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lxf746/subscriptions",
+            "organizations_url": "https://api.github.com/users/lxf746/orgs",
+            "repos_url": "https://api.github.com/users/lxf746/repos",
+            "events_url": "https://api.github.com/users/lxf746/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lxf746/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "78320a833999d237ab670befd770d112bfe133ec",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/78320a833999d237ab670befd770d112bfe133ec",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/78320a833999d237ab670befd770d112bfe133ec"
+            },
+            {
+              "sha": "4395b55019cb13ac087f44e06dd598950bb8ccf9",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/4395b55019cb13ac087f44e06dd598950bb8ccf9",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/4395b55019cb13ac087f44e06dd598950bb8ccf9"
+            }
+          ]
         }
       ]
     },
@@ -594,7 +845,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-03-28T07:38:49.534Z",
+      "updated_at": "2026-03-29T03:51:51.301Z",
       "commits": []
     },
     {
@@ -608,7 +859,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-03-28T07:38:49.952Z",
+      "updated_at": "2026-03-29T03:51:51.645Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -665,7 +916,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-03-28T07:38:50.786Z",
+      "updated_at": "2026-03-29T03:51:52.038Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -844,7 +1095,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-03-28T07:38:51.274Z",
+      "updated_at": "2026-03-29T03:51:52.446Z",
       "commits": []
     },
     {
@@ -858,7 +1109,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-03-28T07:38:51.739Z",
+      "updated_at": "2026-03-29T03:51:52.791Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -2670,14 +2921,14 @@
       "repo": "cloudflare-temp-mail-service",
       "upstream": "dreamhunter2333/cloudflare_temp_email",
       "branch": "main",
-      "ahead_by": 56,
+      "ahead_by": 57,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-03-28T07:38:52.549Z",
+      "updated_at": "2026-03-29T03:51:53.519Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -7270,6 +7521,88 @@
               "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/a45d01f9fd2874543b7d80fadcb9683ac38acade"
             }
           ]
+        },
+        {
+          "sha": "424991a165cccfbc00eec92c240cafc440621e7d",
+          "node_id": "C_kwDORUj6NdoAKDQyNDk5MWExNjVjY2NmYmMwMGVlYzkyYzI0MGNhZmM0NDA2MjFlN2Q",
+          "commit": {
+            "author": {
+              "name": "BobDLA",
+              "email": "3804610+BobDLA@users.noreply.github.com",
+              "date": "2026-03-28T17:48:17Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-28T17:48:17Z"
+            },
+            "message": "fix: surface backend deploy errors in GitHub Actions (#917)",
+            "tree": {
+              "sha": "99f74ba7c44e879b84b7e955d9d03f5f5931e71d",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/trees/99f74ba7c44e879b84b7e955d9d03f5f5931e71d"
+            },
+            "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/commits/424991a165cccfbc00eec92c240cafc440621e7d",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpyBRhCRC1aQ7uu5UhlAAAuMEQAGrBkWsjws8peC+p7f8QxYWZ\nKgR4uEVO4hBLTeEkEpNbZt5G2uNjB8Cfh9v4nrpbi4NpGFOgyVOnQS/LWY1ZNOTW\nuOMn3d0jQqFwZfXJ4R3WlsNB2Jg63tsrjDv40+j0IFOJY7gIh+Gv1AfPnzjOVtgQ\nFzQYP+kNbJFzOfL97Itmt5WgI8hMuS2dCw/D54+94Iv105nR7KWDZaOVgmjxsAhJ\nZJraYczB9x3ga/fakWFCzEvIV8Rd3In/nYEE446IZ7zr4UwXi1Dh9bcwa4PLuqWR\n7ioM3FTBEc5j2s/AYw/+dajs2xS/8CH+dkS9M1nDGynZsxAkc7/t8obawzFENer8\n360sv5RuAhoIQjKbJjpglolycj7hfLFcE0MZHtInxUNPlw+C5PBQKz+fbArO0c52\nxkAYnTfhL4onZpxxLyb5CTGEU8+4cz785b4M1rr6E5zh1wqkHlRRbhU1uI8Hqamr\nhcIcgP+dXWmDlr/ZcmXj7N81siyJdIcZhK8hBnHPimpVmj/2dP5oTAgLCjKbM3rk\nDUwrErjNedPfMgNxZmqWqmko/j3y3yduS1mvQnHIoN2gg3IKQaeiaiSSEwh0NV6v\nQNXtO3mAH2MnNehQgOO6Kf+lElnJLY5sDq39nS/2qMHCRPUqIkNxccpV9RemZw8X\n4iTDMlGcwowpV9admzil\n=lndB\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 99f74ba7c44e879b84b7e955d9d03f5f5931e71d\nparent c97a9a278b5a9afb5877f515161892d4ec72cc49\nauthor BobDLA <3804610+BobDLA@users.noreply.github.com> 1774720097 +0800\ncommitter GitHub <noreply@github.com> 1774720097 +0800\n\nfix: surface backend deploy errors in GitHub Actions (#917)",
+              "verified_at": "2026-03-28T17:48:18Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/424991a165cccfbc00eec92c240cafc440621e7d",
+          "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/424991a165cccfbc00eec92c240cafc440621e7d",
+          "comments_url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/424991a165cccfbc00eec92c240cafc440621e7d/comments",
+          "author": {
+            "login": "BobDLA",
+            "id": 3804610,
+            "node_id": "MDQ6VXNlcjM4MDQ2MTA=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/3804610?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/BobDLA",
+            "html_url": "https://github.com/BobDLA",
+            "followers_url": "https://api.github.com/users/BobDLA/followers",
+            "following_url": "https://api.github.com/users/BobDLA/following{/other_user}",
+            "gists_url": "https://api.github.com/users/BobDLA/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/BobDLA/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/BobDLA/subscriptions",
+            "organizations_url": "https://api.github.com/users/BobDLA/orgs",
+            "repos_url": "https://api.github.com/users/BobDLA/repos",
+            "events_url": "https://api.github.com/users/BobDLA/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/BobDLA/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c97a9a278b5a9afb5877f515161892d4ec72cc49",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/c97a9a278b5a9afb5877f515161892d4ec72cc49",
+              "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/c97a9a278b5a9afb5877f515161892d4ec72cc49"
+            }
+          ]
         }
       ]
     },
@@ -7284,7 +7617,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-03-28T07:38:53.482Z",
+      "updated_at": "2026-03-29T03:51:54.368Z",
       "commits": []
     },
     {
@@ -7298,7 +7631,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-03-28T07:38:53.934Z",
+      "updated_at": "2026-03-29T03:51:54.725Z",
       "commits": []
     },
     {
@@ -7312,7 +7645,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-03-28T07:38:54.514Z",
+      "updated_at": "2026-03-29T03:51:55.091Z",
       "commits": []
     },
     {
@@ -7324,30 +7657,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit ff68cf1680c54cf214485bbc5d1af6ff4f5c4299.",
+      "reason": "Force-reset fork branch to upstream commit 5b27ac3b663ca65a7df20f4769a376fde3c42a74.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-03-28T07:38:55.203Z",
+      "updated_at": "2026-03-29T03:51:55.673Z",
       "commits": [
         {
-          "sha": "ff68cf1680c54cf214485bbc5d1af6ff4f5c4299",
-          "node_id": "C_kwDORKtM3doAKGZmNjhjZjE2ODBjNTRjZjIxNDQ4NWJiYzVkMWFmNmZmNGY1YzQyOTk",
+          "sha": "5b27ac3b663ca65a7df20f4769a376fde3c42a74",
+          "node_id": "C_kwDORKtM3doAKDViMjdhYzNiNjYzY2E2NWE3ZGYyMGY0NzY5YTM3NmZkZTNjNDJhNzQ",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-28T06:53:15Z"
+              "date": "2026-03-29T03:18:59Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-28T06:53:15Z"
+              "date": "2026-03-29T03:18:59Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/ff68cf1680c54cf214485bbc5d1af6ff4f5c4299",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/5b27ac3b663ca65a7df20f4769a376fde3c42a74",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -7357,9 +7690,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/ff68cf1680c54cf214485bbc5d1af6ff4f5c4299",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/ff68cf1680c54cf214485bbc5d1af6ff4f5c4299",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/ff68cf1680c54cf214485bbc5d1af6ff4f5c4299/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/5b27ac3b663ca65a7df20f4769a376fde3c42a74",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/5b27ac3b663ca65a7df20f4769a376fde3c42a74",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/5b27ac3b663ca65a7df20f4769a376fde3c42a74/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -7423,7 +7756,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-03-28T07:38:56.021Z",
+      "updated_at": "2026-03-29T03:51:56.349Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -8022,7 +8355,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-03-28T07:38:56.551Z",
+      "updated_at": "2026-03-29T03:51:56.828Z",
       "commits": []
     },
     {
@@ -8036,7 +8369,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-03-28T07:38:57.009Z",
+      "updated_at": "2026-03-29T03:51:57.170Z",
       "commits": []
     },
     {
@@ -8050,7 +8383,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-03-28T07:38:57.439Z",
+      "updated_at": "2026-03-29T03:51:57.475Z",
       "commits": []
     },
     {
@@ -8064,7 +8397,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service/compare/master...idinging:master",
-      "updated_at": "2026-03-28T07:38:57.895Z",
+      "updated_at": "2026-03-29T03:51:57.804Z",
       "commits": []
     },
     {
@@ -8078,7 +8411,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-03-28T07:38:58.310Z",
+      "updated_at": "2026-03-29T03:51:58.109Z",
       "commits": []
     },
     {
@@ -8092,7 +8425,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-03-28T07:38:58.724Z",
+      "updated_at": "2026-03-29T03:51:58.610Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -8189,7 +8522,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-03-28T07:38:59.279Z",
+      "updated_at": "2026-03-29T03:51:59.015Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -20422,7 +20755,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...510myRday:main",
-      "updated_at": "2026-03-28T07:39:00.174Z",
+      "updated_at": "2026-03-29T03:51:59.990Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -20840,14 +21173,14 @@
       "repo": "outlookEmailPlus",
       "upstream": "ZeroPointSix/outlookEmailPlus",
       "branch": "main",
-      "ahead_by": 27,
+      "ahead_by": 28,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-03-28T07:39:00.817Z",
+      "updated_at": "2026-03-29T03:52:00.446Z",
       "commits": [
         {
           "sha": "c49029d5a687c81c929aa351770ff07830704037",
@@ -23062,6 +23395,88 @@
               "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/926c64844fe7593ccd7789ad8e29021c4962f379"
             }
           ]
+        },
+        {
+          "sha": "d77fee6ca182721c90a5ddb0f93e3ebcf460532e",
+          "node_id": "C_kwDORsORztoAKGQ3N2ZlZTZjYTE4MjcyMWM5MGE1ZGRiMGY5M2UzZWJjZjQ2MDUzMmU",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-03-28T14:16:39Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-03-28T14:16:39Z"
+            },
+            "message": "ci: switch docker publish to tag-triggered mode\n\nOnly push Docker images when a semver tag (v*.*.*) is pushed,\ninstead of on every code change to main. This prevents GHCR and\nDocker Hub from going out of sync due to partial build failures.\n\nTags produced per release: {version}, {major}.{minor}, {major}, latest, sha-*",
+            "tree": {
+              "sha": "df1dfc06d8dea37a903f56026695702410ba8526",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/df1dfc06d8dea37a903f56026695702410ba8526"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/d77fee6ca182721c90a5ddb0f93e3ebcf460532e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d77fee6ca182721c90a5ddb0f93e3ebcf460532e",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d77fee6ca182721c90a5ddb0f93e3ebcf460532e",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d77fee6ca182721c90a5ddb0f93e3ebcf460532e/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "54bb7c8d9a599351ced4678be44c763dd983b55f",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/54bb7c8d9a599351ced4678be44c763dd983b55f",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/54bb7c8d9a599351ced4678be44c763dd983b55f"
+            }
+          ]
         }
       ]
     },
@@ -23076,7 +23491,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-03-28T07:39:01.882Z",
+      "updated_at": "2026-03-29T03:52:01.190Z",
       "commits": []
     },
     {
@@ -23090,7 +23505,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-03-28T07:39:02.368Z",
+      "updated_at": "2026-03-29T03:52:01.670Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -23351,7 +23766,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-03-28T07:39:02.888Z",
+      "updated_at": "2026-03-29T03:52:02.155Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
