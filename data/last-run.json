@@ -1,12 +1,12 @@
 {
-  "run_started_at": "2026-03-29T07:45:54.202Z",
-  "run_completed_at": "2026-03-29T07:46:08.488Z",
+  "run_started_at": "2026-03-30T03:55:44.392Z",
+  "run_completed_at": "2026-03-30T03:56:00.508Z",
   "summary": {
-    "scanned": 28,
-    "updated": 2,
-    "up_to_date": 25,
+    "scanned": 29,
+    "updated": 3,
+    "up_to_date": 24,
     "manual": 1,
-    "errors": 0
+    "errors": 1
   },
   "repos": [
     {
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-03-29T07:45:55.046Z",
+      "updated_at": "2026-03-30T03:55:44.917Z",
       "commits": []
     },
     {
@@ -34,22 +34,187 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-03-29T07:45:55.418Z",
+      "updated_at": "2026-03-30T03:55:45.267Z",
       "commits": []
     },
     {
       "repo": "AI-Account-Toolkits",
       "upstream": "adminlove520/AI-Account-Toolkit",
       "branch": "main",
-      "ahead_by": 0,
+      "ahead_by": 2,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-03-29T07:45:55.869Z",
-      "commits": []
+      "updated_at": "2026-03-30T03:55:45.824Z",
+      "commits": [
+        {
+          "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
+          "node_id": "C_kwDORyfsM9oAKDAwM2YyZmEyMDY0ZDU1ODc0ZmJhZDJmMWM0NmQyMzU1NjgxMjlkZjc",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-30T01:12:03Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-30T01:12:03Z"
+            },
+            "message": "feats:增加V2GPT_free_register",
+            "tree": {
+              "sha": "5d73058d609a9fd7e6d71015483d8b0a1fbef2f4",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/5d73058d609a9fd7e6d71015483d8b0a1fbef2f4"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/003f2fa2064d55874fbad2f1c46d235568129df7",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/003f2fa2064d55874fbad2f1c46d235568129df7",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/003f2fa2064d55874fbad2f1c46d235568129df7",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/003f2fa2064d55874fbad2f1c46d235568129df7/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "832c56d04c1bc618663af5813cbdd59721b56b90",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/832c56d04c1bc618663af5813cbdd59721b56b90",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/832c56d04c1bc618663af5813cbdd59721b56b90"
+            }
+          ]
+        },
+        {
+          "sha": "2a3d594a2a7762b8df4a06775172e7c0bb3bd2e2",
+          "node_id": "C_kwDORyfsM9oAKDJhM2Q1OTRhMmE3NzYyYjhkZjRhMDY3NzUxNzJlN2MwYmIzYmQyZTI",
+          "commit": {
+            "author": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-30T03:19:07Z"
+            },
+            "committer": {
+              "name": "adminlove520",
+              "email": "791751568@qq.com",
+              "date": "2026-03-30T03:19:07Z"
+            },
+            "message": "add:SMS-免费在线接码平台",
+            "tree": {
+              "sha": "c82279306dc6c1467d706b82964a30e7cc6a4b13",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/c82279306dc6c1467d706b82964a30e7cc6a4b13"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/2a3d594a2a7762b8df4a06775172e7c0bb3bd2e2",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/2a3d594a2a7762b8df4a06775172e7c0bb3bd2e2",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/2a3d594a2a7762b8df4a06775172e7c0bb3bd2e2",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/2a3d594a2a7762b8df4a06775172e7c0bb3bd2e2/comments",
+          "author": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "adminlove520",
+            "id": 32920883,
+            "node_id": "MDQ6VXNlcjMyOTIwODgz",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32920883?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/adminlove520",
+            "html_url": "https://github.com/adminlove520",
+            "followers_url": "https://api.github.com/users/adminlove520/followers",
+            "following_url": "https://api.github.com/users/adminlove520/following{/other_user}",
+            "gists_url": "https://api.github.com/users/adminlove520/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/adminlove520/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/adminlove520/subscriptions",
+            "organizations_url": "https://api.github.com/users/adminlove520/orgs",
+            "repos_url": "https://api.github.com/users/adminlove520/repos",
+            "events_url": "https://api.github.com/users/adminlove520/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/adminlove520/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/003f2fa2064d55874fbad2f1c46d235568129df7",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/003f2fa2064d55874fbad2f1c46d235568129df7"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "airforce-api-auto-register-system",
@@ -62,7 +227,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-03-29T07:45:56.230Z",
+      "updated_at": "2026-03-30T03:55:46.312Z",
       "commits": []
     },
     {
@@ -76,7 +241,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-03-29T07:45:56.615Z",
+      "updated_at": "2026-03-30T03:55:46.728Z",
       "commits": [
         {
           "sha": "2bc29550e5977879dbb5513a3cbb5b37f9cc49cb",
@@ -845,7 +1010,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-03-29T07:45:57.345Z",
+      "updated_at": "2026-03-30T03:55:47.641Z",
       "commits": []
     },
     {
@@ -859,7 +1024,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-03-29T07:45:57.758Z",
+      "updated_at": "2026-03-30T03:55:48.015Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -916,7 +1081,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-03-29T07:45:58.188Z",
+      "updated_at": "2026-03-30T03:55:48.556Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -1095,1827 +1260,22 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-03-29T07:45:58.641Z",
+      "updated_at": "2026-03-30T03:55:49.086Z",
       "commits": []
     },
     {
       "repo": "Claude-Code-Guide-Zh",
       "upstream": "KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh",
       "branch": "main",
-      "ahead_by": 22,
+      "ahead_by": 0,
       "behind_by": 0,
-      "status": "up_to_date",
+      "status": "error",
       "action": "none",
-      "result": "already-current",
-      "reason": "",
-      "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-03-29T07:45:59.051Z",
-      "commits": [
-        {
-          "sha": "eff9e19b6e50a68622e8f446319953c529639031",
-          "node_id": "C_kwDORR6eT9oAKGVmZjllMTliNmU1MGE2ODYyMmU4ZjQ0NjMxOTk1M2M1Mjk2MzkwMzE",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-24T18:11:29Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-24T18:11:48Z"
-            },
-            "message": "feat: 全面迭代教程适配 Claude Code 2.1.45\n\n版本同步更新:\n- 10篇教程版本号从 v2.0+/2025年12月 更新至 v2.1+/2026年2月\n- README 版本徽章 2.1.19 → 2.1.45，移除 Node.js 依赖要求\n- 修复所有残留旧版本号示例（v2.0.71 → v2.1.45）\n- 清理 06/09/10 教程中 23 处 \"2.10+/2.1.0+\" 旧版本标记\n\n新增内容:\n- 01-安装指南新增 4.3.1 API中转站配置章节（ANTHROPIC_BASE_URL）\n- 02-基础使用新增 /fast 快速模式命令说明\n- 05-Hooks新增 3.7 节 WorktreeCreate/WorktreeRemove Hook 详解\n- 05-Hooks Hook 类型从 6 种扩展至 8 种，术语表和速查表同步更新\n- README 新增完整 changelog\n\n修复与优化:\n- 快速导航卡\"安装Node.js\"改为\"原生安装Claude Code\"\n- README 环境要求新增第三方中转站 API Key 说明",
-            "tree": {
-              "sha": "bc2af714d63895599c7c68552b72d13a8f2296fb",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/bc2af714d63895599c7c68552b72d13a8f2296fb"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/eff9e19b6e50a68622e8f446319953c529639031",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/eff9e19b6e50a68622e8f446319953c529639031",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/eff9e19b6e50a68622e8f446319953c529639031",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/eff9e19b6e50a68622e8f446319953c529639031/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "be9ca2c002cdd163cf38523560733f505d2d8a98",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/be9ca2c002cdd163cf38523560733f505d2d8a98",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/be9ca2c002cdd163cf38523560733f505d2d8a98"
-            }
-          ]
-        },
-        {
-          "sha": "4053e6c39cba56db17aa117912c74672e616fe12",
-          "node_id": "C_kwDORR6eT9oAKDQwNTNlNmMzOWNiYTU2ZGIxN2FhMTE3OTEyYzc0NjcyZTYxNmZlMTI",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-24T18:27:31Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-24T18:27:31Z"
-            },
-            "message": "fix: README教程目录同步Hooks 8种类型，补全changelog\n\n- 教程目录05-Hooks说明从\"6种Hook类型\"更新为\"8种Hook类型（含Worktree管理）\"\n- changelog补充01中转站配置、02 /fast命令、06/09/10旧标记清理等遗漏项\n- 待办列表移除已完成的/fast命令项",
-            "tree": {
-              "sha": "ee91ceabb0ddcc2ea096b8a922099c8a59b8af0a",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/ee91ceabb0ddcc2ea096b8a922099c8a59b8af0a"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/4053e6c39cba56db17aa117912c74672e616fe12",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/4053e6c39cba56db17aa117912c74672e616fe12",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/4053e6c39cba56db17aa117912c74672e616fe12",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/4053e6c39cba56db17aa117912c74672e616fe12/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "eff9e19b6e50a68622e8f446319953c529639031",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/eff9e19b6e50a68622e8f446319953c529639031",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/eff9e19b6e50a68622e8f446319953c529639031"
-            }
-          ]
-        },
-        {
-          "sha": "3377e3c2cdd2d662a4938bb10a447684a74d7844",
-          "node_id": "C_kwDORR6eT9oAKDMzNzdlM2MyY2RkMmQ2NjJhNDkzOGJiMTBhNDQ3Njg0YTc0ZDc4NDQ",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-24T18:34:59Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-24T18:34:59Z"
-            },
-            "message": "feat: 新增 Git Worktree 内置并行任务隔离功能文档\n\n- 02-基础使用新增 --worktree (-w) 启动参数说明和使用提示\n- 05-Hooks 3.7 节大幅补充 --worktree 核心功能详解：\n  工作原理、目录结构、使用场景、配置步骤、Hook角色说明\n- 05-Hooks 更新版本标注为 v2.1.49+（2026年2月正式发布）\n- README changelog 同步更新 Worktree 功能文档记录",
-            "tree": {
-              "sha": "7367c41587bd0388c085ae1fc7d5cd7f9f777892",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/7367c41587bd0388c085ae1fc7d5cd7f9f777892"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/3377e3c2cdd2d662a4938bb10a447684a74d7844",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/3377e3c2cdd2d662a4938bb10a447684a74d7844",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/3377e3c2cdd2d662a4938bb10a447684a74d7844",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/3377e3c2cdd2d662a4938bb10a447684a74d7844/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "4053e6c39cba56db17aa117912c74672e616fe12",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/4053e6c39cba56db17aa117912c74672e616fe12",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/4053e6c39cba56db17aa117912c74672e616fe12"
-            }
-          ]
-        },
-        {
-          "sha": "844a238f7da74977f413e06622bc7f820d6a9615",
-          "node_id": "C_kwDORR6eT9oAKDg0NGEyMzhmN2RhNzQ5NzdmNDEzZTA2NjIyYmM3ZjgyMGQ2YTk2MTU",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:42:34Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:42:34Z"
-            },
-            "message": "feat: 双顶流合璧 — Claude Code x OpenClaw 中文教程\n\n重大升级：项目从 Claude Code 单教程升级为双顶流 AI 工具教程\n\n- 新增 OpenClaw 11 篇完整中文教程（基于 v2026.2.23）\n- 目录结构重组：docs/claude-code/ + docs/openclaw/\n- README 全面重写为双品牌定位\n- 仓库即将更名为 Claude-Code-x-OpenClaw-Guide-Zh",
-            "tree": {
-              "sha": "6fe3911c87a32d2cd83eaf636f678de84d68e293",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/6fe3911c87a32d2cd83eaf636f678de84d68e293"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/844a238f7da74977f413e06622bc7f820d6a9615",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/844a238f7da74977f413e06622bc7f820d6a9615",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/844a238f7da74977f413e06622bc7f820d6a9615",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/844a238f7da74977f413e06622bc7f820d6a9615/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "3377e3c2cdd2d662a4938bb10a447684a74d7844",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/3377e3c2cdd2d662a4938bb10a447684a74d7844",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/3377e3c2cdd2d662a4938bb10a447684a74d7844"
-            }
-          ]
-        },
-        {
-          "sha": "f8ab503edd58514ab821712eef240dca78c017b3",
-          "node_id": "C_kwDORR6eT9oAKGY4YWI1MDNlZGQ1ODUxNGFiODIxNzEyZWVmMjQwZGNhNzhjMDE3YjM",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:54:50Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:54:50Z"
-            },
-            "message": "feat: 清除全部待办项 — Task/Subagent、权限系统、新MCP服务\n\n- 08-Agent-SDK 新增 3.5 节：Task 工具与子代理编排\n  - 子代理类型表（Explore/Bash/code-reviewer/Plan等）\n  - 任务依赖 DAG 系统说明\n  - 上下文注入三种方式（Skills/Memory/工具控制）\n- 02-基础使用 权限系统更新\n  - 三种权限模式（plan/acceptEdits/bypassPermissions）\n  - Shift+Tab 循环切换说明\n  - allowedTools 安全替代方案\n- 04-MCP集成 新增三项 MCP 服务\n  - MCP Apps 交互式界面\n  - 工具懒加载 ToolSearch（v2.1.45+，上下文减少95%）\n  - 远程 MCP 服务器（HTTP 传输）\n- README 待办项标记为已完成",
-            "tree": {
-              "sha": "7848ef4a1a0e3bff7b1381e1e0efc32d14fb5d0c",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/7848ef4a1a0e3bff7b1381e1e0efc32d14fb5d0c"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/f8ab503edd58514ab821712eef240dca78c017b3",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f8ab503edd58514ab821712eef240dca78c017b3",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f8ab503edd58514ab821712eef240dca78c017b3",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f8ab503edd58514ab821712eef240dca78c017b3/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "844a238f7da74977f413e06622bc7f820d6a9615",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/844a238f7da74977f413e06622bc7f820d6a9615",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/844a238f7da74977f413e06622bc7f820d6a9615"
-            }
-          ]
-        },
-        {
-          "sha": "e1ca72b6ea34549c3a4deabcd452efae2099785f",
-          "node_id": "C_kwDORR6eT9oAKGUxY2E3MmI2ZWEzNDU0OWMzYTRkZWFiY2Q0NTJlZmFlMjA5OTc4NWY",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:57:30Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:57:30Z"
-            },
-            "message": "chore: README 添加作者社交信息，补全 v3.0 changelog\n\n- 联系方式新增 X(@KimYx0207) 和公众号(老金带你玩AI)\n- v3.0 changelog 补充 Task/Subagent、权限系统、MCP 服务更新记录",
-            "tree": {
-              "sha": "20b365880c3d140c813607aebf332504c98f6f06",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/20b365880c3d140c813607aebf332504c98f6f06"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/e1ca72b6ea34549c3a4deabcd452efae2099785f",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/e1ca72b6ea34549c3a4deabcd452efae2099785f",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/e1ca72b6ea34549c3a4deabcd452efae2099785f",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/e1ca72b6ea34549c3a4deabcd452efae2099785f/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "f8ab503edd58514ab821712eef240dca78c017b3",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f8ab503edd58514ab821712eef240dca78c017b3",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f8ab503edd58514ab821712eef240dca78c017b3"
-            }
-          ]
-        },
-        {
-          "sha": "4112f636dcd83a1e58b99c892268de6c6402bad3",
-          "node_id": "C_kwDORR6eT9oAKDQxMTJmNjM2ZGNkODNhMWU1OGI5OWM4OTIyNjhkZTZjNjQwMmJhZDM",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:59:23Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T04:59:23Z"
-            },
-            "message": "chore: README 联系方式新增个人主页 aiking.dev",
-            "tree": {
-              "sha": "d1b72281e5a19e23c568e71ce2430f413333100d",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/d1b72281e5a19e23c568e71ce2430f413333100d"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/4112f636dcd83a1e58b99c892268de6c6402bad3",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/4112f636dcd83a1e58b99c892268de6c6402bad3",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/4112f636dcd83a1e58b99c892268de6c6402bad3",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/4112f636dcd83a1e58b99c892268de6c6402bad3/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "e1ca72b6ea34549c3a4deabcd452efae2099785f",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/e1ca72b6ea34549c3a4deabcd452efae2099785f",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/e1ca72b6ea34549c3a4deabcd452efae2099785f"
-            }
-          ]
-        },
-        {
-          "sha": "a256f147e6e82ffca466a4fa846aedc2a30986d1",
-          "node_id": "C_kwDORR6eT9oAKGEyNTZmMTQ3ZTZlODJmZmNhNDY2YTRmYTg0NmFlZGMyYTMwOTg2ZDE",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T05:13:45Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T05:13:45Z"
-            },
-            "message": "fix: 全面体检修复 — 7个CRITICAL + 5个WARNING\n\nCRITICAL 修复:\n- 07-Plugins: 修复2处断链(IDE插件/交互模式→正确的上下节链接)\n- 07-Plugins: 过时版本 v2.1.12(2025年) → v2.1.52\n- 01-安装指南: Welcome 示例 v2.0 → v2.1\n- 02-基础使用: /doctor 输出移除 Node.js/npm(已原生安装)\n- 03-Commands: 16处4反引号 → 3反引号(修复Markdown渲染)\n- 05-Hooks: Hook类型数量统一为8种(修复6种/8种不一致)\n\nWARNING 修复:\n- 全局版本号 2.1.45 → 2.1.52(5文件19处)\n- 03-Commands: 文件名引用 MCP系统 → MCP集成\n- 04-MCP: 验证日期 2025-12-22 → 2026-02-25\n- README: 教程数量表述优化(21篇+1速查卡)",
-            "tree": {
-              "sha": "ac207c40380d71993508a09df183bd64a658ad5f",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/ac207c40380d71993508a09df183bd64a658ad5f"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/a256f147e6e82ffca466a4fa846aedc2a30986d1",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/a256f147e6e82ffca466a4fa846aedc2a30986d1",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/a256f147e6e82ffca466a4fa846aedc2a30986d1",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/a256f147e6e82ffca466a4fa846aedc2a30986d1/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "4112f636dcd83a1e58b99c892268de6c6402bad3",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/4112f636dcd83a1e58b99c892268de6c6402bad3",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/4112f636dcd83a1e58b99c892268de6c6402bad3"
-            }
-          ]
-        },
-        {
-          "sha": "f82ee4ea0d516556ecd13c6930978aa267756e15",
-          "node_id": "C_kwDORR6eT9oAKGY4MmVlNGVhMGQ1MTY1NTZlY2QxM2M2OTMwOTc4YWEyNjc3NTZlMTU",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T06:55:30Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T06:55:30Z"
-            },
-            "message": "fix: 重写07-Plugins教程 — 清除60+处虚假CLI命令\n\n原教程2100行中包含60+处不存在的 `claude plugins` CLI命令\n（如 install/list/search/update/uninstall 等），全部为编造内容。\n\nClaude Code 实际上没有 plugins 子命令，Plugin管理通过：\n- git clone 安装到本地\n- --plugin-dir 启动参数加载\n- 文件系统操作管理\n\n重写后694行，保留了：\n- Plugin概念和生态介绍\n- 与Commands/Skills/MCP的对比\n- 自定义Plugin开发（结构规范、Hello World、进阶示例）\n- 发布与分享流程\n- 故障排查和FAQ\n\n新增醒目警告说明 `claude plugins` 命令不存在\n\n同时修复：版本号全局 2.1.45 → 2.1.52",
-            "tree": {
-              "sha": "987d47a1bb7516317fdb9edc7223509cfc92806c",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/987d47a1bb7516317fdb9edc7223509cfc92806c"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/f82ee4ea0d516556ecd13c6930978aa267756e15",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f82ee4ea0d516556ecd13c6930978aa267756e15",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f82ee4ea0d516556ecd13c6930978aa267756e15",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f82ee4ea0d516556ecd13c6930978aa267756e15/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "a256f147e6e82ffca466a4fa846aedc2a30986d1",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/a256f147e6e82ffca466a4fa846aedc2a30986d1",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/a256f147e6e82ffca466a4fa846aedc2a30986d1"
-            }
-          ]
-        },
-        {
-          "sha": "1362ac0887a8b4f786ec771f1e3cb35fb530160d",
-          "node_id": "C_kwDORR6eT9oAKDEzNjJhYzA4ODdhOGI0Zjc4NmVjNzcxZjFlM2NiMzVmYjUzMDE2MGQ",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T07:57:01Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T07:57:01Z"
-            },
-            "message": "fix: 修复03-Commands指南嵌套代码块渲染问题\n\n4.5节「工具调用语法」中两处嵌套代码块因内外层都用三反引号导致提前闭合，\n外层改用四反引号包裹，内层代码块正常渲染。",
-            "tree": {
-              "sha": "db45e1ba9cb46908813bd2fd382cb5fb23d22ee1",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/db45e1ba9cb46908813bd2fd382cb5fb23d22ee1"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/1362ac0887a8b4f786ec771f1e3cb35fb530160d",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1362ac0887a8b4f786ec771f1e3cb35fb530160d",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1362ac0887a8b4f786ec771f1e3cb35fb530160d",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1362ac0887a8b4f786ec771f1e3cb35fb530160d/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "f82ee4ea0d516556ecd13c6930978aa267756e15",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f82ee4ea0d516556ecd13c6930978aa267756e15",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f82ee4ea0d516556ecd13c6930978aa267756e15"
-            }
-          ]
-        },
-        {
-          "sha": "0f9fb72697452f748ec1a05671302aff00446c19",
-          "node_id": "C_kwDORR6eT9oAKDBmOWZiNzI2OTc0NTJmNzQ4ZWMxYTA1NjcxMzAyYWZmMDA0NDZjMTk",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T08:31:26Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T08:31:26Z"
-            },
-            "message": "fix: 移除02-基础使用指南中 # 前缀的错误描述\n\n# 前缀实际上不会添加内容到 CLAUDE.md，用户输入后被当作普通提示词处理。\n改为推荐使用 /memory 命令管理项目记忆。",
-            "tree": {
-              "sha": "c2a4040f9756db93a0a2e41ad5c701087db6d28b",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/c2a4040f9756db93a0a2e41ad5c701087db6d28b"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/0f9fb72697452f748ec1a05671302aff00446c19",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/0f9fb72697452f748ec1a05671302aff00446c19",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/0f9fb72697452f748ec1a05671302aff00446c19",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/0f9fb72697452f748ec1a05671302aff00446c19/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "1362ac0887a8b4f786ec771f1e3cb35fb530160d",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1362ac0887a8b4f786ec771f1e3cb35fb530160d",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1362ac0887a8b4f786ec771f1e3cb35fb530160d"
-            }
-          ]
-        },
-        {
-          "sha": "2897bf542f835ac5a2fadb6719345643e3dfe8ce",
-          "node_id": "C_kwDORR6eT9oAKDI4OTdiZjU0MmY4MzVhYzVhMmZhZGI2NzE5MzQ1NjQzZTNkZmU4Y2U",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T10:57:11Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T10:57:11Z"
-            },
-            "message": "fix: 二次验证修复5篇文档16处确认错误\n\n04-MCP: 4个Python包改用uvx、PostgreSQL连接字符串改args、工具列表修正、GitHub环境变量名修正\n05-Hooks: Hook类型数量8→15补充6种新类型、决策值新旧API说明\n08-SDK: Haiku模型ID格式修正、can_use_tool签名修正、TS类型名修正\n09-综合实战: permissions结构改为扁平格式、deniedTools→disallowedTools、删除虚构模型\n10-企业实战: 删除编造的import语法改为正确配置共享方式",
-            "tree": {
-              "sha": "e89df31920134198df9690978bea9ac0249f58e1",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/e89df31920134198df9690978bea9ac0249f58e1"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/2897bf542f835ac5a2fadb6719345643e3dfe8ce",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/2897bf542f835ac5a2fadb6719345643e3dfe8ce",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/2897bf542f835ac5a2fadb6719345643e3dfe8ce",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/2897bf542f835ac5a2fadb6719345643e3dfe8ce/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "0f9fb72697452f748ec1a05671302aff00446c19",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/0f9fb72697452f748ec1a05671302aff00446c19",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/0f9fb72697452f748ec1a05671302aff00446c19"
-            }
-          ]
-        },
-        {
-          "sha": "f464841eace9300fec695eb6b60b421bede25ff9",
-          "node_id": "C_kwDORR6eT9oAKGY0NjQ4NDFlYWNlOTMwMGZlYzY5NWViNmI2MGI0MjFiZWRlMjVmZjk",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T16:59:18Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T16:59:18Z"
-            },
-            "message": "feat: OpenClaw 全套文档重写 — 技术错误修复 + 小白友好化改造\n\n- 重写全部11篇OpenClaw文档，从浅层内容扩展为深度教程（总计12500+行）\n- 基于源码验证修正所有技术错误：配置格式YAML→JSON5、端口3000→18789、\n  Node.js版本、CLI命令、WhatsApp Baileys、平台支持列表等\n- 新增00-阅读指南：术语表、文档地图、4条阅读路线（小白速通/日常使用/深度定制/生产部署）\n- 全部文档加入小白友好元素：难度标记、阅读时间、前置知识、⏭️可跳过标记、\n  术语解释、检查点提示、平台准备清单\n- 文件名从英文重命名为中文，与项目整体风格统一",
-            "tree": {
-              "sha": "a3a9ceaa97444c2440eca8daf24c72f9730f64b0",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/a3a9ceaa97444c2440eca8daf24c72f9730f64b0"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/f464841eace9300fec695eb6b60b421bede25ff9",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f464841eace9300fec695eb6b60b421bede25ff9",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f464841eace9300fec695eb6b60b421bede25ff9",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f464841eace9300fec695eb6b60b421bede25ff9/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "2897bf542f835ac5a2fadb6719345643e3dfe8ce",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/2897bf542f835ac5a2fadb6719345643e3dfe8ce",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/2897bf542f835ac5a2fadb6719345643e3dfe8ce"
-            }
-          ]
-        },
-        {
-          "sha": "b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9",
-          "node_id": "C_kwDORR6eT9oAKGI4YzAxYjU3YjAyZGJkOTBkNDRlOWE3NjE1ZTI1YjdiYzMxYjJiYzk",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T17:01:11Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-25T17:01:11Z"
-            },
-            "message": "docs: 更新 README — 同步 OpenClaw 文档重写变更\n\n- 文档表格链接更新为中文文件名\n- 新增 OC-00 阅读指南条目\n- 难度标记从星号改为 emoji（🟢入门/🟡进阶/🔴高级）\n- 修正平台数量 30+ → 15+、Node.js 版本 22.0.0 → 22.12.0\n- 教程总数 21 → 22、changelog 补充源码验证和小白友好化说明",
-            "tree": {
-              "sha": "d3912346d5efa036d88621a3ddc84666482b1b41",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/d3912346d5efa036d88621a3ddc84666482b1b41"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "f464841eace9300fec695eb6b60b421bede25ff9",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f464841eace9300fec695eb6b60b421bede25ff9",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f464841eace9300fec695eb6b60b421bede25ff9"
-            }
-          ]
-        },
-        {
-          "sha": "88c64cd8600d6a94a253449afcac0b485abcaffb",
-          "node_id": "C_kwDORR6eT9oAKDg4YzY0Y2Q4NjAwZDZhOTRhMjUzNDQ5YWZjYWMwYjQ4NWFiY2FmZmI",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-26T02:35:23Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-26T02:35:23Z"
-            },
-            "message": "feat: 新增06-Subagent子代理教程 + 全站模型名更新\n\n- 新增 06-Subagent子代理完整指南（339行），重写自飞书原稿：\n  清除假CLI命令、修复代码块标记、清理Google包裹链接、\n  统一表格格式，覆盖10大类100+专家代理\n- 教程编号重排：原06-10后移为07-11，腾出06给Subagent\n- 更新所有交叉引用：README、快速导航卡、Plugins上下节、企业实战Module\n- 全站模型名更新：Claude 3.5→Opus/Sonnet 4.6 + Haiku 4.5，GPT-4o→5.2",
-            "tree": {
-              "sha": "6a829273f5cc2664ce6f5907f913faebc00f4a9d",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/6a829273f5cc2664ce6f5907f913faebc00f4a9d"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/88c64cd8600d6a94a253449afcac0b485abcaffb",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/88c64cd8600d6a94a253449afcac0b485abcaffb",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/88c64cd8600d6a94a253449afcac0b485abcaffb",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/88c64cd8600d6a94a253449afcac0b485abcaffb/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/b8c01b57b02dbd90d44e9a7615e25b7bc31b2bc9"
-            }
-          ]
-        },
-        {
-          "sha": "893348467c293eb6a109ceec0440147b2f97bcd8",
-          "node_id": "C_kwDORR6eT9oAKDg5MzM0ODQ2N2MyOTNlYjZhMTA5Y2VlYzA0NDAxNDdiMmY5N2JjZDg",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-27T12:13:00Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-02-27T12:13:00Z"
-            },
-            "message": "docs: 安装指南新增NPM备选方案 + Windows PATH详细排查\n\n- 安装概览表新增NPM安装方式（已废弃但仍可用，v2.1.62）\n- 新增5.5节：NPM完整安装指南（前提条件/分平台说明/对比表）\n- 扩充Windows PATH故障排查：3种方法（GUI九步/PowerShell命令/快捷方式）\n- 修复导航表错误章节引用（5.5→6.5）",
-            "tree": {
-              "sha": "578042bba75b07a4cef006f901973427c50c083c",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/578042bba75b07a4cef006f901973427c50c083c"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/893348467c293eb6a109ceec0440147b2f97bcd8",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/893348467c293eb6a109ceec0440147b2f97bcd8",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/893348467c293eb6a109ceec0440147b2f97bcd8",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/893348467c293eb6a109ceec0440147b2f97bcd8/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "88c64cd8600d6a94a253449afcac0b485abcaffb",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/88c64cd8600d6a94a253449afcac0b485abcaffb",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/88c64cd8600d6a94a253449afcac0b485abcaffb"
-            }
-          ]
-        },
-        {
-          "sha": "9cb8bb93621b8521715fdda1ebccece704611699",
-          "node_id": "C_kwDORR6eT9oAKDljYjhiYjkzNjIxYjg1MjE3MTVmZGRhMWViY2NlY2U3MDQ2MTE2OTk",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-01T14:40:57Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-01T14:40:57Z"
-            },
-            "message": "fix: 修复6篇OpenClaw教程28处虚构配置 + GitHub仓库名修正\n\n对照官方文档(docs.openclaw.ai)逐条验证，修复AI幻觉生成的配置字段：\n\n07-记忆系统指南(16处):\n- memory.vectorStore → agents.defaults.memorySearch.store.vector\n- memory.embedding → agents.defaults.memorySearch.provider/model\n- agents.defaults.memory(enabled/basePath/loadDays等) → memory-core插件说明\n- 顶层compaction → agents.defaults.compaction\n- memory.loadOnStart → 默认行为说明+extraPaths\n- memory.userProfile/autoLearn → SOUL.md引导方式\n- memory.security/encryption/audit/maintenance → OS级方案\n\n06-技能系统指南(2处):\n- \"security\"顶层字段 → sandbox+approvals机制说明\n- \"schedules\"顶层字段 → \"cron\"字段\n\n10-安全配置指南(6处):\n- \"permissions\"顶层字段 → 单一信任边界模型+channels控制\n- \"tools.permissions\"嵌套结构 → sandbox+审批系统+SOUL.md\n- \"filesystem\"顶层字段 → Docker沙箱+OS权限+SOUL.md\n- \"storage.encryption\" → OS级磁盘加密\n- \"storage.retention\" → 手动清理方案\n- \"providers\"顶层字段 → agents.defaults.model+env方式\n\n08-多Agent协作指南(4处):\n- \"schedules\"×4 → \"cron\"\n\n00+11-GitHub仓库名(10处):\n- nicepkg/openclaw → openclaw/openclaw\n\n🤖 Generated with Claude Code (claude-opus-4-6)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>",
-            "tree": {
-              "sha": "81082c0da7cd6a513312c5c73606814efdb8aac2",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/81082c0da7cd6a513312c5c73606814efdb8aac2"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/9cb8bb93621b8521715fdda1ebccece704611699",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/9cb8bb93621b8521715fdda1ebccece704611699",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/9cb8bb93621b8521715fdda1ebccece704611699",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/9cb8bb93621b8521715fdda1ebccece704611699/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "893348467c293eb6a109ceec0440147b2f97bcd8",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/893348467c293eb6a109ceec0440147b2f97bcd8",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/893348467c293eb6a109ceec0440147b2f97bcd8"
-            }
-          ]
-        },
-        {
-          "sha": "f9b9887a18f0bb08bf3915766e3b05c174722ec8",
-          "node_id": "C_kwDORR6eT9oAKGY5Yjk4ODdhMThmMGJiMDhiZjM5MTU3NjZlM2IwNWMxNzQ3MjJlYzg",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-11T13:39:01Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-11T13:39:01Z"
-            },
-            "message": "fix: 修正安装指南Windows路径 + Hooks输出机制纠错\n\n- 安装指南：Windows安装路径从AppData\\Local\\claude-code修正为.local\\bin\n- 安装指南：新增PATH环境变量配置章节（PowerShell命令+图形界面两种方式）\n- 安装指南：修正卸载命令路径\n- Hooks指南：修正PostToolUse Hook输出机制说明（stderr不会显示在界面）\n- Hooks指南：示例代码改用日志文件方式替代错误的stderr输出\n- Hooks指南：补充不同Hook类型的输出机制对比说明",
-            "tree": {
-              "sha": "99dd085b51c9e73263623bf9389f20c3eae9344b",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/99dd085b51c9e73263623bf9389f20c3eae9344b"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/f9b9887a18f0bb08bf3915766e3b05c174722ec8",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f9b9887a18f0bb08bf3915766e3b05c174722ec8",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f9b9887a18f0bb08bf3915766e3b05c174722ec8",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f9b9887a18f0bb08bf3915766e3b05c174722ec8/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "9cb8bb93621b8521715fdda1ebccece704611699",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/9cb8bb93621b8521715fdda1ebccece704611699",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/9cb8bb93621b8521715fdda1ebccece704611699"
-            }
-          ]
-        },
-        {
-          "sha": "3f7fd4527995aa243426d68901422c9073ab69e3",
-          "node_id": "C_kwDORR6eT9oAKDNmN2ZkNDUyNzk5NWFhMjQzNDI2ZDY4OTAxNDIyYzkwNzNhYjY5ZTM",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-17T15:03:32Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-17T15:03:32Z"
-            },
-            "message": "fix: 修正OpenClaw教程10处配置错误 - 验证GitHub源码\n\n主要修正：\n- clawhub.ai → clawhub.com\n- GPT-5.2 → GPT-5.4, Claude 4.6, Gemini 3.1 Pro\n- agentId → id (agents.list配置)\n- providers → models.providers (配置结构)\n- GOOGLE_API_KEY → GEMINI_API_KEY\n- CLI命令修正 (auth, approvals, logs, gateway, clawhub等)\n- 沙箱模式 \"never\" → \"off\"\n- 删除虚构的进程级沙箱章节\n- Docker版本格式 v1.x.x → vYYYY.M.D\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
-            "tree": {
-              "sha": "aa13427c8514834c327222fa4b08a0dee1bce4ab",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/aa13427c8514834c327222fa4b08a0dee1bce4ab"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/3f7fd4527995aa243426d68901422c9073ab69e3",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/3f7fd4527995aa243426d68901422c9073ab69e3",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/3f7fd4527995aa243426d68901422c9073ab69e3",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/3f7fd4527995aa243426d68901422c9073ab69e3/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "f9b9887a18f0bb08bf3915766e3b05c174722ec8",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/f9b9887a18f0bb08bf3915766e3b05c174722ec8",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/f9b9887a18f0bb08bf3915766e3b05c174722ec8"
-            }
-          ]
-        },
-        {
-          "sha": "1cdbda35578e742eafd75c6accbfcd998eed5e70",
-          "node_id": "C_kwDORR6eT9oAKDFjZGJkYTM1NTc4ZTc0MmVhZmQ3NWM2YWNjYmZjZDk5OGVlZDVlNzA",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-18T04:40:17Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-18T04:40:17Z"
-            },
-            "message": "fix: 全量审核修复OpenClaw教程01-11全部虚构配置\n\n跨3个session对照GitHub源码逐行验证，修复内容包括：\n- 11-FAQ: ~33处虚构配置路径(defaultModel/tools.*/security.*/budget.*等)\n- 10-安全: 8+处错误(gateway.tls.enabled/security.ipWhitelist等)\n- 08-多Agent: 384行重写(bindings位置/sandbox.mode值/路由配置)\n- 06-技能/04-模型/05-平台/03-快速开始: 各若干处修正\n- 统一CLI命令: gateway start→gateway --port, logs→verbose模式\n- 统一配置路径: gateway.token→gateway.auth.token, defaultModel→agents.defaults.model",
-            "tree": {
-              "sha": "e87aab3b5664a5bc51dd7937371758a3443fdef7",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/e87aab3b5664a5bc51dd7937371758a3443fdef7"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/1cdbda35578e742eafd75c6accbfcd998eed5e70",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1cdbda35578e742eafd75c6accbfcd998eed5e70",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1cdbda35578e742eafd75c6accbfcd998eed5e70",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1cdbda35578e742eafd75c6accbfcd998eed5e70/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "3f7fd4527995aa243426d68901422c9073ab69e3",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/3f7fd4527995aa243426d68901422c9073ab69e3",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/3f7fd4527995aa243426d68901422c9073ab69e3"
-            }
-          ]
-        },
-        {
-          "sha": "5849706cc26092bc1ac9a8ef69e85febad4c16aa",
-          "node_id": "C_kwDORR6eT9oAKDU4NDk3MDZjYzI2MDkyYmMxYWM5YThlZjY5ZTg1ZmViYWQ0YzE2YWE",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-18T12:10:16Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-18T12:10:16Z"
-            },
-            "message": "feat: 补充Claude Code v2.1.69-v2.1.78新功能到全部教程\n\n11个教程文件全面更新，净增644行内容，覆盖以下新功能：\n\n- 02-基础使用：/voice语音模式、/effort推理深度、Auto Memories、模型表增加1M上下文和128K输出\n- 03-Commands：/loop、/effort、/sandbox、/color、/copy、/branch 6个新命令详解\n- 04-MCP：MCP Elicitation交互式信息请求\n- 05-Hooks：StopFailure、PostCompact、InstructionsLoaded、Elicitation/ElicitationResult + HTTP Hooks\n- 06-Subagent：Agent Teams多代理团队协作概述\n- 07-Skills：${CLAUDE_SKILL_DIR}变量说明\n- 10-综合实战：Sandbox沙箱配置详解、128K输出token说明\n- 11-企业实战：modelOverrides企业端点映射、Worktree/sparsePaths大型monorepo优化\n- 01/08/09：模型名称统一更新为最新格式",
-            "tree": {
-              "sha": "48e8b242906d0c8f23394f3a314709e9a985ea29",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/48e8b242906d0c8f23394f3a314709e9a985ea29"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/5849706cc26092bc1ac9a8ef69e85febad4c16aa",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/5849706cc26092bc1ac9a8ef69e85febad4c16aa",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/5849706cc26092bc1ac9a8ef69e85febad4c16aa",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/5849706cc26092bc1ac9a8ef69e85febad4c16aa/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "1cdbda35578e742eafd75c6accbfcd998eed5e70",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1cdbda35578e742eafd75c6accbfcd998eed5e70",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1cdbda35578e742eafd75c6accbfcd998eed5e70"
-            }
-          ]
-        },
-        {
-          "sha": "1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
-          "node_id": "C_kwDORR6eT9oAKDFmMWI5NTY4MGVmNmNmZDJkNjdmMjZkNmE3YzBlZTEwYmM1MWE3MTc",
-          "commit": {
-            "author": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-18T12:17:32Z"
-            },
-            "committer": {
-              "name": "KimYx0207",
-              "email": "xun900207@gmail.com",
-              "date": "2026-03-18T12:17:32Z"
-            },
-            "message": "docs: 更新README和快速导航卡 - 同步v2.1.78新功能\n\n- README: 版本徽章2.1.78、Hook类型20种、新增v3.1日志\n- 快速导航卡: 补充02/03/10/11教程、新功能入口（/voice、/loop、Agent Teams等)",
-            "tree": {
-              "sha": "2f559cad80c8a6104b01a7b19adf1eae9f3b1041",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/2f559cad80c8a6104b01a7b19adf1eae9f3b1041"
-            },
-            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
-          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
-          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717/comments",
-          "author": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "KimYx0207",
-            "id": 130755848,
-            "node_id": "U_kgDOB8stCA",
-            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/KimYx0207",
-            "html_url": "https://github.com/KimYx0207",
-            "followers_url": "https://api.github.com/users/KimYx0207/followers",
-            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
-            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
-            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
-            "repos_url": "https://api.github.com/users/KimYx0207/repos",
-            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "5849706cc26092bc1ac9a8ef69e85febad4c16aa",
-              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/5849706cc26092bc1ac9a8ef69e85febad4c16aa",
-              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/5849706cc26092bc1ac9a8ef69e85febad4c16aa"
-            }
-          ]
-        }
-      ]
+      "result": "compare-failed",
+      "reason": "Failed to compare fork with upstream: Not Found",
+      "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh",
+      "updated_at": "2026-03-30T03:55:49.507Z",
+      "commits": []
     },
     {
       "repo": "cloudflare-temp-mail-service",
@@ -2928,7 +1288,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-03-29T07:45:59.763Z",
+      "updated_at": "2026-03-30T03:55:50.087Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -7617,7 +5977,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-03-29T07:46:00.627Z",
+      "updated_at": "2026-03-30T03:55:50.901Z",
       "commits": []
     },
     {
@@ -7631,7 +5991,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-03-29T07:46:01.044Z",
+      "updated_at": "2026-03-30T03:55:51.311Z",
       "commits": []
     },
     {
@@ -7645,7 +6005,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-03-29T07:46:01.423Z",
+      "updated_at": "2026-03-30T03:55:51.756Z",
       "commits": []
     },
     {
@@ -7657,30 +6017,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 2d522aebe5e4ac9b0fcb0f0461b2fa711be2cb32.",
+      "reason": "Force-reset fork branch to upstream commit 7bd87e3f8998fa0fb5a64c4cd0b354d7805a3487.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-03-29T07:46:02.056Z",
+      "updated_at": "2026-03-30T03:55:52.427Z",
       "commits": [
         {
-          "sha": "2d522aebe5e4ac9b0fcb0f0461b2fa711be2cb32",
-          "node_id": "C_kwDORKtM3doAKDJkNTIyYWViZTVlNGFjOWIwZmNiMGYwNDYxYjJmYTcxMWJlMmNiMzI",
+          "sha": "7bd87e3f8998fa0fb5a64c4cd0b354d7805a3487",
+          "node_id": "C_kwDORKtM3doAKDdiZDg3ZTNmODk5OGZhMGZiNWE2NGM0Y2QwYjM1NGQ3ODA1YTM0ODc",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-29T06:36:38Z"
+              "date": "2026-03-30T02:51:30Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-29T06:36:38Z"
+              "date": "2026-03-30T02:51:30Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/2d522aebe5e4ac9b0fcb0f0461b2fa711be2cb32",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/7bd87e3f8998fa0fb5a64c4cd0b354d7805a3487",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -7690,9 +6050,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/2d522aebe5e4ac9b0fcb0f0461b2fa711be2cb32",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/2d522aebe5e4ac9b0fcb0f0461b2fa711be2cb32",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/2d522aebe5e4ac9b0fcb0f0461b2fa711be2cb32/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/7bd87e3f8998fa0fb5a64c4cd0b354d7805a3487",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/7bd87e3f8998fa0fb5a64c4cd0b354d7805a3487",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/7bd87e3f8998fa0fb5a64c4cd0b354d7805a3487/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -7756,7 +6116,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-03-29T07:46:02.665Z",
+      "updated_at": "2026-03-30T03:55:53.163Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -8355,7 +6715,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-03-29T07:46:03.117Z",
+      "updated_at": "2026-03-30T03:55:53.746Z",
       "commits": []
     },
     {
@@ -8369,7 +6729,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-03-29T07:46:03.503Z",
+      "updated_at": "2026-03-30T03:55:54.100Z",
       "commits": []
     },
     {
@@ -8383,7 +6743,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-03-29T07:46:03.820Z",
+      "updated_at": "2026-03-30T03:55:54.657Z",
       "commits": []
     },
     {
@@ -8397,7 +6757,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service/compare/master...idinging:master",
-      "updated_at": "2026-03-29T07:46:04.140Z",
+      "updated_at": "2026-03-30T03:55:55.021Z",
+      "commits": []
+    },
+    {
+      "repo": "gitee",
+      "upstream": "MallocPointer/gitee",
+      "branch": "main",
+      "ahead_by": 0,
+      "behind_by": 3,
+      "status": "updated",
+      "action": "merge-upstream",
+      "result": "synced",
+      "reason": "Merged upstream branch main.",
+      "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
+      "updated_at": "2026-03-30T03:55:55.382Z",
       "commits": []
     },
     {
@@ -8411,7 +6785,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-03-29T07:46:04.459Z",
+      "updated_at": "2026-03-30T03:55:56.031Z",
       "commits": []
     },
     {
@@ -8425,7 +6799,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-03-29T07:46:04.790Z",
+      "updated_at": "2026-03-30T03:55:56.544Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -8522,7 +6896,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-03-29T07:46:05.195Z",
+      "updated_at": "2026-03-30T03:55:56.982Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -20755,7 +19129,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...510myRday:main",
-      "updated_at": "2026-03-29T07:46:06.121Z",
+      "updated_at": "2026-03-30T03:55:57.859Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -21173,14 +19547,14 @@
       "repo": "outlookEmailPlus",
       "upstream": "ZeroPointSix/outlookEmailPlus",
       "branch": "main",
-      "ahead_by": 28,
+      "ahead_by": 30,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-03-29T07:46:06.596Z",
+      "updated_at": "2026-03-30T03:55:58.361Z",
       "commits": [
         {
           "sha": "c49029d5a687c81c929aa351770ff07830704037",
@@ -23477,6 +21851,170 @@
               "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/54bb7c8d9a599351ced4678be44c763dd983b55f"
             }
           ]
+        },
+        {
+          "sha": "4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570",
+          "node_id": "C_kwDORsORztoAKDRjZTM4YjJjZGY5YWQwYzNkZjczYzk3YWM2OThlNTliOWY1YmI1NzA",
+          "commit": {
+            "author": {
+              "name": "ZeroPointSix",
+              "email": "h15002710886@gmail.com",
+              "date": "2026-03-29T13:01:21Z"
+            },
+            "committer": {
+              "name": "ZeroPointSix",
+              "email": "h15002710886@gmail.com",
+              "date": "2026-03-29T13:01:21Z"
+            },
+            "message": "fix(ci): add tag trigger for multi-arch Docker builds",
+            "tree": {
+              "sha": "5fc67a71d0d8f8ec5acef960b155519a523812ab",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/5fc67a71d0d8f8ec5acef960b155519a523812ab"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570/comments",
+          "author": {
+            "login": "ZeroPointSix",
+            "id": 229769386,
+            "node_id": "U_kgDODbIAqg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/229769386?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ZeroPointSix",
+            "html_url": "https://github.com/ZeroPointSix",
+            "followers_url": "https://api.github.com/users/ZeroPointSix/followers",
+            "following_url": "https://api.github.com/users/ZeroPointSix/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ZeroPointSix/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ZeroPointSix/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ZeroPointSix/subscriptions",
+            "organizations_url": "https://api.github.com/users/ZeroPointSix/orgs",
+            "repos_url": "https://api.github.com/users/ZeroPointSix/repos",
+            "events_url": "https://api.github.com/users/ZeroPointSix/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ZeroPointSix/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ZeroPointSix",
+            "id": 229769386,
+            "node_id": "U_kgDODbIAqg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/229769386?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ZeroPointSix",
+            "html_url": "https://github.com/ZeroPointSix",
+            "followers_url": "https://api.github.com/users/ZeroPointSix/followers",
+            "following_url": "https://api.github.com/users/ZeroPointSix/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ZeroPointSix/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ZeroPointSix/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ZeroPointSix/subscriptions",
+            "organizations_url": "https://api.github.com/users/ZeroPointSix/orgs",
+            "repos_url": "https://api.github.com/users/ZeroPointSix/repos",
+            "events_url": "https://api.github.com/users/ZeroPointSix/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ZeroPointSix/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "d77fee6ca182721c90a5ddb0f93e3ebcf460532e",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d77fee6ca182721c90a5ddb0f93e3ebcf460532e",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d77fee6ca182721c90a5ddb0f93e3ebcf460532e"
+            }
+          ]
+        },
+        {
+          "sha": "ca3b4ba14f6e63c472a869d2f8131b0ff057a58c",
+          "node_id": "C_kwDORsORztoAKGNhM2I0YmExNGY2ZTYzYzQ3MmE4NjlkMmY4MTMxYjBmZjA1N2E1OGM",
+          "commit": {
+            "author": {
+              "name": "ZeroPointSix",
+              "email": "h15002710886@gmail.com",
+              "date": "2026-03-29T13:01:28Z"
+            },
+            "committer": {
+              "name": "ZeroPointSix",
+              "email": "h15002710886@gmail.com",
+              "date": "2026-03-29T13:01:28Z"
+            },
+            "message": "chore: bump version to 1.10.1",
+            "tree": {
+              "sha": "d38ff2283421c831788ed12d0f703faa031b694d",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/d38ff2283421c831788ed12d0f703faa031b694d"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/ca3b4ba14f6e63c472a869d2f8131b0ff057a58c",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ca3b4ba14f6e63c472a869d2f8131b0ff057a58c",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/ca3b4ba14f6e63c472a869d2f8131b0ff057a58c",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ca3b4ba14f6e63c472a869d2f8131b0ff057a58c/comments",
+          "author": {
+            "login": "ZeroPointSix",
+            "id": 229769386,
+            "node_id": "U_kgDODbIAqg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/229769386?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ZeroPointSix",
+            "html_url": "https://github.com/ZeroPointSix",
+            "followers_url": "https://api.github.com/users/ZeroPointSix/followers",
+            "following_url": "https://api.github.com/users/ZeroPointSix/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ZeroPointSix/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ZeroPointSix/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ZeroPointSix/subscriptions",
+            "organizations_url": "https://api.github.com/users/ZeroPointSix/orgs",
+            "repos_url": "https://api.github.com/users/ZeroPointSix/repos",
+            "events_url": "https://api.github.com/users/ZeroPointSix/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ZeroPointSix/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ZeroPointSix",
+            "id": 229769386,
+            "node_id": "U_kgDODbIAqg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/229769386?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ZeroPointSix",
+            "html_url": "https://github.com/ZeroPointSix",
+            "followers_url": "https://api.github.com/users/ZeroPointSix/followers",
+            "following_url": "https://api.github.com/users/ZeroPointSix/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ZeroPointSix/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ZeroPointSix/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ZeroPointSix/subscriptions",
+            "organizations_url": "https://api.github.com/users/ZeroPointSix/orgs",
+            "repos_url": "https://api.github.com/users/ZeroPointSix/repos",
+            "events_url": "https://api.github.com/users/ZeroPointSix/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ZeroPointSix/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/4ce38b2cdf9ad0c3df73c97ac698e59b9f5bb570"
+            }
+          ]
         }
       ]
     },
@@ -23491,7 +22029,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-03-29T07:46:07.411Z",
+      "updated_at": "2026-03-30T03:55:59.255Z",
       "commits": []
     },
     {
@@ -23505,7 +22043,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-03-29T07:46:07.720Z",
+      "updated_at": "2026-03-30T03:55:59.633Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -23766,7 +22304,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-03-29T07:46:08.203Z",
+      "updated_at": "2026-03-30T03:56:00.162Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
