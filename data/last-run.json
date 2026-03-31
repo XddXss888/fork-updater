@@ -1,10 +1,10 @@
 {
-  "run_started_at": "2026-03-31T03:46:51.739Z",
-  "run_completed_at": "2026-03-31T03:47:09.721Z",
+  "run_started_at": "2026-03-31T08:02:18.414Z",
+  "run_completed_at": "2026-03-31T08:02:41.389Z",
   "summary": {
-    "scanned": 30,
+    "scanned": 34,
     "updated": 3,
-    "up_to_date": 25,
+    "up_to_date": 29,
     "manual": 1,
     "errors": 1
   },
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-03-31T03:46:52.565Z",
+      "updated_at": "2026-03-31T08:02:19.449Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-03-31T03:46:53.122Z",
+      "updated_at": "2026-03-31T08:02:19.956Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-03-31T03:46:53.648Z",
+      "updated_at": "2026-03-31T08:02:20.567Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -474,21 +474,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-03-31T03:46:54.158Z",
+      "updated_at": "2026-03-31T08:02:21.091Z",
       "commits": []
     },
     {
       "repo": "any-auto-register",
       "upstream": "lxf746/any-auto-register",
       "branch": "main",
-      "ahead_by": 12,
+      "ahead_by": 14,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-03-31T03:46:54.710Z",
+      "updated_at": "2026-03-31T08:02:21.626Z",
       "commits": [
         {
           "sha": "2bc29550e5977879dbb5513a3cbb5b37f9cc49cb",
@@ -1243,6 +1243,175 @@
               "html_url": "https://github.com/XddXss888/any-auto-register/commit/4395b55019cb13ac087f44e06dd598950bb8ccf9"
             }
           ]
+        },
+        {
+          "sha": "c0cd61f8245a617f2ac6d188156096d1ee12b8d4",
+          "node_id": "C_kwDORsOUJtoAKGMwY2Q2MWY4MjQ1YTYxN2YyYWM2ZDE4ODE1NjA5NmQxZWUxMmI4ZDQ",
+          "commit": {
+            "author": {
+              "name": "meiying",
+              "email": "2274735204@qq.com",
+              "date": "2026-03-29T05:07:21Z"
+            },
+            "committer": {
+              "name": "meiying",
+              "email": "2274735204@qq.com",
+              "date": "2026-03-29T05:07:21Z"
+            },
+            "message": "feat: 修改chatgpt进入注册页面逻辑和填写出生日期和年龄逻辑",
+            "tree": {
+              "sha": "73865965c544ff3dff7d8aa82d6e662aba2b79db",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/trees/73865965c544ff3dff7d8aa82d6e662aba2b79db"
+            },
+            "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/commits/c0cd61f8245a617f2ac6d188156096d1ee12b8d4",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/c0cd61f8245a617f2ac6d188156096d1ee12b8d4",
+          "html_url": "https://github.com/XddXss888/any-auto-register/commit/c0cd61f8245a617f2ac6d188156096d1ee12b8d4",
+          "comments_url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/c0cd61f8245a617f2ac6d188156096d1ee12b8d4/comments",
+          "author": {
+            "login": "fishimei",
+            "id": 242755392,
+            "node_id": "U_kgDODngnQA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/242755392?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/fishimei",
+            "html_url": "https://github.com/fishimei",
+            "followers_url": "https://api.github.com/users/fishimei/followers",
+            "following_url": "https://api.github.com/users/fishimei/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fishimei/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/fishimei/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fishimei/subscriptions",
+            "organizations_url": "https://api.github.com/users/fishimei/orgs",
+            "repos_url": "https://api.github.com/users/fishimei/repos",
+            "events_url": "https://api.github.com/users/fishimei/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/fishimei/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "fishimei",
+            "id": 242755392,
+            "node_id": "U_kgDODngnQA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/242755392?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/fishimei",
+            "html_url": "https://github.com/fishimei",
+            "followers_url": "https://api.github.com/users/fishimei/followers",
+            "following_url": "https://api.github.com/users/fishimei/following{/other_user}",
+            "gists_url": "https://api.github.com/users/fishimei/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/fishimei/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/fishimei/subscriptions",
+            "organizations_url": "https://api.github.com/users/fishimei/orgs",
+            "repos_url": "https://api.github.com/users/fishimei/repos",
+            "events_url": "https://api.github.com/users/fishimei/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/fishimei/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9aadc6a1969ca11187688586c7176249b49d96e8",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9aadc6a1969ca11187688586c7176249b49d96e8",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/9aadc6a1969ca11187688586c7176249b49d96e8"
+            }
+          ]
+        },
+        {
+          "sha": "335575ea5e55c29698f60e3aa6df5efd243fd1d4",
+          "node_id": "C_kwDORsOUJtoAKDMzNTU3NWVhNWU1NWMyOTY5OGY2MGUzYWE2ZGY1ZWZkMjQzZmQxZDQ",
+          "commit": {
+            "author": {
+              "name": "陈晓",
+              "email": "fanlixing@gdmu.edu.cn",
+              "date": "2026-03-31T04:55:12Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-31T04:55:12Z"
+            },
+            "message": "Merge pull request #25 from fishimei/main\n\nfeat: 修改chatgpt进入注册页面逻辑和填写出生日期和年龄逻辑",
+            "tree": {
+              "sha": "73865965c544ff3dff7d8aa82d6e662aba2b79db",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/trees/73865965c544ff3dff7d8aa82d6e662aba2b79db"
+            },
+            "url": "https://api.github.com/repos/XddXss888/any-auto-register/git/commits/335575ea5e55c29698f60e3aa6df5efd243fd1d4",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpy1OwCRC1aQ7uu5UhlAAAtAAQAAESvcDSBeYc98+xM8ehjWgc\n2SMnITQ2oNeSd6YU5VpfknivYnf7hXFZS6awMHsp1spgj+Xt4n1UJUs0wqL62NYD\n34TaXvCL0poL8SgMoYTIVl+1SsJTCIAeZFFxdOqDFM4nik2MlH7qtSOTfzjnVeBz\nOuCFoE92fg6CLpNy+pT7YuNM0fQCO8b3kOCQG6wjTdlqn95zESI8RLhkcvAvkqEK\nCHBNSYJLfJLugpDXylixVIfvconrfJyvraEH3QHUwkVaWo9EB1k8FxP/ubl6XYMN\nJrUH4FBcYyQeqmsK+fTfDFqKkOKr2G1VStoN9Fg3S7D60TVK+hvYAZoEGI72sbjH\nM23pyQP769zVLV/kSHuSQ4IOrqSPBYvvSNAG2okUJJcSoyDwsLZcj02LVkp7WzKp\nrqnUJR9/w+IFBpW1XOEHBHklASW92pF3eEBeJnq3k9M1I5mSnkXoXJzAy7Y5FI/g\nyLxOuz/OapXyLzha+SFJZXFz/pv4Qo4JE9NOY95pzNzz1vpBCIpEPHu/NBSgYFnd\nR6zS90KQbvZfhVNWKHdCZPLV49OYFGz1gPgg2Ijqe63ptrdJ5LL+oM28b+qQ5/k0\nyS2Y+7z6axe9JXkWzBXZvj2han0nbTRQhjFet2i+sRz9mMXM8r08QuCJHnWCy/zj\nAWxCCUzQHKsan09xjmdM\n=9/QS\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 73865965c544ff3dff7d8aa82d6e662aba2b79db\nparent 9aadc6a1969ca11187688586c7176249b49d96e8\nparent c0cd61f8245a617f2ac6d188156096d1ee12b8d4\nauthor 陈晓 <fanlixing@gdmu.edu.cn> 1774932912 +0800\ncommitter GitHub <noreply@github.com> 1774932912 +0800\n\nMerge pull request #25 from fishimei/main\n\nfeat: 修改chatgpt进入注册页面逻辑和填写出生日期和年龄逻辑",
+              "verified_at": "2026-03-31T04:55:13Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/335575ea5e55c29698f60e3aa6df5efd243fd1d4",
+          "html_url": "https://github.com/XddXss888/any-auto-register/commit/335575ea5e55c29698f60e3aa6df5efd243fd1d4",
+          "comments_url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/335575ea5e55c29698f60e3aa6df5efd243fd1d4/comments",
+          "author": {
+            "login": "lxf746",
+            "id": 216264444,
+            "node_id": "U_kgDODOPu_A",
+            "avatar_url": "https://avatars.githubusercontent.com/u/216264444?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/lxf746",
+            "html_url": "https://github.com/lxf746",
+            "followers_url": "https://api.github.com/users/lxf746/followers",
+            "following_url": "https://api.github.com/users/lxf746/following{/other_user}",
+            "gists_url": "https://api.github.com/users/lxf746/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/lxf746/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/lxf746/subscriptions",
+            "organizations_url": "https://api.github.com/users/lxf746/orgs",
+            "repos_url": "https://api.github.com/users/lxf746/repos",
+            "events_url": "https://api.github.com/users/lxf746/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/lxf746/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9aadc6a1969ca11187688586c7176249b49d96e8",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/9aadc6a1969ca11187688586c7176249b49d96e8",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/9aadc6a1969ca11187688586c7176249b49d96e8"
+            },
+            {
+              "sha": "c0cd61f8245a617f2ac6d188156096d1ee12b8d4",
+              "url": "https://api.github.com/repos/XddXss888/any-auto-register/commits/c0cd61f8245a617f2ac6d188156096d1ee12b8d4",
+              "html_url": "https://github.com/XddXss888/any-auto-register/commit/c0cd61f8245a617f2ac6d188156096d1ee12b8d4"
+            }
+          ]
         }
       ]
     },
@@ -1257,7 +1426,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-03-31T03:46:55.655Z",
+      "updated_at": "2026-03-31T08:02:22.523Z",
       "commits": []
     },
     {
@@ -1271,7 +1440,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-03-31T03:46:56.047Z",
+      "updated_at": "2026-03-31T08:02:22.936Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -1328,7 +1497,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-03-31T03:46:56.550Z",
+      "updated_at": "2026-03-31T08:02:23.426Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -1589,7 +1758,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-03-31T03:46:57.013Z",
+      "updated_at": "2026-03-31T08:02:24.128Z",
       "commits": []
     },
     {
@@ -1603,7 +1772,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-03-31T03:46:57.508Z",
+      "updated_at": "2026-03-31T08:02:24.603Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -3422,7 +3591,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-03-31T03:46:58.257Z",
+      "updated_at": "2026-03-31T08:02:27.093Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -8193,7 +8362,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-03-31T03:46:59.153Z",
+      "updated_at": "2026-03-31T08:02:28.139Z",
       "commits": []
     },
     {
@@ -8207,8 +8376,269 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-03-31T03:46:59.557Z",
+      "updated_at": "2026-03-31T08:02:28.610Z",
       "commits": []
+    },
+    {
+      "repo": "codeX-register",
+      "upstream": "Msg-Lbo/codeX-register",
+      "branch": "main",
+      "ahead_by": 3,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
+      "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
+      "updated_at": "2026-03-31T08:02:29.028Z",
+      "commits": [
+        {
+          "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
+          "node_id": "C_kwDOR1bxsdoAKDFlYmVjNTE3MWY5MjhjYzllZTA4OWVkMTY4OWQwZTdlMTIwYmMwODA",
+          "commit": {
+            "author": {
+              "name": "Msg-Lbo",
+              "email": "24130801@qq.com",
+              "date": "2026-03-31T06:33:21Z"
+            },
+            "committer": {
+              "name": "Msg-Lbo",
+              "email": "24130801@qq.com",
+              "date": "2026-03-31T06:33:21Z"
+            },
+            "message": "release(v1.0.1): 支持access_token复制并精简账号页面",
+            "tree": {
+              "sha": "2948ebb99a2e2774e8b9e6911a58ab2f044ce622",
+              "url": "https://api.github.com/repos/XddXss888/codeX-register/git/trees/2948ebb99a2e2774e8b9e6911a58ab2f044ce622"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codeX-register/git/commits/1ebec5171f928cc9ee089ed1689d0e7e120bc080",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codeX-register/commits/1ebec5171f928cc9ee089ed1689d0e7e120bc080",
+          "html_url": "https://github.com/XddXss888/codeX-register/commit/1ebec5171f928cc9ee089ed1689d0e7e120bc080",
+          "comments_url": "https://api.github.com/repos/XddXss888/codeX-register/commits/1ebec5171f928cc9ee089ed1689d0e7e120bc080/comments",
+          "author": {
+            "login": "Msg-Lbo",
+            "id": 63098778,
+            "node_id": "MDQ6VXNlcjYzMDk4Nzc4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63098778?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Msg-Lbo",
+            "html_url": "https://github.com/Msg-Lbo",
+            "followers_url": "https://api.github.com/users/Msg-Lbo/followers",
+            "following_url": "https://api.github.com/users/Msg-Lbo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Msg-Lbo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Msg-Lbo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Msg-Lbo/subscriptions",
+            "organizations_url": "https://api.github.com/users/Msg-Lbo/orgs",
+            "repos_url": "https://api.github.com/users/Msg-Lbo/repos",
+            "events_url": "https://api.github.com/users/Msg-Lbo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Msg-Lbo/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "Msg-Lbo",
+            "id": 63098778,
+            "node_id": "MDQ6VXNlcjYzMDk4Nzc4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63098778?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Msg-Lbo",
+            "html_url": "https://github.com/Msg-Lbo",
+            "followers_url": "https://api.github.com/users/Msg-Lbo/followers",
+            "following_url": "https://api.github.com/users/Msg-Lbo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Msg-Lbo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Msg-Lbo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Msg-Lbo/subscriptions",
+            "organizations_url": "https://api.github.com/users/Msg-Lbo/orgs",
+            "repos_url": "https://api.github.com/users/Msg-Lbo/repos",
+            "events_url": "https://api.github.com/users/Msg-Lbo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Msg-Lbo/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c0109e675f008021549d2139383e2e7ade5ddfd1",
+              "url": "https://api.github.com/repos/XddXss888/codeX-register/commits/c0109e675f008021549d2139383e2e7ade5ddfd1",
+              "html_url": "https://github.com/XddXss888/codeX-register/commit/c0109e675f008021549d2139383e2e7ade5ddfd1"
+            }
+          ]
+        },
+        {
+          "sha": "0ab7ef4679b358574a48a7fc95fd975164958238",
+          "node_id": "C_kwDOR1bxsdoAKDBhYjdlZjQ2NzliMzU4NTc0YTQ4YTdmYzk1ZmQ5NzUxNjQ5NTgyMzg",
+          "commit": {
+            "author": {
+              "name": "Msg-Lbo",
+              "email": "24130801@qq.com",
+              "date": "2026-03-31T07:27:23Z"
+            },
+            "committer": {
+              "name": "Msg-Lbo",
+              "email": "24130801@qq.com",
+              "date": "2026-03-31T07:27:23Z"
+            },
+            "message": "docs(license): 更新作者信息并同步协议展示",
+            "tree": {
+              "sha": "4b579cb9b9400db9854a5471962580b630830629",
+              "url": "https://api.github.com/repos/XddXss888/codeX-register/git/trees/4b579cb9b9400db9854a5471962580b630830629"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codeX-register/git/commits/0ab7ef4679b358574a48a7fc95fd975164958238",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codeX-register/commits/0ab7ef4679b358574a48a7fc95fd975164958238",
+          "html_url": "https://github.com/XddXss888/codeX-register/commit/0ab7ef4679b358574a48a7fc95fd975164958238",
+          "comments_url": "https://api.github.com/repos/XddXss888/codeX-register/commits/0ab7ef4679b358574a48a7fc95fd975164958238/comments",
+          "author": {
+            "login": "Msg-Lbo",
+            "id": 63098778,
+            "node_id": "MDQ6VXNlcjYzMDk4Nzc4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63098778?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Msg-Lbo",
+            "html_url": "https://github.com/Msg-Lbo",
+            "followers_url": "https://api.github.com/users/Msg-Lbo/followers",
+            "following_url": "https://api.github.com/users/Msg-Lbo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Msg-Lbo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Msg-Lbo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Msg-Lbo/subscriptions",
+            "organizations_url": "https://api.github.com/users/Msg-Lbo/orgs",
+            "repos_url": "https://api.github.com/users/Msg-Lbo/repos",
+            "events_url": "https://api.github.com/users/Msg-Lbo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Msg-Lbo/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "Msg-Lbo",
+            "id": 63098778,
+            "node_id": "MDQ6VXNlcjYzMDk4Nzc4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63098778?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Msg-Lbo",
+            "html_url": "https://github.com/Msg-Lbo",
+            "followers_url": "https://api.github.com/users/Msg-Lbo/followers",
+            "following_url": "https://api.github.com/users/Msg-Lbo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Msg-Lbo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Msg-Lbo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Msg-Lbo/subscriptions",
+            "organizations_url": "https://api.github.com/users/Msg-Lbo/orgs",
+            "repos_url": "https://api.github.com/users/Msg-Lbo/repos",
+            "events_url": "https://api.github.com/users/Msg-Lbo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Msg-Lbo/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
+              "url": "https://api.github.com/repos/XddXss888/codeX-register/commits/1ebec5171f928cc9ee089ed1689d0e7e120bc080",
+              "html_url": "https://github.com/XddXss888/codeX-register/commit/1ebec5171f928cc9ee089ed1689d0e7e120bc080"
+            }
+          ]
+        },
+        {
+          "sha": "9aad816ffebc7b66ed2c652c3b44e48c66e76e91",
+          "node_id": "C_kwDOR1bxsdoAKDlhYWQ4MTZmZmViYzdiNjZlZDJjNjUyYzNiNDRlNDhjNjZlNzZlOTE",
+          "commit": {
+            "author": {
+              "name": "绕远路的出租车司机",
+              "email": "63098778+Msg-Lbo@users.noreply.github.com",
+              "date": "2026-03-31T07:34:48Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-03-31T07:34:48Z"
+            },
+            "message": "Update license terms for clarity",
+            "tree": {
+              "sha": "c8ed91cf154f738284452ce7db6daf3d72af9997",
+              "url": "https://api.github.com/repos/XddXss888/codeX-register/git/trees/c8ed91cf154f738284452ce7db6daf3d72af9997"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codeX-register/git/commits/9aad816ffebc7b66ed2c652c3b44e48c66e76e91",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpy3kYCRC1aQ7uu5UhlAAAxrkQAChfkcnnu3J5XixUd7WCXTD/\nfsjzo6+UehGIPRNvGgSKQbKZOYwXz0d4afPRkiGC7XN+j7T4xHp7c7xnfY/eifB2\nhxovtEqC1OKNuDTzBUgeuO8aNyR/YPq3AmTR15dckBSfpWm8AHziwi7UZxckPlj6\nIud1wE/ndnZoWxzaP6+AQpUyPORibrvNRhEd/m45yttm0SAu3lZwtKLrFCSMbVf+\nmxUk/8+ttadoFdILIjuNzX+QhyCrYu8hpq+7Mp4KnLtfy2Zv1FEUa3ONOTx9MDb9\n74+cVAkt7Ejmy/gysE/RRf/5gKpFWvCKK5JuoWGU8uRqsffz4cuggWTV2nDqpD4C\n6MQQTbLjPNM0sgn1NFyYOxq7iDPhUrBr5+YbnoDi1Cjld1XWYDmt0petR2Cjq2sb\n/ajOLo6R2kde0JG+4d0EjPF3dHD4ufUwgkLG9We50mLHL+z7ECd0kw8g87ZqKR/I\nU32fnjwuymX5BjQtBwRqw/qvv7NC0nPuJmjjCgGE6EYyXngHYzN5ZQw5W59Ufuxo\n+johAqG4BLZRsWhyF/ukwepBE38lHqehbmYO9fZd3btPf/utxFAcEOSiE7YOUJf5\ngIJl5Isq6NTlSbEmbMNF5VKsOdl121eGqRdSDccS7e3WiSW+oG94O82p/NYiWlJT\nbngR70gfMCxjyBGJ8LmH\n=WXi1\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree c8ed91cf154f738284452ce7db6daf3d72af9997\nparent 0ab7ef4679b358574a48a7fc95fd975164958238\nauthor 绕远路的出租车司机 <63098778+Msg-Lbo@users.noreply.github.com> 1774942488 +0800\ncommitter GitHub <noreply@github.com> 1774942488 +0800\n\nUpdate license terms for clarity",
+              "verified_at": "2026-03-31T07:34:49Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codeX-register/commits/9aad816ffebc7b66ed2c652c3b44e48c66e76e91",
+          "html_url": "https://github.com/XddXss888/codeX-register/commit/9aad816ffebc7b66ed2c652c3b44e48c66e76e91",
+          "comments_url": "https://api.github.com/repos/XddXss888/codeX-register/commits/9aad816ffebc7b66ed2c652c3b44e48c66e76e91/comments",
+          "author": {
+            "login": "Msg-Lbo",
+            "id": 63098778,
+            "node_id": "MDQ6VXNlcjYzMDk4Nzc4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/63098778?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Msg-Lbo",
+            "html_url": "https://github.com/Msg-Lbo",
+            "followers_url": "https://api.github.com/users/Msg-Lbo/followers",
+            "following_url": "https://api.github.com/users/Msg-Lbo/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Msg-Lbo/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Msg-Lbo/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Msg-Lbo/subscriptions",
+            "organizations_url": "https://api.github.com/users/Msg-Lbo/orgs",
+            "repos_url": "https://api.github.com/users/Msg-Lbo/repos",
+            "events_url": "https://api.github.com/users/Msg-Lbo/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Msg-Lbo/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "0ab7ef4679b358574a48a7fc95fd975164958238",
+              "url": "https://api.github.com/repos/XddXss888/codeX-register/commits/0ab7ef4679b358574a48a7fc95fd975164958238",
+              "html_url": "https://github.com/XddXss888/codeX-register/commit/0ab7ef4679b358574a48a7fc95fd975164958238"
+            }
+          ]
+        }
+      ]
     },
     {
       "repo": "codex-session-patcher",
@@ -8221,7 +8651,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-03-31T03:46:59.950Z",
+      "updated_at": "2026-03-31T08:02:29.595Z",
+      "commits": []
+    },
+    {
+      "repo": "CodexRegister",
+      "upstream": "yofers/CodexRegister",
+      "branch": "master",
+      "ahead_by": 0,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
+      "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
+      "updated_at": "2026-03-31T08:02:30.064Z",
       "commits": []
     },
     {
@@ -8235,7 +8679,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-03-31T03:47:00.300Z",
+      "updated_at": "2026-03-31T08:02:30.537Z",
       "commits": []
     },
     {
@@ -8247,30 +8691,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 4ceb0f56fd0b4d4b876fb58219a19e1771ea21c7.",
+      "reason": "Force-reset fork branch to upstream commit 348bb3d290a66d8cb88de559070bde55a903bfb2.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-03-31T03:47:01.024Z",
+      "updated_at": "2026-03-31T08:02:31.333Z",
       "commits": [
         {
-          "sha": "4ceb0f56fd0b4d4b876fb58219a19e1771ea21c7",
-          "node_id": "C_kwDORKtM3doAKDRjZWIwZjU2ZmQwYjRkNGI4NzZmYjU4MjE5YTE5ZTE3NzFlYTIxYzc",
+          "sha": "348bb3d290a66d8cb88de559070bde55a903bfb2",
+          "node_id": "C_kwDORKtM3doAKDM0OGJiM2QyOTBhNjZkOGNiODhkZTU1OTA3MGJkZTU1YTkwM2JmYjI",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-31T02:01:33Z"
+              "date": "2026-03-31T07:33:58Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-03-31T02:01:33Z"
+              "date": "2026-03-31T07:33:58Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/4ceb0f56fd0b4d4b876fb58219a19e1771ea21c7",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/348bb3d290a66d8cb88de559070bde55a903bfb2",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -8280,9 +8724,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/4ceb0f56fd0b4d4b876fb58219a19e1771ea21c7",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/4ceb0f56fd0b4d4b876fb58219a19e1771ea21c7",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/4ceb0f56fd0b4d4b876fb58219a19e1771ea21c7/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/348bb3d290a66d8cb88de559070bde55a903bfb2",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/348bb3d290a66d8cb88de559070bde55a903bfb2",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/348bb3d290a66d8cb88de559070bde55a903bfb2/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -8346,7 +8790,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-03-31T03:47:01.832Z",
+      "updated_at": "2026-03-31T08:02:32.142Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -8945,7 +9389,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-03-31T03:47:02.363Z",
+      "updated_at": "2026-03-31T08:02:32.730Z",
       "commits": []
     },
     {
@@ -8959,7 +9403,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-03-31T03:47:02.776Z",
+      "updated_at": "2026-03-31T08:02:33.184Z",
       "commits": []
     },
     {
@@ -8973,7 +9417,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-03-31T03:47:03.160Z",
+      "updated_at": "2026-03-31T08:02:33.558Z",
       "commits": []
     },
     {
@@ -8987,7 +9431,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-03-31T03:47:03.585Z",
+      "updated_at": "2026-03-31T08:02:34.052Z",
       "commits": []
     },
     {
@@ -9001,7 +9445,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-03-31T03:47:04.059Z",
+      "updated_at": "2026-03-31T08:02:34.534Z",
       "commits": []
     },
     {
@@ -9015,7 +9459,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-03-31T03:47:04.794Z",
+      "updated_at": "2026-03-31T08:02:35.347Z",
       "commits": []
     },
     {
@@ -9029,7 +9473,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-03-31T03:47:05.193Z",
+      "updated_at": "2026-03-31T08:02:35.831Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -9126,7 +9570,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-03-31T03:47:05.783Z",
+      "updated_at": "2026-03-31T08:02:36.378Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -21359,7 +21803,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...510myRday:main",
-      "updated_at": "2026-03-31T03:47:06.903Z",
+      "updated_at": "2026-03-31T08:02:37.455Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -22020,6 +22464,34 @@
       ]
     },
     {
+      "repo": "modelhealthcheck",
+      "upstream": "Arron196/modelhealthcheck",
+      "branch": "master",
+      "ahead_by": 0,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
+      "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
+      "updated_at": "2026-03-31T08:02:38.133Z",
+      "commits": []
+    },
+    {
+      "repo": "NeuraDock",
+      "upstream": "i-rtfsc/NeuraDock",
+      "branch": "main",
+      "ahead_by": 0,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
+      "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
+      "updated_at": "2026-03-31T08:02:38.585Z",
+      "commits": []
+    },
+    {
       "repo": "outlookEmailPlus",
       "upstream": "ZeroPointSix/outlookEmailPlus",
       "branch": "main",
@@ -22030,7 +22502,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-03-31T03:47:07.423Z",
+      "updated_at": "2026-03-31T08:02:39.058Z",
       "commits": [
         {
           "sha": "c49029d5a687c81c929aa351770ff07830704037",
@@ -24505,7 +24977,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-03-31T03:47:08.442Z",
+      "updated_at": "2026-03-31T08:02:40.009Z",
       "commits": []
     },
     {
@@ -24519,7 +24991,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-03-31T03:47:08.814Z",
+      "updated_at": "2026-03-31T08:02:40.419Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -24780,7 +25252,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-03-31T03:47:09.318Z",
+      "updated_at": "2026-03-31T08:02:40.979Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
