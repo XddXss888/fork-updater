@@ -1,10 +1,10 @@
 {
-  "run_started_at": "2026-04-03T03:42:09.782Z",
-  "run_completed_at": "2026-04-03T03:42:37.014Z",
+  "run_started_at": "2026-04-03T07:56:22.173Z",
+  "run_completed_at": "2026-04-03T07:56:41.525Z",
   "summary": {
     "scanned": 35,
-    "updated": 4,
-    "up_to_date": 29,
+    "updated": 3,
+    "up_to_date": 30,
     "manual": 1,
     "errors": 1
   },
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-04-03T03:42:10.731Z",
+      "updated_at": "2026-04-03T07:56:23.083Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-04-03T03:42:11.222Z",
+      "updated_at": "2026-04-03T07:56:23.601Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-04-03T03:42:11.728Z",
+      "updated_at": "2026-04-03T07:56:24.095Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -638,7 +638,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-04-03T03:42:12.277Z",
+      "updated_at": "2026-04-03T07:56:24.637Z",
       "commits": []
     },
     {
@@ -652,7 +652,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-04-03T03:42:12.700Z",
+      "updated_at": "2026-04-03T07:56:25.066Z",
       "commits": [
         {
           "sha": "2bc29550e5977879dbb5513a3cbb5b37f9cc49cb",
@@ -1590,7 +1590,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-04-03T03:42:13.413Z",
+      "updated_at": "2026-04-03T07:56:25.956Z",
       "commits": []
     },
     {
@@ -1604,7 +1604,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-04-03T03:42:13.855Z",
+      "updated_at": "2026-04-03T07:56:26.313Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -2454,7 +2454,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-04-03T03:42:16.069Z",
+      "updated_at": "2026-04-03T07:56:26.817Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -2511,7 +2511,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-03T03:42:16.512Z",
+      "updated_at": "2026-04-03T07:56:27.248Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -2936,7 +2936,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-04-03T03:42:17.080Z",
+      "updated_at": "2026-04-03T07:56:27.839Z",
       "commits": []
     },
     {
@@ -2950,7 +2950,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-04-03T03:42:17.467Z",
+      "updated_at": "2026-04-03T07:56:28.215Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -4769,7 +4769,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-04-03T03:42:18.181Z",
+      "updated_at": "2026-04-03T07:56:28.952Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -9704,105 +9704,22 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-04-03T03:42:19.106Z",
+      "updated_at": "2026-04-03T07:56:29.873Z",
       "commits": []
     },
     {
       "repo": "codex-console",
       "upstream": "DestinyCycloid/codex-console",
       "branch": "main",
-      "ahead_by": 1,
-      "behind_by": 2,
-      "status": "updated",
-      "action": "force-reset",
-      "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit c2b881ac1433ef1b9e466289328e98b8534a2b2d.",
+      "ahead_by": 0,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-03T03:42:19.539Z",
-      "commits": [
-        {
-          "sha": "c2b881ac1433ef1b9e466289328e98b8534a2b2d",
-          "node_id": "C_kwDORuCteNoAKGMyYjg4MWFjMTQzM2VmMWI5ZTQ2NjI4OTMyOGU5OGI4NTM0YTJiMmQ",
-          "commit": {
-            "author": {
-              "name": "Ukumbuko",
-              "email": "dcycloid8@outlook.com",
-              "date": "2026-04-02T10:09:02Z"
-            },
-            "committer": {
-              "name": "Ukumbuko",
-              "email": "dcycloid8@outlook.com",
-              "date": "2026-04-02T10:09:02Z"
-            },
-            "message": "修复前端问题",
-            "tree": {
-              "sha": "1d7efb1660bdc6e502948c2aed70ca3dcb81838a",
-              "url": "https://api.github.com/repos/XddXss888/codex-console/git/trees/1d7efb1660bdc6e502948c2aed70ca3dcb81838a"
-            },
-            "url": "https://api.github.com/repos/XddXss888/codex-console/git/commits/c2b881ac1433ef1b9e466289328e98b8534a2b2d",
-            "comment_count": 0,
-            "verification": {
-              "verified": false,
-              "reason": "unsigned",
-              "signature": null,
-              "payload": null,
-              "verified_at": null
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/codex-console/commits/c2b881ac1433ef1b9e466289328e98b8534a2b2d",
-          "html_url": "https://github.com/XddXss888/codex-console/commit/c2b881ac1433ef1b9e466289328e98b8534a2b2d",
-          "comments_url": "https://api.github.com/repos/XddXss888/codex-console/commits/c2b881ac1433ef1b9e466289328e98b8534a2b2d/comments",
-          "author": {
-            "login": "DestinyCycloid",
-            "id": 43673859,
-            "node_id": "MDQ6VXNlcjQzNjczODU5",
-            "avatar_url": "https://avatars.githubusercontent.com/u/43673859?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DestinyCycloid",
-            "html_url": "https://github.com/DestinyCycloid",
-            "followers_url": "https://api.github.com/users/DestinyCycloid/followers",
-            "following_url": "https://api.github.com/users/DestinyCycloid/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DestinyCycloid/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DestinyCycloid/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DestinyCycloid/subscriptions",
-            "organizations_url": "https://api.github.com/users/DestinyCycloid/orgs",
-            "repos_url": "https://api.github.com/users/DestinyCycloid/repos",
-            "events_url": "https://api.github.com/users/DestinyCycloid/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DestinyCycloid/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "DestinyCycloid",
-            "id": 43673859,
-            "node_id": "MDQ6VXNlcjQzNjczODU5",
-            "avatar_url": "https://avatars.githubusercontent.com/u/43673859?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/DestinyCycloid",
-            "html_url": "https://github.com/DestinyCycloid",
-            "followers_url": "https://api.github.com/users/DestinyCycloid/followers",
-            "following_url": "https://api.github.com/users/DestinyCycloid/following{/other_user}",
-            "gists_url": "https://api.github.com/users/DestinyCycloid/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/DestinyCycloid/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/DestinyCycloid/subscriptions",
-            "organizations_url": "https://api.github.com/users/DestinyCycloid/orgs",
-            "repos_url": "https://api.github.com/users/DestinyCycloid/repos",
-            "events_url": "https://api.github.com/users/DestinyCycloid/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/DestinyCycloid/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "1591d400e32e8607f04a4c852dc8583dd7adf41d",
-              "url": "https://api.github.com/repos/XddXss888/codex-console/commits/1591d400e32e8607f04a4c852dc8583dd7adf41d",
-              "html_url": "https://github.com/XddXss888/codex-console/commit/1591d400e32e8607f04a4c852dc8583dd7adf41d"
-            }
-          ]
-        }
-      ]
+      "updated_at": "2026-04-03T07:56:30.290Z",
+      "commits": []
     },
     {
       "repo": "codeX-register",
@@ -9815,7 +9732,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-04-03T03:42:20.317Z",
+      "updated_at": "2026-04-03T07:56:30.686Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -10486,7 +10403,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-04-03T03:42:20.871Z",
+      "updated_at": "2026-04-03T07:56:31.217Z",
       "commits": [
         {
           "sha": "52e463c8307c5af2428fd300d621f2bf25026673",
@@ -10829,7 +10746,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-04-03T03:42:21.349Z",
+      "updated_at": "2026-04-03T07:56:31.693Z",
       "commits": []
     },
     {
@@ -10843,7 +10760,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-04-03T03:42:21.716Z",
+      "updated_at": "2026-04-03T07:56:32.086Z",
       "commits": []
     },
     {
@@ -10855,30 +10772,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 836becb2d225743e95fb3164751578ef6812251d.",
+      "reason": "Force-reset fork branch to upstream commit 6fcb52c4e74c46d42b8f7f4d47d3b58f42bfa3ad.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-04-03T03:42:22.418Z",
+      "updated_at": "2026-04-03T07:56:32.826Z",
       "commits": [
         {
-          "sha": "836becb2d225743e95fb3164751578ef6812251d",
-          "node_id": "C_kwDORKtM3doAKDgzNmJlY2IyZDIyNTc0M2U5NWZiMzE2NDc1MTU3OGVmNjgxMjI1MWQ",
+          "sha": "6fcb52c4e74c46d42b8f7f4d47d3b58f42bfa3ad",
+          "node_id": "C_kwDORKtM3doAKDZmY2I1MmM0ZTc0YzQ2ZDQyYjhmN2Y0ZDQ3ZDNiNThmNDJiZmEzYWQ",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-03T02:25:25Z"
+              "date": "2026-04-03T07:41:45Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-03T02:25:25Z"
+              "date": "2026-04-03T07:41:45Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/836becb2d225743e95fb3164751578ef6812251d",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/6fcb52c4e74c46d42b8f7f4d47d3b58f42bfa3ad",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -10888,9 +10805,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/836becb2d225743e95fb3164751578ef6812251d",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/836becb2d225743e95fb3164751578ef6812251d",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/836becb2d225743e95fb3164751578ef6812251d/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/6fcb52c4e74c46d42b8f7f4d47d3b58f42bfa3ad",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/6fcb52c4e74c46d42b8f7f4d47d3b58f42bfa3ad",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/6fcb52c4e74c46d42b8f7f4d47d3b58f42bfa3ad/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -10954,7 +10871,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-04-03T03:42:23.138Z",
+      "updated_at": "2026-04-03T07:56:33.556Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -11635,7 +11552,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-04-03T03:42:23.708Z",
+      "updated_at": "2026-04-03T07:56:34.103Z",
       "commits": []
     },
     {
@@ -11649,7 +11566,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-04-03T03:42:24.068Z",
+      "updated_at": "2026-04-03T07:56:34.447Z",
       "commits": []
     },
     {
@@ -11663,7 +11580,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-04-03T03:42:24.392Z",
+      "updated_at": "2026-04-03T07:56:34.836Z",
       "commits": []
     },
     {
@@ -11677,7 +11594,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-04-03T03:42:24.757Z",
+      "updated_at": "2026-04-03T07:56:35.214Z",
       "commits": []
     },
     {
@@ -11691,7 +11608,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-04-03T03:42:25.144Z",
+      "updated_at": "2026-04-03T07:56:35.561Z",
       "commits": []
     },
     {
@@ -11705,7 +11622,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-04-03T03:42:25.804Z",
+      "updated_at": "2026-04-03T07:56:36.227Z",
       "commits": []
     },
     {
@@ -11719,7 +11636,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-04-03T03:42:26.130Z",
+      "updated_at": "2026-04-03T07:56:36.582Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -11816,7 +11733,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-04-03T03:42:26.633Z",
+      "updated_at": "2026-04-03T07:56:37.044Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -24049,7 +23966,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-04-03T03:42:27.580Z",
+      "updated_at": "2026-04-03T07:56:37.951Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -24720,7 +24637,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-04-03T03:42:28.087Z",
+      "updated_at": "2026-04-03T07:56:38.549Z",
       "commits": []
     },
     {
@@ -24734,7 +24651,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-04-03T03:42:34.266Z",
+      "updated_at": "2026-04-03T07:56:38.883Z",
       "commits": []
     },
     {
@@ -24748,7 +24665,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-04-03T03:42:34.647Z",
+      "updated_at": "2026-04-03T07:56:39.285Z",
       "commits": [
         {
           "sha": "c49029d5a687c81c929aa351770ff07830704037",
@@ -27223,7 +27140,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-04-03T03:42:35.676Z",
+      "updated_at": "2026-04-03T07:56:40.256Z",
       "commits": []
     },
     {
@@ -27237,7 +27154,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-04-03T03:42:36.085Z",
+      "updated_at": "2026-04-03T07:56:40.685Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -27498,7 +27415,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-04-03T03:42:36.591Z",
+      "updated_at": "2026-04-03T07:56:41.161Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
