@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-04-04T03:29:22.591Z",
-  "run_completed_at": "2026-04-04T03:29:46.730Z",
+  "run_started_at": "2026-04-04T07:42:09.336Z",
+  "run_completed_at": "2026-04-04T07:42:28.913Z",
   "summary": {
     "scanned": 37,
     "updated": 3,
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-04-04T03:29:23.609Z",
+      "updated_at": "2026-04-04T07:42:10.093Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-04-04T03:29:24.186Z",
+      "updated_at": "2026-04-04T07:42:10.628Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-04-04T03:29:24.813Z",
+      "updated_at": "2026-04-04T07:42:11.076Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -638,7 +638,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-04-04T03:29:25.453Z",
+      "updated_at": "2026-04-04T07:42:11.550Z",
       "commits": []
     },
     {
@@ -652,7 +652,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-04-04T03:29:25.954Z",
+      "updated_at": "2026-04-04T07:42:12.000Z",
       "commits": [
         {
           "sha": "2bc29550e5977879dbb5513a3cbb5b37f9cc49cb",
@@ -1590,7 +1590,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-04-04T03:29:26.907Z",
+      "updated_at": "2026-04-04T07:42:12.760Z",
       "commits": []
     },
     {
@@ -1604,7 +1604,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-04-04T03:29:27.328Z",
+      "updated_at": "2026-04-04T07:42:13.057Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -2454,7 +2454,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-04-04T03:29:27.982Z",
+      "updated_at": "2026-04-04T07:42:13.583Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -2511,7 +2511,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-04T03:29:28.575Z",
+      "updated_at": "2026-04-04T07:42:13.987Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -2936,7 +2936,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-04-04T03:29:29.191Z",
+      "updated_at": "2026-04-04T07:42:14.468Z",
       "commits": []
     },
     {
@@ -2950,7 +2950,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-04-04T03:29:29.693Z",
+      "updated_at": "2026-04-04T07:42:14.847Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -4769,7 +4769,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-04-04T03:29:30.678Z",
+      "updated_at": "2026-04-04T07:42:15.597Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -4866,7 +4866,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-04-04T03:29:31.173Z",
+      "updated_at": "2026-04-04T07:42:16.021Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -9883,7 +9883,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-04-04T03:29:32.185Z",
+      "updated_at": "2026-04-04T07:42:16.955Z",
       "commits": []
     },
     {
@@ -9897,7 +9897,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-04T03:29:32.702Z",
+      "updated_at": "2026-04-04T07:42:17.309Z",
       "commits": []
     },
     {
@@ -9911,7 +9911,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-04-04T03:29:33.177Z",
+      "updated_at": "2026-04-04T07:42:17.704Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -10582,7 +10582,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-04-04T03:29:33.801Z",
+      "updated_at": "2026-04-04T07:42:18.256Z",
       "commits": [
         {
           "sha": "52e463c8307c5af2428fd300d621f2bf25026673",
@@ -10925,7 +10925,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-04-04T03:29:34.348Z",
+      "updated_at": "2026-04-04T07:42:18.687Z",
       "commits": []
     },
     {
@@ -10939,7 +10939,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-04-04T03:29:34.821Z",
+      "updated_at": "2026-04-04T07:42:19.062Z",
       "commits": []
     },
     {
@@ -10951,30 +10951,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 967deb8a61ace15e1f2abdf96530cbd689358fcd.",
+      "reason": "Force-reset fork branch to upstream commit bbee19cf0a37352c17828809edc3db74d09cdbf1.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-04-04T03:29:35.588Z",
+      "updated_at": "2026-04-04T07:42:19.749Z",
       "commits": [
         {
-          "sha": "967deb8a61ace15e1f2abdf96530cbd689358fcd",
-          "node_id": "C_kwDORKtM3doAKDk2N2RlYjhhNjFhY2UxNWUxZjJhYmRmOTY1MzBjYmQ2ODkzNThmY2Q",
+          "sha": "bbee19cf0a37352c17828809edc3db74d09cdbf1",
+          "node_id": "C_kwDORKtM3doAKGJiZWUxOWNmMGEzNzM1MmMxNzgyODgwOWVkYzNkYjc0ZDA5Y2RiZjE",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-04T02:57:23Z"
+              "date": "2026-04-04T06:07:12Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-04T02:57:23Z"
+              "date": "2026-04-04T06:07:12Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/967deb8a61ace15e1f2abdf96530cbd689358fcd",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/bbee19cf0a37352c17828809edc3db74d09cdbf1",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -10984,9 +10984,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/967deb8a61ace15e1f2abdf96530cbd689358fcd",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/967deb8a61ace15e1f2abdf96530cbd689358fcd",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/967deb8a61ace15e1f2abdf96530cbd689358fcd/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/bbee19cf0a37352c17828809edc3db74d09cdbf1",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/bbee19cf0a37352c17828809edc3db74d09cdbf1",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/bbee19cf0a37352c17828809edc3db74d09cdbf1/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -11050,7 +11050,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-04-04T03:29:36.479Z",
+      "updated_at": "2026-04-04T07:42:20.402Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -11731,7 +11731,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-04-04T03:29:37.100Z",
+      "updated_at": "2026-04-04T07:42:20.886Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -12074,7 +12074,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-04-04T03:29:37.686Z",
+      "updated_at": "2026-04-04T07:42:21.358Z",
       "commits": []
     },
     {
@@ -12088,7 +12088,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-04-04T03:29:38.089Z",
+      "updated_at": "2026-04-04T07:42:21.781Z",
       "commits": []
     },
     {
@@ -12102,7 +12102,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-04-04T03:29:38.535Z",
+      "updated_at": "2026-04-04T07:42:22.143Z",
       "commits": []
     },
     {
@@ -12116,7 +12116,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-04-04T03:29:38.988Z",
+      "updated_at": "2026-04-04T07:42:22.476Z",
       "commits": []
     },
     {
@@ -12130,7 +12130,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-04-04T03:29:39.807Z",
+      "updated_at": "2026-04-04T07:42:23.190Z",
       "commits": []
     },
     {
@@ -12144,7 +12144,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-04-04T03:29:40.287Z",
+      "updated_at": "2026-04-04T07:42:23.651Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -12241,7 +12241,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-04-04T03:29:40.799Z",
+      "updated_at": "2026-04-04T07:42:24.078Z",
       "commits": []
     },
     {
@@ -12255,7 +12255,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-04-04T03:29:41.292Z",
+      "updated_at": "2026-04-04T07:42:24.466Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -24488,7 +24488,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-04-04T03:29:42.315Z",
+      "updated_at": "2026-04-04T07:42:25.480Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -25159,7 +25159,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-04-04T03:29:42.958Z",
+      "updated_at": "2026-04-04T07:42:26.000Z",
       "commits": []
     },
     {
@@ -25173,21 +25173,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-04-04T03:29:43.420Z",
+      "updated_at": "2026-04-04T07:42:26.361Z",
       "commits": []
     },
     {
       "repo": "outlookEmailPlus",
       "upstream": "ZeroPointSix/outlookEmailPlus",
       "branch": "main",
-      "ahead_by": 118,
+      "ahead_by": 120,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-04-04T03:29:43.880Z",
+      "updated_at": "2026-04-04T07:42:26.687Z",
       "commits": [
         {
           "sha": "285a94e743209b7ac97772d24bd29a20216c3906",
@@ -34899,6 +34899,175 @@
               "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/218612d1332afb6370b0be40b62743136395f401"
             }
           ]
+        },
+        {
+          "sha": "d6d624e8835e3f808672bdd5f2fd86e8b8f3d652",
+          "node_id": "C_kwDORsORztoAKGQ2ZDYyNGU4ODM1ZTNmODA4NjcyYmRkNWYyZmQ4NmU4YjhmM2Q2NTI",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-04T03:52:34Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-04T03:52:34Z"
+            },
+            "message": "fix(pool): release 时清理 account_project_usage，修复 Bug #28\n\n问题根因：v17 引入 account_project_usage 表防止同项目复用已用账号，\nclaim_atomic 通过 NOT EXISTS 子查询排除该表里有记录的账号。但是\nrelease（放弃任务）操作没有同步清理这条记录，导致账号虽然 pool_status\n恢复为 available，下次用相同 project_key 的 claim-random 仍被排除，\n表现为「释放后账号依旧不可用」。\n\n修复：在 pool_repo.release 事务中增加 DELETE FROM account_project_usage\nWHERE account_id = ? AND consumer_key = ?，确保放弃的领取不影响再次领取。\n注意：complete(success) 不做清理，已注册成功的账号继续被同项目排除。\n\n同步清理 services/pool.py 中重复定义的 PoolServiceError 及若干辅助函数\n（文件后半段是代码合并遗留的重复块，全部移除）。\n\n新增 3 个回归测试：test_release_clears_project_usage_for_reclaim /\ntest_release_without_project_key_still_works /\ntest_complete_success_preserves_project_usage\n\nFixes #28",
+            "tree": {
+              "sha": "b85dc41eedcf2e17ae35476e4dbc500e70ca519d",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/b85dc41eedcf2e17ae35476e4dbc500e70ca519d"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/d6d624e8835e3f808672bdd5f2fd86e8b8f3d652",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d6d624e8835e3f808672bdd5f2fd86e8b8f3d652",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d6d624e8835e3f808672bdd5f2fd86e8b8f3d652",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d6d624e8835e3f808672bdd5f2fd86e8b8f3d652/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9fccc04d5d9f18d6268e981e79c55f3e9f786726",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/9fccc04d5d9f18d6268e981e79c55f3e9f786726",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/9fccc04d5d9f18d6268e981e79c55f3e9f786726"
+            }
+          ]
+        },
+        {
+          "sha": "f2a407a28824e3e321923733df4333b93607f318",
+          "node_id": "C_kwDORsORztoAKGYyYTQwN2EyODgyNGUzZTMyMTkyMzczM2RmNDMzM2I5MzYwN2YzMTg",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-04T03:59:05Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-04T03:59:05Z"
+            },
+            "message": "Merge branch 'Buggithubissue': fix(pool) Bug #28 release 后账号依旧不可用",
+            "tree": {
+              "sha": "b85dc41eedcf2e17ae35476e4dbc500e70ca519d",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/b85dc41eedcf2e17ae35476e4dbc500e70ca519d"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/f2a407a28824e3e321923733df4333b93607f318",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/f2a407a28824e3e321923733df4333b93607f318",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/f2a407a28824e3e321923733df4333b93607f318",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/f2a407a28824e3e321923733df4333b93607f318/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9fccc04d5d9f18d6268e981e79c55f3e9f786726",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/9fccc04d5d9f18d6268e981e79c55f3e9f786726",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/9fccc04d5d9f18d6268e981e79c55f3e9f786726"
+            },
+            {
+              "sha": "d6d624e8835e3f808672bdd5f2fd86e8b8f3d652",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d6d624e8835e3f808672bdd5f2fd86e8b8f3d652",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d6d624e8835e3f808672bdd5f2fd86e8b8f3d652"
+            }
+          ]
         }
       ]
     },
@@ -34913,7 +35082,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-04-04T03:29:45.253Z",
+      "updated_at": "2026-04-04T07:42:27.747Z",
       "commits": []
     },
     {
@@ -34927,7 +35096,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-04-04T03:29:45.728Z",
+      "updated_at": "2026-04-04T07:42:28.097Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -35188,7 +35357,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-04-04T03:29:46.344Z",
+      "updated_at": "2026-04-04T07:42:28.549Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
