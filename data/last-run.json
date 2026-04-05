@@ -1,10 +1,10 @@
 {
-  "run_started_at": "2026-04-05T03:50:57.727Z",
-  "run_completed_at": "2026-04-05T03:51:25.765Z",
+  "run_started_at": "2026-04-05T07:49:40.642Z",
+  "run_completed_at": "2026-04-05T07:50:00.992Z",
   "summary": {
     "scanned": 38,
-    "updated": 3,
-    "up_to_date": 33,
+    "updated": 2,
+    "up_to_date": 34,
     "manual": 1,
     "errors": 1
   },
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-04-05T03:50:58.567Z",
+      "updated_at": "2026-04-05T07:49:41.739Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-04-05T03:50:58.963Z",
+      "updated_at": "2026-04-05T07:49:42.244Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-04-05T03:50:59.374Z",
+      "updated_at": "2026-04-05T07:49:42.670Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -638,7 +638,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-04-05T03:50:59.852Z",
+      "updated_at": "2026-04-05T07:49:43.167Z",
       "commits": []
     },
     {
@@ -652,7 +652,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/any-auto-register/compare/main...lxf746:main",
-      "updated_at": "2026-04-05T03:51:00.231Z",
+      "updated_at": "2026-04-05T07:49:43.569Z",
       "commits": [
         {
           "sha": "2bc29550e5977879dbb5513a3cbb5b37f9cc49cb",
@@ -1590,7 +1590,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-04-05T03:51:01.042Z",
+      "updated_at": "2026-04-05T07:49:44.359Z",
       "commits": []
     },
     {
@@ -1604,7 +1604,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-04-05T03:51:01.374Z",
+      "updated_at": "2026-04-05T07:49:44.675Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -2916,7 +2916,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-04-05T03:51:01.903Z",
+      "updated_at": "2026-04-05T07:49:45.183Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -2973,7 +2973,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-05T03:51:02.310Z",
+      "updated_at": "2026-04-05T07:49:45.611Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -3398,21 +3398,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-04-05T03:51:02.809Z",
+      "updated_at": "2026-04-05T07:49:46.162Z",
       "commits": []
     },
     {
       "repo": "Claude-Code-Guide-Zh",
       "upstream": "KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh",
       "branch": "main",
-      "ahead_by": 22,
+      "ahead_by": 28,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-04-05T03:51:03.170Z",
+      "updated_at": "2026-04-05T07:49:46.500Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -5217,6 +5217,503 @@
               "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/5849706cc26092bc1ac9a8ef69e85febad4c16aa"
             }
           ]
+        },
+        {
+          "sha": "a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb",
+          "node_id": "C_kwDORR6eT9oAKGExMWQ3ZGE2YzgxODY5M2MzNGMzNmJmY2IwY2I3ZjIzMWZhOGQ3ZWI",
+          "commit": {
+            "author": {
+              "name": "WytheHard",
+              "email": "wythe521@gmail.com",
+              "date": "2026-04-05T02:32:10Z"
+            },
+            "committer": {
+              "name": "WytheHard",
+              "email": "wythe521@gmail.com",
+              "date": "2026-04-05T02:32:10Z"
+            },
+            "message": "docs: 更新配置文档 - allowedTools 改为 allow\n\n修改权限配置说明中的字段名，将 allowedTools 统一改为 allow 以保持配置一致性。\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>",
+            "tree": {
+              "sha": "2b9c9228c9585299ccc101e66f1b603dbde05a3c",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/2b9c9228c9585299ccc101e66f1b603dbde05a3c"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb/comments",
+          "author": {
+            "login": "Wythehard",
+            "id": 19759538,
+            "node_id": "MDQ6VXNlcjE5NzU5NTM4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19759538?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wythehard",
+            "html_url": "https://github.com/Wythehard",
+            "followers_url": "https://api.github.com/users/Wythehard/followers",
+            "following_url": "https://api.github.com/users/Wythehard/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wythehard/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wythehard/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wythehard/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wythehard/orgs",
+            "repos_url": "https://api.github.com/users/Wythehard/repos",
+            "events_url": "https://api.github.com/users/Wythehard/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wythehard/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "Wythehard",
+            "id": 19759538,
+            "node_id": "MDQ6VXNlcjE5NzU5NTM4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19759538?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wythehard",
+            "html_url": "https://github.com/Wythehard",
+            "followers_url": "https://api.github.com/users/Wythehard/followers",
+            "following_url": "https://api.github.com/users/Wythehard/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wythehard/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wythehard/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wythehard/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wythehard/orgs",
+            "repos_url": "https://api.github.com/users/Wythehard/repos",
+            "events_url": "https://api.github.com/users/Wythehard/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wythehard/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717"
+            }
+          ]
+        },
+        {
+          "sha": "88985c7cccbd1a003f8e586db0d3d8fe72a133d4",
+          "node_id": "C_kwDORR6eT9oAKDg4OTg1YzdjY2NiZDFhMDAzZjhlNTg2ZGIwZDNkOGZlNzJhMTMzZDQ",
+          "commit": {
+            "author": {
+              "name": "KimYx0207",
+              "email": "xun900207@gmail.com",
+              "date": "2026-04-05T06:28:00Z"
+            },
+            "committer": {
+              "name": "KimYx0207",
+              "email": "xun900207@gmail.com",
+              "date": "2026-04-05T06:28:00Z"
+            },
+            "message": "docs: 新增2篇教程(Remote-Control/Channels) + 模型配置整合到安装指南\n     - 新增13-Remote-Control完整指南.md\n     - 新增14-Channels与计划任务完整指南.md\n     - 01安装指南新增第8.5部分：模型配置完整章节(+379行)\n     - 删除独立的12-Claude-Code模型配置完整指南.md\n     - 同步更新快速导航卡：14个教程→13个，序号重排\n     - 更新13/14对模型配置章节的交叉引用\n     - README教程数14→13，总数26→25\n     - 更新progress.md/findings.md内部记录",
+            "tree": {
+              "sha": "db4579357bbd0857bc66bb9dbc8484e957ac8e67",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/db4579357bbd0857bc66bb9dbc8484e957ac8e67"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/88985c7cccbd1a003f8e586db0d3d8fe72a133d4",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/88985c7cccbd1a003f8e586db0d3d8fe72a133d4",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/88985c7cccbd1a003f8e586db0d3d8fe72a133d4",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/88985c7cccbd1a003f8e586db0d3d8fe72a133d4/comments",
+          "author": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/1f1b95680ef6cfd2d67f26d6a7c0ee10bc51a717"
+            }
+          ]
+        },
+        {
+          "sha": "2226eadf49c6de96bbfddede6a2244d18bad6a21",
+          "node_id": "C_kwDORR6eT9oAKDIyMjZlYWRmNDljNmRlOTZiYmZkZGVkZTZhMjI0NGQxOGJhZDZhMjE",
+          "commit": {
+            "author": {
+              "name": "WytheHard",
+              "email": "wythe521@gmail.com",
+              "date": "2026-04-05T06:58:52Z"
+            },
+            "committer": {
+              "name": "WytheHard",
+              "email": "wythe521@gmail.com",
+              "date": "2026-04-05T06:58:52Z"
+            },
+            "message": "docs: 在代码块前添加空行 - 改进文档格式\n\n在'步骤2：读取文件'章节的代码块前添加空行，提高文档可读性。\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>",
+            "tree": {
+              "sha": "f7c6ab8f22ce9651ef0b8d4aba422b629b3c4b6b",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/f7c6ab8f22ce9651ef0b8d4aba422b629b3c4b6b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/2226eadf49c6de96bbfddede6a2244d18bad6a21",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/2226eadf49c6de96bbfddede6a2244d18bad6a21",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/2226eadf49c6de96bbfddede6a2244d18bad6a21",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/2226eadf49c6de96bbfddede6a2244d18bad6a21/comments",
+          "author": {
+            "login": "Wythehard",
+            "id": 19759538,
+            "node_id": "MDQ6VXNlcjE5NzU5NTM4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19759538?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wythehard",
+            "html_url": "https://github.com/Wythehard",
+            "followers_url": "https://api.github.com/users/Wythehard/followers",
+            "following_url": "https://api.github.com/users/Wythehard/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wythehard/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wythehard/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wythehard/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wythehard/orgs",
+            "repos_url": "https://api.github.com/users/Wythehard/repos",
+            "events_url": "https://api.github.com/users/Wythehard/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wythehard/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "Wythehard",
+            "id": 19759538,
+            "node_id": "MDQ6VXNlcjE5NzU5NTM4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19759538?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wythehard",
+            "html_url": "https://github.com/Wythehard",
+            "followers_url": "https://api.github.com/users/Wythehard/followers",
+            "following_url": "https://api.github.com/users/Wythehard/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wythehard/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wythehard/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wythehard/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wythehard/orgs",
+            "repos_url": "https://api.github.com/users/Wythehard/repos",
+            "events_url": "https://api.github.com/users/Wythehard/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wythehard/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/a11d7da6c818693c34c36bfcb0cb7f231fa8d7eb"
+            }
+          ]
+        },
+        {
+          "sha": "b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82",
+          "node_id": "C_kwDORR6eT9oAKGI2ZTY1YzFmYzNlYmRhYjc3MWEzYTEwODJhNjBhYzJmMWE3YzRiODI",
+          "commit": {
+            "author": {
+              "name": "WytheHard",
+              "email": "wythe521@gmail.com",
+              "date": "2026-04-05T07:29:28Z"
+            },
+            "committer": {
+              "name": "WytheHard",
+              "email": "wythe521@gmail.com",
+              "date": "2026-04-05T07:29:28Z"
+            },
+            "message": "docs: 在输出格式代码块前添加空行 - 改进文档格式\n\n在'输出格式'章节的代码块前添加空行，提高文档可读性和一致性。\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>",
+            "tree": {
+              "sha": "40ef4dc48ac622ce291d0442d9706a69ff6fc2d0",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/40ef4dc48ac622ce291d0442d9706a69ff6fc2d0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82/comments",
+          "author": {
+            "login": "Wythehard",
+            "id": 19759538,
+            "node_id": "MDQ6VXNlcjE5NzU5NTM4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19759538?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wythehard",
+            "html_url": "https://github.com/Wythehard",
+            "followers_url": "https://api.github.com/users/Wythehard/followers",
+            "following_url": "https://api.github.com/users/Wythehard/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wythehard/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wythehard/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wythehard/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wythehard/orgs",
+            "repos_url": "https://api.github.com/users/Wythehard/repos",
+            "events_url": "https://api.github.com/users/Wythehard/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wythehard/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "Wythehard",
+            "id": 19759538,
+            "node_id": "MDQ6VXNlcjE5NzU5NTM4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19759538?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Wythehard",
+            "html_url": "https://github.com/Wythehard",
+            "followers_url": "https://api.github.com/users/Wythehard/followers",
+            "following_url": "https://api.github.com/users/Wythehard/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Wythehard/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Wythehard/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Wythehard/subscriptions",
+            "organizations_url": "https://api.github.com/users/Wythehard/orgs",
+            "repos_url": "https://api.github.com/users/Wythehard/repos",
+            "events_url": "https://api.github.com/users/Wythehard/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Wythehard/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "2226eadf49c6de96bbfddede6a2244d18bad6a21",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/2226eadf49c6de96bbfddede6a2244d18bad6a21",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/2226eadf49c6de96bbfddede6a2244d18bad6a21"
+            }
+          ]
+        },
+        {
+          "sha": "7aa51f8d6ad7eeae9773bb9874b633069cdc7087",
+          "node_id": "C_kwDORR6eT9oAKDdhYTUxZjhkNmFkN2VlYWU5NzczYmI5ODc0YjYzMzA2OWNkYzcwODc",
+          "commit": {
+            "author": {
+              "name": "KimYx0207",
+              "email": "xun900207@gmail.com",
+              "date": "2026-04-05T07:42:48Z"
+            },
+            "committer": {
+              "name": "KimYx0207",
+              "email": "xun900207@gmail.com",
+              "date": "2026-04-05T07:42:48Z"
+            },
+            "message": "docs: 教程版本对齐与口径修正\n\n- Claude Code: v2.1.92 差量、安装指南死链与 V3.0 日志双轨说明\n- OpenClaw: 稳定版 v2026.3.28、预发布说明、各篇教程版本基线\n- README: 徽章与 v3.3 更新日志、免责声明与质量表述\n\nMade-with: Cursor",
+            "tree": {
+              "sha": "b194caa6deb51175a42ececfbf435b1982394dcb",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/b194caa6deb51175a42ececfbf435b1982394dcb"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/7aa51f8d6ad7eeae9773bb9874b633069cdc7087",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/7aa51f8d6ad7eeae9773bb9874b633069cdc7087",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/7aa51f8d6ad7eeae9773bb9874b633069cdc7087",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/7aa51f8d6ad7eeae9773bb9874b633069cdc7087/comments",
+          "author": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "88985c7cccbd1a003f8e586db0d3d8fe72a133d4",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/88985c7cccbd1a003f8e586db0d3d8fe72a133d4",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/88985c7cccbd1a003f8e586db0d3d8fe72a133d4"
+            }
+          ]
+        },
+        {
+          "sha": "679ee58f91e9fc9278b5905401caf063504ed793",
+          "node_id": "C_kwDORR6eT9oAKDY3OWVlNThmOTFlOWZjOTI3OGI1OTA1NDAxY2FmMDYzNTA0ZWQ3OTM",
+          "commit": {
+            "author": {
+              "name": "KimYx0207",
+              "email": "130755848+KimYx0207@users.noreply.github.com",
+              "date": "2026-04-05T07:45:47Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-04-05T07:45:47Z"
+            },
+            "message": "Merge pull request #7 from Wythehard/main",
+            "tree": {
+              "sha": "bffa58ea371737aa8e13f64fc36ddb74537dd7cb",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/bffa58ea371737aa8e13f64fc36ddb74537dd7cb"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/679ee58f91e9fc9278b5905401caf063504ed793",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp0hMrCRC1aQ7uu5UhlAAAvwcQABfrVSXRir4FfXOeCp/ZTerz\neX0Y+r99NptpPvaok8/da7+Vy6O9lnRtGYjLHKuYUe3eZTywv1chDULEiDp+Pulw\nB6HYGQatOVWnEdOyN4Bv7EHhD326P0At5OSeCkSZ29HdCinfljPcjXV4EB68J+3X\nM6LWVmLD/U2L206cYbDmzxRmhQZqWXSTB4vT9HHB8DAQUjzo+KrhpoUOzWlgbRgk\nYO7ljWSjd4Ts6feHOF+9De5H7BhU0ty9+XuyxKPHPZlYfTVh5sjyl8vhNVFSGbpp\nv63ncQ1OA6hhPeBvzT51wrHKXSBTaSRmrAD2jga1HnKR1mrc0zzdtALgup6OEwdM\np+IvFCbBRDPggwmxU7br6A6FpGc3+CfFYH+gtLo/99GUR0gm8bnwhAeYJHWlfhSQ\n1DSH9kzxdPeECfi0GmuVG9PhXtLod49D0ljFeqtOZfcNJgju1IaQi+LFwusxKSfE\nA1+yt1Td75pYTO8qKwfbFKtVtb8o1sDxtLciwT+kUd+nLtI+bx1Epgq1t8e5SWUS\nalbv9+2RcUijp0zl+dWiGpMW5e5UBPUcE/r6eExFWy9lOt/cqeRg6vegfc2bM1da\nUBvgHyw+YdwqWRZo0Si/FiK2SccVMYkvFVnd2TyI3fh+IBxtjX0luil8UsLdmTkK\nwHa5L/LoJvKoZhZ7x58v\n=6ZnO\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree bffa58ea371737aa8e13f64fc36ddb74537dd7cb\nparent 7aa51f8d6ad7eeae9773bb9874b633069cdc7087\nparent b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82\nauthor KimYx0207 <130755848+KimYx0207@users.noreply.github.com> 1775375147 +0800\ncommitter GitHub <noreply@github.com> 1775375147 +0800\n\nMerge pull request #7 from Wythehard/main",
+              "verified_at": "2026-04-05T07:45:47Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/679ee58f91e9fc9278b5905401caf063504ed793",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/679ee58f91e9fc9278b5905401caf063504ed793",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/679ee58f91e9fc9278b5905401caf063504ed793/comments",
+          "author": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "7aa51f8d6ad7eeae9773bb9874b633069cdc7087",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/7aa51f8d6ad7eeae9773bb9874b633069cdc7087",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/7aa51f8d6ad7eeae9773bb9874b633069cdc7087"
+            },
+            {
+              "sha": "b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/b6e65c1fc3ebdab771a3a1082a60ac2f1a7c4b82"
+            }
+          ]
         }
       ]
     },
@@ -5231,7 +5728,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-04-05T03:51:03.818Z",
+      "updated_at": "2026-04-05T07:49:47.269Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -5321,14 +5818,14 @@
       "repo": "CLIProxyAPI-cleaner",
       "upstream": "KJ20051223/CLIProxyAPI-cleaner",
       "branch": "main",
-      "ahead_by": 2,
+      "ahead_by": 12,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/compare/main...KJ20051223:main",
-      "updated_at": "2026-04-05T03:51:04.328Z",
+      "updated_at": "2026-04-05T07:49:47.751Z",
       "commits": [
         {
           "sha": "03a4b0b677576dd88e1d49173b638cfa1ee98c29",
@@ -5493,6 +5990,826 @@
               "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/03a4b0b677576dd88e1d49173b638cfa1ee98c29"
             }
           ]
+        },
+        {
+          "sha": "1f77e3c0c94a2bd9874663d8394e8189b691f9b5",
+          "node_id": "C_kwDOR50zXNoAKDFmNzdlM2MwYzk0YTJiZDk4NzQ2NjNkODM5NGU4MTg5YjY5MWY5YjU",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-04T20:14:55Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-04T20:14:55Z"
+            },
+            "message": "chore: sync local workspace with deployed CPA cleaner",
+            "tree": {
+              "sha": "8cd0889012c47bfbca68314cb779116a7702cee4",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/8cd0889012c47bfbca68314cb779116a7702cee4"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/1f77e3c0c94a2bd9874663d8394e8189b691f9b5",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/1f77e3c0c94a2bd9874663d8394e8189b691f9b5",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/1f77e3c0c94a2bd9874663d8394e8189b691f9b5",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/1f77e3c0c94a2bd9874663d8394e8189b691f9b5/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1d1a61e95fab0ffc96085e74cc84700fda18355a",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/1d1a61e95fab0ffc96085e74cc84700fda18355a",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/1d1a61e95fab0ffc96085e74cc84700fda18355a"
+            }
+          ]
+        },
+        {
+          "sha": "616c5fbf27a14181f85855083e9a7fe930e0a9ac",
+          "node_id": "C_kwDOR50zXNoAKDYxNmM1ZmJmMjdhMTQxODFmODU4NTUwODNlOWE3ZmU5MzBlMGE5YWM",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:16:06Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:16:06Z"
+            },
+            "message": "Add retention cleanup timer",
+            "tree": {
+              "sha": "49ff31b7f22c420eb2ab3cecd5b93e0049801c45",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/49ff31b7f22c420eb2ab3cecd5b93e0049801c45"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/616c5fbf27a14181f85855083e9a7fe930e0a9ac",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/616c5fbf27a14181f85855083e9a7fe930e0a9ac",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/616c5fbf27a14181f85855083e9a7fe930e0a9ac",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/616c5fbf27a14181f85855083e9a7fe930e0a9ac/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1f77e3c0c94a2bd9874663d8394e8189b691f9b5",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/1f77e3c0c94a2bd9874663d8394e8189b691f9b5",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/1f77e3c0c94a2bd9874663d8394e8189b691f9b5"
+            }
+          ]
+        },
+        {
+          "sha": "cc28b18760459939066d53cf6c8677eef98840fa",
+          "node_id": "C_kwDOR50zXNoAKGNjMjhiMTg3NjA0NTk5MzkwNjZkNTNjZjZjODY3N2VlZjk4ODQwZmE",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:21:24Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:21:24Z"
+            },
+            "message": "Guard retention cleanup against overlap",
+            "tree": {
+              "sha": "a0c6a4edc229f39d4f6d16f62a54b0c62bf64fa8",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/a0c6a4edc229f39d4f6d16f62a54b0c62bf64fa8"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/cc28b18760459939066d53cf6c8677eef98840fa",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/cc28b18760459939066d53cf6c8677eef98840fa",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/cc28b18760459939066d53cf6c8677eef98840fa",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/cc28b18760459939066d53cf6c8677eef98840fa/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "616c5fbf27a14181f85855083e9a7fe930e0a9ac",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/616c5fbf27a14181f85855083e9a7fe930e0a9ac",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/616c5fbf27a14181f85855083e9a7fe930e0a9ac"
+            }
+          ]
+        },
+        {
+          "sha": "3c832a6564b196127e8a296275f04857a147fa8b",
+          "node_id": "C_kwDOR50zXNoAKDNjODMyYTY1NjRiMTk2MTI3ZThhMjk2Mjc1ZjA0ODU3YTE0N2ZhOGI",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:33:20Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:33:20Z"
+            },
+            "message": "Expose retention settings in web console",
+            "tree": {
+              "sha": "7b0eb58e559692b5aff30a6db655f949cd139ea7",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/7b0eb58e559692b5aff30a6db655f949cd139ea7"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/3c832a6564b196127e8a296275f04857a147fa8b",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/3c832a6564b196127e8a296275f04857a147fa8b",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/3c832a6564b196127e8a296275f04857a147fa8b",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/3c832a6564b196127e8a296275f04857a147fa8b/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "cc28b18760459939066d53cf6c8677eef98840fa",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/cc28b18760459939066d53cf6c8677eef98840fa",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/cc28b18760459939066d53cf6c8677eef98840fa"
+            }
+          ]
+        },
+        {
+          "sha": "8ae7e4a562aec671af0c1a5d4e333c63833cc83a",
+          "node_id": "C_kwDOR50zXNoAKDhhZTdlNGE1NjJhZWM2NzFhZjBjMWE1ZDRlMzMzYzYzODMzY2M4M2E",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:48:44Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:48:44Z"
+            },
+            "message": "Add Docker Hub publish workflow",
+            "tree": {
+              "sha": "a95baab670c8fc0ca1cc146b59bbd2a356fb7387",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/a95baab670c8fc0ca1cc146b59bbd2a356fb7387"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/8ae7e4a562aec671af0c1a5d4e333c63833cc83a",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/8ae7e4a562aec671af0c1a5d4e333c63833cc83a",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/8ae7e4a562aec671af0c1a5d4e333c63833cc83a",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/8ae7e4a562aec671af0c1a5d4e333c63833cc83a/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "3c832a6564b196127e8a296275f04857a147fa8b",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/3c832a6564b196127e8a296275f04857a147fa8b",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/3c832a6564b196127e8a296275f04857a147fa8b"
+            }
+          ]
+        },
+        {
+          "sha": "44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90",
+          "node_id": "C_kwDOR50zXNoAKDQ0ZmNiYTljMjRjNmE1NWJkNDViNGFhYmJkYzk3YjExOWU4YzBmOTA",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:51:13Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:51:13Z"
+            },
+            "message": "Clarify Docker Hub image configuration",
+            "tree": {
+              "sha": "92bca0c82d4404d370d04ace27a6df2e546f0885",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/92bca0c82d4404d370d04ace27a6df2e546f0885"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "8ae7e4a562aec671af0c1a5d4e333c63833cc83a",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/8ae7e4a562aec671af0c1a5d4e333c63833cc83a",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/8ae7e4a562aec671af0c1a5d4e333c63833cc83a"
+            }
+          ]
+        },
+        {
+          "sha": "c7deae540da969bb76909529dae0fd889ea1521a",
+          "node_id": "C_kwDOR50zXNoAKGM3ZGVhZTU0MGRhOTY5YmI3NjkwOTUyOWRhZTBmZDg4OWVhMTUyMWE",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:55:43Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T06:55:43Z"
+            },
+            "message": "Use Docker Hub image kxmjj/cliproxyapi-cleaner",
+            "tree": {
+              "sha": "d4234c9d7851a9beed1607a6bfadfc4fa5c1d53a",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/d4234c9d7851a9beed1607a6bfadfc4fa5c1d53a"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/c7deae540da969bb76909529dae0fd889ea1521a",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/c7deae540da969bb76909529dae0fd889ea1521a",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/c7deae540da969bb76909529dae0fd889ea1521a",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/c7deae540da969bb76909529dae0fd889ea1521a/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/44fcba9c24c6a55bd45b4aabbdc97b119e8c0f90"
+            }
+          ]
+        },
+        {
+          "sha": "faf6ea4a5967e785f485cf28dbe088f745d3d6ad",
+          "node_id": "C_kwDOR50zXNoAKGZhZjZlYTRhNTk2N2U3ODVmNDg1Y2YyOGRiZTA4OGY3NDVkM2Q2YWQ",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T07:02:59Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T07:02:59Z"
+            },
+            "message": "Reword Docker Hub docs for end users",
+            "tree": {
+              "sha": "826f4e216fe57975ff2f85ff0d68347892ff5f2b",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/826f4e216fe57975ff2f85ff0d68347892ff5f2b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/faf6ea4a5967e785f485cf28dbe088f745d3d6ad",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/faf6ea4a5967e785f485cf28dbe088f745d3d6ad",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/faf6ea4a5967e785f485cf28dbe088f745d3d6ad",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/faf6ea4a5967e785f485cf28dbe088f745d3d6ad/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c7deae540da969bb76909529dae0fd889ea1521a",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/c7deae540da969bb76909529dae0fd889ea1521a",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/c7deae540da969bb76909529dae0fd889ea1521a"
+            }
+          ]
+        },
+        {
+          "sha": "a12f3009fefdbe165b1434a9fea0c19fd96108af",
+          "node_id": "C_kwDOR50zXNoAKGExMmYzMDA5ZmVmZGJlMTY1YjE0MzRhOWZlYTBjMTlmZDk2MTA4YWY",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T07:05:47Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T07:05:47Z"
+            },
+            "message": "Remove maintainer-only Docker Hub notes",
+            "tree": {
+              "sha": "2564e514f540cfbb5b28be7c9de45c1050544da6",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/2564e514f540cfbb5b28be7c9de45c1050544da6"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/a12f3009fefdbe165b1434a9fea0c19fd96108af",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/a12f3009fefdbe165b1434a9fea0c19fd96108af",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/a12f3009fefdbe165b1434a9fea0c19fd96108af",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/a12f3009fefdbe165b1434a9fea0c19fd96108af/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "faf6ea4a5967e785f485cf28dbe088f745d3d6ad",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/faf6ea4a5967e785f485cf28dbe088f745d3d6ad",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/faf6ea4a5967e785f485cf28dbe088f745d3d6ad"
+            }
+          ]
+        },
+        {
+          "sha": "c93ecd237d72999d9c52f23f44760cd604aef293",
+          "node_id": "C_kwDOR50zXNoAKGM5M2VjZDIzN2Q3Mjk5OWQ5YzUyZjIzZjQ0NzYwY2Q2MDRhZWYyOTM",
+          "commit": {
+            "author": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T07:13:00Z"
+            },
+            "committer": {
+              "name": "root",
+              "email": "root@localhost.localdomain",
+              "date": "2026-04-05T07:13:00Z"
+            },
+            "message": "Compress Docker deployment docs",
+            "tree": {
+              "sha": "d319eb7238d6652140ec2c60f9513d190c7d1cf8",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/trees/d319eb7238d6652140ec2c60f9513d190c7d1cf8"
+            },
+            "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/git/commits/c93ecd237d72999d9c52f23f44760cd604aef293",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/c93ecd237d72999d9c52f23f44760cd604aef293",
+          "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/c93ecd237d72999d9c52f23f44760cd604aef293",
+          "comments_url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/c93ecd237d72999d9c52f23f44760cd604aef293/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a12f3009fefdbe165b1434a9fea0c19fd96108af",
+              "url": "https://api.github.com/repos/XddXss888/CLIProxyAPI-cleaner/commits/a12f3009fefdbe165b1434a9fea0c19fd96108af",
+              "html_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/commit/a12f3009fefdbe165b1434a9fea0c19fd96108af"
+            }
+          ]
         }
       ]
     },
@@ -5507,7 +6824,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-04-05T03:51:04.764Z",
+      "updated_at": "2026-04-05T07:49:48.274Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -11016,7 +12333,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-04-05T03:51:05.649Z",
+      "updated_at": "2026-04-05T07:49:49.199Z",
       "commits": []
     },
     {
@@ -11030,7 +12347,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-05T03:51:06.084Z",
+      "updated_at": "2026-04-05T07:49:49.598Z",
       "commits": [
         {
           "sha": "de03307cfbd900684b7414b361d05cb47a10909d",
@@ -11127,7 +12444,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-04-05T03:51:06.554Z",
+      "updated_at": "2026-04-05T07:49:50.064Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -11791,14 +13108,14 @@
       "repo": "codex-session-patcher",
       "upstream": "ryfineZ/codex-session-patcher",
       "branch": "main",
-      "ahead_by": 10,
+      "ahead_by": 17,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-04-05T03:51:07.084Z",
+      "updated_at": "2026-04-05T07:49:50.586Z",
       "commits": [
         {
           "sha": "52e463c8307c5af2428fd300d621f2bf25026673",
@@ -12619,6 +13936,580 @@
               "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/1d4dfb287230ff570cc3c6af86a7a2f5330ecc00"
             }
           ]
+        },
+        {
+          "sha": "0ac6ed1ae259306517b5b13cbf5394d9cd3b602f",
+          "node_id": "C_kwDOR1G6BNoAKDBhYzZlZDFhZTI1OTMwNjUxN2I1YjEzY2JmNTM5NGQ5Y2QzYjYwMmY",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:12:56Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:12:56Z"
+            },
+            "message": "fix: 模板选择器绑定选中状态，默认提示词匹配任意内置模板时自动切换到新默认\n\n- n-select 添加 v-model:value 绑定显示当前选中模板\n- 初始化时检测当前 prompt 是否匹配任意内置模板内容\n  （而非仅依赖 is_default 标志），匹配则自动应用新默认模板\n- applyTemplate 同步更新选中状态",
+            "tree": {
+              "sha": "1431335e64c09923aba9d0ef7b81bed5d126f787",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/1431335e64c09923aba9d0ef7b81bed5d126f787"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/0ac6ed1ae259306517b5b13cbf5394d9cd3b602f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/0ac6ed1ae259306517b5b13cbf5394d9cd3b602f",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/0ac6ed1ae259306517b5b13cbf5394d9cd3b602f",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/0ac6ed1ae259306517b5b13cbf5394d9cd3b602f/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "76123bd77eef09a75bb376663b358abaadde1372",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/76123bd77eef09a75bb376663b358abaadde1372",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/76123bd77eef09a75bb376663b358abaadde1372"
+            }
+          ]
+        },
+        {
+          "sha": "00727dd0cecb4ee8975c50059a5796889edd4321",
+          "node_id": "C_kwDOR1G6BNoAKDAwNzI3ZGQwY2VjYjRlZTg5NzVjNTAwNTlhNTc5Njg4OWVkZDQzMjE",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:24:06Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:24:06Z"
+            },
+            "message": "fix: 安装 CTF 配置时使用新的默认模板 Optimized CTF Workflow",
+            "tree": {
+              "sha": "f9a179c0cb9579e15edd5a887cc1bd574fcb5a72",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/f9a179c0cb9579e15edd5a887cc1bd574fcb5a72"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/00727dd0cecb4ee8975c50059a5796889edd4321",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/00727dd0cecb4ee8975c50059a5796889edd4321",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/00727dd0cecb4ee8975c50059a5796889edd4321",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/00727dd0cecb4ee8975c50059a5796889edd4321/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "0ac6ed1ae259306517b5b13cbf5394d9cd3b602f",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/0ac6ed1ae259306517b5b13cbf5394d9cd3b602f",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/0ac6ed1ae259306517b5b13cbf5394d9cd3b602f"
+            }
+          ]
+        },
+        {
+          "sha": "5b621132e4b351f4349b116552450b999267c2fd",
+          "node_id": "C_kwDOR1G6BNoAKDViNjIxMTMyZTRiMzUxZjQzNDliMTE2NTUyNDUwYjk5OTI2N2MyZmQ",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:29:24Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:29:24Z"
+            },
+            "message": "refactor: Codex CTF 模板选择提到最上方，改善用户流程\n\n- 模板选择区域从折叠面板改为顶层直接展示\n- 布局顺序：选模板 → 保存 → 再启用 Profile/全局\n- 文案从「CTF 提示词（Profile 和全局共用）」改为「CTF 提示词模板」\n- 添加模板说明：切换后需保存并重新启用才生效",
+            "tree": {
+              "sha": "c9481e13026c6c13c1c48672e4153b0ae222a9e5",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/c9481e13026c6c13c1c48672e4153b0ae222a9e5"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/5b621132e4b351f4349b116552450b999267c2fd",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/5b621132e4b351f4349b116552450b999267c2fd",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/5b621132e4b351f4349b116552450b999267c2fd",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/5b621132e4b351f4349b116552450b999267c2fd/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "00727dd0cecb4ee8975c50059a5796889edd4321",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/00727dd0cecb4ee8975c50059a5796889edd4321",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/00727dd0cecb4ee8975c50059a5796889edd4321"
+            }
+          ]
+        },
+        {
+          "sha": "41f17a5cc9c2123c442d32e51224aba3de95597f",
+          "node_id": "C_kwDOR1G6BNoAKDQxZjE3YTVjYzljMjEyM2M0NDJkMzJlNTEyMjRhYmEzZGU5NTU5N2Y",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:35:50Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:35:50Z"
+            },
+            "message": "chore: Tab 文案改为 CTF/渗透模式",
+            "tree": {
+              "sha": "a4bd8e210418c48e137fa16095127f3fbfa8f2e3",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/a4bd8e210418c48e137fa16095127f3fbfa8f2e3"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/41f17a5cc9c2123c442d32e51224aba3de95597f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/41f17a5cc9c2123c442d32e51224aba3de95597f",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/41f17a5cc9c2123c442d32e51224aba3de95597f",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/41f17a5cc9c2123c442d32e51224aba3de95597f/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "5b621132e4b351f4349b116552450b999267c2fd",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/5b621132e4b351f4349b116552450b999267c2fd",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/5b621132e4b351f4349b116552450b999267c2fd"
+            }
+          ]
+        },
+        {
+          "sha": "584f83f5708a6cef83db09849010b2f0a6bac200",
+          "node_id": "C_kwDOR1G6BNoAKDU4NGY4M2Y1NzA4YTZjZWY4M2RiMDk4NDkwMTBiMmYwYTZiYWMyMDA",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:40:06Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:40:06Z"
+            },
+            "message": "refactor: Tab 排序调整，CTF/渗透模式置顶，会话管理改名为会话清理\n\n- Tab 顺序：CTF/渗透模式 → 会话清理 → 设置 → 帮助\n- 默认打开 CTF/渗透模式 tab\n- \"会话管理\" 改为 \"会话清理\"",
+            "tree": {
+              "sha": "c71463dbc1345d14187d6cbb9e2879654b26ac61",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/c71463dbc1345d14187d6cbb9e2879654b26ac61"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/584f83f5708a6cef83db09849010b2f0a6bac200",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/584f83f5708a6cef83db09849010b2f0a6bac200",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/584f83f5708a6cef83db09849010b2f0a6bac200",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/584f83f5708a6cef83db09849010b2f0a6bac200/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "41f17a5cc9c2123c442d32e51224aba3de95597f",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/41f17a5cc9c2123c442d32e51224aba3de95597f",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/41f17a5cc9c2123c442d32e51224aba3de95597f"
+            }
+          ]
+        },
+        {
+          "sha": "855e00788fb5f38568b0648e25892af56262a61e",
+          "node_id": "C_kwDOR1G6BNoAKDg1NWUwMDc4OGZiNWYzODU2OGIwNjQ4ZTI1ODkyYWY1NjI2MmE2MWU",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:48:31Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:48:31Z"
+            },
+            "message": "feat: 每个模板独立文件，注入时 config.toml 指向正确文件名\n\n- BUILTIN_TEMPLATES 的 codex 模板增加 file 字段指定目标文件名\n- installer 从 config 读取当前选中的模板文件名\n- install/install_global 写入对应 .md 文件并更新 config.toml\n- config.toml 的 model_instructions_file 从硬编码改为动态文件名\n- save API 保存时记录匹配的模板文件名到 config\n- 卸载时清理所有注入的 prompt 文件",
+            "tree": {
+              "sha": "3e039be753ed44df03d5a8b2b1fb8c746e29a0b2",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/3e039be753ed44df03d5a8b2b1fb8c746e29a0b2"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/855e00788fb5f38568b0648e25892af56262a61e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/855e00788fb5f38568b0648e25892af56262a61e",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/855e00788fb5f38568b0648e25892af56262a61e",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/855e00788fb5f38568b0648e25892af56262a61e/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "584f83f5708a6cef83db09849010b2f0a6bac200",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/584f83f5708a6cef83db09849010b2f0a6bac200",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/584f83f5708a6cef83db09849010b2f0a6bac200"
+            }
+          ]
+        },
+        {
+          "sha": "4ab7c8c6e2014246b4228b82142e7454f6b87188",
+          "node_id": "C_kwDOR1G6BNoAKDRhYjdjOGM2ZTIwMTQyNDZiNDIyOGI4MjE0MmU3NDU0ZjZiODcxODg",
+          "commit": {
+            "author": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:51:55Z"
+            },
+            "committer": {
+              "name": "ryfineZ",
+              "email": "enjoy.loneliness@iCloud.com",
+              "date": "2026-04-05T05:51:55Z"
+            },
+            "message": "chore: bump version to 1.4.1",
+            "tree": {
+              "sha": "2964d65d110f8d61a41bf54ae402b249122d7ea8",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/trees/2964d65d110f8d61a41bf54ae402b249122d7ea8"
+            },
+            "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/git/commits/4ab7c8c6e2014246b4228b82142e7454f6b87188",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/4ab7c8c6e2014246b4228b82142e7454f6b87188",
+          "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/4ab7c8c6e2014246b4228b82142e7454f6b87188",
+          "comments_url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/4ab7c8c6e2014246b4228b82142e7454f6b87188/comments",
+          "author": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "ryfineZ",
+            "id": 214518505,
+            "node_id": "U_kgDODMlK6Q",
+            "avatar_url": "https://avatars.githubusercontent.com/u/214518505?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/ryfineZ",
+            "html_url": "https://github.com/ryfineZ",
+            "followers_url": "https://api.github.com/users/ryfineZ/followers",
+            "following_url": "https://api.github.com/users/ryfineZ/following{/other_user}",
+            "gists_url": "https://api.github.com/users/ryfineZ/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/ryfineZ/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/ryfineZ/subscriptions",
+            "organizations_url": "https://api.github.com/users/ryfineZ/orgs",
+            "repos_url": "https://api.github.com/users/ryfineZ/repos",
+            "events_url": "https://api.github.com/users/ryfineZ/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/ryfineZ/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "855e00788fb5f38568b0648e25892af56262a61e",
+              "url": "https://api.github.com/repos/XddXss888/codex-session-patcher/commits/855e00788fb5f38568b0648e25892af56262a61e",
+              "html_url": "https://github.com/XddXss888/codex-session-patcher/commit/855e00788fb5f38568b0648e25892af56262a61e"
+            }
+          ]
         }
       ]
     },
@@ -12633,7 +14524,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-04-05T03:51:07.580Z",
+      "updated_at": "2026-04-05T07:49:51.067Z",
       "commits": []
     },
     {
@@ -12647,7 +14538,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-04-05T03:51:07.894Z",
+      "updated_at": "2026-04-05T07:49:51.401Z",
       "commits": []
     },
     {
@@ -12659,30 +14550,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 82530602083b1f9f516775bcd078967846464f78.",
+      "reason": "Force-reset fork branch to upstream commit 071108c8d2f87a5a9f41b5d5457c8d26b87c87de.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-04-05T03:51:08.473Z",
+      "updated_at": "2026-04-05T07:49:52.032Z",
       "commits": [
         {
-          "sha": "82530602083b1f9f516775bcd078967846464f78",
-          "node_id": "C_kwDORKtM3doAKDgyNTMwNjAyMDgzYjFmOWY1MTY3NzViY2QwNzg5Njc4NDY0NjRmNzg",
+          "sha": "071108c8d2f87a5a9f41b5d5457c8d26b87c87de",
+          "node_id": "C_kwDORKtM3doAKDA3MTEwOGM4ZDJmODdhNWE5ZjQxYjVkNTQ1N2M4ZDI2Yjg3Yzg3ZGU",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-05T01:50:36Z"
+              "date": "2026-04-05T07:12:06Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-05T01:50:36Z"
+              "date": "2026-04-05T07:12:06Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/82530602083b1f9f516775bcd078967846464f78",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/071108c8d2f87a5a9f41b5d5457c8d26b87c87de",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -12692,9 +14583,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/82530602083b1f9f516775bcd078967846464f78",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/82530602083b1f9f516775bcd078967846464f78",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/82530602083b1f9f516775bcd078967846464f78/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/071108c8d2f87a5a9f41b5d5457c8d26b87c87de",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/071108c8d2f87a5a9f41b5d5457c8d26b87c87de",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/071108c8d2f87a5a9f41b5d5457c8d26b87c87de/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -12758,7 +14649,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-04-05T03:51:09.319Z",
+      "updated_at": "2026-04-05T07:49:52.701Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -13439,7 +15330,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-04-05T03:51:09.800Z",
+      "updated_at": "2026-04-05T07:49:53.192Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -13782,7 +15673,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-04-05T03:51:10.339Z",
+      "updated_at": "2026-04-05T07:49:53.676Z",
       "commits": []
     },
     {
@@ -13796,7 +15687,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-04-05T03:51:10.652Z",
+      "updated_at": "2026-04-05T07:49:54.014Z",
       "commits": []
     },
     {
@@ -13810,187 +15701,22 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-04-05T03:51:11.016Z",
+      "updated_at": "2026-04-05T07:49:54.381Z",
       "commits": []
     },
     {
       "repo": "gitee",
       "upstream": "MallocPointer/gitee",
       "branch": "main",
-      "ahead_by": 2,
-      "behind_by": 3,
-      "status": "updated",
-      "action": "force-reset",
-      "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit aa2b771435d4ee655091b5f6da6aa102d5d53e3e.",
+      "ahead_by": 0,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-04-05T03:51:11.318Z",
-      "commits": [
-        {
-          "sha": "d4cdee598a2263f1626717bfe8ddaaec07451c7d",
-          "node_id": "C_kwDOR0IKxtoAKGQ0Y2RlZTU5OGEyMjYzZjE2MjY3MTdiZmU4ZGRhYWVjMDc0NTFjN2Q",
-          "commit": {
-            "author": {
-              "name": "zhongran li",
-              "email": "lizhongran910@gmail.com",
-              "date": "2026-04-04T15:19:35Z"
-            },
-            "committer": {
-              "name": "GitHub",
-              "email": "noreply@github.com",
-              "date": "2026-04-04T15:19:35Z"
-            },
-            "message": "Update [[path]].js",
-            "tree": {
-              "sha": "73091777fe4634640014e1f84454bd3e43ed4a2e",
-              "url": "https://api.github.com/repos/XddXss888/gitee/git/trees/73091777fe4634640014e1f84454bd3e43ed4a2e"
-            },
-            "url": "https://api.github.com/repos/XddXss888/gitee/git/commits/d4cdee598a2263f1626717bfe8ddaaec07451c7d",
-            "comment_count": 0,
-            "verification": {
-              "verified": true,
-              "reason": "valid",
-              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp0SwHCRC1aQ7uu5UhlAAANNsQAGxvw5RKz1jvx+JxJmLGEQHo\nOIWwQwDd5Zn9IK8vEUUWLDxfH5wZW39hp2AAdahH5dOQWcYfji0SkgZqeRMOVgfK\noRLjUVL5Dazv4yEY7fggETuwygpzk5N1LsG2IBThSOsR7wiBEWxBmcZKDpM/VbrN\ntOhiCg/hZKO2TsYheEz0XP/VVOSTj6kRXnGKA2kRpYy44I1tJ4K+shtLbHJebQDt\neB6CabeC0etbaGcE/gp0mn7cxlK1J0Lr2BEroXHEMDQPSYuk5oJaPcioNlLz1b0i\nh1KGtlJSndvrnyiHnbX0ULUGRWCd6CXP9hqZJt3GpxiwnADOxy1EmR8RRGbWFXiv\nMFwnr1WPU3vlkOQNNcuzGDqCl4qhpCc4chy521v56BR5YBAUGGmK8FsLKjUATC6X\niH6GHl/3hPhccfYWstOl4M29sP2FCuwBDZ4AR/2GhDpn7MVUF+NMoMPgwq5aVkxK\n6bn0MpvWAxueY4tZuj49VyR8E979UnZgWJcIBY+ShEWDilT6rMOBF0PICxH+t4un\nLW2l76cTekUmn6HOHxTVa8DuMk0Vq/Z7uPfWlb0C4BViSdrH0rE1tEZfUA0ECFpY\nDpj7xOwEsZy3qitH9nRjxH1wvxdgsvDNBQkdEM03CU6fb/hVHyIH+sfEWELScYKg\nYlEIEfY8BmZXifCGgcJd\n=PRoq\n-----END PGP SIGNATURE-----\n",
-              "payload": "tree 73091777fe4634640014e1f84454bd3e43ed4a2e\nparent d45d4b054dcf4e8dde90d80207a689b771a822f8\nauthor zhongran li <lizhongran910@gmail.com> 1775315975 +0800\ncommitter GitHub <noreply@github.com> 1775315975 +0800\n\nUpdate [[path]].js",
-              "verified_at": "2026-04-04T15:19:36Z"
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/gitee/commits/d4cdee598a2263f1626717bfe8ddaaec07451c7d",
-          "html_url": "https://github.com/XddXss888/gitee/commit/d4cdee598a2263f1626717bfe8ddaaec07451c7d",
-          "comments_url": "https://api.github.com/repos/XddXss888/gitee/commits/d4cdee598a2263f1626717bfe8ddaaec07451c7d/comments",
-          "author": {
-            "login": "MallocPointer",
-            "id": 194712217,
-            "node_id": "U_kgDOC5sSmQ",
-            "avatar_url": "https://avatars.githubusercontent.com/u/194712217?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/MallocPointer",
-            "html_url": "https://github.com/MallocPointer",
-            "followers_url": "https://api.github.com/users/MallocPointer/followers",
-            "following_url": "https://api.github.com/users/MallocPointer/following{/other_user}",
-            "gists_url": "https://api.github.com/users/MallocPointer/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/MallocPointer/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/MallocPointer/subscriptions",
-            "organizations_url": "https://api.github.com/users/MallocPointer/orgs",
-            "repos_url": "https://api.github.com/users/MallocPointer/repos",
-            "events_url": "https://api.github.com/users/MallocPointer/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/MallocPointer/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "d45d4b054dcf4e8dde90d80207a689b771a822f8",
-              "url": "https://api.github.com/repos/XddXss888/gitee/commits/d45d4b054dcf4e8dde90d80207a689b771a822f8",
-              "html_url": "https://github.com/XddXss888/gitee/commit/d45d4b054dcf4e8dde90d80207a689b771a822f8"
-            }
-          ]
-        },
-        {
-          "sha": "aa2b771435d4ee655091b5f6da6aa102d5d53e3e",
-          "node_id": "C_kwDOR0IKxtoAKGFhMmI3NzE0MzVkNGVlNjU1MDkxYjVmNmRhNmFhMTAyZDVkNTNlM2U",
-          "commit": {
-            "author": {
-              "name": "zhongran li",
-              "email": "lizhongran910@gmail.com",
-              "date": "2026-04-04T15:20:21Z"
-            },
-            "committer": {
-              "name": "GitHub",
-              "email": "noreply@github.com",
-              "date": "2026-04-04T15:20:21Z"
-            },
-            "message": "Update dl.js",
-            "tree": {
-              "sha": "2ecdd606c81959f72c433b8be5235df28c127cbe",
-              "url": "https://api.github.com/repos/XddXss888/gitee/git/trees/2ecdd606c81959f72c433b8be5235df28c127cbe"
-            },
-            "url": "https://api.github.com/repos/XddXss888/gitee/git/commits/aa2b771435d4ee655091b5f6da6aa102d5d53e3e",
-            "comment_count": 0,
-            "verification": {
-              "verified": true,
-              "reason": "valid",
-              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp0Sw1CRC1aQ7uu5UhlAAAeEkQAD+fCPGw8uk6m6XlD/EHEsZi\nh0rmURWwdqOTwa/qf5yLm3/sKAZodCKSD8JxYNBgqNFh+auLCRSNxezl30xnLEPF\nP4A8UHxLxSuVQNKqIqwmsxosc1uAKTRNfdyZFRU9B8hAWxsTtNK51mXtTCxnBb3v\niVazm9nQDrNYnfep/3l3xpQvd3S2KMarGE0zJDrMJfB/+jxuli7u0eA09VpGe1uh\nIm30ShbdVyX76T9qUh2p0+CWme21Bc3IXfv6E2CqTCwQtGpWt9opfAWBkJrX5Po4\nzXDW/1hhqD2QLEqsKsBKsccimUEk7Qzayjob65pjstp5qq/bUcLAhKQjgbw4ii0h\nZmRWwA7IWi0qM8dSjqbErMQ5rudEW2tWtDCKCJhzwI2u0GkFHaExCS5xEzRWb66B\nfYoIhvnsEqFzDvhmjpJ5zFWumLErrzKFny4uxUzGrgNB6Yo2rNtbnjamDY91N4LH\n+BwlPbokU0L6S7vqb2GUqCNQ77YIQeYU6BX/IM4EAG8Bu2oZx1cpykT2u8ztpCem\nmR7BC/oqQOnmbjARvpEUedyAHRGzt4nnMZDusNqqFuv88KMWMIjAVAYTiX6yc6fw\neRyJQUdqPqkkFEr+c/SYXgLJcjIpxrthW1eqJsI5INADR0byS4gIFhnTyuSJkgqL\nw/09eKIH8jlYlNIB1mFC\n=qEy0\n-----END PGP SIGNATURE-----\n",
-              "payload": "tree 2ecdd606c81959f72c433b8be5235df28c127cbe\nparent d4cdee598a2263f1626717bfe8ddaaec07451c7d\nauthor zhongran li <lizhongran910@gmail.com> 1775316021 +0800\ncommitter GitHub <noreply@github.com> 1775316021 +0800\n\nUpdate dl.js",
-              "verified_at": "2026-04-04T15:20:22Z"
-            }
-          },
-          "url": "https://api.github.com/repos/XddXss888/gitee/commits/aa2b771435d4ee655091b5f6da6aa102d5d53e3e",
-          "html_url": "https://github.com/XddXss888/gitee/commit/aa2b771435d4ee655091b5f6da6aa102d5d53e3e",
-          "comments_url": "https://api.github.com/repos/XddXss888/gitee/commits/aa2b771435d4ee655091b5f6da6aa102d5d53e3e/comments",
-          "author": {
-            "login": "MallocPointer",
-            "id": 194712217,
-            "node_id": "U_kgDOC5sSmQ",
-            "avatar_url": "https://avatars.githubusercontent.com/u/194712217?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/MallocPointer",
-            "html_url": "https://github.com/MallocPointer",
-            "followers_url": "https://api.github.com/users/MallocPointer/followers",
-            "following_url": "https://api.github.com/users/MallocPointer/following{/other_user}",
-            "gists_url": "https://api.github.com/users/MallocPointer/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/MallocPointer/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/MallocPointer/subscriptions",
-            "organizations_url": "https://api.github.com/users/MallocPointer/orgs",
-            "repos_url": "https://api.github.com/users/MallocPointer/repos",
-            "events_url": "https://api.github.com/users/MallocPointer/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/MallocPointer/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "committer": {
-            "login": "web-flow",
-            "id": 19864447,
-            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-            "gravatar_id": "",
-            "url": "https://api.github.com/users/web-flow",
-            "html_url": "https://github.com/web-flow",
-            "followers_url": "https://api.github.com/users/web-flow/followers",
-            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-            "organizations_url": "https://api.github.com/users/web-flow/orgs",
-            "repos_url": "https://api.github.com/users/web-flow/repos",
-            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-            "received_events_url": "https://api.github.com/users/web-flow/received_events",
-            "type": "User",
-            "user_view_type": "public",
-            "site_admin": false
-          },
-          "parents": [
-            {
-              "sha": "d4cdee598a2263f1626717bfe8ddaaec07451c7d",
-              "url": "https://api.github.com/repos/XddXss888/gitee/commits/d4cdee598a2263f1626717bfe8ddaaec07451c7d",
-              "html_url": "https://github.com/XddXss888/gitee/commit/d4cdee598a2263f1626717bfe8ddaaec07451c7d"
-            }
-          ]
-        }
-      ]
+      "updated_at": "2026-04-05T07:49:54.713Z",
+      "commits": []
     },
     {
       "repo": "grok-batch-register-tool",
@@ -14003,7 +15729,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-04-05T03:51:12.076Z",
+      "updated_at": "2026-04-05T07:49:55.122Z",
       "commits": []
     },
     {
@@ -14017,7 +15743,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-04-05T03:51:12.387Z",
+      "updated_at": "2026-04-05T07:49:55.497Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -14114,7 +15840,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-04-05T03:51:12.808Z",
+      "updated_at": "2026-04-05T07:49:55.903Z",
       "commits": []
     },
     {
@@ -14128,7 +15854,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-04-05T03:51:13.169Z",
+      "updated_at": "2026-04-05T07:49:56.280Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -26361,7 +28087,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-04-05T03:51:14.047Z",
+      "updated_at": "2026-04-05T07:49:57.212Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -27032,7 +28758,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-04-05T03:51:14.562Z",
+      "updated_at": "2026-04-05T07:49:57.716Z",
       "commits": []
     },
     {
@@ -27046,7 +28772,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-04-05T03:51:14.930Z",
+      "updated_at": "2026-04-05T07:49:58.069Z",
       "commits": []
     },
     {
@@ -27060,7 +28786,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-04-05T03:51:15.270Z",
+      "updated_at": "2026-04-05T07:49:58.429Z",
       "commits": [
         {
           "sha": "285a94e743209b7ac97772d24bd29a20216c3906",
@@ -37283,7 +39009,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-04-05T03:51:24.648Z",
+      "updated_at": "2026-04-05T07:49:59.837Z",
       "commits": []
     },
     {
@@ -37297,7 +39023,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-04-05T03:51:25.009Z",
+      "updated_at": "2026-04-05T07:50:00.192Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -37558,7 +39284,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-04-05T03:51:25.482Z",
+      "updated_at": "2026-04-05T07:50:00.628Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
