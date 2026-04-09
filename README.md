@@ -5,15 +5,15 @@
 ## 运行总览
 
 - **账号**：`XddXss888`
-- **开始时间**：2026-04-08T08:06:39.124Z
-- **结束时间**：2026-04-08T08:07:04.574Z
+- **开始时间**：2026-04-09T03:44:08.899Z
+- **结束时间**：2026-04-09T03:44:40.189Z
 - **自动同步令牌**：已配置
 
 | 指标 | 数值 |
 | --- | ---: |
-| 已扫描 Fork 仓库 | 41 |
+| 已扫描 Fork 仓库 | 42 |
 | 自动同步成功 | 3 |
-| 已是最新 | 35 |
+| 已是最新 | 36 |
 | 需要人工处理 | 1 |
 | 检查异常 | 2 |
 
@@ -48,47 +48,48 @@
 
 | Fork 仓库 | 上游仓库 | 默认分支 | 领先提交数 | 落后提交数 | 状态 | 结果 | 最后检查时间 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [ABCard](https://github.com/XddXss888/ABCard) | [kaima2022/ABCard](https://github.com/kaima2022/ABCard) | main | 2 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:39.742Z |
-| [AI-Account-Toolkit](https://github.com/XddXss888/AI-Account-Toolkit) | [HaudioHC/chatgpt_register](https://github.com/HaudioHC/chatgpt_register) | main | 0 | 7 | 需要人工处理 | 自动同步失败 | 2026-04-08T08:06:40.357Z |
-| [AI-Account-Toolkits](https://github.com/XddXss888/AI-Account-Toolkits) | [adminlove520/AI-Account-Toolkit](https://github.com/adminlove520/AI-Account-Toolkit) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:40.892Z |
-| [airforce-api-auto-register-system](https://github.com/XddXss888/airforce-api-auto-register-system) | [lza6/AirForce-API-Auto-Register-System](https://github.com/lza6/AirForce-API-Auto-Register-System) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:41.411Z |
-| [any-auto-register](https://github.com/XddXss888/any-auto-register) | [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) | main | 0 | 0 | 检查异常 | 比较失败 | 2026-04-08T08:06:41.889Z |
-| [bytebot](https://github.com/XddXss888/bytebot) | [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:42.358Z |
-| [cfnew](https://github.com/XddXss888/cfnew) | [byJoey/cfnew](https://github.com/byJoey/cfnew) | main | 16 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:42.750Z |
-| [cfspider-workers-ip-manager](https://github.com/XddXss888/cfspider-workers-ip-manager) | [violettoolssite/CFspider](https://github.com/violettoolssite/CFspider) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:43.502Z |
-| [chatgpt_register_v2_by_AI](https://github.com/XddXss888/chatgpt_register_v2_by_AI) | [DestinyCycloid/chatgpt_register_v2_by_AI](https://github.com/DestinyCycloid/chatgpt_register_v2_by_AI) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:44.081Z |
-| [clash-auto-switch](https://github.com/XddXss888/clash-auto-switch) | [adminlove520/clash-auto-switch](https://github.com/adminlove520/clash-auto-switch) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:44.759Z |
-| [Claude-Code-Guide-Zh](https://github.com/XddXss888/Claude-Code-Guide-Zh) | [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) | main | 29 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:45.210Z |
-| [claude-code-source](https://github.com/XddXss888/claude-code-source) | [JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:46.204Z |
-| [CLIProxyAPI-cleaner](https://github.com/XddXss888/CLIProxyAPI-cleaner) | [KJ20051223/CLIProxyAPI-cleaner](https://github.com/KJ20051223/CLIProxyAPI-cleaner) | main | 16 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:46.735Z |
-| [cloudflare-temp-mail-service](https://github.com/XddXss888/cloudflare-temp-mail-service) | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | main | 74 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:47.397Z |
-| [codex-auto-register-tool](https://github.com/XddXss888/codex-auto-register-tool) | [0x5uo2hen/codex_register](https://github.com/0x5uo2hen/codex_register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:48.501Z |
-| [codex-console](https://github.com/XddXss888/codex-console) | [DestinyCycloid/codex-console](https://github.com/DestinyCycloid/codex-console) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:48.934Z |
-| [codeX-register](https://github.com/XddXss888/codeX-register) | [Msg-Lbo/codeX-register](https://github.com/Msg-Lbo/codeX-register) | main | 17 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:49.533Z |
-| [codex-session-patcher](https://github.com/XddXss888/codex-session-patcher) | [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) | main | 17 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:50.186Z |
-| [CodexRegister](https://github.com/XddXss888/CodexRegister) | [yofers/CodexRegister](https://github.com/yofers/CodexRegister) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:50.831Z |
-| [comicspuncher-auto-checkin-bot](https://github.com/XddXss888/comicspuncher-auto-checkin-bot) | [RahabHub/ComicsPuncher](https://github.com/RahabHub/ComicsPuncher) | main | 0 | 1 | 已自动同步 | 同步成功 | 2026-04-08T08:06:51.271Z |
-| [cursor-free-vip-account-tool](https://github.com/XddXss888/cursor-free-vip-account-tool) | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | main | 1 | 1 | 已自动同步 | 已强制对齐上游 | 2026-04-08T08:06:52.017Z |
-| [cursor-toolbox-extension](https://github.com/XddXss888/cursor-toolbox-extension) | [510myRday/Cursor-Toolbox](https://github.com/510myRday/Cursor-Toolbox) | main | 8 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:52.948Z |
-| [cyCronet](https://github.com/XddXss888/cyCronet) | [2833844911/cyCronet](https://github.com/2833844911/cyCronet) | main | 4 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:53.534Z |
-| [fanqiang](https://github.com/XddXss888/fanqiang) | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:54.124Z |
-| [Free-coding-models](https://github.com/XddXss888/Free-coding-models) | [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:54.529Z |
-| [freemail-mailfree-service](https://github.com/XddXss888/freemail-mailfree-service) | [pEJXexhX/mailfree](https://github.com/pEJXexhX/mailfree) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:54.972Z |
-| [freemail-temp-mail-service](https://github.com/XddXss888/freemail-temp-mail-service) | [idinging/freemail](https://github.com/idinging/freemail) | master | 0 | 0 | 检查异常 | 比较失败 | 2026-04-08T08:06:55.445Z |
-| [gitee](https://github.com/XddXss888/gitee) | [MallocPointer/gitee](https://github.com/MallocPointer/gitee) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:55.842Z |
-| [grok-batch-register-tool](https://github.com/XddXss888/grok-batch-register-tool) | [piaoyaozhe/grokzhuce](https://github.com/piaoyaozhe/grokzhuce) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:56.249Z |
-| [Grok-Mirror](https://github.com/XddXss888/Grok-Mirror) | [dairoot/Grok-Mirror](https://github.com/dairoot/Grok-Mirror) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:56.684Z |
-| [grok2api](https://github.com/XddXss888/grok2api) | [TQZHR/grok2api](https://github.com/TQZHR/grok2api) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:57.127Z |
-| [huggingface-openclaw-v2.0](https://github.com/XddXss888/huggingface-openclaw-v2.0) | [tianmingyun/huggingface-openclaw-v2.0](https://github.com/tianmingyun/huggingface-openclaw-v2.0) | main | 4 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:57.670Z |
-| [keepalive-automation-client](https://github.com/XddXss888/keepalive-automation-client) | [klaas8/cs](https://github.com/klaas8/cs) | main | 149 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:58.232Z |
-| [mcp-gateway-platform](https://github.com/XddXss888/mcp-gateway-platform) | [aiguicai/MCP-Gateway](https://github.com/aiguicai/MCP-Gateway) | main | 8 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:59.325Z |
-| [modelhealthcheck](https://github.com/XddXss888/modelhealthcheck) | [Arron196/modelhealthcheck](https://github.com/Arron196/modelhealthcheck) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:06:59.979Z |
-| [NeuraDock](https://github.com/XddXss888/NeuraDock) | [i-rtfsc/NeuraDock](https://github.com/i-rtfsc/NeuraDock) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:07:00.489Z |
-| [outlookEmailPlus](https://github.com/XddXss888/outlookEmailPlus) | [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) | main | 157 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:07:00.892Z |
-| [qwen-auto-register](https://github.com/XddXss888/qwen-auto-register) | [2263648274/qwen-auto-register](https://github.com/2263648274/qwen-auto-register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:07:02.221Z |
-| [qwen2api](https://github.com/XddXss888/qwen2api) | [smanx/qwen2api](https://github.com/smanx/qwen2api) | master | 3 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:07:02.691Z |
-| [regplatformm](https://github.com/XddXss888/regplatformm) | [xiaolajiaoyyds/regplatformm](https://github.com/xiaolajiaoyyds/regplatformm) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-04-08T08:07:03.272Z |
-| [zenproxy](https://github.com/XddXss888/zenproxy) | [Micky203/zenproxy](https://github.com/Micky203/zenproxy) | main | 1 | 1 | 已自动同步 | 已强制对齐上游 | 2026-04-08T08:07:03.862Z |
+| [ABCard](https://github.com/XddXss888/ABCard) | [kaima2022/ABCard](https://github.com/kaima2022/ABCard) | main | 2 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:09.935Z |
+| [AI-Account-Toolkit](https://github.com/XddXss888/AI-Account-Toolkit) | [HaudioHC/chatgpt_register](https://github.com/HaudioHC/chatgpt_register) | main | 0 | 7 | 需要人工处理 | 自动同步失败 | 2026-04-09T03:44:10.638Z |
+| [AI-Account-Toolkits](https://github.com/XddXss888/AI-Account-Toolkits) | [adminlove520/AI-Account-Toolkit](https://github.com/adminlove520/AI-Account-Toolkit) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:11.397Z |
+| [airforce-api-auto-register-system](https://github.com/XddXss888/airforce-api-auto-register-system) | [lza6/AirForce-API-Auto-Register-System](https://github.com/lza6/AirForce-API-Auto-Register-System) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:12.114Z |
+| [any-auto-register](https://github.com/XddXss888/any-auto-register) | [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) | main | 0 | 0 | 检查异常 | 比较失败 | 2026-04-09T03:44:12.665Z |
+| [bytebot](https://github.com/XddXss888/bytebot) | [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:13.215Z |
+| [cfnew](https://github.com/XddXss888/cfnew) | [byJoey/cfnew](https://github.com/byJoey/cfnew) | main | 16 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:13.768Z |
+| [cfspider-workers-ip-manager](https://github.com/XddXss888/cfspider-workers-ip-manager) | [violettoolssite/CFspider](https://github.com/violettoolssite/CFspider) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:14.562Z |
+| [chatgpt_register_v2_by_AI](https://github.com/XddXss888/chatgpt_register_v2_by_AI) | [DestinyCycloid/chatgpt_register_v2_by_AI](https://github.com/DestinyCycloid/chatgpt_register_v2_by_AI) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:15.199Z |
+| [clash-auto-switch](https://github.com/XddXss888/clash-auto-switch) | [adminlove520/clash-auto-switch](https://github.com/adminlove520/clash-auto-switch) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:15.998Z |
+| [Claude-Code-Guide-Zh](https://github.com/XddXss888/Claude-Code-Guide-Zh) | [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) | main | 29 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:16.554Z |
+| [claude-code-source](https://github.com/XddXss888/claude-code-source) | [JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:17.621Z |
+| [CLIProxyAPI-cleaner](https://github.com/XddXss888/CLIProxyAPI-cleaner) | [KJ20051223/CLIProxyAPI-cleaner](https://github.com/KJ20051223/CLIProxyAPI-cleaner) | main | 16 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:18.211Z |
+| [cloudflare-temp-mail-service](https://github.com/XddXss888/cloudflare-temp-mail-service) | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | main | 74 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:18.889Z |
+| [codex-auto-register-tool](https://github.com/XddXss888/codex-auto-register-tool) | [0x5uo2hen/codex_register](https://github.com/0x5uo2hen/codex_register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:20.115Z |
+| [codex-console](https://github.com/XddXss888/codex-console) | [DestinyCycloid/codex-console](https://github.com/DestinyCycloid/codex-console) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:20.698Z |
+| [codeX-register](https://github.com/XddXss888/codeX-register) | [Msg-Lbo/codeX-register](https://github.com/Msg-Lbo/codeX-register) | main | 17 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:21.385Z |
+| [codex-session-patcher](https://github.com/XddXss888/codex-session-patcher) | [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) | main | 17 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:22.154Z |
+| [CodexRegister](https://github.com/XddXss888/CodexRegister) | [yofers/CodexRegister](https://github.com/yofers/CodexRegister) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:22.928Z |
+| [comicspuncher-auto-checkin-bot](https://github.com/XddXss888/comicspuncher-auto-checkin-bot) | [RahabHub/ComicsPuncher](https://github.com/RahabHub/ComicsPuncher) | main | 0 | 1 | 已自动同步 | 同步成功 | 2026-04-09T03:44:23.489Z |
+| [cursor-free-vip-account-tool](https://github.com/XddXss888/cursor-free-vip-account-tool) | [SHANMUGAM070106/cursor-free-vip](https://github.com/SHANMUGAM070106/cursor-free-vip) | main | 1 | 1 | 已自动同步 | 已强制对齐上游 | 2026-04-09T03:44:24.460Z |
+| [cursor-toolbox-extension](https://github.com/XddXss888/cursor-toolbox-extension) | [510myRday/Cursor-Toolbox](https://github.com/510myRday/Cursor-Toolbox) | main | 8 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:25.674Z |
+| [cyCronet](https://github.com/XddXss888/cyCronet) | [2833844911/cyCronet](https://github.com/2833844911/cyCronet) | main | 4 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:26.424Z |
+| [fanqiang](https://github.com/XddXss888/fanqiang) | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:27.141Z |
+| [Free-coding-models](https://github.com/XddXss888/Free-coding-models) | [vava-nessa/free-coding-models](https://github.com/vava-nessa/free-coding-models) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:27.666Z |
+| [freemail-mailfree-service](https://github.com/XddXss888/freemail-mailfree-service) | [pEJXexhX/mailfree](https://github.com/pEJXexhX/mailfree) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:28.188Z |
+| [freemail-temp-mail-service](https://github.com/XddXss888/freemail-temp-mail-service) | [idinging/freemail](https://github.com/idinging/freemail) | master | 0 | 0 | 检查异常 | 比较失败 | 2026-04-09T03:44:28.744Z |
+| [gitee](https://github.com/XddXss888/gitee) | [MallocPointer/gitee](https://github.com/MallocPointer/gitee) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:29.242Z |
+| [grok-batch-register-tool](https://github.com/XddXss888/grok-batch-register-tool) | [piaoyaozhe/grokzhuce](https://github.com/piaoyaozhe/grokzhuce) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:29.907Z |
+| [Grok-Mirror](https://github.com/XddXss888/Grok-Mirror) | [dairoot/Grok-Mirror](https://github.com/dairoot/Grok-Mirror) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:30.400Z |
+| [grok2api](https://github.com/XddXss888/grok2api) | [TQZHR/grok2api](https://github.com/TQZHR/grok2api) | main | 1 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:31.007Z |
+| [huggingface-openclaw-v2.0](https://github.com/XddXss888/huggingface-openclaw-v2.0) | [tianmingyun/huggingface-openclaw-v2.0](https://github.com/tianmingyun/huggingface-openclaw-v2.0) | main | 4 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:31.623Z |
+| [keepalive-automation-client](https://github.com/XddXss888/keepalive-automation-client) | [klaas8/cs](https://github.com/klaas8/cs) | main | 149 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:32.277Z |
+| [mcp-gateway-platform](https://github.com/XddXss888/mcp-gateway-platform) | [aiguicai/MCP-Gateway](https://github.com/aiguicai/MCP-Gateway) | main | 8 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:33.433Z |
+| [MicroWARP](https://github.com/XddXss888/MicroWARP) | [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:34.119Z |
+| [modelhealthcheck](https://github.com/XddXss888/modelhealthcheck) | [Arron196/modelhealthcheck](https://github.com/Arron196/modelhealthcheck) | master | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:34.717Z |
+| [NeuraDock](https://github.com/XddXss888/NeuraDock) | [i-rtfsc/NeuraDock](https://github.com/i-rtfsc/NeuraDock) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:35.292Z |
+| [outlookEmailPlus](https://github.com/XddXss888/outlookEmailPlus) | [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) | main | 188 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:35.835Z |
+| [qwen-auto-register](https://github.com/XddXss888/qwen-auto-register) | [2263648274/qwen-auto-register](https://github.com/2263648274/qwen-auto-register) | main | 0 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:37.304Z |
+| [qwen2api](https://github.com/XddXss888/qwen2api) | [smanx/qwen2api](https://github.com/smanx/qwen2api) | master | 3 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:37.855Z |
+| [regplatformm](https://github.com/XddXss888/regplatformm) | [xiaolajiaoyyds/regplatformm](https://github.com/xiaolajiaoyyds/regplatformm) | main | 5 | 0 | 已是最新 | 已是最新 | 2026-04-09T03:44:38.547Z |
+| [zenproxy](https://github.com/XddXss888/zenproxy) | [Micky203/zenproxy](https://github.com/Micky203/zenproxy) | main | 1 | 1 | 已自动同步 | 已强制对齐上游 | 2026-04-09T03:44:39.272Z |
 
 ## 使用说明
 

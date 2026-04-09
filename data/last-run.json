@@ -1,10 +1,10 @@
 {
-  "run_started_at": "2026-04-08T08:06:39.124Z",
-  "run_completed_at": "2026-04-08T08:07:04.574Z",
+  "run_started_at": "2026-04-09T03:44:08.899Z",
+  "run_completed_at": "2026-04-09T03:44:40.189Z",
   "summary": {
-    "scanned": 41,
+    "scanned": 42,
     "updated": 3,
-    "up_to_date": 35,
+    "up_to_date": 36,
     "manual": 1,
     "errors": 2
   },
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-04-08T08:06:39.742Z",
+      "updated_at": "2026-04-09T03:44:09.935Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-04-08T08:06:40.357Z",
+      "updated_at": "2026-04-09T03:44:10.638Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-04-08T08:06:40.892Z",
+      "updated_at": "2026-04-09T03:44:11.397Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -638,7 +638,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-04-08T08:06:41.411Z",
+      "updated_at": "2026-04-09T03:44:12.114Z",
       "commits": []
     },
     {
@@ -652,7 +652,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between main and lxf746:main.",
       "compare_url": "https://github.com/XddXss888/any-auto-register",
-      "updated_at": "2026-04-08T08:06:41.889Z",
+      "updated_at": "2026-04-09T03:44:12.665Z",
       "commits": []
     },
     {
@@ -666,7 +666,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-04-08T08:06:42.358Z",
+      "updated_at": "2026-04-09T03:44:13.215Z",
       "commits": []
     },
     {
@@ -680,7 +680,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-04-08T08:06:42.750Z",
+      "updated_at": "2026-04-09T03:44:13.768Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -1992,7 +1992,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-04-08T08:06:43.502Z",
+      "updated_at": "2026-04-09T03:44:14.562Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -2049,7 +2049,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-08T08:06:44.081Z",
+      "updated_at": "2026-04-09T03:44:15.199Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -2474,7 +2474,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-04-08T08:06:44.759Z",
+      "updated_at": "2026-04-09T03:44:15.998Z",
       "commits": []
     },
     {
@@ -2488,7 +2488,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-04-08T08:06:45.210Z",
+      "updated_at": "2026-04-09T03:44:16.554Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -4886,7 +4886,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-04-08T08:06:46.204Z",
+      "updated_at": "2026-04-09T03:44:17.621Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -4983,7 +4983,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/compare/main...KJ20051223:main",
-      "updated_at": "2026-04-08T08:06:46.735Z",
+      "updated_at": "2026-04-09T03:44:18.211Z",
       "commits": [
         {
           "sha": "03a4b0b677576dd88e1d49173b638cfa1ee98c29",
@@ -6310,7 +6310,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-04-08T08:06:47.397Z",
+      "updated_at": "2026-04-09T03:44:18.889Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -12393,7 +12393,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-04-08T08:06:48.501Z",
+      "updated_at": "2026-04-09T03:44:20.115Z",
       "commits": []
     },
     {
@@ -12407,7 +12407,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-08T08:06:48.934Z",
+      "updated_at": "2026-04-09T03:44:20.698Z",
       "commits": [
         {
           "sha": "de03307cfbd900684b7414b361d05cb47a10909d",
@@ -12504,7 +12504,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-04-08T08:06:49.533Z",
+      "updated_at": "2026-04-09T03:44:21.385Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -13918,7 +13918,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-04-08T08:06:50.186Z",
+      "updated_at": "2026-04-09T03:44:22.154Z",
       "commits": [
         {
           "sha": "52e463c8307c5af2428fd300d621f2bf25026673",
@@ -15327,7 +15327,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-04-08T08:06:50.831Z",
+      "updated_at": "2026-04-09T03:44:22.928Z",
       "commits": []
     },
     {
@@ -15341,7 +15341,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-04-08T08:06:51.271Z",
+      "updated_at": "2026-04-09T03:44:23.489Z",
       "commits": []
     },
     {
@@ -15353,30 +15353,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit fbc252676172c0c3f6d1065d0bbce030ace55883.",
+      "reason": "Force-reset fork branch to upstream commit bdce5dfd6b245de0b55eb314f71201b29465684b.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-04-08T08:06:52.017Z",
+      "updated_at": "2026-04-09T03:44:24.460Z",
       "commits": [
         {
-          "sha": "fbc252676172c0c3f6d1065d0bbce030ace55883",
-          "node_id": "C_kwDORKtM3doAKGZiYzI1MjY3NjE3MmMwYzNmNmQxMDY1ZDBiYmNlMDMwYWNlNTU4ODM",
+          "sha": "bdce5dfd6b245de0b55eb314f71201b29465684b",
+          "node_id": "C_kwDORKtM3doAKGJkY2U1ZGZkNmIyNDVkZTBiNTVlYjMxNGY3MTIwMWIyOTQ2NTY4NGI",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-08T05:56:39Z"
+              "date": "2026-04-09T00:52:12Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-08T05:56:39Z"
+              "date": "2026-04-09T00:52:12Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/fbc252676172c0c3f6d1065d0bbce030ace55883",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/bdce5dfd6b245de0b55eb314f71201b29465684b",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -15386,9 +15386,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/fbc252676172c0c3f6d1065d0bbce030ace55883",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/fbc252676172c0c3f6d1065d0bbce030ace55883",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/fbc252676172c0c3f6d1065d0bbce030ace55883/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/bdce5dfd6b245de0b55eb314f71201b29465684b",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/bdce5dfd6b245de0b55eb314f71201b29465684b",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/bdce5dfd6b245de0b55eb314f71201b29465684b/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -15452,7 +15452,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-04-08T08:06:52.948Z",
+      "updated_at": "2026-04-09T03:44:25.674Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -16133,7 +16133,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-04-08T08:06:53.534Z",
+      "updated_at": "2026-04-09T03:44:26.424Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -16476,7 +16476,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-04-08T08:06:54.124Z",
+      "updated_at": "2026-04-09T03:44:27.141Z",
       "commits": []
     },
     {
@@ -16490,7 +16490,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Free-coding-models/compare/main...vava-nessa:main",
-      "updated_at": "2026-04-08T08:06:54.529Z",
+      "updated_at": "2026-04-09T03:44:27.666Z",
       "commits": []
     },
     {
@@ -16504,7 +16504,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-04-08T08:06:54.972Z",
+      "updated_at": "2026-04-09T03:44:28.188Z",
       "commits": []
     },
     {
@@ -16518,7 +16518,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-04-08T08:06:55.445Z",
+      "updated_at": "2026-04-09T03:44:28.744Z",
       "commits": []
     },
     {
@@ -16532,7 +16532,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-04-08T08:06:55.842Z",
+      "updated_at": "2026-04-09T03:44:29.242Z",
       "commits": []
     },
     {
@@ -16546,7 +16546,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-04-08T08:06:56.249Z",
+      "updated_at": "2026-04-09T03:44:29.907Z",
       "commits": []
     },
     {
@@ -16560,7 +16560,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Grok-Mirror/compare/main...dairoot:main",
-      "updated_at": "2026-04-08T08:06:56.684Z",
+      "updated_at": "2026-04-09T03:44:30.400Z",
       "commits": []
     },
     {
@@ -16574,7 +16574,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-04-08T08:06:57.127Z",
+      "updated_at": "2026-04-09T03:44:31.007Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -16671,7 +16671,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-04-08T08:06:57.670Z",
+      "updated_at": "2026-04-09T03:44:31.623Z",
       "commits": [
         {
           "sha": "91f14068d9909154d23495eac4ce20250f682689",
@@ -17014,7 +17014,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-04-08T08:06:58.232Z",
+      "updated_at": "2026-04-09T03:44:32.277Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -29247,7 +29247,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-04-08T08:06:59.325Z",
+      "updated_at": "2026-04-09T03:44:33.433Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -29908,6 +29908,20 @@
       ]
     },
     {
+      "repo": "MicroWARP",
+      "upstream": "ccbkkb/MicroWARP",
+      "branch": "main",
+      "ahead_by": 0,
+      "behind_by": 0,
+      "status": "up_to_date",
+      "action": "none",
+      "result": "already-current",
+      "reason": "",
+      "compare_url": "https://github.com/XddXss888/MicroWARP/compare/main...ccbkkb:main",
+      "updated_at": "2026-04-09T03:44:34.119Z",
+      "commits": []
+    },
+    {
       "repo": "modelhealthcheck",
       "upstream": "Arron196/modelhealthcheck",
       "branch": "master",
@@ -29918,7 +29932,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-04-08T08:06:59.979Z",
+      "updated_at": "2026-04-09T03:44:34.717Z",
       "commits": []
     },
     {
@@ -29932,21 +29946,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-04-08T08:07:00.489Z",
+      "updated_at": "2026-04-09T03:44:35.292Z",
       "commits": []
     },
     {
       "repo": "outlookEmailPlus",
       "upstream": "ZeroPointSix/outlookEmailPlus",
       "branch": "main",
-      "ahead_by": 157,
+      "ahead_by": 188,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-04-08T08:07:00.892Z",
+      "updated_at": "2026-04-09T03:44:35.835Z",
       "commits": [
         {
           "sha": "285a94e743209b7ac97772d24bd29a20216c3906",
@@ -42871,6 +42885,2548 @@
               "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/662ceb1ff44f1667b81218a271aba449ca2945d5"
             }
           ]
+        },
+        {
+          "sha": "b0a28120539af9f8c55f2ffd51e216a308cfde06",
+          "node_id": "C_kwDORsORztoAKGIwYTI4MTIwNTM5YWY5ZjhjNTVmMmZmZDUxZTIxNmEzMDhjZmRlMDY",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:23:58Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:23:58Z"
+            },
+            "message": "style: black + isort 格式化修复，及 docker-compose 简化与 .env.example/README 热更新配置更新\n\n- black + isort 格式化 21 个 Python 文件（修复 CI quality-gate 失败）\n- docker-compose.yml: 改为生产版（拉远端镜像），统一 WATCHTOWER_HTTP_API_TOKEN 默认值（两边一致，可留空直接使用）\n- .env.example: WATCHTOWER_HTTP_API_TOKEN 改为可选，留空开箱即用\n- README.md: 简化 docker-compose 示例，说明 token 可留空\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "49b214f1efe786a6c10c99a588ea4bd7fa2c29e5",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/49b214f1efe786a6c10c99a588ea4bd7fa2c29e5"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/b0a28120539af9f8c55f2ffd51e216a308cfde06",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/b0a28120539af9f8c55f2ffd51e216a308cfde06",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/b0a28120539af9f8c55f2ffd51e216a308cfde06",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/b0a28120539af9f8c55f2ffd51e216a308cfde06/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c73cd2470cb86b85185a68f45dfe3805b8605585",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/c73cd2470cb86b85185a68f45dfe3805b8605585",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/c73cd2470cb86b85185a68f45dfe3805b8605585"
+            }
+          ]
+        },
+        {
+          "sha": "b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa",
+          "node_id": "C_kwDORsORztoAKGI1ZjdmNDNlZTUxYThmMTZmZTllZWE0Y2ZhMDZmNWFhMzI1OWJmZmE",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:26:05Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:26:05Z"
+            },
+            "message": "ci: 临时添加 hotupdate-test 分支到 docker workflow 触发列表\n\n验证热更新镜像后将移除此分支配置\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "0d022a109ef3f9135e029094180622690b541389",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/0d022a109ef3f9135e029094180622690b541389"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "b0a28120539af9f8c55f2ffd51e216a308cfde06",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/b0a28120539af9f8c55f2ffd51e216a308cfde06",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/b0a28120539af9f8c55f2ffd51e216a308cfde06"
+            }
+          ]
+        },
+        {
+          "sha": "4202f5dec34a06fe17ea4057d519ec8878a015d8",
+          "node_id": "C_kwDORsORztoAKDQyMDJmNWRlYzM0YTA2ZmUxN2VhNDA1N2Q1MTllYzg4NzhhMDE1ZDg",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:31:34Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:31:34Z"
+            },
+            "message": "fix: 修复 controllers/system.py flake8 检查错误\n\n- E402: 将模块级 import 移至文件顶部（避免在变量声明后 import）\n- F401: 删除 api_trigger_update() 中未使用的局部 import（os, urllib, crypto）\n- F401: 删除 api_deployment_info() 中未使用的 import socket\n- C901: 为复杂度超标函数添加 noqa（_trigger_docker_api_update, api_deployment_info, api_test_watchtower）\n- E501: 拆分超过 127 字符的长字符串为多行\n- F841: 删除 urllib.urlopen 未使用的 resp 变量绑定\n- F541: 修复缺少占位符的 f-string\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "0de057f5a02411268754df62e22df997a6e072e8",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/0de057f5a02411268754df62e22df997a6e072e8"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/4202f5dec34a06fe17ea4057d519ec8878a015d8",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/4202f5dec34a06fe17ea4057d519ec8878a015d8",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/4202f5dec34a06fe17ea4057d519ec8878a015d8",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/4202f5dec34a06fe17ea4057d519ec8878a015d8/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/b5f7f43ee51a8f16fe9eea4cfa06f5aa3259bffa"
+            }
+          ]
+        },
+        {
+          "sha": "adc36454dafff764e17df48419968d621c832630",
+          "node_id": "C_kwDORsORztoAKGFkYzM2NDU0ZGFmZmY3NjRlMTdkZjQ4NDE5OTY4ZDYyMWM4MzI2MzA",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:48:32Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T01:48:32Z"
+            },
+            "message": "fix: 修复 playwright 测试文件在无 playwright 环境下的导入失败\n\ntest_acceptance.py / test_banner_show.py / test_tc01_real.py 均直接\nimport playwright 导致 CI 环境（未安装 playwright）unittest discover\n时报 ModuleNotFoundError。改为 try/except ImportError 保护，与\ntest_csrf_browser_recovery.py 和 test_account_edit_browser_flow.py\n保持一致的处理方式。\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "7a5786796996cc83beffca2089dd171b1778da63",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/7a5786796996cc83beffca2089dd171b1778da63"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/adc36454dafff764e17df48419968d621c832630",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/adc36454dafff764e17df48419968d621c832630",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/adc36454dafff764e17df48419968d621c832630",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/adc36454dafff764e17df48419968d621c832630/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "4202f5dec34a06fe17ea4057d519ec8878a015d8",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/4202f5dec34a06fe17ea4057d519ec8878a015d8",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/4202f5dec34a06fe17ea4057d519ec8878a015d8"
+            }
+          ]
+        },
+        {
+          "sha": "c89115df7f3db434c95e741b8fc78f259bd58e9e",
+          "node_id": "C_kwDORsORztoAKGM4OTExNWRmN2YzZGI0MzRjOTVlNzQxYjhmYzc4ZjI1OWJkNThlOWU",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:21:38Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:21:38Z"
+            },
+            "message": "fix: switch default image source to GHCR for better CN network access\n\n- docker-compose.yml: change app image from Docker Hub to GHCR\n  (ghcr.io/zeropointsix/outlook-email-plus) as default\n  Docker Hub kept as commented fallback\n- README.md: update quick-start example to use GHCR image\n\nGHCR is accessible from mainland China while Docker Hub frequently\ntimes out, which also caused Watchtower's reachability probe to fail.\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "4aaaf18ba5b25ab8149cfbf61520ef67eb5514b9",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/4aaaf18ba5b25ab8149cfbf61520ef67eb5514b9"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/c89115df7f3db434c95e741b8fc78f259bd58e9e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/c89115df7f3db434c95e741b8fc78f259bd58e9e",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/c89115df7f3db434c95e741b8fc78f259bd58e9e",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/c89115df7f3db434c95e741b8fc78f259bd58e9e/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "adc36454dafff764e17df48419968d621c832630",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/adc36454dafff764e17df48419968d621c832630",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/adc36454dafff764e17df48419968d621c832630"
+            }
+          ]
+        },
+        {
+          "sha": "0f94022e3ecdee69aac2a85f2ca0de5c1cc00240",
+          "node_id": "C_kwDORsORztoAKDBmOTQwMjJlM2VjZGVlNjlhYWMyYTg1ZjJjYTBkZTVjMWNjMDAyNDA",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:28:44Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:28:44Z"
+            },
+            "message": "test: trigger CI rebuild for watchtower hotupdate verification\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "54ae7746a16c37b2a7bda20b3b1ac975101a067e",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/54ae7746a16c37b2a7bda20b3b1ac975101a067e"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/0f94022e3ecdee69aac2a85f2ca0de5c1cc00240",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0f94022e3ecdee69aac2a85f2ca0de5c1cc00240",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/0f94022e3ecdee69aac2a85f2ca0de5c1cc00240",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0f94022e3ecdee69aac2a85f2ca0de5c1cc00240/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c89115df7f3db434c95e741b8fc78f259bd58e9e",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/c89115df7f3db434c95e741b8fc78f259bd58e9e",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/c89115df7f3db434c95e741b8fc78f259bd58e9e"
+            }
+          ]
+        },
+        {
+          "sha": "e7c81b92394913adff9cf43f4f02cf46f34cece7",
+          "node_id": "C_kwDORsORztoAKGU3YzgxYjkyMzk0OTEzYWRmZjljZjQzZjRmMDJjZjQ2ZjM0Y2VjZTc",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:31:24Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:31:24Z"
+            },
+            "message": "style: black format start.py (fix CI)\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "4ab5b2f4929d74d6e9cda3cf2555f17c4b0b4ab1",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/4ab5b2f4929d74d6e9cda3cf2555f17c4b0b4ab1"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/e7c81b92394913adff9cf43f4f02cf46f34cece7",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/e7c81b92394913adff9cf43f4f02cf46f34cece7",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/e7c81b92394913adff9cf43f4f02cf46f34cece7",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/e7c81b92394913adff9cf43f4f02cf46f34cece7/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "0f94022e3ecdee69aac2a85f2ca0de5c1cc00240",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0f94022e3ecdee69aac2a85f2ca0de5c1cc00240",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/0f94022e3ecdee69aac2a85f2ca0de5c1cc00240"
+            }
+          ]
+        },
+        {
+          "sha": "7962dd4607c77a2abe174725da0e9f9bb1cdc10a",
+          "node_id": "C_kwDORsORztoAKDc5NjJkZDQ2MDdjNzdhMmFiZTE3NDcyNWRhMGU5ZjliYjFjZGMxMGE",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:45:31Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T02:45:31Z"
+            },
+            "message": "test: manual UI hotupdate test run #2\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "60dadc26c63ccd1278ca7acedddafbb980d24142",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/60dadc26c63ccd1278ca7acedddafbb980d24142"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/7962dd4607c77a2abe174725da0e9f9bb1cdc10a",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7962dd4607c77a2abe174725da0e9f9bb1cdc10a",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/7962dd4607c77a2abe174725da0e9f9bb1cdc10a",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7962dd4607c77a2abe174725da0e9f9bb1cdc10a/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "e7c81b92394913adff9cf43f4f02cf46f34cece7",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/e7c81b92394913adff9cf43f4f02cf46f34cece7",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/e7c81b92394913adff9cf43f4f02cf46f34cece7"
+            }
+          ]
+        },
+        {
+          "sha": "0725adff429dc376a490029b3131d9361e3abd75",
+          "node_id": "C_kwDORsORztoAKDA3MjVhZGZmNDI5ZGMzNzZhNDkwMDI5YjMxMzFkOTM2MWUzYWJkNzU",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T03:16:21Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T03:16:21Z"
+            },
+            "message": "fix: watchtower reachability probe uses unauthenticated request\n\nPrevious logic sent authenticated GET /v1/update which triggers actual\nimage pull (slow). With GHCR images this could take >3s timeout.\n\nNew logic: send unauthenticated request, treat 401 response as\n'reachable' (service is up, just not authenticated). Fast and reliable.\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "a9cee7a2f6e0cab0f41c10f6889acbe4aaa9e291",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/a9cee7a2f6e0cab0f41c10f6889acbe4aaa9e291"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/0725adff429dc376a490029b3131d9361e3abd75",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0725adff429dc376a490029b3131d9361e3abd75",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/0725adff429dc376a490029b3131d9361e3abd75",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0725adff429dc376a490029b3131d9361e3abd75/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "7962dd4607c77a2abe174725da0e9f9bb1cdc10a",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7962dd4607c77a2abe174725da0e9f9bb1cdc10a",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/7962dd4607c77a2abe174725da0e9f9bb1cdc10a"
+            }
+          ]
+        },
+        {
+          "sha": "ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf",
+          "node_id": "C_kwDORsORztoAKGRkYmM5MWVhZTMyMmU5NDMwZjY5ZDZiYWE5YjgxYmRkNGFlY2E4Y2Y",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T03:53:47Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T03:53:47Z"
+            },
+            "message": "fix: add GHCR image to whitelist and update hotupdate test compose files\n\n- Add ghcr.io/zeropointsix/outlook-email-plus to ALLOWED_IMAGE_PREFIXES\n- Fix _looks_like_local_image_ref: use prefix matching instead of\n  single-segment namespace extraction (ghcr.io/zeropointsix was\n  incorrectly detected as local build)\n- Update both test compose files to use GHCR :hotupdate-test tag\n- Remove local build config from docker-api-test compose\n- Align Watchtower token defaults with main docker-compose.yml\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "75069ee8760bcda11c7e1f0f195e77f5fc59fb28",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/75069ee8760bcda11c7e1f0f195e77f5fc59fb28"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "0725adff429dc376a490029b3131d9361e3abd75",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/0725adff429dc376a490029b3131d9361e3abd75",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/0725adff429dc376a490029b3131d9361e3abd75"
+            }
+          ]
+        },
+        {
+          "sha": "a89295f22c6b9e9bb0a803a07edc35622d9ab4bb",
+          "node_id": "C_kwDORsORztoAKGE4OTI5NWYyMmM2YjllOWJiMGE4MDNhMDdlZGMzNTYyMmQ5YWI0YmI",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:03:19Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:08:55Z"
+            },
+            "message": "chore: bump version to 1.12.1-hotupdate-test and fix version comparison\n\n- Change version from 1.12.0 to 1.12.1-hotupdate-test\n- Fix _version_gt to handle pre-release suffixes (e.g. -hotupdate-test)\n- Update test assertions to match new version string\n- Fix missing test method definition for test_has_update_false_when_same\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "2138e598be1b6287ba61a464fc1858b4de2ce2e6",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/2138e598be1b6287ba61a464fc1858b4de2ce2e6"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/a89295f22c6b9e9bb0a803a07edc35622d9ab4bb",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/a89295f22c6b9e9bb0a803a07edc35622d9ab4bb",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/a89295f22c6b9e9bb0a803a07edc35622d9ab4bb",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/a89295f22c6b9e9bb0a803a07edc35622d9ab4bb/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/ddbc91eae322e9430f69d6baa9b81bdd4aeca8cf"
+            }
+          ]
+        },
+        {
+          "sha": "d3904110fb8d4831d02cc421d37d11c916b4df47",
+          "node_id": "C_kwDORsORztoAKGQzOTA0MTEwZmI4ZDQ4MzFkMDJjYzQyMWQzN2QxMWM5MTZiNGRmNDc",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:27:48Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:27:48Z"
+            },
+            "message": "feat: add manual trigger update button in settings panel\n\n- Add '触发容器更新' card with '立即更新' button in settings\n- manualTriggerUpdate() reads selected update method and triggers API\n- Inline result feedback (success/error) + reuses waitForRestart()\n- Update WORKSPACE.md operation log\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "8776342602df00fd616dbac3898f6da9bc62cf75",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/8776342602df00fd616dbac3898f6da9bc62cf75"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/d3904110fb8d4831d02cc421d37d11c916b4df47",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d3904110fb8d4831d02cc421d37d11c916b4df47",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d3904110fb8d4831d02cc421d37d11c916b4df47",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d3904110fb8d4831d02cc421d37d11c916b4df47/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a89295f22c6b9e9bb0a803a07edc35622d9ab4bb",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/a89295f22c6b9e9bb0a803a07edc35622d9ab4bb",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/a89295f22c6b9e9bb0a803a07edc35622d9ab4bb"
+            }
+          ]
+        },
+        {
+          "sha": "1926022a5f28e6f5673b7bfaf968fa3c90d82f1e",
+          "node_id": "C_kwDORsORztoAKDE5MjYwMjJhNWYyOGU2ZjU2NzNiN2JmYWY5NjhmYTNjOTBkODJmMWU",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:37:21Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:37:21Z"
+            },
+            "message": "chore: bump version to 1.12.2-hotupdate-test for UI button testing\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "b3459c227e6e9dfe868ccc9322c139f7e2bab349",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/b3459c227e6e9dfe868ccc9322c139f7e2bab349"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/1926022a5f28e6f5673b7bfaf968fa3c90d82f1e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/1926022a5f28e6f5673b7bfaf968fa3c90d82f1e",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/1926022a5f28e6f5673b7bfaf968fa3c90d82f1e",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/1926022a5f28e6f5673b7bfaf968fa3c90d82f1e/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "d3904110fb8d4831d02cc421d37d11c916b4df47",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d3904110fb8d4831d02cc421d37d11c916b4df47",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d3904110fb8d4831d02cc421d37d11c916b4df47"
+            }
+          ]
+        },
+        {
+          "sha": "02e4e4f301a5533c446551a6521cdc88405df8f6",
+          "node_id": "C_kwDORsORztoAKDAyZTRlNGYzMDFhNTUzM2M0NDY1NTFhNjUyMWNkYzg4NDA1ZGY4ZjY",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:48:09Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T04:48:09Z"
+            },
+            "message": "fix: Docker API 更新同 digest 时前端超时卡死\n\n在 _trigger_docker_api_update() 中增加 digest 预检查：\n- spawn updater 前先 pull 镜像并比较 digest\n- digest 相同时直接返回 already_latest 标志，不启动 updater\n- 前端 triggerUpdate() 和 manualTriggerUpdate() 检查 already_latest\n  跳过 waitForRestart()，避免 180s 超时卡死\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "ce78513e82fea7f54d80f233be2cebe4e770e752",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/ce78513e82fea7f54d80f233be2cebe4e770e752"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/02e4e4f301a5533c446551a6521cdc88405df8f6",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/02e4e4f301a5533c446551a6521cdc88405df8f6",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/02e4e4f301a5533c446551a6521cdc88405df8f6",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/02e4e4f301a5533c446551a6521cdc88405df8f6/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1926022a5f28e6f5673b7bfaf968fa3c90d82f1e",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/1926022a5f28e6f5673b7bfaf968fa3c90d82f1e",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/1926022a5f28e6f5673b7bfaf968fa3c90d82f1e"
+            }
+          ]
+        },
+        {
+          "sha": "28e6568daeef3347ff1f538d680113639745eea1",
+          "node_id": "C_kwDORsORztoAKDI4ZTY1NjhkYWVlZjMzNDdmZjFmNTM4ZDY4MDExMzYzOTc0NWVlYTE",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:31:26Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:31:26Z"
+            },
+            "message": "chore: bump to v1.12.3-hotupdate-test + add i18n for manual trigger\n\n- 版本 1.12.2 → 1.12.3-hotupdate-test\n- i18n.js: 添加手动触发更新相关文本翻译\n- 测试断言同步更新\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "84fc5a3ef57e32014f920a60fdf995244c5a21c0",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/84fc5a3ef57e32014f920a60fdf995244c5a21c0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/28e6568daeef3347ff1f538d680113639745eea1",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/28e6568daeef3347ff1f538d680113639745eea1",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/28e6568daeef3347ff1f538d680113639745eea1",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/28e6568daeef3347ff1f538d680113639745eea1/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "02e4e4f301a5533c446551a6521cdc88405df8f6",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/02e4e4f301a5533c446551a6521cdc88405df8f6",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/02e4e4f301a5533c446551a6521cdc88405df8f6"
+            }
+          ]
+        },
+        {
+          "sha": "ff5fb5bd88c219d0def1b246efe00dbbda610d51",
+          "node_id": "C_kwDORsORztoAKGZmNWZiNWJkODhjMjE5ZDBkZWYxYjI0NmVmZTAwZGJiZGE2MTBkNTE",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:40:58Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:40:58Z"
+            },
+            "message": "fix: Watchtower 触发超时 - 增大 API 和前端超时时间\n\n- 后端 _trigger_watchtower_update() 超时 10s → 30s\n  Watchtower /v1/update 是同步操作，需等待 GHCR pull+digest 比较完成\n- 前端 triggerUpdate() 和 manualTriggerUpdate() Watchtower 超时 10s → 60s\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "9a2aaa8dbeb06a6ccaab8f1128f298c7ee17c654",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/9a2aaa8dbeb06a6ccaab8f1128f298c7ee17c654"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/ff5fb5bd88c219d0def1b246efe00dbbda610d51",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ff5fb5bd88c219d0def1b246efe00dbbda610d51",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/ff5fb5bd88c219d0def1b246efe00dbbda610d51",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ff5fb5bd88c219d0def1b246efe00dbbda610d51/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "28e6568daeef3347ff1f538d680113639745eea1",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/28e6568daeef3347ff1f538d680113639745eea1",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/28e6568daeef3347ff1f538d680113639745eea1"
+            }
+          ]
+        },
+        {
+          "sha": "52fa4917cc70b0cca697761f8eea583a23cadff1",
+          "node_id": "C_kwDORsORztoAKDUyZmE0OTE3Y2M3MGIwY2NhNjk3NzYxZjhlZWE1ODNhMjNjYWRmZjE",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:46:04Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:46:04Z"
+            },
+            "message": "chore: bump to v1.12.4-hotupdate-test for UI testing\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "e32003c1ea16dd0cf8f32f2f50dd72c2a3a1d73f",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/e32003c1ea16dd0cf8f32f2f50dd72c2a3a1d73f"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/52fa4917cc70b0cca697761f8eea583a23cadff1",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/52fa4917cc70b0cca697761f8eea583a23cadff1",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/52fa4917cc70b0cca697761f8eea583a23cadff1",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/52fa4917cc70b0cca697761f8eea583a23cadff1/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "ff5fb5bd88c219d0def1b246efe00dbbda610d51",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/ff5fb5bd88c219d0def1b246efe00dbbda610d51",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/ff5fb5bd88c219d0def1b246efe00dbbda610d51"
+            }
+          ]
+        },
+        {
+          "sha": "5415c56702e4a302e3dad6dff4e00de1910e11d5",
+          "node_id": "C_kwDORsORztoAKDU0MTVjNTY3MDJlNGEzMDJlM2RhZDZkZmY0ZTAwZGUxOTEwZTExZDU",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:57:05Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T05:57:05Z"
+            },
+            "message": "fix: 智能推荐更新方式，修复固定标签误判和多余警告\n\n- 改进 uses_fixed_tag：仅 semver 格式标签视为固定版本，分支标签不再误判\n- 新增 recommended_method：后端根据可用性智能推荐更新方式\n- 前端自动选择推荐的更新方式 radio\n- Docker API 可用时不再显示 Watchtower 不可达警告\n- can_auto_update 不再受 uses_fixed_tag 阻塞\n- 版本 bump 至 v1.12.5-hotupdate-test\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "2fb4c4c56f1bd53e4e77cf81f033a65bd78c44f5",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/2fb4c4c56f1bd53e4e77cf81f033a65bd78c44f5"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/5415c56702e4a302e3dad6dff4e00de1910e11d5",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/5415c56702e4a302e3dad6dff4e00de1910e11d5",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/5415c56702e4a302e3dad6dff4e00de1910e11d5",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/5415c56702e4a302e3dad6dff4e00de1910e11d5/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "52fa4917cc70b0cca697761f8eea583a23cadff1",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/52fa4917cc70b0cca697761f8eea583a23cadff1",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/52fa4917cc70b0cca697761f8eea583a23cadff1"
+            }
+          ]
+        },
+        {
+          "sha": "e1b503ba541f542bf7146b84ae052a2bded0f447",
+          "node_id": "C_kwDORsORztoAKGUxYjUwM2JhNTQxZjU0MmJmNzE0NmI4NGFlMDUyYTJiZGVkMGY0NDc",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:03:23Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:03:23Z"
+            },
+            "message": "chore: bump version to v1.12.6-hotupdate-test\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "fad1227e35948c81901a9b8eb2f5132ecf1a2d7a",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/fad1227e35948c81901a9b8eb2f5132ecf1a2d7a"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/e1b503ba541f542bf7146b84ae052a2bded0f447",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/e1b503ba541f542bf7146b84ae052a2bded0f447",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/e1b503ba541f542bf7146b84ae052a2bded0f447",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/e1b503ba541f542bf7146b84ae052a2bded0f447/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "5415c56702e4a302e3dad6dff4e00de1910e11d5",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/5415c56702e4a302e3dad6dff4e00de1910e11d5",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/5415c56702e4a302e3dad6dff4e00de1910e11d5"
+            }
+          ]
+        },
+        {
+          "sha": "893e75736925b3a65b0f1f49792916049a551f3e",
+          "node_id": "C_kwDORsORztoAKDg5M2U3NTczNjkyNWIzYTY1YjBmMWY0OTc5MjkxNjA0OWE1NTFmM2U",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:18:47Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:25:21Z"
+            },
+            "message": "fix: Watchtower错误日志增强 + i18n翻译补全 + WORKSPACE更新\n\n- Watchtower trigger: 读取响应body并返回detail, 区分HTTPError/URLError/Timeout\n- 前端: 错误结果显示detail详情\n- i18n: 新增24个翻译条目覆盖一键更新配置区域\n- WORKSPACE: 记录智能推荐+i18n+错误日志增强操作\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "5321c20f101933351c39a746cb467bf65397343e",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/5321c20f101933351c39a746cb467bf65397343e"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/893e75736925b3a65b0f1f49792916049a551f3e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/893e75736925b3a65b0f1f49792916049a551f3e",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/893e75736925b3a65b0f1f49792916049a551f3e",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/893e75736925b3a65b0f1f49792916049a551f3e/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "e1b503ba541f542bf7146b84ae052a2bded0f447",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/e1b503ba541f542bf7146b84ae052a2bded0f447",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/e1b503ba541f542bf7146b84ae052a2bded0f447"
+            }
+          ]
+        },
+        {
+          "sha": "1779a6f7f156ad769b5d863082894646d38e38c8",
+          "node_id": "C_kwDORsORztoAKDE3NzlhNmY3ZjE1NmFkNzY5YjVkODYzMDgyODk0NjQ2ZDM4ZTM4Yzg",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:44:04Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:44:04Z"
+            },
+            "message": "fix: i18n 完整修复 — data-i18n-html 机制 + JS 动态文本翻译 + version bump v1.12.7\n\n- 新增 data-i18n-html 属性机制处理含 <code>/<strong> 内联标签的段落翻译\n- Docker API 安全警告和 Watchtower 配置指南使用 htmlBlocks 整段翻译\n- JS 动态文本 (btn.textContent, showToast) 全部包裹 translateAppTextLocal()\n- 新增 15+ exactMap 条目: 立即更新、Docker API 更新失败、showToast 长消息等\n- 修复全角括号匹配: （Docker 内网地址）\n- 新增表单提示翻译: WATCHTOWER_HTTP_API_TOKEN 说明\n- WORKSPACE.md 更新操作记录\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "11a5511609aa19628a7a2202379ef878cc554490",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/11a5511609aa19628a7a2202379ef878cc554490"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/1779a6f7f156ad769b5d863082894646d38e38c8",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/1779a6f7f156ad769b5d863082894646d38e38c8",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/1779a6f7f156ad769b5d863082894646d38e38c8",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/1779a6f7f156ad769b5d863082894646d38e38c8/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "893e75736925b3a65b0f1f49792916049a551f3e",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/893e75736925b3a65b0f1f49792916049a551f3e",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/893e75736925b3a65b0f1f49792916049a551f3e"
+            }
+          ]
+        },
+        {
+          "sha": "6441de250e04788f8a1bfa26bb86fbb50a9ab342",
+          "node_id": "C_kwDORsORztoAKDY0NDFkZTI1MGUwNDc4OGY4YTFiZmEyNmJiODZmYmI1MGE5YWIzNDI",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:57:00Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T06:57:13Z"
+            },
+            "message": "fix: emoji-prefixed i18n, settings tab translations, watchtower test timeout 5s→35s\n\n- Add emoji-prefixed variants to exactMap (🔄 一键更新配置, 🚀 触发容器更新)\n- Add settings tab name translations (基础, 临时邮箱, API 安全, 自动化)\n- Increase Watchtower connectivity test timeout from 5s to 35s\n  (GET /v1/update triggers full image check, takes 20-30s for GHCR)\n- Bump version to v1.12.8-hotupdate-test\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "185f5589ace3d72f283c45c528b6f4bbb3c56fde",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/185f5589ace3d72f283c45c528b6f4bbb3c56fde"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/6441de250e04788f8a1bfa26bb86fbb50a9ab342",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/6441de250e04788f8a1bfa26bb86fbb50a9ab342",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/6441de250e04788f8a1bfa26bb86fbb50a9ab342",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/6441de250e04788f8a1bfa26bb86fbb50a9ab342/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1779a6f7f156ad769b5d863082894646d38e38c8",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/1779a6f7f156ad769b5d863082894646d38e38c8",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/1779a6f7f156ad769b5d863082894646d38e38c8"
+            }
+          ]
+        },
+        {
+          "sha": "2b49547b7ed0469853c6cfeddb275d0156d2c60c",
+          "node_id": "C_kwDORsORztoAKDJiNDk1NDdiN2VkMDQ2OTg1M2M2Y2ZlZGRiMjc1ZDAxNTZkMmM2MGM",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T07:24:53Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T07:24:53Z"
+            },
+            "message": "fix: Watchtower already_latest detection + i18n for connectivity/update messages\n\n- Watchtower POST /v1/update is synchronous: if our container receives\n  a 200 response, it means Watchtower did NOT update us (otherwise our\n  process would have been killed). Return already_latest: true.\n- Add i18n entries: 连通正常, 检查完毕, 测试中, 更新失败 etc.\n- Wrap testWatchtower() result text with translateAppTextLocal()\n- Use pickApiMessage() for manualTriggerUpdate() success/already_latest\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "0a403d6482349e83e342c65be8720692f22218cb",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/0a403d6482349e83e342c65be8720692f22218cb"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/2b49547b7ed0469853c6cfeddb275d0156d2c60c",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/2b49547b7ed0469853c6cfeddb275d0156d2c60c",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/2b49547b7ed0469853c6cfeddb275d0156d2c60c",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/2b49547b7ed0469853c6cfeddb275d0156d2c60c/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "6441de250e04788f8a1bfa26bb86fbb50a9ab342",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/6441de250e04788f8a1bfa26bb86fbb50a9ab342",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/6441de250e04788f8a1bfa26bb86fbb50a9ab342"
+            }
+          ]
+        },
+        {
+          "sha": "3672888fa2f164e03ba914170022b659db3e7f4f",
+          "node_id": "C_kwDORsORztoAKDM2NzI4ODhmYTJmMTY0ZTAzYmE5MTQxNzAwMjJiNjU5ZGIzZTdmNGY",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T07:28:50Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T07:28:50Z"
+            },
+            "message": "fix: update test assertion for watchtower already_latest response\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "2ae219edc61e7396609d191d87d5efb3c84d0167",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/2ae219edc61e7396609d191d87d5efb3c84d0167"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/3672888fa2f164e03ba914170022b659db3e7f4f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/3672888fa2f164e03ba914170022b659db3e7f4f",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/3672888fa2f164e03ba914170022b659db3e7f4f",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/3672888fa2f164e03ba914170022b659db3e7f4f/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "2b49547b7ed0469853c6cfeddb275d0156d2c60c",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/2b49547b7ed0469853c6cfeddb275d0156d2c60c",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/2b49547b7ed0469853c6cfeddb275d0156d2c60c"
+            }
+          ]
+        },
+        {
+          "sha": "6f5c707bdd407a93d6d2aa5b62ea989b02e837ce",
+          "node_id": "C_kwDORsORztoAKDZmNWM3MDdiZGQ0MDdhOTNkNmQyYWE1YjYyZWE5ODliMDJlODM3Y2U",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:13:53Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:13:53Z"
+            },
+            "message": "chore: 清理测试分支产物，版本回退至 1.12.0\n\n- 删除测试用 compose 文件 (hotupdate-test, docker-api-test)\n- 移除 CI docker-build-push 中 hotupdate-test 分支触发\n- 版本号从 1.12.8-hotupdate-test 回退至 1.12.0\n- 清理 start.py 测试注释\n- 恢复 WORKSPACE.md 为 main 版本\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "89a4a8569d896a8427b4cbcb60881b7156e76bc5",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/89a4a8569d896a8427b4cbcb60881b7156e76bc5"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/6f5c707bdd407a93d6d2aa5b62ea989b02e837ce",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/6f5c707bdd407a93d6d2aa5b62ea989b02e837ce",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/6f5c707bdd407a93d6d2aa5b62ea989b02e837ce",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/6f5c707bdd407a93d6d2aa5b62ea989b02e837ce/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "3672888fa2f164e03ba914170022b659db3e7f4f",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/3672888fa2f164e03ba914170022b659db3e7f4f",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/3672888fa2f164e03ba914170022b659db3e7f4f"
+            }
+          ]
+        },
+        {
+          "sha": "046db68f5e87d7505257a4f8a662b28a342b876b",
+          "node_id": "C_kwDORsORztoAKDA0NmRiNjhmNWU4N2Q3NTA1MjU3YTRmOGE2NjJiMjhhMzQyYjg3NmI",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:17:33Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:17:33Z"
+            },
+            "message": "docs: 更新 CHANGELOG 和 WORKSPACE 记录热更新合并\n\n- CHANGELOG: 新增 v1.12.0 条目，记录热更新双模式完整功能\n- WORKSPACE: 新增 2026-04-09 合并记录，包括测试发现/修复清单\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "54b9c65aced9baf6e8b5fb193f79af1e18c1d42f",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/54b9c65aced9baf6e8b5fb193f79af1e18c1d42f"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/046db68f5e87d7505257a4f8a662b28a342b876b",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/046db68f5e87d7505257a4f8a662b28a342b876b",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/046db68f5e87d7505257a4f8a662b28a342b876b",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/046db68f5e87d7505257a4f8a662b28a342b876b/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "6f5c707bdd407a93d6d2aa5b62ea989b02e837ce",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/6f5c707bdd407a93d6d2aa5b62ea989b02e837ce",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/6f5c707bdd407a93d6d2aa5b62ea989b02e837ce"
+            }
+          ]
+        },
+        {
+          "sha": "8d045beb27b0b3602ad359ce6961bbe97320b3d7",
+          "node_id": "C_kwDORsORztoAKDhkMDQ1YmViMjdiMGIzNjAyYWQzNTljZTY5NjFiYmU5NzMyMGIzZDc",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:29:51Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:29:51Z"
+            },
+            "message": "docs: 更新 README 中英文版本\n\n中文 README:\n- 清理演示站点段落措辞\n- 补充一键更新 already_latest 和 digest 预检查描述\n\n英文 README:\n- 版本从 v1.11.0 更新至 v1.12.0\n- 新增 One-Click Update 功能描述\n- 新增 docker-compose + Watchtower 部署方式\n- 新增一键更新相关环境变量说明\n- 清理演示站点段落措辞\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "cb93e303f7dfe264bcdbb7dbecdfb790b9c72bdb",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/cb93e303f7dfe264bcdbb7dbecdfb790b9c72bdb"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/8d045beb27b0b3602ad359ce6961bbe97320b3d7",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/8d045beb27b0b3602ad359ce6961bbe97320b3d7",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/8d045beb27b0b3602ad359ce6961bbe97320b3d7",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/8d045beb27b0b3602ad359ce6961bbe97320b3d7/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "046db68f5e87d7505257a4f8a662b28a342b876b",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/046db68f5e87d7505257a4f8a662b28a342b876b",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/046db68f5e87d7505257a4f8a662b28a342b876b"
+            }
+          ]
+        },
+        {
+          "sha": "d444ac203371a5cf6e3fbeee60f087729ca877e8",
+          "node_id": "C_kwDORsORztoAKGQ0NDRhYzIwMzM3MWE1Y2Y2ZTNmYmVlZTYwZjA4NzcyOWNhODc3ZTg",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:41:53Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:41:53Z"
+            },
+            "message": "docs(release): v1.13.0\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "045104ef599df3dd04103c018357e06c103126aa",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/045104ef599df3dd04103c018357e06c103126aa"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/d444ac203371a5cf6e3fbeee60f087729ca877e8",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d444ac203371a5cf6e3fbeee60f087729ca877e8",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d444ac203371a5cf6e3fbeee60f087729ca877e8",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d444ac203371a5cf6e3fbeee60f087729ca877e8/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "8d045beb27b0b3602ad359ce6961bbe97320b3d7",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/8d045beb27b0b3602ad359ce6961bbe97320b3d7",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/8d045beb27b0b3602ad359ce6961bbe97320b3d7"
+            }
+          ]
+        },
+        {
+          "sha": "301b1224b16f14be6a87668af49e54cf45832822",
+          "node_id": "C_kwDORsORztoAKDMwMWIxMjI0YjE2ZjE0YmU2YTg3NjY4YWY0OWU1NGNmNDU4MzI4MjI",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:49:34Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:49:34Z"
+            },
+            "message": "fix: 移除 sonar-project.properties 中已删除的 fix_format.py 引用\n\n修复 SonarCloud CI 持续失败的问题，同步清理项目地图文档\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "ca747c1d30e3273624f7d890c6064047e33493eb",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/ca747c1d30e3273624f7d890c6064047e33493eb"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/301b1224b16f14be6a87668af49e54cf45832822",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/301b1224b16f14be6a87668af49e54cf45832822",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/301b1224b16f14be6a87668af49e54cf45832822",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/301b1224b16f14be6a87668af49e54cf45832822/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "d444ac203371a5cf6e3fbeee60f087729ca877e8",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/d444ac203371a5cf6e3fbeee60f087729ca877e8",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/d444ac203371a5cf6e3fbeee60f087729ca877e8"
+            }
+          ]
+        },
+        {
+          "sha": "7952820cc698a3a15737b33d54a8af292640ff2f",
+          "node_id": "C_kwDORsORztoAKDc5NTI4MjBjYzY5OGEzYTE1NzM3YjMzZDU0YThhZjI5MjY0MGZmMmY",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:59:16Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T08:59:16Z"
+            },
+            "message": "docs: 添加联系邮箱，同步所有分支到 main\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "0b22751c365477b199706cf7e4881b64e0a19b58",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/0b22751c365477b199706cf7e4881b64e0a19b58"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/7952820cc698a3a15737b33d54a8af292640ff2f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7952820cc698a3a15737b33d54a8af292640ff2f",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/7952820cc698a3a15737b33d54a8af292640ff2f",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7952820cc698a3a15737b33d54a8af292640ff2f/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "301b1224b16f14be6a87668af49e54cf45832822",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/301b1224b16f14be6a87668af49e54cf45832822",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/301b1224b16f14be6a87668af49e54cf45832822"
+            }
+          ]
+        },
+        {
+          "sha": "80bfd115c8acebc341fc5177fbc21252e1757d7a",
+          "node_id": "C_kwDORsORztoAKDgwYmZkMTE1YzhhY2ViYzM0MWZjNTE3N2ZiYzIxMjUyZTE3NTdkN2E",
+          "commit": {
+            "author": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T09:00:40Z"
+            },
+            "committer": {
+              "name": "胡绍康",
+              "email": "3052147989@qq.com",
+              "date": "2026-04-08T09:00:40Z"
+            },
+            "message": "docs: 更新 WORKSPACE 记录分支同步与联系方式操作\n\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>",
+            "tree": {
+              "sha": "b911345bf79e2e0f0c630f7049ffa316d783ea02",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/trees/b911345bf79e2e0f0c630f7049ffa316d783ea02"
+            },
+            "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/git/commits/80bfd115c8acebc341fc5177fbc21252e1757d7a",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/80bfd115c8acebc341fc5177fbc21252e1757d7a",
+          "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/80bfd115c8acebc341fc5177fbc21252e1757d7a",
+          "comments_url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/80bfd115c8acebc341fc5177fbc21252e1757d7a/comments",
+          "author": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "guanshangshui",
+            "id": 185655389,
+            "node_id": "U_kgDOCxDgXQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/185655389?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/guanshangshui",
+            "html_url": "https://github.com/guanshangshui",
+            "followers_url": "https://api.github.com/users/guanshangshui/followers",
+            "following_url": "https://api.github.com/users/guanshangshui/following{/other_user}",
+            "gists_url": "https://api.github.com/users/guanshangshui/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/guanshangshui/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/guanshangshui/subscriptions",
+            "organizations_url": "https://api.github.com/users/guanshangshui/orgs",
+            "repos_url": "https://api.github.com/users/guanshangshui/repos",
+            "events_url": "https://api.github.com/users/guanshangshui/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/guanshangshui/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "7952820cc698a3a15737b33d54a8af292640ff2f",
+              "url": "https://api.github.com/repos/XddXss888/outlookEmailPlus/commits/7952820cc698a3a15737b33d54a8af292640ff2f",
+              "html_url": "https://github.com/XddXss888/outlookEmailPlus/commit/7952820cc698a3a15737b33d54a8af292640ff2f"
+            }
+          ]
         }
       ]
     },
@@ -42885,7 +45441,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-04-08T08:07:02.221Z",
+      "updated_at": "2026-04-09T03:44:37.304Z",
       "commits": []
     },
     {
@@ -42899,7 +45455,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-04-08T08:07:02.691Z",
+      "updated_at": "2026-04-09T03:44:37.855Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -43160,7 +45716,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-04-08T08:07:03.272Z",
+      "updated_at": "2026-04-09T03:44:38.547Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
@@ -43583,30 +46139,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 419aff2586449f820dadfdeef141b5ae0a65785e.",
+      "reason": "Force-reset fork branch to upstream commit 76bf31ff119286c55d0b58510b92a4b51e4762ae.",
       "compare_url": "https://github.com/XddXss888/zenproxy/compare/main...Micky203:main",
-      "updated_at": "2026-04-08T08:07:03.862Z",
+      "updated_at": "2026-04-09T03:44:39.272Z",
       "commits": [
         {
-          "sha": "419aff2586449f820dadfdeef141b5ae0a65785e",
-          "node_id": "C_kwDOR6tQLNoAKDQxOWFmZjI1ODY0NDlmODIwZGFkZmRlZWYxNDFiNWFlMGE2NTc4NWU",
+          "sha": "76bf31ff119286c55d0b58510b92a4b51e4762ae",
+          "node_id": "C_kwDOR6tQLNoAKDc2YmYzMWZmMTE5Mjg2YzU1ZDBiNTg1MTBiOTJhNGI1MWU0NzYyYWU",
           "commit": {
             "author": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-04-08T07:46:31Z"
+              "date": "2026-04-09T02:41:23Z"
             },
             "committer": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-04-08T07:46:31Z"
+              "date": "2026-04-09T02:41:23Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "22c121141024d5d4e737589b1f782212f3ec8776",
               "url": "https://api.github.com/repos/XddXss888/zenproxy/git/trees/22c121141024d5d4e737589b1f782212f3ec8776"
             },
-            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/419aff2586449f820dadfdeef141b5ae0a65785e",
+            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/76bf31ff119286c55d0b58510b92a4b51e4762ae",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -43616,9 +46172,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/419aff2586449f820dadfdeef141b5ae0a65785e",
-          "html_url": "https://github.com/XddXss888/zenproxy/commit/419aff2586449f820dadfdeef141b5ae0a65785e",
-          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/419aff2586449f820dadfdeef141b5ae0a65785e/comments",
+          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/76bf31ff119286c55d0b58510b92a4b51e4762ae",
+          "html_url": "https://github.com/XddXss888/zenproxy/commit/76bf31ff119286c55d0b58510b92a4b51e4762ae",
+          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/76bf31ff119286c55d0b58510b92a4b51e4762ae/comments",
           "author": {
             "login": "Micky203",
             "id": 164007966,
