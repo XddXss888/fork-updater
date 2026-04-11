@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-04-11T03:33:29.258Z",
-  "run_completed_at": "2026-04-11T03:33:53.190Z",
+  "run_started_at": "2026-04-11T07:43:28.302Z",
+  "run_completed_at": "2026-04-11T07:43:52.622Z",
   "summary": {
     "scanned": 43,
     "updated": 3,
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-04-11T03:33:30.282Z",
+      "updated_at": "2026-04-11T07:43:29.375Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-04-11T03:33:30.784Z",
+      "updated_at": "2026-04-11T07:43:29.888Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-04-11T03:33:31.288Z",
+      "updated_at": "2026-04-11T07:43:30.357Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -764,7 +764,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-04-11T03:33:31.966Z",
+      "updated_at": "2026-04-11T07:43:31.026Z",
       "commits": []
     },
     {
@@ -778,7 +778,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between main and lxf746:main.",
       "compare_url": "https://github.com/XddXss888/any-auto-register",
-      "updated_at": "2026-04-11T03:33:32.353Z",
+      "updated_at": "2026-04-11T07:43:31.433Z",
       "commits": []
     },
     {
@@ -792,7 +792,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-04-11T03:33:32.716Z",
+      "updated_at": "2026-04-11T07:43:31.789Z",
       "commits": []
     },
     {
@@ -806,7 +806,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-04-11T03:33:33.040Z",
+      "updated_at": "2026-04-11T07:43:32.149Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -2118,7 +2118,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-04-11T03:33:33.570Z",
+      "updated_at": "2026-04-11T07:43:32.680Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -2175,7 +2175,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-11T03:33:33.975Z",
+      "updated_at": "2026-04-11T07:43:33.124Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -2600,7 +2600,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-04-11T03:33:34.542Z",
+      "updated_at": "2026-04-11T07:43:33.767Z",
       "commits": []
     },
     {
@@ -2614,7 +2614,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-04-11T03:33:34.933Z",
+      "updated_at": "2026-04-11T07:43:34.192Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -5012,7 +5012,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-04-11T03:33:35.733Z",
+      "updated_at": "2026-04-11T07:43:35.057Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -5109,7 +5109,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/compare/main...KJ20051223:main",
-      "updated_at": "2026-04-11T03:33:36.197Z",
+      "updated_at": "2026-04-11T07:43:35.505Z",
       "commits": [
         {
           "sha": "03a4b0b677576dd88e1d49173b638cfa1ee98c29",
@@ -6436,7 +6436,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-04-11T03:33:36.688Z",
+      "updated_at": "2026-04-11T07:43:36.005Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -12601,7 +12601,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-04-11T03:33:37.587Z",
+      "updated_at": "2026-04-11T07:43:36.999Z",
       "commits": []
     },
     {
@@ -12615,7 +12615,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-04-11T03:33:37.990Z",
+      "updated_at": "2026-04-11T07:43:37.411Z",
       "commits": [
         {
           "sha": "de03307cfbd900684b7414b361d05cb47a10909d",
@@ -12712,7 +12712,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-04-11T03:33:38.464Z",
+      "updated_at": "2026-04-11T07:43:37.912Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -14126,7 +14126,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-04-11T03:33:39.018Z",
+      "updated_at": "2026-04-11T07:43:38.532Z",
       "commits": [
         {
           "sha": "52e463c8307c5af2428fd300d621f2bf25026673",
@@ -15535,7 +15535,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-04-11T03:33:39.586Z",
+      "updated_at": "2026-04-11T07:43:39.087Z",
       "commits": []
     },
     {
@@ -15549,7 +15549,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-04-11T03:33:39.988Z",
+      "updated_at": "2026-04-11T07:43:39.471Z",
       "commits": []
     },
     {
@@ -15561,30 +15561,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit fe4e4cfe47e2a1f09e93f12ab115c93970298d4a.",
+      "reason": "Force-reset fork branch to upstream commit 279a219d9df6c7bf42422284231d52000b786e86.",
       "compare_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/compare/main...SHANMUGAM070106:main",
-      "updated_at": "2026-04-11T03:33:40.627Z",
+      "updated_at": "2026-04-11T07:43:40.114Z",
       "commits": [
         {
-          "sha": "fe4e4cfe47e2a1f09e93f12ab115c93970298d4a",
-          "node_id": "C_kwDORKtM3doAKGZlNGU0Y2ZlNDdlMmExZjA5ZTkzZjEyYWIxMTVjOTM5NzAyOThkNGE",
+          "sha": "279a219d9df6c7bf42422284231d52000b786e86",
+          "node_id": "C_kwDORKtM3doAKDI3OWEyMTlkOWRmNmM3YmY0MjQyMjI4NDIzMWQ1MjAwMGI3ODZlODY",
           "commit": {
             "author": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-11T03:30:39Z"
+              "date": "2026-04-11T06:20:16Z"
             },
             "committer": {
               "name": "SHANMUGAM070106",
               "email": "7369946334@ro.ru",
-              "date": "2026-04-11T03:30:39Z"
+              "date": "2026-04-11T06:20:16Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "2556e208ff09f521bc0560152f2abbde5e9fe953",
               "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/trees/2556e208ff09f521bc0560152f2abbde5e9fe953"
             },
-            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/fe4e4cfe47e2a1f09e93f12ab115c93970298d4a",
+            "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/git/commits/279a219d9df6c7bf42422284231d52000b786e86",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -15594,9 +15594,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/fe4e4cfe47e2a1f09e93f12ab115c93970298d4a",
-          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/fe4e4cfe47e2a1f09e93f12ab115c93970298d4a",
-          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/fe4e4cfe47e2a1f09e93f12ab115c93970298d4a/comments",
+          "url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/279a219d9df6c7bf42422284231d52000b786e86",
+          "html_url": "https://github.com/XddXss888/cursor-free-vip-account-tool/commit/279a219d9df6c7bf42422284231d52000b786e86",
+          "comments_url": "https://api.github.com/repos/XddXss888/cursor-free-vip-account-tool/commits/279a219d9df6c7bf42422284231d52000b786e86/comments",
           "author": {
             "login": "SHANMUGAM070106",
             "id": 169575426,
@@ -15660,7 +15660,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...510myRday:main",
-      "updated_at": "2026-04-11T03:33:41.424Z",
+      "updated_at": "2026-04-11T07:43:40.894Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -16341,7 +16341,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-04-11T03:33:42.059Z",
+      "updated_at": "2026-04-11T07:43:41.385Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -16684,7 +16684,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-04-11T03:33:42.573Z",
+      "updated_at": "2026-04-11T07:43:41.872Z",
       "commits": []
     },
     {
@@ -16698,7 +16698,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Free-coding-models/compare/main...vava-nessa:main",
-      "updated_at": "2026-04-11T03:33:42.923Z",
+      "updated_at": "2026-04-11T07:43:42.408Z",
       "commits": [
         {
           "sha": "9753727ce33319c2f8ed296a8a24db737e10cfdc",
@@ -17861,7 +17861,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-04-11T03:33:43.495Z",
+      "updated_at": "2026-04-11T07:43:42.946Z",
       "commits": []
     },
     {
@@ -17875,7 +17875,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-04-11T03:33:43.847Z",
+      "updated_at": "2026-04-11T07:43:43.313Z",
       "commits": []
     },
     {
@@ -17889,7 +17889,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-04-11T03:33:44.114Z",
+      "updated_at": "2026-04-11T07:43:43.667Z",
       "commits": []
     },
     {
@@ -17903,7 +17903,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-04-11T03:33:44.500Z",
+      "updated_at": "2026-04-11T07:43:44.138Z",
       "commits": []
     },
     {
@@ -17917,7 +17917,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Grok-Mirror/compare/main...dairoot:main",
-      "updated_at": "2026-04-11T03:33:44.923Z",
+      "updated_at": "2026-04-11T07:43:44.525Z",
       "commits": []
     },
     {
@@ -17931,7 +17931,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-04-11T03:33:45.346Z",
+      "updated_at": "2026-04-11T07:43:44.894Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -18028,7 +18028,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-04-11T03:33:45.804Z",
+      "updated_at": "2026-04-11T07:43:45.325Z",
       "commits": [
         {
           "sha": "91f14068d9909154d23495eac4ce20250f682689",
@@ -18371,7 +18371,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-04-11T03:33:46.324Z",
+      "updated_at": "2026-04-11T07:43:45.847Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -30604,7 +30604,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-04-11T03:33:47.345Z",
+      "updated_at": "2026-04-11T07:43:46.800Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -31275,7 +31275,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/MicroWARP/compare/main...ccbkkb:main",
-      "updated_at": "2026-04-11T03:33:47.903Z",
+      "updated_at": "2026-04-11T07:43:47.307Z",
       "commits": []
     },
     {
@@ -31289,7 +31289,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-04-11T03:33:48.267Z",
+      "updated_at": "2026-04-11T07:43:47.697Z",
       "commits": []
     },
     {
@@ -31303,7 +31303,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-04-11T03:33:48.699Z",
+      "updated_at": "2026-04-11T07:43:48.075Z",
       "commits": [
         {
           "sha": "204efcaa1812c199453b256820cc0fc8d7375e00",
@@ -36730,7 +36730,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-04-11T03:33:49.660Z",
+      "updated_at": "2026-04-11T07:43:49.065Z",
       "commits": [
         {
           "sha": "285a94e743209b7ac97772d24bd29a20216c3906",
@@ -53451,7 +53451,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-04-11T03:33:50.923Z",
+      "updated_at": "2026-04-11T07:43:50.326Z",
       "commits": []
     },
     {
@@ -53465,7 +53465,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-04-11T03:33:51.290Z",
+      "updated_at": "2026-04-11T07:43:50.694Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -53726,7 +53726,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-04-11T03:33:51.809Z",
+      "updated_at": "2026-04-11T07:43:51.190Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
@@ -54151,7 +54151,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ruyipage/compare/main...LoseNine:main",
-      "updated_at": "2026-04-11T03:33:52.258Z",
+      "updated_at": "2026-04-11T07:43:51.661Z",
       "commits": [
         {
           "sha": "6ab3f417f9dbf04b15d341f1fdc6a7ff8dce9b35",
@@ -54328,30 +54328,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 71db7b720f3734b06fabf49c1394b0cb5b80a8c5.",
+      "reason": "Force-reset fork branch to upstream commit d49d3970b89859f7f7a1aefc72e6188ac01be805.",
       "compare_url": "https://github.com/XddXss888/zenproxy/compare/main...Micky203:main",
-      "updated_at": "2026-04-11T03:33:52.695Z",
+      "updated_at": "2026-04-11T07:43:52.114Z",
       "commits": [
         {
-          "sha": "71db7b720f3734b06fabf49c1394b0cb5b80a8c5",
-          "node_id": "C_kwDOR6tQLNoAKDcxZGI3YjcyMGYzNzM0YjA2ZmFiZjQ5YzEzOTRiMGNiNWI4MGE4YzU",
+          "sha": "d49d3970b89859f7f7a1aefc72e6188ac01be805",
+          "node_id": "C_kwDOR6tQLNoAKGQ0OWQzOTcwYjg5ODU5ZjdmN2ExYWVmYzcyZTYxODhhYzAxYmU4MDU",
           "commit": {
             "author": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-04-11T03:00:21Z"
+              "date": "2026-04-11T05:19:03Z"
             },
             "committer": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-04-11T03:00:21Z"
+              "date": "2026-04-11T05:19:03Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "22c121141024d5d4e737589b1f782212f3ec8776",
               "url": "https://api.github.com/repos/XddXss888/zenproxy/git/trees/22c121141024d5d4e737589b1f782212f3ec8776"
             },
-            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/71db7b720f3734b06fabf49c1394b0cb5b80a8c5",
+            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/d49d3970b89859f7f7a1aefc72e6188ac01be805",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -54361,9 +54361,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/71db7b720f3734b06fabf49c1394b0cb5b80a8c5",
-          "html_url": "https://github.com/XddXss888/zenproxy/commit/71db7b720f3734b06fabf49c1394b0cb5b80a8c5",
-          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/71db7b720f3734b06fabf49c1394b0cb5b80a8c5/comments",
+          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/d49d3970b89859f7f7a1aefc72e6188ac01be805",
+          "html_url": "https://github.com/XddXss888/zenproxy/commit/d49d3970b89859f7f7a1aefc72e6188ac01be805",
+          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/d49d3970b89859f7f7a1aefc72e6188ac01be805/comments",
           "author": {
             "login": "Micky203",
             "id": 164007966,
