@@ -12,7 +12,7 @@ RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; BLUE='\033[0;34m'; NC
 G_V='$(printf "${GREEN}✔${NC}")'; R_V='$(printf "${RED}✘${NC}")'
 
 # ============================================================
-# 核心逻辑函数 (这些函数将在 Root 环境下执行)
+# 核心逻辑函数
 # ============================================================
 
 install_key_func() {
@@ -41,25 +41,30 @@ run_task() {
 # 主程序流
 # ============================================================
 
-# --- 身份自切换逻辑 (终极无参数版) ---
+# --- 身份自切换逻辑 (终极兼容版) ---
 if [ "$(id -u)" -ne 0 ]; then
     printf "${BLUE}[*] Checking privileges for user: %s...${NC}\n" "$ME"
     
-    # 判定是否免密
+    # 【关键逻辑】：判断当前脚本是来自文件还是来自管道
+    # 如果 $0 是 'bash' 或 'sh'，说明是通过 curl | bash 运行的
+    if [[ "$0" == "bash" || "$0" == "sh" || "$0" == "/bin/bash" || "$0" == "/bin/sh" ]]; then
+        SELF_SOURCE="/dev/stdin"
+    else
+        SELF_SOURCE="$0"
+    fi
+
     if sudo -l 2>/dev/null | grep -q "NOPASSWD"; then
-        printf "${GREEN}[✔] NOPASSWD detected! Re-running as Root via Stream...${NC}\n"
-        # 【终极方案】：直接把当前脚本的所有内容通过管道喂给 sudo bash
-        # 这样 sudo 完全不需要处理任何文件名、路径或参数，彻底避开 "cannot execute binary file"
-        cat "$0" | sudo bash
+        printf "${GREEN}[✔] NOPASSWD detected! Re-running as Root...${NC}\n"
+        cat "$SELF_SOURCE" | sudo bash
         exit 0
     else
         printf "${YELLOW}[!] Sudo password required...${NC}\n"
-        cat "$0" | sudo bash
+        cat "$SELF_SOURCE" | sudo bash
         exit 0
     fi
 fi
 
-# --- 此时身份已经是 ROOT ---
+# --- 此时身份已是 ROOT ---
 printf "${BLUE}[*] Running as ROOT...${NC}\n"
 
 # 执行任务
