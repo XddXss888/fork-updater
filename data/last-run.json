@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-05-09T08:23:18.174Z",
-  "run_completed_at": "2026-05-09T08:23:57.388Z",
+  "run_started_at": "2026-05-10T04:40:15.390Z",
+  "run_completed_at": "2026-05-10T04:40:54.505Z",
   "summary": {
     "scanned": 51,
     "updated": 2,
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-05-09T08:23:19.340Z",
+      "updated_at": "2026-05-10T04:40:17.161Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-05-09T08:23:19.967Z",
+      "updated_at": "2026-05-10T04:40:17.666Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-05-09T08:23:20.578Z",
+      "updated_at": "2026-05-10T04:40:18.274Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -764,7 +764,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-05-09T08:23:21.450Z",
+      "updated_at": "2026-05-10T04:40:19.163Z",
       "commits": []
     },
     {
@@ -778,7 +778,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between main and lxf746:main.",
       "compare_url": "https://github.com/XddXss888/any-auto-register",
-      "updated_at": "2026-05-09T08:23:21.988Z",
+      "updated_at": "2026-05-10T04:40:19.639Z",
       "commits": []
     },
     {
@@ -792,7 +792,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/anything-analyzer/compare/main...Mouseww:main",
-      "updated_at": "2026-05-09T08:23:22.497Z",
+      "updated_at": "2026-05-10T04:40:20.118Z",
       "commits": [
         {
           "sha": "4ea6022c1f51ad47ebcfec327d2195a6831acfe7",
@@ -7357,7 +7357,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-05-09T08:23:23.618Z",
+      "updated_at": "2026-05-10T04:40:21.173Z",
       "commits": []
     },
     {
@@ -7371,7 +7371,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CanvasToAPI/compare/main...iBUHub:main",
-      "updated_at": "2026-05-09T08:23:24.071Z",
+      "updated_at": "2026-05-10T04:40:21.584Z",
       "commits": [
         {
           "sha": "eee8146fb00139a8faade1889d6df8a0f1818e49",
@@ -7960,7 +7960,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CC-BOS/compare/main...Whiffe:main",
-      "updated_at": "2026-05-09T08:23:24.622Z",
+      "updated_at": "2026-05-10T04:40:22.165Z",
       "commits": []
     },
     {
@@ -7974,7 +7974,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-05-09T08:23:25.041Z",
+      "updated_at": "2026-05-10T04:40:22.645Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -9286,7 +9286,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-05-09T08:23:25.673Z",
+      "updated_at": "2026-05-10T04:40:23.285Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -9343,7 +9343,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-05-09T08:23:26.182Z",
+      "updated_at": "2026-05-10T04:40:23.829Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -9768,21 +9768,21 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-05-09T08:23:26.847Z",
+      "updated_at": "2026-05-10T04:40:24.438Z",
       "commits": []
     },
     {
       "repo": "Claude-Code-Guide-Zh",
       "upstream": "KimYx0207/AI-Coding-Guide-Zh",
       "branch": "main",
-      "ahead_by": 41,
+      "ahead_by": 42,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-05-09T08:23:27.335Z",
+      "updated_at": "2026-05-10T04:40:24.850Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -13150,6 +13150,88 @@
               "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/216a8ad8f9e1991ee2e29fee40a752350bd5f087"
             }
           ]
+        },
+        {
+          "sha": "75f21ea41992da3c8e46d0053602eeeaff129b66",
+          "node_id": "C_kwDORR6eT9oAKDc1ZjIxZWE0MTk5MmRhM2M4ZTQ2ZDAwNTM2MDJlZWVhZmYxMjliNjY",
+          "commit": {
+            "author": {
+              "name": "KimYx0207",
+              "email": "xun900207@gmail.com",
+              "date": "2026-05-09T09:15:18Z"
+            },
+            "committer": {
+              "name": "KimYx0207",
+              "email": "xun900207@gmail.com",
+              "date": "2026-05-09T09:15:18Z"
+            },
+            "message": "docs: clean tutorial publishing format",
+            "tree": {
+              "sha": "afade2d29b078154c3e6a1943da6c462936c937e",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/trees/afade2d29b078154c3e6a1943da6c462936c937e"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/git/commits/75f21ea41992da3c8e46d0053602eeeaff129b66",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/75f21ea41992da3c8e46d0053602eeeaff129b66",
+          "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/75f21ea41992da3c8e46d0053602eeeaff129b66",
+          "comments_url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/75f21ea41992da3c8e46d0053602eeeaff129b66/comments",
+          "author": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "KimYx0207",
+            "id": 130755848,
+            "node_id": "U_kgDOB8stCA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/130755848?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/KimYx0207",
+            "html_url": "https://github.com/KimYx0207",
+            "followers_url": "https://api.github.com/users/KimYx0207/followers",
+            "following_url": "https://api.github.com/users/KimYx0207/following{/other_user}",
+            "gists_url": "https://api.github.com/users/KimYx0207/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/KimYx0207/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/KimYx0207/subscriptions",
+            "organizations_url": "https://api.github.com/users/KimYx0207/orgs",
+            "repos_url": "https://api.github.com/users/KimYx0207/repos",
+            "events_url": "https://api.github.com/users/KimYx0207/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/KimYx0207/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "b1142a89a2337f4bb163c06166ffac6042347ab9",
+              "url": "https://api.github.com/repos/XddXss888/Claude-Code-Guide-Zh/commits/b1142a89a2337f4bb163c06166ffac6042347ab9",
+              "html_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/commit/b1142a89a2337f4bb163c06166ffac6042347ab9"
+            }
+          ]
         }
       ]
     },
@@ -13164,7 +13246,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-05-09T08:23:28.300Z",
+      "updated_at": "2026-05-10T04:40:25.741Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -13254,14 +13336,14 @@
       "repo": "claude-mem",
       "upstream": "thedotmack/claude-mem",
       "branch": "main",
-      "ahead_by": 226,
+      "ahead_by": 228,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-mem/compare/main...thedotmack:main",
-      "updated_at": "2026-05-09T08:23:28.954Z",
+      "updated_at": "2026-05-10T04:40:26.283Z",
       "commits": [
         {
           "sha": "8cdabe6315cf8fe7fb7b5d06df95599c48226f22",
@@ -31829,6 +31911,170 @@
               "html_url": "https://github.com/XddXss888/claude-mem/commit/d17b372b60a1584ddda579f19276c4baea445596"
             }
           ]
+        },
+        {
+          "sha": "55334129845b783193627f3719bdd450f2ad5808",
+          "node_id": "C_kwDOSAM4GNoAKDU1MzM0MTI5ODQ1Yjc4MzE5MzYyN2YzNzE5YmRkNDUwZjJhZDU4MDg",
+          "commit": {
+            "author": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-10T01:05:48Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-10T01:05:48Z"
+            },
+            "message": "fix: sequoia-territory bug-fix bundle (chroma, env, build, MCP, worker) (#2394)\n\n* fix(mcp): drop ${_R%/} parameter-expansion trim that trips Claude Code MCP validator\n\nThe POSIX substring trim ${_R%/} is misread by Claude Code's MCP-config\nvalidator as a required env var named \"_R%/\", causing /doctor to flag\nmcp-search as invalid on every install. POSIX collapses // in paths, so\nthe trim was cosmetic — drop it and the validator passes.\n\nFixes #2350, #2354, #2356.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(env): block ANTHROPIC_BASE_URL leak + three-branch OAuth-skip predicate\n\nIssue #2375: parent-shell ANTHROPIC_BASE_URL leaked through to subprocess\nisolatedEnv, while ANTHROPIC_AUTH_TOKEN was blocked. The OAuth-skip\npredicate fired on bare BASE_URL, but no auth credential reached the\nsubprocess -> \"Not logged in\". Add ANTHROPIC_BASE_URL to BLOCKED_ENV_VARS\nso it can only enter isolatedEnv via ~/.claude-mem/.env.\n\nReplace the OAuth-skip predicate with three branches to prevent a\nsecond-order security regression: a user with a tokenless gateway\nconfigured in .env (BASE_URL only, no token) would otherwise have their\nAnthropic OAuth token fetched and sent to their gateway. Token leak to\nthird party. Three-branch predicate:\n\n1. BASE_URL set -> return without OAuth (custom gateway, never leak token)\n2. API_KEY or AUTH_TOKEN set -> return without OAuth (explicit credentials)\n3. Otherwise -> OAuth lookup for api.anthropic.com\n\nAdds tests/env-isolation.test.ts.\n\nFixes #2375.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(worker): classify Claude SDK HTTP 400 as unrecoverable\n\nClaudeProvider previously had no explicit HTTP 400 handling — the\ndefault branch classified all errors as `transient`, so a permanent\n400 (e.g., model rejecting an `effort` parameter forwarded from a\nleaked CLAUDE_CODE_EFFORT_LEVEL) would be retried indefinitely\n(#1874+ retries observed in one session per #2357).\n\nMirror GeminiProvider/OpenRouterProvider's pattern: classify 400 as\n`unrecoverable`, 401/403 as `auth_invalid`, 429 as `rate_limit`,\ndefault to `transient`. When the 400 body matches the\n\"effort parameter\" signature, emit a one-time SDK warn log pointing\nat the env-leak fix in ~/.claude-mem/.env.\n\nAdds tests/claude-provider-error-classifier.test.ts.\n\nFixes #2357.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(chroma): pin onnxruntime>=1.20 + protobuf<7 to fix INVALID_PROTOBUF on macOS arm64\n\nThe shipped all-MiniLM-L6-v2 model has pytorch-2.0 IR. chroma-mcp 0.2.6\ntransitively depends on `chromadb>=1.0.16` which only requires\n`onnxruntime>=1.14.1` — uv can therefore resolve to an onnxruntime old\nenough to fail every embedding add with `[ONNXRuntimeError] : 7 :\nINVALID_PROTOBUF` on macOS arm64 / Python 3.13. Semantic search silently\ndegraded to FTS-only and smart backfill broke (#2371).\n\nPath B (override) was required because chroma-mcp 0.2.6 is the latest\nPyPI release — no upstream bump exists.\n\nInject `--with onnxruntime>=1.20 --with protobuf<7` into the uvx spawn\nargs (both persistent and remote modes). The protobuf cap is essential:\nforcing only `onnxruntime>=1.20` causes uv to re-resolve and land on\nprotobuf 7.x, which trips opentelemetry's `_pb2` stubs with `TypeError:\nDescriptors cannot be created directly` because they were generated\nwith protoc <3.19. Capping below 7 lands on protobuf 6.x which\nopentelemetry tolerates.\n\nVerified end-to-end: ONNX model loads, embeddings produce a 384-dim\nvector, PersistentClient init / add / query roundtrip succeeds:\n\n    uvx --python 3.13 --with \"onnxruntime>=1.20\" --with \"protobuf<7\" \\\n        chroma-mcp==0.2.6 --help     # clean\n    # programmatic test: onnxruntime 1.26.0, protobuf 6.33.6,\n    # embedding ok 384, query ok ids=[['1']]\n\nFixes #2371.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(chroma): enforce single chroma-mcp subprocess per worker (#2313)\n\nRoot cause: every reconnect path in ChromaMcpManager — connectInternal's\nre-entry, the connect-timeout catch, callTool's transport-error retry, and\nthe transport.onclose handler — used to abandon `this.transport`/`this.client`\nby calling at most `transport.close()` and nulling the handles. The MCP SDK's\nStdioClientTransport.close() only signals the direct child (uvx); on Linux the\ngrandchildren (uv -> python -> chroma-mcp) re-parent to init and survive\nbecause the SDK does not put the subprocess in its own process group. Each\nreconnect therefore leaked a full chroma-mcp tree, accumulating 20+ instances\nper session.\n\nFix: introduce a private disposeCurrentSubprocess() helper that always tree-\nkills via the existing killProcessTree primitive before nulling the transport\nreference, and route every \"abandon current transport\" path (reconnect,\nconnect-timeout, transport error, onclose, stop) through it. The existing\n`connecting: Promise<void> | null` lock continues to serialize concurrent\nensureConnected() callers into a single spawn.\n\nAdds tests/services/sync/chroma-mcp-manager-singleton.test.ts covering:\n- 5 parallel ensureConnected() calls produce exactly one spawn\n- a transport-error reconnect tree-kills the prior subprocess pid before\n  spawning a replacement\n- stop() disposes state including any pending connecting promise\n\nManual verification needed on Linux: after a long session with multiple\ntool uses, `ps aux | grep chroma-mcp | wc -l` should return 1, not 20+.\n\nFixes #2313.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(build): polyfill import.meta.url to __filename in CJS worker bundle\n\nThe worker bundles ESM dependencies (notably @anthropic-ai/claude-agent-sdk's\n*.mjs files) into CJS output. Those modules call createRequire(import.meta.url)\nat module-load time. esbuild's CJS output left this as createRequire(ute.url)\n— where `ute` is its `import.meta` polyfill `{}` — so `ute.url` was undefined\nand module-load crashed with:\n\n  TypeError: The argument 'filename' must be a file URL object, file URL\n  string, or absolute path string. Received undefined\n  code: ERR_INVALID_ARG_VALUE\n\nEvery Stop hook and every worker subprocess invocation hit this. Fix is the\nesbuild `define` option mapping `import.meta.url` to `__filename` (provided as\na real absolute path by the existing CJS prelude in the banner).\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* chore: daily dep bump per CLAUDE.md maintenance policy\n\nRoot: @anthropic-ai/claude-agent-sdk, @clack/prompts, @types/node,\ndompurify, postcss, react, react-dom, yaml, zod.\nplugin/: tree-sitter-cli, zod.\nopenclaw/: @types/node.\n\nAll patch/minor bumps; no major version changes.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build: regenerate plugin artifacts after env/chroma/mcp fixes\n\nBuilt artifacts are committed so the marketplace-installable plugin\nships with the runtime bundles. Picks up:\n- d7b145e9 .mcp.json shell-prelude trim drop\n- a8cbd651 EnvManager BASE_URL block + 3-branch predicate\n- 8cb73b8c ClaudeProvider HTTP 400 unrecoverable classifier\n- ecd5b802 ChromaMcpManager onnxruntime/protobuf overrides\n- c79324ea ChromaMcpManager singleton enforcement\n- e8376f46 esbuild import.meta.url -> __filename polyfill\n- a7541d71 daily dep bump\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build: regenerate plugin artifacts after main merge\n\nBundles now include both v13.0.0 server-beta runtime (server-beta-service.cjs\n+ updated mcp-server.cjs / worker-service.cjs) and this branch's chroma /\nenv / build / Claude SDK fixes.\n\nVerified: bun test tests/env-isolation.test.ts \\\\\n  tests/claude-provider-error-classifier.test.ts \\\\\n  tests/services/sync/chroma-mcp-manager-singleton.test.ts\n→ 13/13 pass.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(review): address CodeRabbit findings on PR #2394\n\n1. scripts/build-hooks.js — `import.meta.url` now maps to a file:// URL\n   (via pathToFileURL(__filename).href in the CJS banner) instead of the\n   raw __filename path. Preserves URL semantics for any bundled ESM dep\n   that does `new URL(rel, import.meta.url)`. createRequire still works.\n\n2. src/shared/EnvManager.ts — added envFilePath() that resolves\n   CLAUDE_MEM_ENV_FILE lazily (falling back to paths.envFile()), and\n   switched internal load/save call sites to use it. ENV_FILE_PATH is\n   kept as a deprecated snapshot for back-compat. Lets tests target a\n   temp file without depending on module-load order.\n\n3. tests/env-isolation.test.ts — redirects to a temp dir via\n   CLAUDE_MEM_ENV_FILE in beforeAll, removes all mutation of the real\n   ~/.claude-mem/.env, and wraps the OAuth-spy assertion in try/finally\n   so the spy is always restored even if the test fails.\n\nVerified:\n  bun test tests/env-isolation.test.ts \\\n    tests/claude-provider-error-classifier.test.ts \\\n    tests/services/sync/chroma-mcp-manager-singleton.test.ts\n  → 13/13 pass\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+            "tree": {
+              "sha": "4e5542da5f08d87709e7a81b7b85e20b8e9ce526",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/git/trees/4e5542da5f08d87709e7a81b7b85e20b8e9ce526"
+            },
+            "url": "https://api.github.com/repos/XddXss888/claude-mem/git/commits/55334129845b783193627f3719bdd450f2ad5808",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/9nsCRC1aQ7uu5UhlAAA4w8QADTlYvnF5VtRTWinbyn7hFQ6\n37b8XOYiQufHgJRBq2HaLcQXePn+mS2wEZJyYBaZVx4EaHOQPVNyNE7ewbPpYB3h\nzhvqfWwkOsnHaP5vea/XYM4vYeILas+lmc2kfyyS6EGenJuuNY/CdQSfF6nqi4m3\nnxvnYv4shMVULHYJgLYTCwQB7oOlSQl4GQbS14mNAnp13epeU2u+FNeplRBPSh9c\njM+4zT1o4h6AhcwD+rCIXqOxXhnIM+OCTYDyviDNly/mzmmYz+J4/eK+H6l7kax7\nZsdGDwT0EZ22W+uc9ehO0l8HIRI7b1+6Y0k/WruIgaxG1UrDiK1L7Ok/AlY1kNZ4\nqvRZRE2XylkMKlWwCDfqkfIfB8DxyKj5sAx4J7puvIS3NE0qOHpQVoTQq8gLS2Es\nozaSphnWy5O0JMUGzynVEX9J7n6atzBsFOo9zODm+ENfRuPMRsyCp734D20pGt5z\ndq14bx2Zv9t/wmTKxnGHyV2yOUvdjYL/GoxEwvKNLDuPpY1yn8ZP5W2ppizEwRsc\nCfRLlFkBBwZqPMWp93s05FHB390I6oEce2iLn7TvEutcQK29JsmSk5OEkYKTqXpi\nktpEKdFVHOoEaGp+/c6SS5brT3YfhLuOIlMCMIX97S295yIlxdpMOF+hrEzwktlv\nSC417/sCF5ygvFngi2sN\n=5MQ7\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 4e5542da5f08d87709e7a81b7b85e20b8e9ce526\nparent 13d5fa71c204bbb5fac79fd2052ec85f59666e98\nauthor Alex Newman <thedotmack@gmail.com> 1778375148 -0700\ncommitter GitHub <noreply@github.com> 1778375148 -0700\n\nfix: sequoia-territory bug-fix bundle (chroma, env, build, MCP, worker) (#2394)\n\n* fix(mcp): drop ${_R%/} parameter-expansion trim that trips Claude Code MCP validator\n\nThe POSIX substring trim ${_R%/} is misread by Claude Code's MCP-config\nvalidator as a required env var named \"_R%/\", causing /doctor to flag\nmcp-search as invalid on every install. POSIX collapses // in paths, so\nthe trim was cosmetic — drop it and the validator passes.\n\nFixes #2350, #2354, #2356.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(env): block ANTHROPIC_BASE_URL leak + three-branch OAuth-skip predicate\n\nIssue #2375: parent-shell ANTHROPIC_BASE_URL leaked through to subprocess\nisolatedEnv, while ANTHROPIC_AUTH_TOKEN was blocked. The OAuth-skip\npredicate fired on bare BASE_URL, but no auth credential reached the\nsubprocess -> \"Not logged in\". Add ANTHROPIC_BASE_URL to BLOCKED_ENV_VARS\nso it can only enter isolatedEnv via ~/.claude-mem/.env.\n\nReplace the OAuth-skip predicate with three branches to prevent a\nsecond-order security regression: a user with a tokenless gateway\nconfigured in .env (BASE_URL only, no token) would otherwise have their\nAnthropic OAuth token fetched and sent to their gateway. Token leak to\nthird party. Three-branch predicate:\n\n1. BASE_URL set -> return without OAuth (custom gateway, never leak token)\n2. API_KEY or AUTH_TOKEN set -> return without OAuth (explicit credentials)\n3. Otherwise -> OAuth lookup for api.anthropic.com\n\nAdds tests/env-isolation.test.ts.\n\nFixes #2375.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(worker): classify Claude SDK HTTP 400 as unrecoverable\n\nClaudeProvider previously had no explicit HTTP 400 handling — the\ndefault branch classified all errors as `transient`, so a permanent\n400 (e.g., model rejecting an `effort` parameter forwarded from a\nleaked CLAUDE_CODE_EFFORT_LEVEL) would be retried indefinitely\n(#1874+ retries observed in one session per #2357).\n\nMirror GeminiProvider/OpenRouterProvider's pattern: classify 400 as\n`unrecoverable`, 401/403 as `auth_invalid`, 429 as `rate_limit`,\ndefault to `transient`. When the 400 body matches the\n\"effort parameter\" signature, emit a one-time SDK warn log pointing\nat the env-leak fix in ~/.claude-mem/.env.\n\nAdds tests/claude-provider-error-classifier.test.ts.\n\nFixes #2357.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(chroma): pin onnxruntime>=1.20 + protobuf<7 to fix INVALID_PROTOBUF on macOS arm64\n\nThe shipped all-MiniLM-L6-v2 model has pytorch-2.0 IR. chroma-mcp 0.2.6\ntransitively depends on `chromadb>=1.0.16` which only requires\n`onnxruntime>=1.14.1` — uv can therefore resolve to an onnxruntime old\nenough to fail every embedding add with `[ONNXRuntimeError] : 7 :\nINVALID_PROTOBUF` on macOS arm64 / Python 3.13. Semantic search silently\ndegraded to FTS-only and smart backfill broke (#2371).\n\nPath B (override) was required because chroma-mcp 0.2.6 is the latest\nPyPI release — no upstream bump exists.\n\nInject `--with onnxruntime>=1.20 --with protobuf<7` into the uvx spawn\nargs (both persistent and remote modes). The protobuf cap is essential:\nforcing only `onnxruntime>=1.20` causes uv to re-resolve and land on\nprotobuf 7.x, which trips opentelemetry's `_pb2` stubs with `TypeError:\nDescriptors cannot be created directly` because they were generated\nwith protoc <3.19. Capping below 7 lands on protobuf 6.x which\nopentelemetry tolerates.\n\nVerified end-to-end: ONNX model loads, embeddings produce a 384-dim\nvector, PersistentClient init / add / query roundtrip succeeds:\n\n    uvx --python 3.13 --with \"onnxruntime>=1.20\" --with \"protobuf<7\" \\\n        chroma-mcp==0.2.6 --help     # clean\n    # programmatic test: onnxruntime 1.26.0, protobuf 6.33.6,\n    # embedding ok 384, query ok ids=[['1']]\n\nFixes #2371.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(chroma): enforce single chroma-mcp subprocess per worker (#2313)\n\nRoot cause: every reconnect path in ChromaMcpManager — connectInternal's\nre-entry, the connect-timeout catch, callTool's transport-error retry, and\nthe transport.onclose handler — used to abandon `this.transport`/`this.client`\nby calling at most `transport.close()` and nulling the handles. The MCP SDK's\nStdioClientTransport.close() only signals the direct child (uvx); on Linux the\ngrandchildren (uv -> python -> chroma-mcp) re-parent to init and survive\nbecause the SDK does not put the subprocess in its own process group. Each\nreconnect therefore leaked a full chroma-mcp tree, accumulating 20+ instances\nper session.\n\nFix: introduce a private disposeCurrentSubprocess() helper that always tree-\nkills via the existing killProcessTree primitive before nulling the transport\nreference, and route every \"abandon current transport\" path (reconnect,\nconnect-timeout, transport error, onclose, stop) through it. The existing\n`connecting: Promise<void> | null` lock continues to serialize concurrent\nensureConnected() callers into a single spawn.\n\nAdds tests/services/sync/chroma-mcp-manager-singleton.test.ts covering:\n- 5 parallel ensureConnected() calls produce exactly one spawn\n- a transport-error reconnect tree-kills the prior subprocess pid before\n  spawning a replacement\n- stop() disposes state including any pending connecting promise\n\nManual verification needed on Linux: after a long session with multiple\ntool uses, `ps aux | grep chroma-mcp | wc -l` should return 1, not 20+.\n\nFixes #2313.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(build): polyfill import.meta.url to __filename in CJS worker bundle\n\nThe worker bundles ESM dependencies (notably @anthropic-ai/claude-agent-sdk's\n*.mjs files) into CJS output. Those modules call createRequire(import.meta.url)\nat module-load time. esbuild's CJS output left this as createRequire(ute.url)\n— where `ute` is its `import.meta` polyfill `{}` — so `ute.url` was undefined\nand module-load crashed with:\n\n  TypeError: The argument 'filename' must be a file URL object, file URL\n  string, or absolute path string. Received undefined\n  code: ERR_INVALID_ARG_VALUE\n\nEvery Stop hook and every worker subprocess invocation hit this. Fix is the\nesbuild `define` option mapping `import.meta.url` to `__filename` (provided as\na real absolute path by the existing CJS prelude in the banner).\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* chore: daily dep bump per CLAUDE.md maintenance policy\n\nRoot: @anthropic-ai/claude-agent-sdk, @clack/prompts, @types/node,\ndompurify, postcss, react, react-dom, yaml, zod.\nplugin/: tree-sitter-cli, zod.\nopenclaw/: @types/node.\n\nAll patch/minor bumps; no major version changes.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build: regenerate plugin artifacts after env/chroma/mcp fixes\n\nBuilt artifacts are committed so the marketplace-installable plugin\nships with the runtime bundles. Picks up:\n- d7b145e9 .mcp.json shell-prelude trim drop\n- a8cbd651 EnvManager BASE_URL block + 3-branch predicate\n- 8cb73b8c ClaudeProvider HTTP 400 unrecoverable classifier\n- ecd5b802 ChromaMcpManager onnxruntime/protobuf overrides\n- c79324ea ChromaMcpManager singleton enforcement\n- e8376f46 esbuild import.meta.url -> __filename polyfill\n- a7541d71 daily dep bump\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build: regenerate plugin artifacts after main merge\n\nBundles now include both v13.0.0 server-beta runtime (server-beta-service.cjs\n+ updated mcp-server.cjs / worker-service.cjs) and this branch's chroma /\nenv / build / Claude SDK fixes.\n\nVerified: bun test tests/env-isolation.test.ts \\\\\n  tests/claude-provider-error-classifier.test.ts \\\\\n  tests/services/sync/chroma-mcp-manager-singleton.test.ts\n→ 13/13 pass.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(review): address CodeRabbit findings on PR #2394\n\n1. scripts/build-hooks.js — `import.meta.url` now maps to a file:// URL\n   (via pathToFileURL(__filename).href in the CJS banner) instead of the\n   raw __filename path. Preserves URL semantics for any bundled ESM dep\n   that does `new URL(rel, import.meta.url)`. createRequire still works.\n\n2. src/shared/EnvManager.ts — added envFilePath() that resolves\n   CLAUDE_MEM_ENV_FILE lazily (falling back to paths.envFile()), and\n   switched internal load/save call sites to use it. ENV_FILE_PATH is\n   kept as a deprecated snapshot for back-compat. Lets tests target a\n   temp file without depending on module-load order.\n\n3. tests/env-isolation.test.ts — redirects to a temp dir via\n   CLAUDE_MEM_ENV_FILE in beforeAll, removes all mutation of the real\n   ~/.claude-mem/.env, and wraps the OAuth-spy assertion in try/finally\n   so the spy is always restored even if the test fails.\n\nVerified:\n  bun test tests/env-isolation.test.ts \\\n    tests/claude-provider-error-classifier.test.ts \\\n    tests/services/sync/chroma-mcp-manager-singleton.test.ts\n  → 13/13 pass\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+              "verified_at": "2026-05-10T01:05:49Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/55334129845b783193627f3719bdd450f2ad5808",
+          "html_url": "https://github.com/XddXss888/claude-mem/commit/55334129845b783193627f3719bdd450f2ad5808",
+          "comments_url": "https://api.github.com/repos/XddXss888/claude-mem/commits/55334129845b783193627f3719bdd450f2ad5808/comments",
+          "author": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "13d5fa71c204bbb5fac79fd2052ec85f59666e98",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/13d5fa71c204bbb5fac79fd2052ec85f59666e98",
+              "html_url": "https://github.com/XddXss888/claude-mem/commit/13d5fa71c204bbb5fac79fd2052ec85f59666e98"
+            }
+          ]
+        },
+        {
+          "sha": "9b014b588aad706d9427bf93bcb5da793c2354c4",
+          "node_id": "C_kwDOSAM4GNoAKDliMDE0YjU4OGFhZDcwNmQ5NDI3YmY5M2JjYjVkYTc5M2MyMzU0YzQ",
+          "commit": {
+            "author": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-10T01:09:05Z"
+            },
+            "committer": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-10T01:09:05Z"
+            },
+            "message": "chore(release): bump claude-mem to 13.0.1\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+            "tree": {
+              "sha": "1df056d4bad3429bf41b01f2f45f62aac1cac57e",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/git/trees/1df056d4bad3429bf41b01f2f45f62aac1cac57e"
+            },
+            "url": "https://api.github.com/repos/XddXss888/claude-mem/git/commits/9b014b588aad706d9427bf93bcb5da793c2354c4",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/9b014b588aad706d9427bf93bcb5da793c2354c4",
+          "html_url": "https://github.com/XddXss888/claude-mem/commit/9b014b588aad706d9427bf93bcb5da793c2354c4",
+          "comments_url": "https://api.github.com/repos/XddXss888/claude-mem/commits/9b014b588aad706d9427bf93bcb5da793c2354c4/comments",
+          "author": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "55334129845b783193627f3719bdd450f2ad5808",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/55334129845b783193627f3719bdd450f2ad5808",
+              "html_url": "https://github.com/XddXss888/claude-mem/commit/55334129845b783193627f3719bdd450f2ad5808"
+            }
+          ]
         }
       ]
     },
@@ -31843,7 +32089,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/compare/main...KJ20051223:main",
-      "updated_at": "2026-05-09T08:23:30.762Z",
+      "updated_at": "2026-05-10T04:40:27.964Z",
       "commits": [
         {
           "sha": "03a4b0b677576dd88e1d49173b638cfa1ee98c29",
@@ -33414,14 +33660,14 @@
       "repo": "cloudflare-temp-mail-service",
       "upstream": "dreamhunter2333/cloudflare_temp_email",
       "branch": "main",
-      "ahead_by": 115,
+      "ahead_by": 120,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-05-09T08:23:31.399Z",
+      "updated_at": "2026-05-10T04:40:28.548Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -42852,6 +43098,416 @@
               "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/796a5e4ac5b71bd4ce14638d5a35abc3db656eaf"
             }
           ]
+        },
+        {
+          "sha": "a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4",
+          "node_id": "C_kwDORUj6NdoAKGE5ZTJjODkyNDYwNzA4MWQwYWE4ODY0MGQxZjBmZmQzYWI3YWU0ZjQ",
+          "commit": {
+            "author": {
+              "name": "Charlson",
+              "email": "109891130+Charlson852@users.noreply.github.com",
+              "date": "2026-05-09T16:50:08Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-09T16:50:08Z"
+            },
+            "message": "ci: allow docs deploy without GitHub release\n\n* ci: allow docs deploy without GitHub release\n\n* fix: use workflow run branch for docs tag fallback\n\n---------\n\nCo-authored-by: dreamhunter2333 <dreamhunter2333@gmail.com>",
+            "tree": {
+              "sha": "cd2cce3da7a4a13b08ea76ba6349a185679be467",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/trees/cd2cce3da7a4a13b08ea76ba6349a185679be467"
+            },
+            "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/commits/a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/2XACRC1aQ7uu5UhlAAAE7IQAE2ZSd4NJ0VGQ6ld02I7uwsF\nwxxzMeCrIjlSPEKeau0sn/HA4p/HK/+3oZzIg3u+U2d1MkaB03zNZTIZHm+IEiQP\n3ZlV34MG8rfoyfFKdWvzjMFgSjSW1zfRO8Xjss5e7CXwkvb43P7VXlNBVihX1J+K\npb5r8oyjVcDz8tqwh/mQlDDrc3vtII1nCGosWXFSICFh9HIBH79W66I7V0v214Z/\nkmjb43WS9AQcKSqXdJq0vWF+cuUfazyhFO3Svtp65EsHbzvbnIMa4LpdHvPpIqpD\no5lx4XhYvGO6lcvOrUvICXIgCuYHBLr/Vc/L41Hdl7ZIFaYAag0xa4byVxe2+rku\n7ain3rZ2hVOdztdk8dfRRQUjRAkHbjDs9BJsr0wgatfbapY5oHkpe+w0uBzigZRf\nuFrOIoREnn9uvVyu50oFTug5kWzMb0u2XhIHZb0aaW81o4AxMEVzOjpAN6kdyYnn\nOqbPqNxNli1Mqb7HPhK2tZRikGei0EWB30nH5bJjSZ0+mBmrT4NJV3+b9ZQCwaRu\neA+RHfiRm/MEpSv1rD8sKc0NA1xsVD6NOqWZE7n4B2/VEymmLirofQPIgojMcLiE\nmOaMJU7BDirvEDF28PKT3YQM1Kgf5LQ9NLljZYQdk+5bZbCmn70giB+p1Ba+cbQE\nOVcpCfiNJChii7A7MJ7+\n=byvO\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree cd2cce3da7a4a13b08ea76ba6349a185679be467\nparent 72bbfe8fd6d329237fa2e70b17cb95031597b345\nauthor Charlson <109891130+Charlson852@users.noreply.github.com> 1778345408 +0800\ncommitter GitHub <noreply@github.com> 1778345408 +0800\n\nci: allow docs deploy without GitHub release\n\n* ci: allow docs deploy without GitHub release\n\n* fix: use workflow run branch for docs tag fallback\n\n---------\n\nCo-authored-by: dreamhunter2333 <dreamhunter2333@gmail.com>",
+              "verified_at": "2026-05-09T16:50:08Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4",
+          "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4",
+          "comments_url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4/comments",
+          "author": {
+            "login": "Charlson852",
+            "id": 109891130,
+            "node_id": "U_kgDOBozOOg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/109891130?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Charlson852",
+            "html_url": "https://github.com/Charlson852",
+            "followers_url": "https://api.github.com/users/Charlson852/followers",
+            "following_url": "https://api.github.com/users/Charlson852/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Charlson852/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Charlson852/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Charlson852/subscriptions",
+            "organizations_url": "https://api.github.com/users/Charlson852/orgs",
+            "repos_url": "https://api.github.com/users/Charlson852/repos",
+            "events_url": "https://api.github.com/users/Charlson852/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Charlson852/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "72bbfe8fd6d329237fa2e70b17cb95031597b345",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/72bbfe8fd6d329237fa2e70b17cb95031597b345",
+              "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/72bbfe8fd6d329237fa2e70b17cb95031597b345"
+            }
+          ]
+        },
+        {
+          "sha": "dd294037ab8d490f0451536a72875f69a5f34682",
+          "node_id": "C_kwDORUj6NdoAKGRkMjk0MDM3YWI4ZDQ5MGYwNDUxNTM2YTcyODc1ZjY5YTVmMzQ2ODI",
+          "commit": {
+            "author": {
+              "name": "Dream Hunter",
+              "email": "dreamhunter2333@gmail.com",
+              "date": "2026-05-09T16:55:16Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-09T16:55:16Z"
+            },
+            "message": "chore: upgrade project dependencies",
+            "tree": {
+              "sha": "1a07c0131874f1859ef18b68eb9093b29613b61e",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/trees/1a07c0131874f1859ef18b68eb9093b29613b61e"
+            },
+            "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/commits/dd294037ab8d490f0451536a72875f69a5f34682",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/2b0CRC1aQ7uu5UhlAAAGeQQAJh7PdZko5YyHIXPU2C6NNdB\nu8XgGOxjvMBH1VLOOOlCFahn5aqvAo/FcTutJMshyb0Q4mo4vYZvP9djwY2+K5Qn\n188R0GeGLp39nDGet/W9Ad5Bmh7n8mAZdBOtEmISs+zq7BwzydhF5r87Xst7UAqW\nXdhoI5esp1J42XzO1nCWQ/32UQnVIS1GBMkVgfsXCousjWvubpcg6m0yQY302NhG\nbzi3e/HTWlMopk3ESVOhaD+zCSvudzaPS1a8bGci0WkygFizWlLxkz0GHy2/AoBE\nIeUHXc/FjDGLxs/qKBlqy756K/sN8sGjzDjFHKt5rh+Ecb1ps/tP3ZnUohTQ4e7j\nRSO4i0B70NScu165dcWY5ZWVPliqUh9qFfUxRJSt/3X6Wo6VzVR8xlyDsgGzCZ5A\nd+bW7q0r6W43l7/ee0vo0hp4wAzCGXdQWiX3mQ80uwacKi8+CtgaZuqU7Fq8TJFh\n+g+NwjWRaZUmMUA2PqpWQ6m+yVPn0ELiSGZgndOVIH53KB+mZf3IQOOcsua2DNTd\nqLvfvwOuUHxeq9CTra5XP0PH0tmjH30ubgaFvKGWpdSIWujvSFxh3Vh10T47cw2k\nQkqBxzArC3/GnoyGG0b5sy8M6ZYbMGYh0SiBbq6My6z35s/H81MWzQXi8JrAZWHr\nKPehk5x5S672ufmtXGAS\n=P8Wp\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 1a07c0131874f1859ef18b68eb9093b29613b61e\nparent a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4\nauthor Dream Hunter <dreamhunter2333@gmail.com> 1778345716 +0800\ncommitter GitHub <noreply@github.com> 1778345716 +0800\n\nchore: upgrade project dependencies",
+              "verified_at": "2026-05-09T16:55:16Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/dd294037ab8d490f0451536a72875f69a5f34682",
+          "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/dd294037ab8d490f0451536a72875f69a5f34682",
+          "comments_url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/dd294037ab8d490f0451536a72875f69a5f34682/comments",
+          "author": {
+            "login": "dreamhunter2333",
+            "id": 32295532,
+            "node_id": "MDQ6VXNlcjMyMjk1NTMy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32295532?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dreamhunter2333",
+            "html_url": "https://github.com/dreamhunter2333",
+            "followers_url": "https://api.github.com/users/dreamhunter2333/followers",
+            "following_url": "https://api.github.com/users/dreamhunter2333/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dreamhunter2333/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dreamhunter2333/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dreamhunter2333/subscriptions",
+            "organizations_url": "https://api.github.com/users/dreamhunter2333/orgs",
+            "repos_url": "https://api.github.com/users/dreamhunter2333/repos",
+            "events_url": "https://api.github.com/users/dreamhunter2333/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dreamhunter2333/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4",
+              "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/a9e2c8924607081d0aa88640d1f0ffd3ab7ae4f4"
+            }
+          ]
+        },
+        {
+          "sha": "437db7c050517392714b3827053760605ba7fd5f",
+          "node_id": "C_kwDORUj6NdoAKDQzN2RiN2MwNTA1MTczOTI3MTRiMzgyNzA1Mzc2MDYwNWJhN2ZkNWY",
+          "commit": {
+            "author": {
+              "name": "Dream Hunter",
+              "email": "dreamhunter2333@gmail.com",
+              "date": "2026-05-09T17:18:23Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-09T17:18:23Z"
+            },
+            "message": "fix: update AI extract default model\n\n* fix: update AI extract default model\n\n* fix: update e2e worker node version\n\n* fix: use node lts for e2e worker\n\n* fix: align AI model and CI node version",
+            "tree": {
+              "sha": "67c689302832513895a034f26b232ba76b9009db",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/trees/67c689302832513895a034f26b232ba76b9009db"
+            },
+            "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/commits/437db7c050517392714b3827053760605ba7fd5f",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/2xfCRC1aQ7uu5UhlAAAle4QAHi/qXG+M+iGKHLDTWtGaDGy\nOXRMzV8FEQc2sqnE4T5zNmFefn+P9CCLTaOyWK7hA/KIH8i1v0DEq9eIN8ioLRWy\nVGtCvkitvRNLhEXjG8azWUkTpmNvwAD2oCg7kP2PpDnMJi4vJY+0MDspWpGglHgH\nSNYzMAx6nfSebPsdyhSGf83QBAVHwqlXi/uk61FgdEQdpf4RFpwC8u7EgmZtklHI\nIpqs9JUincaef0WKBb3lXFMn9Txgqn19aZWOFwUmR5gMXBZQswtjEP8ffnAB8roS\n9+FvR10ZoR3zMut8zZJVTtSxEFdOM7fedTR3jzNjJd0XFuB2m2uz3Z/9mJAsHX+U\nhw7UCqpBJqLD6/tlpGLSWTG0iZ+j0qHJizsjHbAY9X+PdWTH9wNw34DukuVVMeeC\nLmuQIIZbkL8SqzIOHqo70SrTXLT4JyepLvXdKkK+19EiR0urb6jw3i8Je93vxPEg\nFOcJEfiBSdQfUwS/EBim1ehzfgRnR3vCSYKy8eyHd1QjbbkN95Ru8jPm17ZXVXPI\nub3cVM2F2X6VZ0Pg07Yrx8IFD+QmNr9YcGcF2cD06QF/X4t3FgTiAg9fGiof4Vcr\n8N/85er4H41neWyF5tI/0CXxFaCV59DebCtPIa5psqsPcinlHCQCW3oKCoAN7IgO\nSVKStYA6RAyS3O8UGQWh\n=ofsI\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 67c689302832513895a034f26b232ba76b9009db\nparent dd294037ab8d490f0451536a72875f69a5f34682\nauthor Dream Hunter <dreamhunter2333@gmail.com> 1778347103 +0800\ncommitter GitHub <noreply@github.com> 1778347103 +0800\n\nfix: update AI extract default model\n\n* fix: update AI extract default model\n\n* fix: update e2e worker node version\n\n* fix: use node lts for e2e worker\n\n* fix: align AI model and CI node version",
+              "verified_at": "2026-05-09T17:18:23Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/437db7c050517392714b3827053760605ba7fd5f",
+          "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/437db7c050517392714b3827053760605ba7fd5f",
+          "comments_url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/437db7c050517392714b3827053760605ba7fd5f/comments",
+          "author": {
+            "login": "dreamhunter2333",
+            "id": 32295532,
+            "node_id": "MDQ6VXNlcjMyMjk1NTMy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32295532?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dreamhunter2333",
+            "html_url": "https://github.com/dreamhunter2333",
+            "followers_url": "https://api.github.com/users/dreamhunter2333/followers",
+            "following_url": "https://api.github.com/users/dreamhunter2333/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dreamhunter2333/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dreamhunter2333/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dreamhunter2333/subscriptions",
+            "organizations_url": "https://api.github.com/users/dreamhunter2333/orgs",
+            "repos_url": "https://api.github.com/users/dreamhunter2333/repos",
+            "events_url": "https://api.github.com/users/dreamhunter2333/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dreamhunter2333/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "dd294037ab8d490f0451536a72875f69a5f34682",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/dd294037ab8d490f0451536a72875f69a5f34682",
+              "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/dd294037ab8d490f0451536a72875f69a5f34682"
+            }
+          ]
+        },
+        {
+          "sha": "2df4de22d9eb4da1a1c37672c11060a0d2a79330",
+          "node_id": "C_kwDORUj6NdoAKDJkZjRkZTIyZDllYjRkYTFhMWMzNzY3MmMxMTA2MGEwZDJhNzkzMzA",
+          "commit": {
+            "author": {
+              "name": "Dream Hunter",
+              "email": "dreamhunter2333@gmail.com",
+              "date": "2026-05-09T17:54:51Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-09T17:54:51Z"
+            },
+            "message": "chore: update SimpleWebAuthn dependencies (#1032)\n\nchore: update simplewebauthn dependencies",
+            "tree": {
+              "sha": "48ecf0aeded68c66b8364b6354cfd012956b6dd1",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/trees/48ecf0aeded68c66b8364b6354cfd012956b6dd1"
+            },
+            "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/commits/2df4de22d9eb4da1a1c37672c11060a0d2a79330",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/3TrCRC1aQ7uu5UhlAAAlv4QAE68RM1AAFoq5hu9rWtmQtdH\nDlcPjY7/RyiToc87FwLBdEjAJAqd7Cis8oUusrQ4oyCgowETkPEB753GTgkXFHSc\nx+x0cfcXICJCoG/JGL/IP5uWqOhSPFbbnTtfeO0IyVmryHZwDOahOC2IMB1qukQU\nPWtoSoDbpz3ifeKAg6ekl1R4Mux9ayzLahO1tcvqx0W/pgNlu4gD9GlXW5bq2j8G\nXl0D97Mi/rlX8rfYJgC+FBIlG65ugVWzL93J7hixQKUUV0MmPeA0fKzWGS0LvdOF\nxuduDnmHdvzSnGwZn3oZ8q7Hm5+NU0hqM+h80mUiV9V4uaqDxZbuEuQht0JmZyHb\ntxCB0o3QBL5f59kjLT+TGEe3cXB/cJqZu3pAWB+zDrfObL6W9cqyIHIpc+RVjFKL\nCCXhJBZZ7VS8vVgoIpO2DHkVdOtNY9TJTuldlzlcwzOMUYHzblGPqdMtGFzppXvx\nmnqdFxDsi3OaONiRmiU4TKlXe06HDhbvvMLu20KbmyIbVBIIzoOH32hZq4PNTycT\nLVjD3RgqGgxsFfozCjSHx25QjpGNFtU+DS9YuLbroahRR38uRm3WpyP4KOUrR4+0\njvrH6uih9qRUCCuJC7aMJpZ9OmqFSbVeHxvwd820YWNxIlxiLkzMXyZdwe4p/j5v\nygc4x28+2u9JaGuIJ42g\n=QUYZ\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 48ecf0aeded68c66b8364b6354cfd012956b6dd1\nparent 437db7c050517392714b3827053760605ba7fd5f\nauthor Dream Hunter <dreamhunter2333@gmail.com> 1778349291 +0800\ncommitter GitHub <noreply@github.com> 1778349291 +0800\n\nchore: update SimpleWebAuthn dependencies (#1032)\n\nchore: update simplewebauthn dependencies",
+              "verified_at": "2026-05-09T17:54:52Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/2df4de22d9eb4da1a1c37672c11060a0d2a79330",
+          "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/2df4de22d9eb4da1a1c37672c11060a0d2a79330",
+          "comments_url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/2df4de22d9eb4da1a1c37672c11060a0d2a79330/comments",
+          "author": {
+            "login": "dreamhunter2333",
+            "id": 32295532,
+            "node_id": "MDQ6VXNlcjMyMjk1NTMy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32295532?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dreamhunter2333",
+            "html_url": "https://github.com/dreamhunter2333",
+            "followers_url": "https://api.github.com/users/dreamhunter2333/followers",
+            "following_url": "https://api.github.com/users/dreamhunter2333/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dreamhunter2333/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dreamhunter2333/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dreamhunter2333/subscriptions",
+            "organizations_url": "https://api.github.com/users/dreamhunter2333/orgs",
+            "repos_url": "https://api.github.com/users/dreamhunter2333/repos",
+            "events_url": "https://api.github.com/users/dreamhunter2333/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dreamhunter2333/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "437db7c050517392714b3827053760605ba7fd5f",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/437db7c050517392714b3827053760605ba7fd5f",
+              "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/437db7c050517392714b3827053760605ba7fd5f"
+            }
+          ]
+        },
+        {
+          "sha": "74c8e8f7e4586a317d39d71580e01976abaa791d",
+          "node_id": "C_kwDORUj6NdoAKDc0YzhlOGY3ZTQ1ODZhMzE3ZDM5ZDcxNTgwZTAxOTc2YWJhYTc5MWQ",
+          "commit": {
+            "author": {
+              "name": "Dream Hunter",
+              "email": "dreamhunter2333@gmail.com",
+              "date": "2026-05-09T18:05:31Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-09T18:05:31Z"
+            },
+            "message": "fix: prevent iOS input focus zoom (#1033)\n\nfix: prevent ios input focus zoom",
+            "tree": {
+              "sha": "797acd4e09aaea580d8b364c0f680a1e58ff56e1",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/trees/797acd4e09aaea580d8b364c0f680a1e58ff56e1"
+            },
+            "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/git/commits/74c8e8f7e4586a317d39d71580e01976abaa791d",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/3drCRC1aQ7uu5UhlAAA3uIQAEHOvnUMu7iAHKcQcy2L/cFN\ntnxUq61jtDWAMn2OMH9YH2x/9x1MJgudg6J1kZlUbqC1ZjTVuQGEfYK7R8RIVBfd\nNmZJ0i5fp0B7K+7DW0wJXSrqCyONoQw6QVCvhd7ACqfon1DszN767vCBKUGoVINM\nahXyQUcx2MCgtTkE+34ENIY98v37BH+X5Z203NRNDWv3xco8kTt2v2fdNhz2j1Tt\n/rOUaUfpKzH2B4it6qvR8g3uZ0ibBQJnSQama68tAgWxHSOApp1rAW1ZFS/PnFvE\nnaWxkwIJh5QCeg0yr7J69oibIWxOnn7/1Y3QjoDcAoZlx/gOO7ZWVUgjOuwxizS2\ni3pgXqxK83DK9InddpLLiCQkXIbDM9sA7dj1T6yh3gYCtVfxdIBLSILX+cZcNPjo\nRTk92pRs29aFY062rATUwy7pzpF815ZF910IaFnjYsgWGq7ktOobaY5TtMdicEZ7\n/JCiHNcwO6UDh0w7kC2zpMhrNwh1NsM6lS/qTiKVcYMk5PYmR+afbz/VgRElZPZO\nFjTFrXwiMYIuVYDBKqCgYhC5ZYYqJCcMkmgDN6PHwsXpr+0npAwJ5WemiCOx9XjO\n10yJ4D2q3QgsaAfz3/1HxCZGcxTGcpPNZVqzTazFgEDZtPRK+K5qub+wv/Osa5WN\npCfoXjIoQXl/5EjiTfCj\n=b+R+\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 797acd4e09aaea580d8b364c0f680a1e58ff56e1\nparent 2df4de22d9eb4da1a1c37672c11060a0d2a79330\nauthor Dream Hunter <dreamhunter2333@gmail.com> 1778349931 +0800\ncommitter GitHub <noreply@github.com> 1778349931 +0800\n\nfix: prevent iOS input focus zoom (#1033)\n\nfix: prevent ios input focus zoom",
+              "verified_at": "2026-05-09T18:05:31Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/74c8e8f7e4586a317d39d71580e01976abaa791d",
+          "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/74c8e8f7e4586a317d39d71580e01976abaa791d",
+          "comments_url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/74c8e8f7e4586a317d39d71580e01976abaa791d/comments",
+          "author": {
+            "login": "dreamhunter2333",
+            "id": 32295532,
+            "node_id": "MDQ6VXNlcjMyMjk1NTMy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/32295532?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/dreamhunter2333",
+            "html_url": "https://github.com/dreamhunter2333",
+            "followers_url": "https://api.github.com/users/dreamhunter2333/followers",
+            "following_url": "https://api.github.com/users/dreamhunter2333/following{/other_user}",
+            "gists_url": "https://api.github.com/users/dreamhunter2333/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/dreamhunter2333/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/dreamhunter2333/subscriptions",
+            "organizations_url": "https://api.github.com/users/dreamhunter2333/orgs",
+            "repos_url": "https://api.github.com/users/dreamhunter2333/repos",
+            "events_url": "https://api.github.com/users/dreamhunter2333/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/dreamhunter2333/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "2df4de22d9eb4da1a1c37672c11060a0d2a79330",
+              "url": "https://api.github.com/repos/XddXss888/cloudflare-temp-mail-service/commits/2df4de22d9eb4da1a1c37672c11060a0d2a79330",
+              "html_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/commit/2df4de22d9eb4da1a1c37672c11060a0d2a79330"
+            }
+          ]
         }
       ]
     },
@@ -42866,7 +43522,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-05-09T08:23:32.772Z",
+      "updated_at": "2026-05-10T04:40:29.954Z",
       "commits": []
     },
     {
@@ -42880,7 +43536,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-05-09T08:23:33.250Z",
+      "updated_at": "2026-05-10T04:40:30.375Z",
       "commits": [
         {
           "sha": "de03307cfbd900684b7414b361d05cb47a10909d",
@@ -42977,7 +43633,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-05-09T08:23:33.815Z",
+      "updated_at": "2026-05-10T04:40:30.938Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -44391,7 +45047,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-05-09T08:23:34.517Z",
+      "updated_at": "2026-05-10T04:40:31.589Z",
       "commits": [
         {
           "sha": "f202cf5dcbafbe7d5ea5ad20eb83862438a1dac1",
@@ -46466,7 +47122,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-05-09T08:23:35.248Z",
+      "updated_at": "2026-05-10T04:40:32.332Z",
       "commits": []
     },
     {
@@ -46480,7 +47136,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-05-09T08:23:35.698Z",
+      "updated_at": "2026-05-10T04:40:32.774Z",
       "commits": []
     },
     {
@@ -46494,7 +47150,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...aiguicai:main",
-      "updated_at": "2026-05-09T08:23:36.542Z",
+      "updated_at": "2026-05-10T04:40:33.674Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -47175,7 +47831,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-05-09T08:23:37.117Z",
+      "updated_at": "2026-05-10T04:40:34.323Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -48765,7 +49421,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-05-09T08:23:38.929Z",
+      "updated_at": "2026-05-10T04:40:36.139Z",
       "commits": [
         {
           "sha": "28e089783f4b8a33c793012afaaa2f89c550a731",
@@ -48862,7 +49518,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/FLUX-Webscan/compare/main...MY0723:main",
-      "updated_at": "2026-05-09T08:23:39.478Z",
+      "updated_at": "2026-05-10T04:40:36.623Z",
       "commits": [
         {
           "sha": "581107fc781d0a754b39a242cf33f19d503f8e98",
@@ -49369,7 +50025,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Free-coding-models/compare/main...vava-nessa:main",
-      "updated_at": "2026-05-09T08:23:40.088Z",
+      "updated_at": "2026-05-10T04:40:37.302Z",
       "commits": [
         {
           "sha": "9753727ce33319c2f8ed296a8a24db737e10cfdc",
@@ -57552,7 +58208,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-05-09T08:23:41.515Z",
+      "updated_at": "2026-05-10T04:40:38.661Z",
       "commits": []
     },
     {
@@ -57566,7 +58222,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-05-09T08:23:41.943Z",
+      "updated_at": "2026-05-10T04:40:39.147Z",
       "commits": []
     },
     {
@@ -57580,7 +58236,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-05-09T08:23:42.401Z",
+      "updated_at": "2026-05-10T04:40:39.579Z",
       "commits": [
         {
           "sha": "daa2b6720cfec6d265f27a2e481fac4e39a90af8",
@@ -57677,7 +58333,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-05-09T08:23:43.133Z",
+      "updated_at": "2026-05-10T04:40:40.330Z",
       "commits": []
     },
     {
@@ -57691,7 +58347,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Grok-Mirror/compare/main...dairoot:main",
-      "updated_at": "2026-05-09T08:23:43.586Z",
+      "updated_at": "2026-05-10T04:40:40.740Z",
       "commits": []
     },
     {
@@ -57705,7 +58361,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-05-09T08:23:44.068Z",
+      "updated_at": "2026-05-10T04:40:41.209Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -57884,7 +58540,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-05-09T08:23:44.685Z",
+      "updated_at": "2026-05-10T04:40:41.865Z",
       "commits": [
         {
           "sha": "91f14068d9909154d23495eac4ce20250f682689",
@@ -58384,14 +59040,14 @@
       "repo": "keepalive-automation-client",
       "upstream": "klaas8/cs",
       "branch": "main",
-      "ahead_by": 149,
+      "ahead_by": 153,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-05-09T08:23:45.341Z",
+      "updated_at": "2026-05-10T04:40:42.522Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -70610,6 +71266,334 @@
               "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/a39a59bc510ca4446c01cbfdc3d7f322ad864af7"
             }
           ]
+        },
+        {
+          "sha": "80468d1736989f5b57f281717f69dc391d7aaef4",
+          "node_id": "C_kwDOREsBCNoAKDgwNDY4ZDE3MzY5ODlmNWI1N2YyODE3MTdmNjlkYzM5MWQ3YWFlZjQ",
+          "commit": {
+            "author": {
+              "name": "klaas8",
+              "email": "132535742+klaas8@users.noreply.github.com",
+              "date": "2026-05-09T11:48:53Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-09T11:48:53Z"
+            },
+            "message": "创建 Keepalive.yml",
+            "tree": {
+              "sha": "aa481fb5338cdb6cade07e91ae49e7cf3d786ee7",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/trees/aa481fb5338cdb6cade07e91ae49e7cf3d786ee7"
+            },
+            "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/commits/80468d1736989f5b57f281717f69dc391d7aaef4",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJp/x8lCRC1aQ7uu5UhlAAAVIkQAH56Vp+qlLd6BV2QDncAcSum\nGzdEv8oi+P5Xzb02UqOliIh75ZX6dFEjRf+2XsmORYYSUSc6bqIEITAYHkOOKaCu\nGFCfsNRRLlpmzW+LRN5gAH/9VxALf9ELey2efLrT1pvuIWLUQEE9wD4cP19fEA/3\nLCkGX6qdX/Aouit0h28/xcqbUGCBBtNFBJM6HEjiVxJzH3Sq6NVApRLX7v2dPtiN\n1lPXTMKDtpd5fBeAfgDO8s2oahSeNrGJtJT8Ep9qrH9R/XeK0g5ioQg5AYGs3fWq\nyosy6qJtfNoc9YM8itD2alirtf7j/y8Xaz9XDQvLLR/eRTHSB2emRb2TozIbkden\nQCudhdnqI1AOvkhbi3ttZMFKHHGUlYILPraHsH9yMW4SNMrRcqTzgAUUd3i3+8qk\nJWQiw2FbvnLlbmbPYfXkpFdZgzKj4MmyS9UYQO/tSDh+2DAZ8fo9F/Yi6GkRCuHA\ncYUtcJgX/NXvrsPT3bFMbkhFkS9o8UoSAAe3Xj6DPgXdCOpePhcMH5Xsoh+d6He+\nNby+Y6Lp892m6qeDyzBfEhe9+ri7hD2LZH0ivcLpCsPdZGq5BVrLvJqlbKRE3RYJ\nQE6MybmTzwQL+XBbRyXJoXqS8Krb/cmP2xkAGeBkfJEHKn4k9QUFGFkXNtoBP44Q\nTVSe1Ci1do2m2eoZ58bj\n=kFtQ\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree aa481fb5338cdb6cade07e91ae49e7cf3d786ee7\nparent f4499b572516056d819f7ab8ccaf24e761dfef91\nauthor klaas8 <132535742+klaas8@users.noreply.github.com> 1778327333 +0800\ncommitter GitHub <noreply@github.com> 1778327333 +0800\n\n创建 Keepalive.yml",
+              "verified_at": "2026-05-09T11:48:54Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/80468d1736989f5b57f281717f69dc391d7aaef4",
+          "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/80468d1736989f5b57f281717f69dc391d7aaef4",
+          "comments_url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/80468d1736989f5b57f281717f69dc391d7aaef4/comments",
+          "author": {
+            "login": "klaas8",
+            "id": 132535742,
+            "node_id": "U_kgDOB-ZVvg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/132535742?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/klaas8",
+            "html_url": "https://github.com/klaas8",
+            "followers_url": "https://api.github.com/users/klaas8/followers",
+            "following_url": "https://api.github.com/users/klaas8/following{/other_user}",
+            "gists_url": "https://api.github.com/users/klaas8/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/klaas8/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/klaas8/subscriptions",
+            "organizations_url": "https://api.github.com/users/klaas8/orgs",
+            "repos_url": "https://api.github.com/users/klaas8/repos",
+            "events_url": "https://api.github.com/users/klaas8/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/klaas8/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "f4499b572516056d819f7ab8ccaf24e761dfef91",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/f4499b572516056d819f7ab8ccaf24e761dfef91",
+              "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/f4499b572516056d819f7ab8ccaf24e761dfef91"
+            }
+          ]
+        },
+        {
+          "sha": "c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e",
+          "node_id": "C_kwDOREsBCNoAKGM0MGY0NTFlMWMzYzQzNmMyZGY0YmVlYjljODFkMGVlMmY4ZmNjMGU",
+          "commit": {
+            "author": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-09T11:49:00Z"
+            },
+            "committer": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-09T11:49:00Z"
+            },
+            "message": "自动更新最后更新日期",
+            "tree": {
+              "sha": "328dcd0f9bde08da0cd6e52de58cc914e68c9f4b",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/trees/328dcd0f9bde08da0cd6e52de58cc914e68c9f4b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/commits/c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e",
+          "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e",
+          "comments_url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "80468d1736989f5b57f281717f69dc391d7aaef4",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/80468d1736989f5b57f281717f69dc391d7aaef4",
+              "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/80468d1736989f5b57f281717f69dc391d7aaef4"
+            }
+          ]
+        },
+        {
+          "sha": "b0d4e218cedfc6544e0e523de2dee578ca2cadd2",
+          "node_id": "C_kwDOREsBCNoAKGIwZDRlMjE4Y2VkZmM2NTQ0ZTBlNTIzZGUyZGVlNTc4Y2EyY2FkZDI",
+          "commit": {
+            "author": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-09T11:49:11Z"
+            },
+            "committer": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-09T11:49:11Z"
+            },
+            "message": "chore: keepalive",
+            "tree": {
+              "sha": "328dcd0f9bde08da0cd6e52de58cc914e68c9f4b",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/trees/328dcd0f9bde08da0cd6e52de58cc914e68c9f4b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/commits/b0d4e218cedfc6544e0e523de2dee578ca2cadd2",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/b0d4e218cedfc6544e0e523de2dee578ca2cadd2",
+          "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/b0d4e218cedfc6544e0e523de2dee578ca2cadd2",
+          "comments_url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/b0d4e218cedfc6544e0e523de2dee578ca2cadd2/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e",
+              "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/c40f451e1c3c436c2df4beeb9c81d0ee2f8fcc0e"
+            }
+          ]
+        },
+        {
+          "sha": "67a67ed09769071fdab9a4b9cf2ad5c373c59be4",
+          "node_id": "C_kwDOREsBCNoAKDY3YTY3ZWQwOTc2OTA3MWZkYWI5YTRiOWNmMmFkNWMzNzNjNTliZTQ",
+          "commit": {
+            "author": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-10T01:43:23Z"
+            },
+            "committer": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-10T01:43:23Z"
+            },
+            "message": "chore: keepalive",
+            "tree": {
+              "sha": "328dcd0f9bde08da0cd6e52de58cc914e68c9f4b",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/trees/328dcd0f9bde08da0cd6e52de58cc914e68c9f4b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/commits/67a67ed09769071fdab9a4b9cf2ad5c373c59be4",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/67a67ed09769071fdab9a4b9cf2ad5c373c59be4",
+          "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/67a67ed09769071fdab9a4b9cf2ad5c373c59be4",
+          "comments_url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/67a67ed09769071fdab9a4b9cf2ad5c373c59be4/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "b0d4e218cedfc6544e0e523de2dee578ca2cadd2",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/b0d4e218cedfc6544e0e523de2dee578ca2cadd2",
+              "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/b0d4e218cedfc6544e0e523de2dee578ca2cadd2"
+            }
+          ]
         }
       ]
     },
@@ -70617,14 +71601,14 @@
       "repo": "mcp-gateway-platform",
       "upstream": "aiguicai/MCP-Gateway",
       "branch": "main",
-      "ahead_by": 11,
+      "ahead_by": 28,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-05-09T08:23:46.378Z",
+      "updated_at": "2026-05-10T04:40:43.604Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -71527,6 +72511,1400 @@
               "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/025b06e5203d9081b1536aaeee58a0dcdf3398e6"
             }
           ]
+        },
+        {
+          "sha": "f6e1cdf4bcd0b04c05d50d661da83aad6e5be373",
+          "node_id": "C_kwDORl3Rn9oAKGY2ZTFjZGY0YmNkMGIwNGMwNWQ1MGQ2NjFkYTgzYWFkNmU1YmUzNzM",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-07T07:16:39Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-07T07:16:39Z"
+            },
+            "message": "feat: improve skill policy rule editor",
+            "tree": {
+              "sha": "166585cf526ab61e32af0a7e44879d4ae23b0498",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/166585cf526ab61e32af0a7e44879d4ae23b0498"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/f6e1cdf4bcd0b04c05d50d661da83aad6e5be373",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/f6e1cdf4bcd0b04c05d50d661da83aad6e5be373",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/f6e1cdf4bcd0b04c05d50d661da83aad6e5be373",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/f6e1cdf4bcd0b04c05d50d661da83aad6e5be373/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9c5a85a37af2ce62bffb306dcb38b9b5d8a648b1",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/9c5a85a37af2ce62bffb306dcb38b9b5d8a648b1",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/9c5a85a37af2ce62bffb306dcb38b9b5d8a648b1"
+            }
+          ]
+        },
+        {
+          "sha": "62cc7ddf1b8fcaa98667e6957aec9ad373c021e9",
+          "node_id": "C_kwDORl3Rn9oAKDYyY2M3ZGRmMWI4ZmNhYTk4NjY3ZTY5NTdhZWM5YWQzNzNjMDIxZTk",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-07T08:20:13Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-07T08:20:13Z"
+            },
+            "message": "feat: add bundled skill tools",
+            "tree": {
+              "sha": "4a0d00346268cf51352eda61e1aea939acb82220",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/4a0d00346268cf51352eda61e1aea939acb82220"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/62cc7ddf1b8fcaa98667e6957aec9ad373c021e9",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/62cc7ddf1b8fcaa98667e6957aec9ad373c021e9",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/62cc7ddf1b8fcaa98667e6957aec9ad373c021e9",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/62cc7ddf1b8fcaa98667e6957aec9ad373c021e9/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "f6e1cdf4bcd0b04c05d50d661da83aad6e5be373",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/f6e1cdf4bcd0b04c05d50d661da83aad6e5be373",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/f6e1cdf4bcd0b04c05d50d661da83aad6e5be373"
+            }
+          ]
+        },
+        {
+          "sha": "c6c870fa30827725c43738e9ca6ba8bb45120d0d",
+          "node_id": "C_kwDORl3Rn9oAKGM2Yzg3MGZhMzA4Mjc3MjVjNDM3MzhlOWNhNmJhOGJiNDUxMjBkMGQ",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T00:31:00Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T00:31:00Z"
+            },
+            "message": "feat: add built-in skills, Windows job cleanup, and skill token workflow\n\n- Add Windows Job Object (process_job.rs) to terminate child processes\n  when the gateway exits, using JOB_OBJECT_LIMIT_KILL_ON_JOB_CLOSE.\n  Assign spawned child processes and chrome-cdp browser to the job.\n\n- Add two new built-in skills: chrome-cdp and chat-plus-adapter-debugger.\n  chrome-cdp wraps chrome-devtools-axi for browser automation with a\n  persistent profile. chat-plus-adapter-debugger provides a structured\n  workflow for writing Chat Plus site adapters, including a built-in\n  recorder script that captures fetch/XHR/WebSocket/EventSource traffic.\n\n- Embed shell_command and apply_patch SKILL.md as compile-time constants.\n  The gateway now serves all built-in skill documentation from embedded\n  content, removing the file-system dependency for built-in skills.\n\n- Add skill token enforcement: every non-documentation skill call must\n  include the token extracted from the SKILL.md response. The gateway\n  rejects calls that skip documentation. Tokens are derived from SKILL.md\n  content for both built-in and external skills.\n\n- Rename skill command argument from cmd to exec across all tools\n  to match the shell_command skill convention.\n\n- Chrome CDP: assign a free localhost bridge port, use a gateway-owned\n  HOME and persistent Chrome profile, set headed mode by default, and\n  give built-in calls a longer default timeout (120 s).\n\n- Chat-plus-adapter-debugger recorder: expose recorder install,\n  recorder clear, recorder records, recorder records-full, and\n  recorder performance actions. When the generated eval snippet\n  exceeds the Windows command-line limit, split it into hex-encoded\n  chunks and reassemble inside the page.\n\n- Add skill policy rule search in the frontend: filter rules by command,\n  keyword, or reason, with a search bar, clear button, and result count.\n\n- Display the four built-in tools (shell_command, apply_patch, chrome-cdp,\n  chat-plus-adapter-debugger) in the UI with translated descriptions.\n\n- Add i18n keys for search, built-in tool descriptions, and policy denied\n  help text (zh + en).\n\n- Add policyHelp structured field and improved Chinese denied message\n  to policy deny responses, guiding users to visual rule management.\n\n- Add windows-sys 0.59 workspace dependency for Win32 Job Object APIs.\n\n- gateway-cli: call enable_gateway_process_job() on startup and improve\n  server error propagation through graceful shutdown.",
+            "tree": {
+              "sha": "2284c95c07f9f08c5991dda6774676d5cec6d1aa",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/2284c95c07f9f08c5991dda6774676d5cec6d1aa"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/c6c870fa30827725c43738e9ca6ba8bb45120d0d",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/c6c870fa30827725c43738e9ca6ba8bb45120d0d",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/c6c870fa30827725c43738e9ca6ba8bb45120d0d",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/c6c870fa30827725c43738e9ca6ba8bb45120d0d/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "62cc7ddf1b8fcaa98667e6957aec9ad373c021e9",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/62cc7ddf1b8fcaa98667e6957aec9ad373c021e9",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/62cc7ddf1b8fcaa98667e6957aec9ad373c021e9"
+            }
+          ]
+        },
+        {
+          "sha": "f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6",
+          "node_id": "C_kwDORl3Rn9oAKGYyZWUyNmRiZTBkMjVhM2Q2MmE5ZjEyNDUyZDQzZGRjZDI5OTExYTY",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T01:10:48Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T01:10:48Z"
+            },
+            "message": "Enhance skill patch handling and tool events",
+            "tree": {
+              "sha": "4b00d55727974daaf17ed976a2447b48bbacf7d4",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/4b00d55727974daaf17ed976a2447b48bbacf7d4"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c6c870fa30827725c43738e9ca6ba8bb45120d0d",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/c6c870fa30827725c43738e9ca6ba8bb45120d0d",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/c6c870fa30827725c43738e9ca6ba8bb45120d0d"
+            }
+          ]
+        },
+        {
+          "sha": "899bc0348612dd72c45801e28d1f87df05c3fc97",
+          "node_id": "C_kwDORl3Rn9oAKDg5OWJjMDM0ODYxMmRkNzJjNDU4MDFlMjhkMWY4N2RmMDVjM2ZjOTc",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T04:14:33Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T04:14:33Z"
+            },
+            "message": "refactor: migrate from AXI to native CDP for browser automation\n\n- Replace chrome-devtools-axi with raw CDP implementation\n\n- Add bundled cdp.mjs runner for direct Chrome DevTools Protocol\n\n- Remove legacy recorder-command.mjs and AXI dependencies\n\n- Rewrite chrome-cdp SKILL.md with native CDP workflow\n\n- Update chat-plus-adapter-debugger SKILL.md for CDP integration\n\n- Implement CDP command parsing and network capture aliases\n\n- Simplify skills.rs by removing AXI bridge and chunked eval\n\n- Support commands: netclear, net, netget, perfnet, evalraw\n\n- Maintain persistent profile and runtime directory management",
+            "tree": {
+              "sha": "f941f4c2ca8a417df344ad2d01aced023cc65b3f",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/f941f4c2ca8a417df344ad2d01aced023cc65b3f"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/899bc0348612dd72c45801e28d1f87df05c3fc97",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/899bc0348612dd72c45801e28d1f87df05c3fc97",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/899bc0348612dd72c45801e28d1f87df05c3fc97",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/899bc0348612dd72c45801e28d1f87df05c3fc97/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/f2ee26dbe0d25a3d62a9f12452d43ddcd29911a6"
+            }
+          ]
+        },
+        {
+          "sha": "6d0193ce4b1f53bb6454186ac1c65725d45e333e",
+          "node_id": "C_kwDORl3Rn9oAKDZkMDE5M2NlNGIxZjUzYmI2NDU0MTg2YWMxYzY1NzI1ZDQ1ZTMzM2U",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T05:21:32Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T05:21:32Z"
+            },
+            "message": "feat: bundle ripgrep for gateway shell tools\n\nDownload and verify platform-specific ripgrep binaries during desktop release builds, then embed the selected binary into gateway-http via a build script.\n\nAdd a Tauri development wrapper that ensures ripgrep is downloaded once per local platform and reused from mcp-gateway/.bundle-tools on later dev runs.\n\nAt runtime, materialize the embedded ripgrep binary into the user cache and prepend its directory to PATH for shell-based skill commands.",
+            "tree": {
+              "sha": "06dadd11fa5b0daa48b8be1ed263c4354d8fec13",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/06dadd11fa5b0daa48b8be1ed263c4354d8fec13"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/6d0193ce4b1f53bb6454186ac1c65725d45e333e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/6d0193ce4b1f53bb6454186ac1c65725d45e333e",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/6d0193ce4b1f53bb6454186ac1c65725d45e333e",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/6d0193ce4b1f53bb6454186ac1c65725d45e333e/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "899bc0348612dd72c45801e28d1f87df05c3fc97",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/899bc0348612dd72c45801e28d1f87df05c3fc97",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/899bc0348612dd72c45801e28d1f87df05c3fc97"
+            }
+          ]
+        },
+        {
+          "sha": "70fdf12dfcb67edbf7a5a655888499d234f3b322",
+          "node_id": "C_kwDORl3Rn9oAKDcwZmRmMTJkZmNiNjdlZGJmN2E1YTY1NTg4ODQ5OWQyMzRmM2IzMjI",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T06:49:32Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T06:49:32Z"
+            },
+            "message": "Adjust default command risk policy\n\nMove less severe system, package, process, network, and file operation commands from default denial to confirmation. Keep destructive privilege, disk, firewall, credential, and dynamic execution commands denied.\n\nImprove apply_patch guidance and compact patch delta reporting, with tests for blank-line hunks, overwrite behavior, and model-safe delta output.",
+            "tree": {
+              "sha": "4be0a3a5c2d78e525f610ea3d7e1b51c5e08da63",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/4be0a3a5c2d78e525f610ea3d7e1b51c5e08da63"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/70fdf12dfcb67edbf7a5a655888499d234f3b322",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/70fdf12dfcb67edbf7a5a655888499d234f3b322",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/70fdf12dfcb67edbf7a5a655888499d234f3b322",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/70fdf12dfcb67edbf7a5a655888499d234f3b322/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "6d0193ce4b1f53bb6454186ac1c65725d45e333e",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/6d0193ce4b1f53bb6454186ac1c65725d45e333e",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/6d0193ce4b1f53bb6454186ac1c65725d45e333e"
+            }
+          ]
+        },
+        {
+          "sha": "a53148ef166ede95d6ade522bdd937d77ecb3f28",
+          "node_id": "C_kwDORl3Rn9oAKGE1MzE0OGVmMTY2ZWRlOTVkNmFkZTUyMmJkZDkzN2Q3N2VjYjNmMjg",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T08:16:19Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T08:16:19Z"
+            },
+            "message": "feat: add multi_edit_file skill tool",
+            "tree": {
+              "sha": "37516299004ec4a9e0cb3dd58e4cfaed69a9f065",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/37516299004ec4a9e0cb3dd58e4cfaed69a9f065"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/a53148ef166ede95d6ade522bdd937d77ecb3f28",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/a53148ef166ede95d6ade522bdd937d77ecb3f28",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/a53148ef166ede95d6ade522bdd937d77ecb3f28",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/a53148ef166ede95d6ade522bdd937d77ecb3f28/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "70fdf12dfcb67edbf7a5a655888499d234f3b322",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/70fdf12dfcb67edbf7a5a655888499d234f3b322",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/70fdf12dfcb67edbf7a5a655888499d234f3b322"
+            }
+          ]
+        },
+        {
+          "sha": "3b48f74160d62c67000e37de29d025800154f914",
+          "node_id": "C_kwDORl3Rn9oAKDNiNDhmNzQxNjBkNjJjNjcwMDBlMzdkZTI5ZDAyNTgwMDE1NGY5MTQ",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T09:15:51Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T09:15:51Z"
+            },
+            "message": "feat: add bundled skill tool toggles",
+            "tree": {
+              "sha": "480093ff8dd5919b89089c6e40fd0fc2c78b9ac5",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/480093ff8dd5919b89089c6e40fd0fc2c78b9ac5"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/3b48f74160d62c67000e37de29d025800154f914",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/3b48f74160d62c67000e37de29d025800154f914",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/3b48f74160d62c67000e37de29d025800154f914",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/3b48f74160d62c67000e37de29d025800154f914/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a53148ef166ede95d6ade522bdd937d77ecb3f28",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/a53148ef166ede95d6ade522bdd937d77ecb3f28",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/a53148ef166ede95d6ade522bdd937d77ecb3f28"
+            }
+          ]
+        },
+        {
+          "sha": "9899a439d23f6d9377bfb9228c5f1f60daf48807",
+          "node_id": "C_kwDORl3Rn9oAKDk4OTlhNDM5ZDIzZjZkOTM3N2JmYjkyMjhjNWYxZjYwZGFmNDg4MDc",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T09:51:06Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T09:51:06Z"
+            },
+            "message": "feat: add bundled task planning skill",
+            "tree": {
+              "sha": "79136c3b413287f9d1de3c32f1dc0cc38157f94e",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/79136c3b413287f9d1de3c32f1dc0cc38157f94e"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/9899a439d23f6d9377bfb9228c5f1f60daf48807",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/9899a439d23f6d9377bfb9228c5f1f60daf48807",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/9899a439d23f6d9377bfb9228c5f1f60daf48807",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/9899a439d23f6d9377bfb9228c5f1f60daf48807/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "3b48f74160d62c67000e37de29d025800154f914",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/3b48f74160d62c67000e37de29d025800154f914",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/3b48f74160d62c67000e37de29d025800154f914"
+            }
+          ]
+        },
+        {
+          "sha": "61085495af20f64ab9acf5c618db8d9fec464564",
+          "node_id": "C_kwDORl3Rn9oAKDYxMDg1NDk1YWYyMGY2NGFiOWFjZjVjNjE4ZGI4ZDlmZWM0NjQ1NjQ",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T14:33:44Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-08T14:33:44Z"
+            },
+            "message": "feat: split skills MCP into external and built-in endpoints with planning gate\n\n- Remove `skills.enabled`; always expose both endpoints\n- Add `skills.builtinServerName` (default `__builtin_skills__`)\n- Route built-in tools exclusively to built-in endpoint\n- Implement in-memory task-planning gate with planningId enforcement\n- Add `planningReminder`, `shellCommandReminder`, and\n  `editFailureReminder` hints on tool results\n- Update task-planning SKILL.md to document v2 protocol\n- Update UI: remove enabled toggle, split endpoint display,\n  add \"Reset to default\" for policy rules\n- Update i18n, README, config example, and unit tests\n- Fix Windows job handle null checks with `is_null()`",
+            "tree": {
+              "sha": "bcd5c2fd115925c41b710ba805bb4d0d4238d383",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/bcd5c2fd115925c41b710ba805bb4d0d4238d383"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/61085495af20f64ab9acf5c618db8d9fec464564",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/61085495af20f64ab9acf5c618db8d9fec464564",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/61085495af20f64ab9acf5c618db8d9fec464564",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/61085495af20f64ab9acf5c618db8d9fec464564/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "9899a439d23f6d9377bfb9228c5f1f60daf48807",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/9899a439d23f6d9377bfb9228c5f1f60daf48807",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/9899a439d23f6d9377bfb9228c5f1f60daf48807"
+            }
+          ]
+        },
+        {
+          "sha": "75377202658ea65bd5c82ba55b43b2fc878e8d57",
+          "node_id": "C_kwDORl3Rn9oAKDc1Mzc3MjAyNjU4ZWE2NWJkNWM4MmJhNTViNDNiMmZjODc4ZThkNTc",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T03:35:25Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T03:35:25Z"
+            },
+            "message": "Consolidate file editing tools\n\nAdd a bundled read_file tool for bounded, line-numbered text reads.\n\nMerge create, delete, move, and multi-file edit operations into multi_edit_file.\n\nRemove the apply_patch builtin tool and update UI, config, and skill docs.",
+            "tree": {
+              "sha": "dd5b8f48662c0b8b78904fb882e284e49edeac0b",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/dd5b8f48662c0b8b78904fb882e284e49edeac0b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/75377202658ea65bd5c82ba55b43b2fc878e8d57",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/75377202658ea65bd5c82ba55b43b2fc878e8d57",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/75377202658ea65bd5c82ba55b43b2fc878e8d57",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/75377202658ea65bd5c82ba55b43b2fc878e8d57/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "61085495af20f64ab9acf5c618db8d9fec464564",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/61085495af20f64ab9acf5c618db8d9fec464564",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/61085495af20f64ab9acf5c618db8d9fec464564"
+            }
+          ]
+        },
+        {
+          "sha": "fb8ea58fcb9145557660cf8a16e1e040f130759e",
+          "node_id": "C_kwDORl3Rn9oAKGZiOGVhNThmY2I5MTQ1NTU3NjYwY2Y4YTE2ZTFlMDQwZjEzMDc1OWU",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T03:55:18Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T03:55:18Z"
+            },
+            "message": "refactor: split skills module by tool",
+            "tree": {
+              "sha": "50a0e3236dfd5f79adaaf7987a6d19ee62e19ba5",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/50a0e3236dfd5f79adaaf7987a6d19ee62e19ba5"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/fb8ea58fcb9145557660cf8a16e1e040f130759e",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/fb8ea58fcb9145557660cf8a16e1e040f130759e",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/fb8ea58fcb9145557660cf8a16e1e040f130759e",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/fb8ea58fcb9145557660cf8a16e1e040f130759e/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "75377202658ea65bd5c82ba55b43b2fc878e8d57",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/75377202658ea65bd5c82ba55b43b2fc878e8d57",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/75377202658ea65bd5c82ba55b43b2fc878e8d57"
+            }
+          ]
+        },
+        {
+          "sha": "2511beb276d36569457afefa8d689481d4384efb",
+          "node_id": "C_kwDORl3Rn9oAKDI1MTFiZWIyNzZkMzY1Njk0NTdhZmVmYThkNjg5NDgxZDQzODRlZmI",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T04:08:54Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T04:08:54Z"
+            },
+            "message": "refactor: organize app UI code",
+            "tree": {
+              "sha": "fb2b4eaf18512bd102605c8bd0799daff405a7f0",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/fb2b4eaf18512bd102605c8bd0799daff405a7f0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/2511beb276d36569457afefa8d689481d4384efb",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/2511beb276d36569457afefa8d689481d4384efb",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/2511beb276d36569457afefa8d689481d4384efb",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/2511beb276d36569457afefa8d689481d4384efb/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "fb8ea58fcb9145557660cf8a16e1e040f130759e",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/fb8ea58fcb9145557660cf8a16e1e040f130759e",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/fb8ea58fcb9145557660cf8a16e1e040f130759e"
+            }
+          ]
+        },
+        {
+          "sha": "cd687cd185a59b42b762384ee4afc8edaa64a656",
+          "node_id": "C_kwDORl3Rn9oAKGNkNjg3Y2QxODVhNTliNDJiNzYyMzg0ZWU0YWZjOGVkYWE2NGE2NTY",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T12:37:14Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T12:37:14Z"
+            },
+            "message": "refactor: Reconstruct the front-end UI interface and fix some logic bugs",
+            "tree": {
+              "sha": "1e47953e50436b0097f2049c0534163d11af3a45",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/1e47953e50436b0097f2049c0534163d11af3a45"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/cd687cd185a59b42b762384ee4afc8edaa64a656",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/cd687cd185a59b42b762384ee4afc8edaa64a656",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/cd687cd185a59b42b762384ee4afc8edaa64a656",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/cd687cd185a59b42b762384ee4afc8edaa64a656/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "2511beb276d36569457afefa8d689481d4384efb",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/2511beb276d36569457afefa8d689481d4384efb",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/2511beb276d36569457afefa8d689481d4384efb"
+            }
+          ]
+        },
+        {
+          "sha": "68d34f1d513b5a0a213abd21a632d8bfdb26ba6f",
+          "node_id": "C_kwDORl3Rn9oAKDY4ZDM0ZjFkNTEzYjVhMGEyMTNhYmQyMWE2MzJkOGJmZGIyNmJhNmY",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T12:46:20Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T12:46:20Z"
+            },
+            "message": "Fix local version sync and clippy lint",
+            "tree": {
+              "sha": "e8ff27aaa17fb9bd9bea410d74671332cb51818b",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/e8ff27aaa17fb9bd9bea410d74671332cb51818b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "cd687cd185a59b42b762384ee4afc8edaa64a656",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/cd687cd185a59b42b762384ee4afc8edaa64a656",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/cd687cd185a59b42b762384ee4afc8edaa64a656"
+            }
+          ]
+        },
+        {
+          "sha": "7006b37a75b0fff896b37f10e7282446b79cbf13",
+          "node_id": "C_kwDORl3Rn9oAKDcwMDZiMzdhNzViMGZmZjg5NmIzN2YxMGU3MjgyNDQ2Yjc5Y2JmMTM",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T13:41:12Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T13:41:12Z"
+            },
+            "message": "Authenticate ripgrep release lookup",
+            "tree": {
+              "sha": "0f85e348afb43e4f24f7be32305668023df7f2e2",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/0f85e348afb43e4f24f7be32305668023df7f2e2"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/7006b37a75b0fff896b37f10e7282446b79cbf13",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/7006b37a75b0fff896b37f10e7282446b79cbf13",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/7006b37a75b0fff896b37f10e7282446b79cbf13",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/7006b37a75b0fff896b37f10e7282446b79cbf13/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "68d34f1d513b5a0a213abd21a632d8bfdb26ba6f",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f"
+            }
+          ]
         }
       ]
     },
@@ -71541,7 +73919,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/metapi/compare/main...cita-777:main",
-      "updated_at": "2026-05-09T08:23:46.992Z",
+      "updated_at": "2026-05-10T04:40:44.355Z",
       "commits": [
         {
           "sha": "c94e3148dd3a22fc99033703922ddc8eb4e3ce01",
@@ -73625,7 +76003,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/MicroWARP/compare/main...ccbkkb:main",
-      "updated_at": "2026-05-09T08:23:47.785Z",
+      "updated_at": "2026-05-10T04:40:45.104Z",
       "commits": [
         {
           "sha": "fafc131d6c8a19ceef1b3a0fcfaa2961d191e217",
@@ -74485,7 +76863,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-05-09T08:23:48.420Z",
+      "updated_at": "2026-05-10T04:40:45.704Z",
       "commits": [
         {
           "sha": "6f22b3224a2b1b2b3e322d7e8742ae27e1a2fdbd",
@@ -74664,7 +77042,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-05-09T08:23:49.017Z",
+      "updated_at": "2026-05-10T04:40:46.301Z",
       "commits": [
         {
           "sha": "204efcaa1812c199453b256820cc0fc8d7375e00",
@@ -85667,7 +88045,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-05-09T08:23:50.372Z",
+      "updated_at": "2026-05-10T04:40:47.737Z",
       "commits": [
         {
           "sha": "06a56bf788be41454c08575177ad4a107c0d01f0",
@@ -106292,7 +108670,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/P4RS3LT0NGV3/compare/main...elder-plinius:main",
-      "updated_at": "2026-05-09T08:23:51.941Z",
+      "updated_at": "2026-05-10T04:40:49.259Z",
       "commits": []
     },
     {
@@ -106306,7 +108684,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Payloader/compare/main...3516634930:main",
-      "updated_at": "2026-05-09T08:23:52.426Z",
+      "updated_at": "2026-05-10T04:40:49.751Z",
       "commits": []
     },
     {
@@ -106320,7 +108698,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-05-09T08:23:52.913Z",
+      "updated_at": "2026-05-10T04:40:50.209Z",
       "commits": [
         {
           "sha": "edb016e5c765a63d91a3a70633003c8f3ebb48c8",
@@ -106750,7 +109128,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-05-09T08:23:53.720Z",
+      "updated_at": "2026-05-10T04:40:51.073Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -107011,7 +109389,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-05-09T08:23:54.296Z",
+      "updated_at": "2026-05-10T04:40:51.618Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
@@ -107518,7 +109896,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ruyipage/compare/main...LoseNine:main",
-      "updated_at": "2026-05-09T08:23:54.871Z",
+      "updated_at": "2026-05-10T04:40:52.198Z",
       "commits": [
         {
           "sha": "6ab3f417f9dbf04b15d341f1fdc6a7ff8dce9b35",
@@ -111961,7 +114339,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/subs-check/compare/master...beck-8:master",
-      "updated_at": "2026-05-09T08:23:55.843Z",
+      "updated_at": "2026-05-10T04:40:53.108Z",
       "commits": [
         {
           "sha": "04e67dd945f5f82cbe50918b0c2d94a8f4e15891",
@@ -112630,30 +115008,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 3d6c44a0e26b3efb8ebb78f6dfbc87e6a0886f93.",
+      "reason": "Force-reset fork branch to upstream commit e534280ed61a28ca3a1170ce6685e1b5371a50e0.",
       "compare_url": "https://github.com/XddXss888/zenproxy/compare/main...Micky203:main",
-      "updated_at": "2026-05-09T08:23:56.476Z",
+      "updated_at": "2026-05-10T04:40:53.741Z",
       "commits": [
         {
-          "sha": "3d6c44a0e26b3efb8ebb78f6dfbc87e6a0886f93",
-          "node_id": "C_kwDOR6tQLNoAKDNkNmM0NGEwZTI2YjNlZmI4ZWJiNzhmNmRmYmM4N2U2YTA4ODZmOTM",
+          "sha": "e534280ed61a28ca3a1170ce6685e1b5371a50e0",
+          "node_id": "C_kwDOR6tQLNoAKGU1MzQyODBlZDYxYTI4Y2EzYTExNzBjZTY2ODVlMWI1MzcxYTUwZTA",
           "commit": {
             "author": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-05-09T06:19:48Z"
+              "date": "2026-05-10T02:15:31Z"
             },
             "committer": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-05-09T06:19:48Z"
+              "date": "2026-05-10T02:15:31Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "22c121141024d5d4e737589b1f782212f3ec8776",
               "url": "https://api.github.com/repos/XddXss888/zenproxy/git/trees/22c121141024d5d4e737589b1f782212f3ec8776"
             },
-            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/3d6c44a0e26b3efb8ebb78f6dfbc87e6a0886f93",
+            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/e534280ed61a28ca3a1170ce6685e1b5371a50e0",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -112663,9 +115041,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/3d6c44a0e26b3efb8ebb78f6dfbc87e6a0886f93",
-          "html_url": "https://github.com/XddXss888/zenproxy/commit/3d6c44a0e26b3efb8ebb78f6dfbc87e6a0886f93",
-          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/3d6c44a0e26b3efb8ebb78f6dfbc87e6a0886f93/comments",
+          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/e534280ed61a28ca3a1170ce6685e1b5371a50e0",
+          "html_url": "https://github.com/XddXss888/zenproxy/commit/e534280ed61a28ca3a1170ce6685e1b5371a50e0",
+          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/e534280ed61a28ca3a1170ce6685e1b5371a50e0/comments",
           "author": {
             "login": "Micky203",
             "id": 164007966,
