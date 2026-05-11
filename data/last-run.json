@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-05-11T04:55:01.631Z",
-  "run_completed_at": "2026-05-11T04:55:36.958Z",
+  "run_started_at": "2026-05-11T10:28:22.639Z",
+  "run_completed_at": "2026-05-11T10:29:07.121Z",
   "summary": {
     "scanned": 51,
     "updated": 2,
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-05-11T04:55:02.248Z",
+      "updated_at": "2026-05-11T10:28:23.899Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,7 +199,7 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-05-11T04:55:02.761Z",
+      "updated_at": "2026-05-11T10:28:24.791Z",
       "commits": []
     },
     {
@@ -213,7 +213,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-05-11T04:55:03.256Z",
+      "updated_at": "2026-05-11T10:28:25.487Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -764,7 +764,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-05-11T04:55:03.985Z",
+      "updated_at": "2026-05-11T10:28:26.322Z",
       "commits": []
     },
     {
@@ -778,7 +778,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between main and lxf746:main.",
       "compare_url": "https://github.com/XddXss888/any-auto-register",
-      "updated_at": "2026-05-11T04:55:04.406Z",
+      "updated_at": "2026-05-11T10:28:26.830Z",
       "commits": []
     },
     {
@@ -792,7 +792,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/anything-analyzer/compare/main...Mouseww:main",
-      "updated_at": "2026-05-11T04:55:04.857Z",
+      "updated_at": "2026-05-11T10:28:27.399Z",
       "commits": [
         {
           "sha": "4ea6022c1f51ad47ebcfec327d2195a6831acfe7",
@@ -7439,7 +7439,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-05-11T04:55:05.892Z",
+      "updated_at": "2026-05-11T10:28:28.703Z",
       "commits": []
     },
     {
@@ -7453,7 +7453,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CanvasToAPI/compare/main...iBUHub:main",
-      "updated_at": "2026-05-11T04:55:06.238Z",
+      "updated_at": "2026-05-11T10:28:29.222Z",
       "commits": [
         {
           "sha": "eee8146fb00139a8faade1889d6df8a0f1818e49",
@@ -8042,7 +8042,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CC-BOS/compare/main...Whiffe:main",
-      "updated_at": "2026-05-11T04:55:06.768Z",
+      "updated_at": "2026-05-11T10:28:29.970Z",
       "commits": []
     },
     {
@@ -8056,7 +8056,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-05-11T04:55:07.159Z",
+      "updated_at": "2026-05-11T10:28:30.507Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -9368,7 +9368,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-05-11T04:55:07.762Z",
+      "updated_at": "2026-05-11T10:28:31.259Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -9425,7 +9425,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-05-11T04:55:08.167Z",
+      "updated_at": "2026-05-11T10:28:31.814Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -9850,7 +9850,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-05-11T04:55:08.746Z",
+      "updated_at": "2026-05-11T10:28:32.615Z",
       "commits": []
     },
     {
@@ -9864,7 +9864,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-05-11T04:55:09.136Z",
+      "updated_at": "2026-05-11T10:28:33.110Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -13492,7 +13492,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-05-11T04:55:10.036Z",
+      "updated_at": "2026-05-11T10:28:34.133Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -13582,14 +13582,14 @@
       "repo": "claude-mem",
       "upstream": "thedotmack/claude-mem",
       "branch": "main",
-      "ahead_by": 230,
+      "ahead_by": 233,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-mem/compare/main...thedotmack:main",
-      "updated_at": "2026-05-11T04:55:10.550Z",
+      "updated_at": "2026-05-11T10:28:34.652Z",
       "commits": [
         {
           "sha": "8cdabe6315cf8fe7fb7b5d06df95599c48226f22",
@@ -32485,6 +32485,252 @@
               "html_url": "https://github.com/XddXss888/claude-mem/commit/386e00ccce16575efc88745d1cbc904fc9a5303b"
             }
           ]
+        },
+        {
+          "sha": "e7bbb2a9aaa755244d902e2a9807758a14f97ee5",
+          "node_id": "C_kwDOSAM4GNoAKGU3YmJiMmE5YWFhNzU1MjQ0ZDkwMmUyYTk4MDc3NThhMTRmOTdlZTU",
+          "commit": {
+            "author": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-11T07:26:11Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-11T07:26:11Z"
+            },
+            "message": "server-beta: Phases 4–13 — event pipeline, generation, MCP, compat, Docker, team audit, observability (#2383)\n\n* feat(server-beta): Phase 4 — Postgres event-to-generation-job pipeline\n\nAdds POST /v1/events, /v1/events/batch, GET /v1/jobs/:id, GET /v1/events/:id,\nand POST /v1/memories on the server-beta runtime, backed by Postgres.\n\n- Event row + outbox generation-job row insert in one withPostgresTransaction.\n- BullMQ enqueue happens after commit; enqueue failure leaves the row queued\n  for Phase 3 startup reconciliation.\n- ?generate=false skips the outbox; ?wait=true returns queue status only,\n  never observation IDs (provider generation is Phase 5).\n- Batch pre-validates all event projectIds against api-key scope before any\n  write; mixed-project batches reject 403 with zero side effects.\n- /v1/memories is a direct insert alias — no generator, no outbox.\n- Cross-tenant /v1/jobs/:id returns 404 to avoid leaking row existence.\n- New PostgresAuthMiddleware reads api_keys by SHA-256 hash; populates\n  req.authContext.teamId/projectId; legacy ServerV1Routes (SQLite, used by\n  worker runtime) is left untouched.\n- Tests: unit suite hardened with stubbed pool.query so route registration\n  is safe; integration tests skip cleanly without CLAUDE_MEM_TEST_POSTGRES_URL.\n\nVerification: 87 pass / 1 skip / 0 fail. No new typecheck errors. Required\ngreps for WorkerService and MemoryItemsRepository in src/server/routes/v1\nand src/server/runtime return no hits.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 5 — provider observation generator\n\nAdds independent provider generation under src/server/generation/ with no\nworker coupling. Server beta can now generate observations end-to-end:\nevent -> outbox -> BullMQ -> provider -> parser -> persisted observation.\n\n- ProviderObservationGenerator orchestrates: lock outbox (queued -> processing),\n  reload agent_event from Postgres (BullMQ payload is advisory only), call\n  provider, hand raw text to processGeneratedResponse, route errors via\n  markGenerationFailed with retryable flag from ServerClassifiedProviderError.\n- processGeneratedResponse parses with parseAgentXml, persists via\n  PostgresObservationRepository with deterministic\n  generation_key = generation:v1:{job_id}:{index}:{fingerprint},\n  links via PostgresObservationSourcesRepository, advances outbox status,\n  appends observation_generation_job_events, audits — all in one\n  withPostgresTransaction. Idempotent on retry via UNIQUE constraints.\n- Three provider adapters under src/server/generation/providers/:\n  Claude, Gemini, OpenRouter. Self-contained — no imports from\n  src/services/worker/*. Worker providers unchanged.\n- Shared error classification + prompt builder under providers/shared/.\n  Prompt builder strips <private> at the edge; fully-private batches\n  emit <skip_summary /> without billing the provider.\n- ActiveServerBetaGenerationWorkerManager wires BullMQ Worker via\n  ServerJobQueue.start(...) with concurrency 1 + autorun:false +\n  worker.on('error') per BullMQ docs.\n- New GET /v1/events/:id/observations on ServerV1PostgresRoutes returns\n  observations linked via observation_sources, team/project scoped.\n\nVerification: 104 pass / 4 skip / 0 fail. No typecheck regressions.\nAnti-pattern greps clean for services/worker imports under src/server,\nWorkerRef/ActiveSession/SessionStore in src/server/generation.\n\nDeferred: ModeManager loading uses a stable fallback observation type\nlist; summary and reindex queue lanes are not yet wired.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 6 — independent server session semantics\n\nserver_sessions is now the canonical Server beta session model. Sessions\nare independent of legacy worker ActiveSession state.\n\n- PostgresServerSessionRepository extended: findByExternalIdForScope,\n  endSession (idempotent via COALESCE(ended_at, now())),\n  markGenerationStarted/Completed/Failed, listUnprocessedEvents (filters\n  agent_events with completed agent_event jobs).\n- ServerSessionRuntimeRepository wraps the repo; every method requires\n  explicit team_id + project_id and validates scope via assertProjectOwnership.\n- SessionGenerationPolicy supports per-event (default), debounce\n  (BullMQ delayed-job replace via getJob+remove+add), and end-of-session.\n  Configured via CLAUDE_MEM_SERVER_SESSION_POLICY and\n  CLAUDE_MEM_SERVER_SESSION_DEBOUNCE_MS env vars; per-team override hooks\n  are exposed on ServerV1PostgresRoutesOptions for future settings layer.\n- POST /v1/sessions/start (find-or-create on (project_id, external_session_id),\n  GET /v1/sessions/:id (scoped 404), POST /v1/sessions/:id/end\n  (transactional: end + create summary outbox via UNIQUE collapse +\n  enqueue post-commit). Re-ending is fully idempotent.\n- processSessionSummaryResponse persists summary as kind='summary'\n  observation with the same idempotency model\n  (generation_key + observation_sources UNIQUE).\n- ProviderObservationGenerator dispatches on source_type:\n  agent_event -> processGeneratedResponse, session_summary ->\n  processSessionSummaryResponse; loadEvents handles session-summary\n  by loading unprocessed events.\n- ActiveServerBetaGenerationWorkerManager wires summary BullMQ lane\n  alongside event lane (concurrency=1, autorun=false, error listener\n  attached per BullMQ docs).\n\nVerification: 110 pass / 6 skip / 0 fail. Net typecheck error count\nunchanged at 24 (pre-existing, none in Phase 6 files). Anti-pattern\ngreps clean for ActiveSession/SessionStore in src/server/runtime,\nno worker imports anywhere in src/server.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 7 — hook routing without worker dependency\n\nHooks can now talk directly to server-beta when CLAUDE_MEM_RUNTIME=server-beta\nis selected, with a clean worker fallback when server-beta is unhealthy.\n\n- src/services/hooks/server-beta-client.ts — typed HTTP client for\n  /v1/sessions/start, /v1/events, /v1/sessions/:id/end. Throws\n  ServerBetaClientError with kind classification (missing_api_key,\n  transport, timeout, http_error, invalid_response) and isFallbackEligible\n  helper. Zero imports from services/worker/.\n- src/services/hooks/runtime-selector.ts — reads CLAUDE_MEM_RUNTIME from\n  settings, returns worker or server-beta context, logs\n  [server-beta-fallback] reason=<code> on every config-time fallback.\n- src/services/hooks/server-beta-bootstrap.ts — Postgres-backed API key\n  bootstrap. Find-or-creates local-hook-team + local-hook-project,\n  generates cmem_<random> key (SHA-256 hashed), inserts into api_keys\n  with scopes events:write/sessions:write/observations:read/jobs:read.\n  Settings file written with chmod 0600. rotateServerBetaApiKey() wired\n  to a new `claude-mem server keys rotate` command.\n- src/cli/handlers/{observation,session-init,summarize}.ts — every hook\n  handler tries server-beta first when configured, falls through to the\n  existing worker path on transport/5xx/429/missing-key. One WARN line\n  per fallback. Hook JSON output shape unchanged.\n- src/shared/SettingsDefaultsManager.ts — three new keys with defaults:\n  CLAUDE_MEM_SERVER_BETA_URL, CLAUDE_MEM_SERVER_BETA_API_KEY,\n  CLAUDE_MEM_SERVER_BETA_PROJECT_ID.\n- src/npx-cli/commands/install.ts — when installer selects server-beta\n  runtime and CLAUDE_MEM_SERVER_DATABASE_URL is set, bootstraps a local\n  API key automatically. Warns and continues if the DB URL is missing.\n\nplugin/scripts/*.cjs bundles rebuilt via npm run build to pick up the\nnew hook handler code path. No plaintext keys in the bundle (verified).\n\nVerification: 16 hook unit tests pass; 275 server/storage/services tests\npass with 7 pre-existing failures (verified independent of this change\nvia git stash --include-untracked). Build clean. No new typecheck\nerrors in Phase 7 files.\n\nAnti-pattern guards verified:\n- /api/sessions/observations only reached via explicit fallback path\n- server-beta runtime never starts the worker process\n- API keys live only in ~/.claude-mem/settings.json (chmod 0600), never\n  in the bundle (grep confirmed)\n- Worker fallback preserved, observable via single WARN line per call\n\nDeferred: semantic context injection (UserPromptSubmit hook) stays\nworker-only; server-beta does not yet expose /v1/context/semantic.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 8 — MCP backed by server-beta core\n\nMCP tools now route through server-beta in server-beta mode while keeping\nworker-mode search/timeline/get_observations tools fully working.\n\n- src/servers/mcp-server.ts — five new observation_* tools registered:\n  observation_add, observation_record_event, observation_search,\n  observation_context, observation_generation_status. Three memory_*\n  compatibility aliases delegate to the canonical handlers. Worker\n  auto-start is gated when selectRuntime() === 'server-beta' so MCP\n  in server-beta mode never spawns the worker.\n- src/services/hooks/server-beta-client.ts — addObservation,\n  searchObservations, contextObservations, getJobStatus added so MCP\n  shares one transport with hooks (Phase 7).\n- src/server/routes/v1/ServerV1PostgresRoutes.ts — POST /v1/search and\n  POST /v1/context REST cores backed by PostgresObservationRepository\n  full-text search (GIN tsvector from Phase 1).\n- Existing memory_search/timeline/get_observations tools call\n  callWorkerAPI unchanged in worker mode; worker tests unaffected.\n\nVerification: 39 pass / 4 skip / 0 fail on targeted suite. Pre-existing\n7 baseline failures verified independent (git stash). No new typecheck\nerrors. WorkerService grep clean across src/servers/mcp-server.ts and\nsrc/server/.\n\nAnti-pattern guards verified:\n- No duplicate generation logic in MCP — observation_record_event hits\n  /v1/events which owns event+outbox+enqueue inside one tx\n- WorkerService not imported anywhere under MCP server-beta path\n- No hardcoded worker URLs — all transport via Phase 7 ServerBetaClient\n- memory_* aliases retained, single handler per pair\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 9 — compatibility adapters without coupling\n\nLegacy /api/sessions/observations and /api/sessions/summarize endpoints\nkeep working on server-beta runtime by translating to AgentEvent and\nsession-end calls — no worker code, no route duplication.\n\n- src/server/services/IngestEventsService.ts — shared event-ingest path\n  used by both /v1/events and the compat adapter. Owns transactional\n  event row + outbox row + lifecycle log + post-commit BullMQ enqueue,\n  honors Phase 6 SessionGenerationPolicy.\n- src/server/services/EndSessionService.ts — shared session-end path\n  used by both /v1/sessions/:id/end and the compat adapter. Idempotent\n  ended_at + summary outbox + deterministic summary job id.\n- src/server/compat/SessionsObservationsAdapter.ts — translates legacy\n  POST /api/sessions/observations payload (Claude Code transcript shape)\n  -> AgentEvent (source_adapter='claude-code-compat',\n  event_type='tool_use') -> IngestEventsService.ingestOne. Resolves\n  contentSessionId to server_sessions via find-or-create.\n- src/server/compat/SessionsSummarizeAdapter.ts — translates legacy\n  POST /api/sessions/summarize -> EndSessionService.end. Preserves the\n  legacy agentId -> {status:'skipped', reason:'subagent_context'}\n  behavior so existing clients see the same response shape.\n- src/server/routes/v1/ServerV1PostgresRoutes.ts — refactored to\n  delegate to the new shared services (-203 LoC net) so /v1 and\n  /api compat both call the SAME canonical code path.\n- src/server/runtime/ServerBetaService.ts — registers both compat\n  adapters alongside ServerV1PostgresRoutes, sharing service instances.\n- docs/server-beta-parity-map.md — full enumeration of legacy /api/*\n  routes labeled native, adapter, or unsupported (with reasons).\n  Viewer read-path adapters explicitly listed as unsupported pending\n  a future viewer-rewrite phase.\n\nVerification: 7 compat tests pass, 6 v1-routes tests still pass\n(refactor preserved behavior), 4 session-routes tests pass. Pre-\nexisting 16 baseline failures verified independent via git stash.\nZero new typecheck errors.\n\nAnti-pattern guards verified:\n- No services/worker/http/routes or WorkerService imports under\n  src/server/compat or src/server/runtime\n- Compat adapters are thin translators with names ending in *Adapter\n  and a top-of-file comment noting they are legacy compatibility\n- /v1/* remains the canonical Server beta API; compat adapters\n  call shared services rather than acting as a parallel API\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 10 — Docker stack and deployable runtime\n\nServer beta now ships as a Docker stack with no worker process anywhere\nand a separate horizontal generation worker for scaling.\n\n- src/server/runtime/create-server-beta-service.ts — validateServerBetaEnv()\n  fails fast on missing CLAUDE_MEM_SERVER_DATABASE_URL, requires\n  CLAUDE_MEM_QUEUE_ENGINE=bullmq in Docker, rejects\n  CLAUDE_MEM_AUTH_MODE=local-dev and CLAUDE_MEM_ALLOW_LOCAL_DEV_BYPASS\n  inside containers (detected via /.dockerenv or CLAUDE_MEM_DOCKER=1).\n  Adds CLAUDE_MEM_GENERATION_DISABLED so the HTTP service can run\n  generator-free.\n- src/server/runtime/ServerBetaService.ts — runServerBetaGenerationWorker\n  for the dedicated consumer process; runServerBetaApiKeyCli is a new\n  Postgres-backed `server api-key` command (the legacy worker CLI wrote\n  to SQLite and was invisible to the Postgres runtime); getQueueHealth\n  shim feeds /api/health a consistent ObservationQueueHealth shape.\n- src/npx-cli/commands/{runtime,server}.ts — `claude-mem server worker\n  start` subcommand that boots only the BullMQ consumer.\n- docker/claude-mem/{Dockerfile,entrypoint.sh} — entrypoint forces\n  CLAUDE_MEM_DOCKER=1 + CLAUDE_MEM_RUNTIME=server-beta and exposes\n  three modes: server (HTTP only, generation disabled), worker (BullMQ\n  consumer), shell. Worker bundle is no longer the default CMD.\n- docker-compose.yml — full stack: postgres + valkey + claude-mem-server\n  (HTTP-only) + claude-mem-worker (generation consumer). Wires\n  service-to-service env vars.\n- scripts/e2e-server-beta-docker.sh + docker/e2e/server-beta-e2e.mjs —\n  E2E now hits /v1/sessions/start, /v1/events?wait=true, /v1/jobs/:id;\n  asserts no worker-service.cjs process anywhere in the stack;\n  one-shot docker compose run --rm verifies local-dev auth is\n  rejected with the expected stderr; restart-and-verify confirms\n  Postgres durability and BullMQ retry idempotency.\n- docs/server.md — full Phase 10 doc: stack diagram, env table,\n  worker mode, auth-in-Docker policy.\n- docs/api.md — event generation semantics (wait=true, generationJob).\n\nVerification: full Docker E2E PASSED on live daemon\n(phase1 + phase2 + restart-and-verify + revoked-key + no-worker-\nprocess + local-dev-rejected). Unit tests 292 pass / 9 skip / 7 fail\n(7 fails pre-existing baseline). Zero new typecheck errors.\n\nAnti-pattern guards verified:\n- entrypoint never execs worker-service.cjs; E2E greps prove no\n  worker process anywhere in the stack\n- validateServerBetaEnv refuses local-dev auth in Docker with explicit\n  remediation message; ALLOW_LOCAL_DEV_BYPASS rejected the same way\n- Docker requires CLAUDE_MEM_QUEUE_ENGINE=bullmq; in-process queue\n  rejected at startup\n- claude-mem worker / worker-service / WorkerService greps clean\n  in docker/\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 11 — team-aware generation with audit chain\n\nGeneration jobs now carry team_id/project_id/api_key_id/actor_id/\nsource_adapter from enqueue through execution; the outbox is reloaded\nfrom Postgres before any side effect so BullMQ payload can never act\nas auth authority.\n\n- src/server/jobs/types.ts — ServerGenerationJobPayloadSchema (Zod\n  discriminated union) requires team_id, project_id, generation_job_id,\n  source_adapter, api_key_id, actor_id (nullable), source_type, source_id,\n  plus event_id / server_session_id per kind. assertServerGenerationJobPayload\n  is called at enqueue (outbox.ts) and again at execution boundary.\n- src/server/services/{IngestEventsService,EndSessionService}.ts +\n  SessionGenerationPolicy.ts — thread identity context (apiKeyId, actorId,\n  sourceAdapter) into both event and summary BullMQ payloads.\n- src/server/generation/ProviderObservationGenerator.ts —\n  loadCanonicalOutbox loads the outbox row WITHOUT scope filter, then\n  compares candidate.team_id/project_id to payload.team_id/project_id;\n  mismatch -> ServerGenerationScopeViolationError (non-retryable),\n  failed status, generation_job.scope_violation audit. isApiKeyRevoked\n  checks api_keys (revoked_at, expires_at, row missing) before any\n  provider call; revoked -> generation_job.revoked_key audit + non-\n  retryable failure. generation_job.processing audit emitted on lock.\n- src/server/generation/processGeneratedResponse.ts — generated\n  observations carry team_id/project_id/server_session_id from the\n  reloaded source row (not job payload). observation_sources.metadata\n  records source_adapter, actor_id, api_key_id for traceability.\n  observation.created audit per observation; generation_job.completed\n  audit per terminal transition. All audit rows reference the same\n  generation_job_id in details.\n- src/server/routes/v1/ServerV1PostgresRoutes.ts — GET /v1/teams/:id/jobs\n  and GET /v1/projects/:id/jobs with SQL-layer scoping (WHERE team_id=$1\n  [AND project_id=$2] [AND status=$3]); cross-tenant returns 404 to\n  avoid leaking row existence. Pagination via status/limit/offset.\n  audit_log rows for event.received, event.batch_received, observation.read.\n- src/server/compat/{SessionsObservationsAdapter,SessionsSummarizeAdapter}.ts —\n  propagate apiKeyId and sourceAdapter='claude-code-compat'.\n\nVerification: 162 pass / 10 skip / 0 fail. Pre-existing failures in\ntests/services/queue and tests/services/worker confirmed independent\nvia git stash. Zero new typecheck errors in server-beta files.\nRequired greps:\n  rg \"team_id.*req\\.body|project_id.*req\\.body\" src/server -> 0 matches\nAudit chain integration test passes — generation_job.processing,\nobservation.created, and generation_job.completed audit rows all\nshare the same generation_job_id reference.\n\nAnti-pattern guards verified:\n- BullMQ payload never acts as auth authority — Postgres outbox\n  reload with mismatch check happens before every side effect\n- team_id / project_id never derived from request body for scope\n  decisions; always req.authContext.teamId / projectId\n- Application-layer team/project filtering forbidden — listJobsForScope\n  pushes scope into the SQL WHERE clause\n- Project-scoped key on cross-project /v1/teams/:id/jobs returns 404\n- Revoked api keys cause non-retryable failure with audit before\n  any provider call\n\nDeferred: a redundant generation_job.queued audit_log row (already\ncovered by observation_generation_job_events lifecycle log per Phase 1\nschema split). Compat adapters set actor_id=null but propagate\napi_key_id which is the canonical reference downstream.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 12 — observability and operations\n\nOperators can now inspect, retry, and cancel generation jobs from the\nCLI; queue lane metrics flow into /api/health and /v1/info; every\nrequest gets a stable request_id that flows through HTTP -> audit ->\noutbox -> generator -> completion log.\n\n- src/server/middleware/request-id.ts — honors safe inbound X-Request-Id,\n  mints uuid v4 otherwise. Set on req.requestId and echoed via response\n  header so external traces can correlate.\n- src/server/jobs/ServerJobQueue.ts — QueueEvents wired with completed,\n  failed, progress, stalled, error listeners; lifecycle counters\n  exposed via observe() API. Logs emitted as\n  [generation] job=<id> source_type=<...> duration=<ms> attempts=<N>\n  reason=<message>. Stalled and error counters survive worker restart.\n- src/server/jobs/types.ts — ServerGenerationJob payload schema\n  extended with optional request_id; flows through from HTTP into\n  every BullMQ job.\n- src/server/queue/ObservationQueueEngine.ts — health snapshot now\n  carries per-lane (event, summary) counts via\n  ObservationQueueHealthLaneSnapshot.\n- src/server/runtime/{ActiveServerBetaQueueManager,\n  ActiveServerBetaGenerationWorkerManager,ServerBetaService}.ts —\n  per-lane getJobCounts feed /api/health and /v1/info; stalled events\n  audit through audit_log with action generation_job.stalled.\n- src/server/routes/v1/ServerV1PostgresRoutes.ts —\n  GET /v1/jobs (status/source_type/since/limit/offset, scope from\n  api-key, payload stripped unless ?include=payload AND admin scope),\n  POST /v1/jobs/:id/retry (idempotent; queued -> no-op; audit\n  generation_job.retried_by_operator), POST /v1/jobs/:id/cancel\n  (terminal -> no-op; audit generation_job.cancelled_by_operator;\n  generator reload-before-side-effects already prevents double work).\n- src/server/services/IngestEventsService.ts +\n  SessionGenerationPolicy.ts + ProviderObservationGenerator.ts —\n  request_id propagated end to end. Generator extracts request_id\n  from BullMQ payload and includes it in lock/processing/completion\n  logs and audit details.\n- src/npx-cli/commands/server-jobs.ts +\n  src/npx-cli/commands/server.ts — `claude-mem server jobs\n  status|failed|retry|cancel`. status compares Postgres outbox counts\n  to BullMQ queue counts and surfaces divergence. failed prints\n  attempts + last_error message. --team and --project filters.\n\nVerification: 350 pass / 12 skip / 7 fail (pre-existing baseline,\nverified independent via git stash). 18 new tests added (request-id\nmiddleware, server-jobs CLI seams, jobs list/retry/cancel routes\nPostgres-gated). Zero new typecheck errors.\n\nAnti-pattern guards verified:\n- agent_events.payload only emitted in /v1/jobs response inside the\n  admin-gated branch (?include=payload + admin scope) — returns 403\n  otherwise\n- jobs retry on a queued row is a no-op (no double BullMQ enqueue,\n  no double UPDATE)\n- Every operator action writes to audit_log with the\n  *_by_operator action and request_id correlation in details\n- Stalled events audit through generation_job.stalled\n\nSample correlated trace (one request_id end to end):\n  HTTP middleware: req.requestId = 'req-abc'\n  audit event.received: details.requestId = 'req-abc'\n  BullMQ payload: { request_id: 'req-abc', generation_job_id: 'gj_x' }\n  generator lock log: [generation] job locked { jobId, requestId }\n  audit generation_job.processing: details.requestId = 'req-abc'\n  completion log: [generation] job=evt_... duration=1230ms\n\nDeferred: live /api/health round-trip integration test (needs\nRedis); stalled event live integration test (needs Redis); storing\nrequest_id on the observations row itself (spec did not require).\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* docs(server-beta): add Phase 13 release readiness report\n\nCaptures the final verification gate: tests (1749 pass, 45 fail all\npre-existing baseline, zero regressions), required greps clean,\nDocker E2E green end-to-end, all 7 exit criteria met, build clean,\ntypecheck unchanged from main. Documents deferred items.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build(server-beta): rebuild server-beta-service bundle\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): address Greptile review on PR #2383\n\n- ProviderObservationGenerator.lockOutbox: skip duplicate worker run when\n  another lock is active instead of returning the row, which previously let\n  two BullMQ workers issue the (paid, rate-limited) external provider call\n  before the persistence-layer terminal-status guard collapsed the duplicate.\n  Reconciliation still recovers from a stale lock on startup or next retry.\n- docker-compose.yml: require POSTGRES_USER/PASSWORD/DB env vars (no\n  defaults). Stack refuses to start without explicit secrets. Added a header\n  warning that the file must not be deployed unmodified.\n- e2e-server-beta-docker.sh: export ephemeral test creds for the new\n  required env vars so the Docker E2E driver still runs unattended.\n- ServerBetaService api-key list: bound query with LIMIT/OFFSET (default 100,\n  max 500) and add optional --team filter to prevent unintentional\n  cross-tenant key metadata disclosure on shared admin hosts.\n- SessionGenerationPolicy: fix dead `??` fallback for NaN parseInt result;\n  use `||` so DEFAULT_DEBOUNCE_MS actually applies.\n- ServerV1PostgresRoutes: `?wait=true` now actually waits — polls the outbox\n  row until terminal status (timeout 30s, 100ms interval) on both\n  /v1/events and /v1/events/batch. Returns `waitTimedOut: true` if the cap\n  is hit so callers can re-poll the status endpoints.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): address CodeRabbit + Greptile second review on PR #2383\n\nP1 fixes\n- Operator retry endpoint was re-publishing the Postgres outbox metadata\n  column as the BullMQ payload; the worker's\n  assertServerGenerationJobPayload always rejected it, leaving the row\n  stuck in queued until startup reconciliation. Persist the BullMQ payload\n  on the outbox row at create-time inside IngestEventsService and\n  EndSessionService, then re-enqueue that canonical payload on retry.\n\nMajor fixes\n- prompt-builder: escape server_session_id when interpolating into the\n  XML prompt; previously a session id containing `<`, `&`, or quotes\n  could inject XML into the provider input.\n- ServerJobQueue: route both worker.on('stalled') and the QueueEvents\n  'stalled' subscriber through a single notifyStalled helper that\n  dedupes by jobId for 30s, so counters.stalled increments once per\n  stall. QueueEvents 'error' now routes through notifyQueueError so\n  it increments counters.errored and runs onError listeners — keeping\n  observability symmetric across both sources.\n- ServerV1PostgresRoutes: convert PostgresObservationRepository from\n  three dynamic imports to a single static import for consistency.\n- mcp-server / ServerBetaClient: actually forward the\n  observation_record_event tool's `generate` flag through to the\n  /v1/events endpoint as `?generate=false` instead of voiding it.\n- server-sessions.markGenerationFailed: guard jsonb_set against a null\n  error payload so the failure path can't null out metadata before the\n  generation_status='failed' write commits.\n\nMinor fixes\n- server-sessions.endSession: keep updated_at stable on repeated calls\n  so the documented idempotency contract holds.\n- SettingsDefaultsManager + ServerBetaService.getServerBetaPort: derive\n  the server-beta default port from UID (37877 + uid%100), matching the\n  worker port pattern, so two users on the same host don't collide.\n  Docker stacks always pass CLAUDE_MEM_SERVER_PORT explicitly so the\n  containerized deployment is unaffected.\n- server-session-runtime test: close the pg.Pool in afterAll.\n- server-beta-release-readiness.md: escape pipes inside table inline\n  code, add `text` language tag to the fenced log block.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): address Greptile + CodeRabbit third review on PR #2383\n\nP1 fixes\n- SessionsObservationsAdapter.resolveServerSession: catch unique-violation\n  (23505) on concurrent compat inserts and re-fetch instead of returning\n  500. Two compat callers carrying the same contentSessionId can both\n  observe `existing===null` and race on the (project_id,\n  external_session_id) unique constraint; the second now resolves to the\n  raced row instead of dropping the event.\n- /v1/events/batch: pass `sourceAdapter: null` to ingestBatch so each\n  event's BullMQ payload (and persisted outbox payload column) reflects\n  its own event.sourceAdapter via buildEventBullmqPayload's fallback,\n  rather than stamping the whole batch with the first event's adapter.\n\nMinor\n- server-session-runtime test afterEach: wrap DROP SCHEMA in try/finally\n  so client.release() always runs even if the drop throws.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(test): drop `pool as never` cast — pg.Pool already matches PostgresPool\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): retry of completed job now 409s instead of duplicating\n\nretryGenerationJob previously fell through to the reset+re-enqueue path\nwhen called on a job in `completed` status. The observations index\ndedupes on (generation_job_id, parsed_observation_index, content) but\nLLM output is non-deterministic, so a second provider run almost always\nproduced a different content string and bypassed the index, persisting a\nparallel set of observation rows attributed to the same generation job.\n\nMatch cancelGenerationJob's 409 guard for completed jobs. failed and\ncancelled remain valid retry targets.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build(server-beta): rebuild bundles after rebase onto main\n\nRegenerates the three plugin bundles so they reflect the rebased source\nstate. Mechanical rebuild output only — no source changes.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): wrap resolveServerSession in try/catch for structured error response\n\nGreptile P1 on PR #2383: resolveServerSession was called before the try/catch\nin both compat adapters, so Postgres errors during session lookup (timeout,\npool exhaustion, etc.) escaped to Express's default error handler and returned\nHTML/text 500s. Legacy clients calling response.json() would get a parse\nfailure instead of the documented { stored: false, reason: 'internal_error' }\n(or { status: 'error', reason: 'internal_error' } for the summarize adapter)\nshape.\n\nMove the resolveServerSession call inside the existing try block in both\nadapters so any failure flows through the structured catch handler.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): catch 23505 unique violation in POST /v1/sessions/start\n\nGreptile P1 on PR #2383: concurrent requests with the same externalSessionId\ncan both pass the findByExternalIdForScope check, both call repo.create,\nand the loser hits the (project_id, external_session_id) unique constraint.\nThe handler treated that as an unknown error and returned a 500.\n\nApply the same pattern resolveServerSession already uses: catch error.code\n'23505' when externalSessionId is set, refetch the row inserted by the\nwinning request, and return 200 with that session.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+            "tree": {
+              "sha": "f60dc75646f3e766bf3cfe62135079bd97567605",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/git/trees/f60dc75646f3e766bf3cfe62135079bd97567605"
+            },
+            "url": "https://api.github.com/repos/XddXss888/claude-mem/git/commits/e7bbb2a9aaa755244d902e2a9807758a14f97ee5",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqAYSTCRC1aQ7uu5UhlAAA32IQAKACO+EjDZAi/ySP1BZCEraq\nIhGSwtRMExn/Fo22mX4zIz1JkeBOLswrIdhNDiTFOKoo3GLN54ZCysemFiWZ+FCz\n383GDo16XeUqSFEgKHxK+3Gw1i/DrX00XRS7ZWUvgQKdOIyMyFEBs4tgHdaG06ZE\nEJd5UHfQlOzwkXhaZeAIBwBah+z34aCemkgwm+G5/59Dbkenv82iSg8ny/AGBJUE\n/RrDOSaD38oN8Iy8auD+uJqjWBi5VXWRs4EYCQ0WcBteG+r/BW1cJVg/ocekOb3N\nGuzpq8od7atkEVdMpPbXNjdSRzZ3iok391Vie8E04JAYyhfVFmXWDLVocgwXWMrO\n6n1QBYZNA909AOxZNUyX/WOd2pBPtYDeJe+eWjnkbwFW2Of0KTem741pcG5S+2Gb\n4ZPA9SFXtycvjArqsH4qObjB33PB08mSFivkmqKyZ7mdLAdNH56hvJKmQULj8tLF\n3hOGJ63en57AVxKYQOgFnrCBcKPFV/lP1r+3p5sH42SCdrnffGwk/0TSbWilEPCs\nG9TJZMcRdL8VeVnBoJbz1YoRzsWG/wBjborsCyGV0N/PzwvsXg5ond4CjvV3LOko\nFlKIbOSI4O/w7icTAuHFKz4DiIKizaq1o2QhfFCxIyW83DUG3vf3J5SJk6NPsDuq\nEMavbFDkIw0RQIarONRJ\n=TpmB\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree f60dc75646f3e766bf3cfe62135079bd97567605\nparent a10d1b342f2e979d590364ed1b5847a6bd60e00f\nauthor Alex Newman <thedotmack@gmail.com> 1778484371 -0700\ncommitter GitHub <noreply@github.com> 1778484371 -0700\n\nserver-beta: Phases 4–13 — event pipeline, generation, MCP, compat, Docker, team audit, observability (#2383)\n\n* feat(server-beta): Phase 4 — Postgres event-to-generation-job pipeline\n\nAdds POST /v1/events, /v1/events/batch, GET /v1/jobs/:id, GET /v1/events/:id,\nand POST /v1/memories on the server-beta runtime, backed by Postgres.\n\n- Event row + outbox generation-job row insert in one withPostgresTransaction.\n- BullMQ enqueue happens after commit; enqueue failure leaves the row queued\n  for Phase 3 startup reconciliation.\n- ?generate=false skips the outbox; ?wait=true returns queue status only,\n  never observation IDs (provider generation is Phase 5).\n- Batch pre-validates all event projectIds against api-key scope before any\n  write; mixed-project batches reject 403 with zero side effects.\n- /v1/memories is a direct insert alias — no generator, no outbox.\n- Cross-tenant /v1/jobs/:id returns 404 to avoid leaking row existence.\n- New PostgresAuthMiddleware reads api_keys by SHA-256 hash; populates\n  req.authContext.teamId/projectId; legacy ServerV1Routes (SQLite, used by\n  worker runtime) is left untouched.\n- Tests: unit suite hardened with stubbed pool.query so route registration\n  is safe; integration tests skip cleanly without CLAUDE_MEM_TEST_POSTGRES_URL.\n\nVerification: 87 pass / 1 skip / 0 fail. No new typecheck errors. Required\ngreps for WorkerService and MemoryItemsRepository in src/server/routes/v1\nand src/server/runtime return no hits.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 5 — provider observation generator\n\nAdds independent provider generation under src/server/generation/ with no\nworker coupling. Server beta can now generate observations end-to-end:\nevent -> outbox -> BullMQ -> provider -> parser -> persisted observation.\n\n- ProviderObservationGenerator orchestrates: lock outbox (queued -> processing),\n  reload agent_event from Postgres (BullMQ payload is advisory only), call\n  provider, hand raw text to processGeneratedResponse, route errors via\n  markGenerationFailed with retryable flag from ServerClassifiedProviderError.\n- processGeneratedResponse parses with parseAgentXml, persists via\n  PostgresObservationRepository with deterministic\n  generation_key = generation:v1:{job_id}:{index}:{fingerprint},\n  links via PostgresObservationSourcesRepository, advances outbox status,\n  appends observation_generation_job_events, audits — all in one\n  withPostgresTransaction. Idempotent on retry via UNIQUE constraints.\n- Three provider adapters under src/server/generation/providers/:\n  Claude, Gemini, OpenRouter. Self-contained — no imports from\n  src/services/worker/*. Worker providers unchanged.\n- Shared error classification + prompt builder under providers/shared/.\n  Prompt builder strips <private> at the edge; fully-private batches\n  emit <skip_summary /> without billing the provider.\n- ActiveServerBetaGenerationWorkerManager wires BullMQ Worker via\n  ServerJobQueue.start(...) with concurrency 1 + autorun:false +\n  worker.on('error') per BullMQ docs.\n- New GET /v1/events/:id/observations on ServerV1PostgresRoutes returns\n  observations linked via observation_sources, team/project scoped.\n\nVerification: 104 pass / 4 skip / 0 fail. No typecheck regressions.\nAnti-pattern greps clean for services/worker imports under src/server,\nWorkerRef/ActiveSession/SessionStore in src/server/generation.\n\nDeferred: ModeManager loading uses a stable fallback observation type\nlist; summary and reindex queue lanes are not yet wired.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 6 — independent server session semantics\n\nserver_sessions is now the canonical Server beta session model. Sessions\nare independent of legacy worker ActiveSession state.\n\n- PostgresServerSessionRepository extended: findByExternalIdForScope,\n  endSession (idempotent via COALESCE(ended_at, now())),\n  markGenerationStarted/Completed/Failed, listUnprocessedEvents (filters\n  agent_events with completed agent_event jobs).\n- ServerSessionRuntimeRepository wraps the repo; every method requires\n  explicit team_id + project_id and validates scope via assertProjectOwnership.\n- SessionGenerationPolicy supports per-event (default), debounce\n  (BullMQ delayed-job replace via getJob+remove+add), and end-of-session.\n  Configured via CLAUDE_MEM_SERVER_SESSION_POLICY and\n  CLAUDE_MEM_SERVER_SESSION_DEBOUNCE_MS env vars; per-team override hooks\n  are exposed on ServerV1PostgresRoutesOptions for future settings layer.\n- POST /v1/sessions/start (find-or-create on (project_id, external_session_id),\n  GET /v1/sessions/:id (scoped 404), POST /v1/sessions/:id/end\n  (transactional: end + create summary outbox via UNIQUE collapse +\n  enqueue post-commit). Re-ending is fully idempotent.\n- processSessionSummaryResponse persists summary as kind='summary'\n  observation with the same idempotency model\n  (generation_key + observation_sources UNIQUE).\n- ProviderObservationGenerator dispatches on source_type:\n  agent_event -> processGeneratedResponse, session_summary ->\n  processSessionSummaryResponse; loadEvents handles session-summary\n  by loading unprocessed events.\n- ActiveServerBetaGenerationWorkerManager wires summary BullMQ lane\n  alongside event lane (concurrency=1, autorun=false, error listener\n  attached per BullMQ docs).\n\nVerification: 110 pass / 6 skip / 0 fail. Net typecheck error count\nunchanged at 24 (pre-existing, none in Phase 6 files). Anti-pattern\ngreps clean for ActiveSession/SessionStore in src/server/runtime,\nno worker imports anywhere in src/server.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 7 — hook routing without worker dependency\n\nHooks can now talk directly to server-beta when CLAUDE_MEM_RUNTIME=server-beta\nis selected, with a clean worker fallback when server-beta is unhealthy.\n\n- src/services/hooks/server-beta-client.ts — typed HTTP client for\n  /v1/sessions/start, /v1/events, /v1/sessions/:id/end. Throws\n  ServerBetaClientError with kind classification (missing_api_key,\n  transport, timeout, http_error, invalid_response) and isFallbackEligible\n  helper. Zero imports from services/worker/.\n- src/services/hooks/runtime-selector.ts — reads CLAUDE_MEM_RUNTIME from\n  settings, returns worker or server-beta context, logs\n  [server-beta-fallback] reason=<code> on every config-time fallback.\n- src/services/hooks/server-beta-bootstrap.ts — Postgres-backed API key\n  bootstrap. Find-or-creates local-hook-team + local-hook-project,\n  generates cmem_<random> key (SHA-256 hashed), inserts into api_keys\n  with scopes events:write/sessions:write/observations:read/jobs:read.\n  Settings file written with chmod 0600. rotateServerBetaApiKey() wired\n  to a new `claude-mem server keys rotate` command.\n- src/cli/handlers/{observation,session-init,summarize}.ts — every hook\n  handler tries server-beta first when configured, falls through to the\n  existing worker path on transport/5xx/429/missing-key. One WARN line\n  per fallback. Hook JSON output shape unchanged.\n- src/shared/SettingsDefaultsManager.ts — three new keys with defaults:\n  CLAUDE_MEM_SERVER_BETA_URL, CLAUDE_MEM_SERVER_BETA_API_KEY,\n  CLAUDE_MEM_SERVER_BETA_PROJECT_ID.\n- src/npx-cli/commands/install.ts — when installer selects server-beta\n  runtime and CLAUDE_MEM_SERVER_DATABASE_URL is set, bootstraps a local\n  API key automatically. Warns and continues if the DB URL is missing.\n\nplugin/scripts/*.cjs bundles rebuilt via npm run build to pick up the\nnew hook handler code path. No plaintext keys in the bundle (verified).\n\nVerification: 16 hook unit tests pass; 275 server/storage/services tests\npass with 7 pre-existing failures (verified independent of this change\nvia git stash --include-untracked). Build clean. No new typecheck\nerrors in Phase 7 files.\n\nAnti-pattern guards verified:\n- /api/sessions/observations only reached via explicit fallback path\n- server-beta runtime never starts the worker process\n- API keys live only in ~/.claude-mem/settings.json (chmod 0600), never\n  in the bundle (grep confirmed)\n- Worker fallback preserved, observable via single WARN line per call\n\nDeferred: semantic context injection (UserPromptSubmit hook) stays\nworker-only; server-beta does not yet expose /v1/context/semantic.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 8 — MCP backed by server-beta core\n\nMCP tools now route through server-beta in server-beta mode while keeping\nworker-mode search/timeline/get_observations tools fully working.\n\n- src/servers/mcp-server.ts — five new observation_* tools registered:\n  observation_add, observation_record_event, observation_search,\n  observation_context, observation_generation_status. Three memory_*\n  compatibility aliases delegate to the canonical handlers. Worker\n  auto-start is gated when selectRuntime() === 'server-beta' so MCP\n  in server-beta mode never spawns the worker.\n- src/services/hooks/server-beta-client.ts — addObservation,\n  searchObservations, contextObservations, getJobStatus added so MCP\n  shares one transport with hooks (Phase 7).\n- src/server/routes/v1/ServerV1PostgresRoutes.ts — POST /v1/search and\n  POST /v1/context REST cores backed by PostgresObservationRepository\n  full-text search (GIN tsvector from Phase 1).\n- Existing memory_search/timeline/get_observations tools call\n  callWorkerAPI unchanged in worker mode; worker tests unaffected.\n\nVerification: 39 pass / 4 skip / 0 fail on targeted suite. Pre-existing\n7 baseline failures verified independent (git stash). No new typecheck\nerrors. WorkerService grep clean across src/servers/mcp-server.ts and\nsrc/server/.\n\nAnti-pattern guards verified:\n- No duplicate generation logic in MCP — observation_record_event hits\n  /v1/events which owns event+outbox+enqueue inside one tx\n- WorkerService not imported anywhere under MCP server-beta path\n- No hardcoded worker URLs — all transport via Phase 7 ServerBetaClient\n- memory_* aliases retained, single handler per pair\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 9 — compatibility adapters without coupling\n\nLegacy /api/sessions/observations and /api/sessions/summarize endpoints\nkeep working on server-beta runtime by translating to AgentEvent and\nsession-end calls — no worker code, no route duplication.\n\n- src/server/services/IngestEventsService.ts — shared event-ingest path\n  used by both /v1/events and the compat adapter. Owns transactional\n  event row + outbox row + lifecycle log + post-commit BullMQ enqueue,\n  honors Phase 6 SessionGenerationPolicy.\n- src/server/services/EndSessionService.ts — shared session-end path\n  used by both /v1/sessions/:id/end and the compat adapter. Idempotent\n  ended_at + summary outbox + deterministic summary job id.\n- src/server/compat/SessionsObservationsAdapter.ts — translates legacy\n  POST /api/sessions/observations payload (Claude Code transcript shape)\n  -> AgentEvent (source_adapter='claude-code-compat',\n  event_type='tool_use') -> IngestEventsService.ingestOne. Resolves\n  contentSessionId to server_sessions via find-or-create.\n- src/server/compat/SessionsSummarizeAdapter.ts — translates legacy\n  POST /api/sessions/summarize -> EndSessionService.end. Preserves the\n  legacy agentId -> {status:'skipped', reason:'subagent_context'}\n  behavior so existing clients see the same response shape.\n- src/server/routes/v1/ServerV1PostgresRoutes.ts — refactored to\n  delegate to the new shared services (-203 LoC net) so /v1 and\n  /api compat both call the SAME canonical code path.\n- src/server/runtime/ServerBetaService.ts — registers both compat\n  adapters alongside ServerV1PostgresRoutes, sharing service instances.\n- docs/server-beta-parity-map.md — full enumeration of legacy /api/*\n  routes labeled native, adapter, or unsupported (with reasons).\n  Viewer read-path adapters explicitly listed as unsupported pending\n  a future viewer-rewrite phase.\n\nVerification: 7 compat tests pass, 6 v1-routes tests still pass\n(refactor preserved behavior), 4 session-routes tests pass. Pre-\nexisting 16 baseline failures verified independent via git stash.\nZero new typecheck errors.\n\nAnti-pattern guards verified:\n- No services/worker/http/routes or WorkerService imports under\n  src/server/compat or src/server/runtime\n- Compat adapters are thin translators with names ending in *Adapter\n  and a top-of-file comment noting they are legacy compatibility\n- /v1/* remains the canonical Server beta API; compat adapters\n  call shared services rather than acting as a parallel API\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 10 — Docker stack and deployable runtime\n\nServer beta now ships as a Docker stack with no worker process anywhere\nand a separate horizontal generation worker for scaling.\n\n- src/server/runtime/create-server-beta-service.ts — validateServerBetaEnv()\n  fails fast on missing CLAUDE_MEM_SERVER_DATABASE_URL, requires\n  CLAUDE_MEM_QUEUE_ENGINE=bullmq in Docker, rejects\n  CLAUDE_MEM_AUTH_MODE=local-dev and CLAUDE_MEM_ALLOW_LOCAL_DEV_BYPASS\n  inside containers (detected via /.dockerenv or CLAUDE_MEM_DOCKER=1).\n  Adds CLAUDE_MEM_GENERATION_DISABLED so the HTTP service can run\n  generator-free.\n- src/server/runtime/ServerBetaService.ts — runServerBetaGenerationWorker\n  for the dedicated consumer process; runServerBetaApiKeyCli is a new\n  Postgres-backed `server api-key` command (the legacy worker CLI wrote\n  to SQLite and was invisible to the Postgres runtime); getQueueHealth\n  shim feeds /api/health a consistent ObservationQueueHealth shape.\n- src/npx-cli/commands/{runtime,server}.ts — `claude-mem server worker\n  start` subcommand that boots only the BullMQ consumer.\n- docker/claude-mem/{Dockerfile,entrypoint.sh} — entrypoint forces\n  CLAUDE_MEM_DOCKER=1 + CLAUDE_MEM_RUNTIME=server-beta and exposes\n  three modes: server (HTTP only, generation disabled), worker (BullMQ\n  consumer), shell. Worker bundle is no longer the default CMD.\n- docker-compose.yml — full stack: postgres + valkey + claude-mem-server\n  (HTTP-only) + claude-mem-worker (generation consumer). Wires\n  service-to-service env vars.\n- scripts/e2e-server-beta-docker.sh + docker/e2e/server-beta-e2e.mjs —\n  E2E now hits /v1/sessions/start, /v1/events?wait=true, /v1/jobs/:id;\n  asserts no worker-service.cjs process anywhere in the stack;\n  one-shot docker compose run --rm verifies local-dev auth is\n  rejected with the expected stderr; restart-and-verify confirms\n  Postgres durability and BullMQ retry idempotency.\n- docs/server.md — full Phase 10 doc: stack diagram, env table,\n  worker mode, auth-in-Docker policy.\n- docs/api.md — event generation semantics (wait=true, generationJob).\n\nVerification: full Docker E2E PASSED on live daemon\n(phase1 + phase2 + restart-and-verify + revoked-key + no-worker-\nprocess + local-dev-rejected). Unit tests 292 pass / 9 skip / 7 fail\n(7 fails pre-existing baseline). Zero new typecheck errors.\n\nAnti-pattern guards verified:\n- entrypoint never execs worker-service.cjs; E2E greps prove no\n  worker process anywhere in the stack\n- validateServerBetaEnv refuses local-dev auth in Docker with explicit\n  remediation message; ALLOW_LOCAL_DEV_BYPASS rejected the same way\n- Docker requires CLAUDE_MEM_QUEUE_ENGINE=bullmq; in-process queue\n  rejected at startup\n- claude-mem worker / worker-service / WorkerService greps clean\n  in docker/\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 11 — team-aware generation with audit chain\n\nGeneration jobs now carry team_id/project_id/api_key_id/actor_id/\nsource_adapter from enqueue through execution; the outbox is reloaded\nfrom Postgres before any side effect so BullMQ payload can never act\nas auth authority.\n\n- src/server/jobs/types.ts — ServerGenerationJobPayloadSchema (Zod\n  discriminated union) requires team_id, project_id, generation_job_id,\n  source_adapter, api_key_id, actor_id (nullable), source_type, source_id,\n  plus event_id / server_session_id per kind. assertServerGenerationJobPayload\n  is called at enqueue (outbox.ts) and again at execution boundary.\n- src/server/services/{IngestEventsService,EndSessionService}.ts +\n  SessionGenerationPolicy.ts — thread identity context (apiKeyId, actorId,\n  sourceAdapter) into both event and summary BullMQ payloads.\n- src/server/generation/ProviderObservationGenerator.ts —\n  loadCanonicalOutbox loads the outbox row WITHOUT scope filter, then\n  compares candidate.team_id/project_id to payload.team_id/project_id;\n  mismatch -> ServerGenerationScopeViolationError (non-retryable),\n  failed status, generation_job.scope_violation audit. isApiKeyRevoked\n  checks api_keys (revoked_at, expires_at, row missing) before any\n  provider call; revoked -> generation_job.revoked_key audit + non-\n  retryable failure. generation_job.processing audit emitted on lock.\n- src/server/generation/processGeneratedResponse.ts — generated\n  observations carry team_id/project_id/server_session_id from the\n  reloaded source row (not job payload). observation_sources.metadata\n  records source_adapter, actor_id, api_key_id for traceability.\n  observation.created audit per observation; generation_job.completed\n  audit per terminal transition. All audit rows reference the same\n  generation_job_id in details.\n- src/server/routes/v1/ServerV1PostgresRoutes.ts — GET /v1/teams/:id/jobs\n  and GET /v1/projects/:id/jobs with SQL-layer scoping (WHERE team_id=$1\n  [AND project_id=$2] [AND status=$3]); cross-tenant returns 404 to\n  avoid leaking row existence. Pagination via status/limit/offset.\n  audit_log rows for event.received, event.batch_received, observation.read.\n- src/server/compat/{SessionsObservationsAdapter,SessionsSummarizeAdapter}.ts —\n  propagate apiKeyId and sourceAdapter='claude-code-compat'.\n\nVerification: 162 pass / 10 skip / 0 fail. Pre-existing failures in\ntests/services/queue and tests/services/worker confirmed independent\nvia git stash. Zero new typecheck errors in server-beta files.\nRequired greps:\n  rg \"team_id.*req\\.body|project_id.*req\\.body\" src/server -> 0 matches\nAudit chain integration test passes — generation_job.processing,\nobservation.created, and generation_job.completed audit rows all\nshare the same generation_job_id reference.\n\nAnti-pattern guards verified:\n- BullMQ payload never acts as auth authority — Postgres outbox\n  reload with mismatch check happens before every side effect\n- team_id / project_id never derived from request body for scope\n  decisions; always req.authContext.teamId / projectId\n- Application-layer team/project filtering forbidden — listJobsForScope\n  pushes scope into the SQL WHERE clause\n- Project-scoped key on cross-project /v1/teams/:id/jobs returns 404\n- Revoked api keys cause non-retryable failure with audit before\n  any provider call\n\nDeferred: a redundant generation_job.queued audit_log row (already\ncovered by observation_generation_job_events lifecycle log per Phase 1\nschema split). Compat adapters set actor_id=null but propagate\napi_key_id which is the canonical reference downstream.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* feat(server-beta): Phase 12 — observability and operations\n\nOperators can now inspect, retry, and cancel generation jobs from the\nCLI; queue lane metrics flow into /api/health and /v1/info; every\nrequest gets a stable request_id that flows through HTTP -> audit ->\noutbox -> generator -> completion log.\n\n- src/server/middleware/request-id.ts — honors safe inbound X-Request-Id,\n  mints uuid v4 otherwise. Set on req.requestId and echoed via response\n  header so external traces can correlate.\n- src/server/jobs/ServerJobQueue.ts — QueueEvents wired with completed,\n  failed, progress, stalled, error listeners; lifecycle counters\n  exposed via observe() API. Logs emitted as\n  [generation] job=<id> source_type=<...> duration=<ms> attempts=<N>\n  reason=<message>. Stalled and error counters survive worker restart.\n- src/server/jobs/types.ts — ServerGenerationJob payload schema\n  extended with optional request_id; flows through from HTTP into\n  every BullMQ job.\n- src/server/queue/ObservationQueueEngine.ts — health snapshot now\n  carries per-lane (event, summary) counts via\n  ObservationQueueHealthLaneSnapshot.\n- src/server/runtime/{ActiveServerBetaQueueManager,\n  ActiveServerBetaGenerationWorkerManager,ServerBetaService}.ts —\n  per-lane getJobCounts feed /api/health and /v1/info; stalled events\n  audit through audit_log with action generation_job.stalled.\n- src/server/routes/v1/ServerV1PostgresRoutes.ts —\n  GET /v1/jobs (status/source_type/since/limit/offset, scope from\n  api-key, payload stripped unless ?include=payload AND admin scope),\n  POST /v1/jobs/:id/retry (idempotent; queued -> no-op; audit\n  generation_job.retried_by_operator), POST /v1/jobs/:id/cancel\n  (terminal -> no-op; audit generation_job.cancelled_by_operator;\n  generator reload-before-side-effects already prevents double work).\n- src/server/services/IngestEventsService.ts +\n  SessionGenerationPolicy.ts + ProviderObservationGenerator.ts —\n  request_id propagated end to end. Generator extracts request_id\n  from BullMQ payload and includes it in lock/processing/completion\n  logs and audit details.\n- src/npx-cli/commands/server-jobs.ts +\n  src/npx-cli/commands/server.ts — `claude-mem server jobs\n  status|failed|retry|cancel`. status compares Postgres outbox counts\n  to BullMQ queue counts and surfaces divergence. failed prints\n  attempts + last_error message. --team and --project filters.\n\nVerification: 350 pass / 12 skip / 7 fail (pre-existing baseline,\nverified independent via git stash). 18 new tests added (request-id\nmiddleware, server-jobs CLI seams, jobs list/retry/cancel routes\nPostgres-gated). Zero new typecheck errors.\n\nAnti-pattern guards verified:\n- agent_events.payload only emitted in /v1/jobs response inside the\n  admin-gated branch (?include=payload + admin scope) — returns 403\n  otherwise\n- jobs retry on a queued row is a no-op (no double BullMQ enqueue,\n  no double UPDATE)\n- Every operator action writes to audit_log with the\n  *_by_operator action and request_id correlation in details\n- Stalled events audit through generation_job.stalled\n\nSample correlated trace (one request_id end to end):\n  HTTP middleware: req.requestId = 'req-abc'\n  audit event.received: details.requestId = 'req-abc'\n  BullMQ payload: { request_id: 'req-abc', generation_job_id: 'gj_x' }\n  generator lock log: [generation] job locked { jobId, requestId }\n  audit generation_job.processing: details.requestId = 'req-abc'\n  completion log: [generation] job=evt_... duration=1230ms\n\nDeferred: live /api/health round-trip integration test (needs\nRedis); stalled event live integration test (needs Redis); storing\nrequest_id on the observations row itself (spec did not require).\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* docs(server-beta): add Phase 13 release readiness report\n\nCaptures the final verification gate: tests (1749 pass, 45 fail all\npre-existing baseline, zero regressions), required greps clean,\nDocker E2E green end-to-end, all 7 exit criteria met, build clean,\ntypecheck unchanged from main. Documents deferred items.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build(server-beta): rebuild server-beta-service bundle\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): address Greptile review on PR #2383\n\n- ProviderObservationGenerator.lockOutbox: skip duplicate worker run when\n  another lock is active instead of returning the row, which previously let\n  two BullMQ workers issue the (paid, rate-limited) external provider call\n  before the persistence-layer terminal-status guard collapsed the duplicate.\n  Reconciliation still recovers from a stale lock on startup or next retry.\n- docker-compose.yml: require POSTGRES_USER/PASSWORD/DB env vars (no\n  defaults). Stack refuses to start without explicit secrets. Added a header\n  warning that the file must not be deployed unmodified.\n- e2e-server-beta-docker.sh: export ephemeral test creds for the new\n  required env vars so the Docker E2E driver still runs unattended.\n- ServerBetaService api-key list: bound query with LIMIT/OFFSET (default 100,\n  max 500) and add optional --team filter to prevent unintentional\n  cross-tenant key metadata disclosure on shared admin hosts.\n- SessionGenerationPolicy: fix dead `??` fallback for NaN parseInt result;\n  use `||` so DEFAULT_DEBOUNCE_MS actually applies.\n- ServerV1PostgresRoutes: `?wait=true` now actually waits — polls the outbox\n  row until terminal status (timeout 30s, 100ms interval) on both\n  /v1/events and /v1/events/batch. Returns `waitTimedOut: true` if the cap\n  is hit so callers can re-poll the status endpoints.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): address CodeRabbit + Greptile second review on PR #2383\n\nP1 fixes\n- Operator retry endpoint was re-publishing the Postgres outbox metadata\n  column as the BullMQ payload; the worker's\n  assertServerGenerationJobPayload always rejected it, leaving the row\n  stuck in queued until startup reconciliation. Persist the BullMQ payload\n  on the outbox row at create-time inside IngestEventsService and\n  EndSessionService, then re-enqueue that canonical payload on retry.\n\nMajor fixes\n- prompt-builder: escape server_session_id when interpolating into the\n  XML prompt; previously a session id containing `<`, `&`, or quotes\n  could inject XML into the provider input.\n- ServerJobQueue: route both worker.on('stalled') and the QueueEvents\n  'stalled' subscriber through a single notifyStalled helper that\n  dedupes by jobId for 30s, so counters.stalled increments once per\n  stall. QueueEvents 'error' now routes through notifyQueueError so\n  it increments counters.errored and runs onError listeners — keeping\n  observability symmetric across both sources.\n- ServerV1PostgresRoutes: convert PostgresObservationRepository from\n  three dynamic imports to a single static import for consistency.\n- mcp-server / ServerBetaClient: actually forward the\n  observation_record_event tool's `generate` flag through to the\n  /v1/events endpoint as `?generate=false` instead of voiding it.\n- server-sessions.markGenerationFailed: guard jsonb_set against a null\n  error payload so the failure path can't null out metadata before the\n  generation_status='failed' write commits.\n\nMinor fixes\n- server-sessions.endSession: keep updated_at stable on repeated calls\n  so the documented idempotency contract holds.\n- SettingsDefaultsManager + ServerBetaService.getServerBetaPort: derive\n  the server-beta default port from UID (37877 + uid%100), matching the\n  worker port pattern, so two users on the same host don't collide.\n  Docker stacks always pass CLAUDE_MEM_SERVER_PORT explicitly so the\n  containerized deployment is unaffected.\n- server-session-runtime test: close the pg.Pool in afterAll.\n- server-beta-release-readiness.md: escape pipes inside table inline\n  code, add `text` language tag to the fenced log block.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): address Greptile + CodeRabbit third review on PR #2383\n\nP1 fixes\n- SessionsObservationsAdapter.resolveServerSession: catch unique-violation\n  (23505) on concurrent compat inserts and re-fetch instead of returning\n  500. Two compat callers carrying the same contentSessionId can both\n  observe `existing===null` and race on the (project_id,\n  external_session_id) unique constraint; the second now resolves to the\n  raced row instead of dropping the event.\n- /v1/events/batch: pass `sourceAdapter: null` to ingestBatch so each\n  event's BullMQ payload (and persisted outbox payload column) reflects\n  its own event.sourceAdapter via buildEventBullmqPayload's fallback,\n  rather than stamping the whole batch with the first event's adapter.\n\nMinor\n- server-session-runtime test afterEach: wrap DROP SCHEMA in try/finally\n  so client.release() always runs even if the drop throws.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(test): drop `pool as never` cast — pg.Pool already matches PostgresPool\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): retry of completed job now 409s instead of duplicating\n\nretryGenerationJob previously fell through to the reset+re-enqueue path\nwhen called on a job in `completed` status. The observations index\ndedupes on (generation_job_id, parsed_observation_index, content) but\nLLM output is non-deterministic, so a second provider run almost always\nproduced a different content string and bypassed the index, persisting a\nparallel set of observation rows attributed to the same generation job.\n\nMatch cancelGenerationJob's 409 guard for completed jobs. failed and\ncancelled remain valid retry targets.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* build(server-beta): rebuild bundles after rebase onto main\n\nRegenerates the three plugin bundles so they reflect the rebased source\nstate. Mechanical rebuild output only — no source changes.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): wrap resolveServerSession in try/catch for structured error response\n\nGreptile P1 on PR #2383: resolveServerSession was called before the try/catch\nin both compat adapters, so Postgres errors during session lookup (timeout,\npool exhaustion, etc.) escaped to Express's default error handler and returned\nHTML/text 500s. Legacy clients calling response.json() would get a parse\nfailure instead of the documented { stored: false, reason: 'internal_error' }\n(or { status: 'error', reason: 'internal_error' } for the summarize adapter)\nshape.\n\nMove the resolveServerSession call inside the existing try block in both\nadapters so any failure flows through the structured catch handler.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(server-beta): catch 23505 unique violation in POST /v1/sessions/start\n\nGreptile P1 on PR #2383: concurrent requests with the same externalSessionId\ncan both pass the findByExternalIdForScope check, both call repo.create,\nand the loser hits the (project_id, external_session_id) unique constraint.\nThe handler treated that as an unknown error and returned a 500.\n\nApply the same pattern resolveServerSession already uses: catch error.code\n'23505' when externalSessionId is set, refetch the row inserted by the\nwinning request, and return 200 with that session.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+              "verified_at": "2026-05-11T07:26:12Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/e7bbb2a9aaa755244d902e2a9807758a14f97ee5",
+          "html_url": "https://github.com/XddXss888/claude-mem/commit/e7bbb2a9aaa755244d902e2a9807758a14f97ee5",
+          "comments_url": "https://api.github.com/repos/XddXss888/claude-mem/commits/e7bbb2a9aaa755244d902e2a9807758a14f97ee5/comments",
+          "author": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a10d1b342f2e979d590364ed1b5847a6bd60e00f",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/a10d1b342f2e979d590364ed1b5847a6bd60e00f",
+              "html_url": "https://github.com/XddXss888/claude-mem/commit/a10d1b342f2e979d590364ed1b5847a6bd60e00f"
+            }
+          ]
+        },
+        {
+          "sha": "8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9",
+          "node_id": "C_kwDOSAM4GNoAKDhiZDE5YjVjNWEzZWViZGY3Yzg4ZDY3YmI1NTZiMTQ1MmE1NGI1YTk",
+          "commit": {
+            "author": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-11T07:28:52Z"
+            },
+            "committer": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-11T07:28:52Z"
+            },
+            "message": "chore: bump version to 13.1.0",
+            "tree": {
+              "sha": "8d9b67d1d8cab95e62fd758d6fd57ad2ca207e0d",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/git/trees/8d9b67d1d8cab95e62fd758d6fd57ad2ca207e0d"
+            },
+            "url": "https://api.github.com/repos/XddXss888/claude-mem/git/commits/8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9",
+          "html_url": "https://github.com/XddXss888/claude-mem/commit/8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9",
+          "comments_url": "https://api.github.com/repos/XddXss888/claude-mem/commits/8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9/comments",
+          "author": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "e7bbb2a9aaa755244d902e2a9807758a14f97ee5",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/e7bbb2a9aaa755244d902e2a9807758a14f97ee5",
+              "html_url": "https://github.com/XddXss888/claude-mem/commit/e7bbb2a9aaa755244d902e2a9807758a14f97ee5"
+            }
+          ]
+        },
+        {
+          "sha": "79593c1c1ce38a6b27f13df1cb6a59f92a95ac82",
+          "node_id": "C_kwDOSAM4GNoAKDc5NTkzYzFjMWNlMzhhNmIyN2YxM2RmMWNiNmE1OWY5MmE5NWFjODI",
+          "commit": {
+            "author": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-11T07:30:54Z"
+            },
+            "committer": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-11T07:30:54Z"
+            },
+            "message": "docs: regenerate CHANGELOG for v13.1.0",
+            "tree": {
+              "sha": "0da10996da825f87dca67a7e6a0189eaac7ae4c1",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/git/trees/0da10996da825f87dca67a7e6a0189eaac7ae4c1"
+            },
+            "url": "https://api.github.com/repos/XddXss888/claude-mem/git/commits/79593c1c1ce38a6b27f13df1cb6a59f92a95ac82",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/79593c1c1ce38a6b27f13df1cb6a59f92a95ac82",
+          "html_url": "https://github.com/XddXss888/claude-mem/commit/79593c1c1ce38a6b27f13df1cb6a59f92a95ac82",
+          "comments_url": "https://api.github.com/repos/XddXss888/claude-mem/commits/79593c1c1ce38a6b27f13df1cb6a59f92a95ac82/comments",
+          "author": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9",
+              "html_url": "https://github.com/XddXss888/claude-mem/commit/8bd19b5c5a3eebdf7c88d67bb556b1452a54b5a9"
+            }
+          ]
         }
       ]
     },
@@ -32499,7 +32745,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/compare/main...KJ20051223:main",
-      "updated_at": "2026-05-11T04:55:12.311Z",
+      "updated_at": "2026-05-11T10:28:36.708Z",
       "commits": [
         {
           "sha": "03a4b0b677576dd88e1d49173b638cfa1ee98c29",
@@ -34077,7 +34323,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-05-11T04:55:12.948Z",
+      "updated_at": "2026-05-11T10:28:37.557Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -43932,7 +44178,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-05-11T04:55:14.262Z",
+      "updated_at": "2026-05-11T10:28:39.293Z",
       "commits": []
     },
     {
@@ -43946,7 +44192,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-05-11T04:55:14.702Z",
+      "updated_at": "2026-05-11T10:28:39.780Z",
       "commits": [
         {
           "sha": "de03307cfbd900684b7414b361d05cb47a10909d",
@@ -44043,7 +44289,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-05-11T04:55:15.303Z",
+      "updated_at": "2026-05-11T10:28:40.422Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -45457,7 +45703,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-05-11T04:55:15.909Z",
+      "updated_at": "2026-05-11T10:28:41.246Z",
       "commits": [
         {
           "sha": "f202cf5dcbafbe7d5ea5ad20eb83862438a1dac1",
@@ -47532,7 +47778,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-05-11T04:55:16.507Z",
+      "updated_at": "2026-05-11T10:28:42.095Z",
       "commits": []
     },
     {
@@ -47546,7 +47792,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-05-11T04:55:16.878Z",
+      "updated_at": "2026-05-11T10:28:42.612Z",
       "commits": []
     },
     {
@@ -47560,7 +47806,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...aiguicai:main",
-      "updated_at": "2026-05-11T04:55:17.627Z",
+      "updated_at": "2026-05-11T10:28:43.604Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -48241,7 +48487,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-05-11T04:55:18.222Z",
+      "updated_at": "2026-05-11T10:28:44.327Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -50077,7 +50323,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-05-11T04:55:19.974Z",
+      "updated_at": "2026-05-11T10:28:46.221Z",
       "commits": [
         {
           "sha": "28e089783f4b8a33c793012afaaa2f89c550a731",
@@ -50174,7 +50420,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/FLUX-Webscan/compare/main...MY0723:main",
-      "updated_at": "2026-05-11T04:55:20.391Z",
+      "updated_at": "2026-05-11T10:28:46.781Z",
       "commits": [
         {
           "sha": "581107fc781d0a754b39a242cf33f19d503f8e98",
@@ -50674,14 +50920,14 @@
       "repo": "Free-coding-models",
       "upstream": "vava-nessa/free-coding-models",
       "branch": "main",
-      "ahead_by": 101,
+      "ahead_by": 103,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Free-coding-models/compare/main...vava-nessa:main",
-      "updated_at": "2026-05-11T04:55:20.950Z",
+      "updated_at": "2026-05-11T10:28:47.451Z",
       "commits": [
         {
           "sha": "9753727ce33319c2f8ed296a8a24db737e10cfdc",
@@ -59014,6 +59260,175 @@
               "html_url": "https://github.com/XddXss888/Free-coding-models/commit/cc1c4e14b57f52e05ddff46acccf3ad1c2ba371f"
             }
           ]
+        },
+        {
+          "sha": "bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94",
+          "node_id": "C_kwDOR8h0AdoAKGJiZTdkM2Q2MDYyM2QyZDJmM2U1ZTFhZjMwOGM1NjY0ZDY2YmJmOTQ",
+          "commit": {
+            "author": {
+              "name": "Pan",
+              "email": "kwpale@gmail.com",
+              "date": "2026-05-09T03:40:47Z"
+            },
+            "committer": {
+              "name": "Pan",
+              "email": "kwpale@gmail.com",
+              "date": "2026-05-10T14:56:10Z"
+            },
+            "message": "feat: add GitHub Copilot CLI tool support\n\nIntegrate Copilot CLI as an external tool with BYOK configuration.\nLaunch Copilot using the same pattern as other AI tools, passing provider\nand model settings via environment variables. Includes context window\nhandling for seamless integration.",
+            "tree": {
+              "sha": "136b76afccb08057c7f549323d25c075d23b3c87",
+              "url": "https://api.github.com/repos/XddXss888/Free-coding-models/git/trees/136b76afccb08057c7f549323d25c075d23b3c87"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Free-coding-models/git/commits/bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94",
+          "html_url": "https://github.com/XddXss888/Free-coding-models/commit/bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94",
+          "comments_url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94/comments",
+          "author": {
+            "login": "kwpale",
+            "id": 22188849,
+            "node_id": "MDQ6VXNlcjIyMTg4ODQ5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22188849?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kwpale",
+            "html_url": "https://github.com/kwpale",
+            "followers_url": "https://api.github.com/users/kwpale/followers",
+            "following_url": "https://api.github.com/users/kwpale/following{/other_user}",
+            "gists_url": "https://api.github.com/users/kwpale/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/kwpale/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/kwpale/subscriptions",
+            "organizations_url": "https://api.github.com/users/kwpale/orgs",
+            "repos_url": "https://api.github.com/users/kwpale/repos",
+            "events_url": "https://api.github.com/users/kwpale/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/kwpale/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "kwpale",
+            "id": 22188849,
+            "node_id": "MDQ6VXNlcjIyMTg4ODQ5",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22188849?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/kwpale",
+            "html_url": "https://github.com/kwpale",
+            "followers_url": "https://api.github.com/users/kwpale/followers",
+            "following_url": "https://api.github.com/users/kwpale/following{/other_user}",
+            "gists_url": "https://api.github.com/users/kwpale/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/kwpale/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/kwpale/subscriptions",
+            "organizations_url": "https://api.github.com/users/kwpale/orgs",
+            "repos_url": "https://api.github.com/users/kwpale/repos",
+            "events_url": "https://api.github.com/users/kwpale/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/kwpale/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "67eaed5f1740c2234fcb0694070e68ce04e36cf3",
+              "url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/67eaed5f1740c2234fcb0694070e68ce04e36cf3",
+              "html_url": "https://github.com/XddXss888/Free-coding-models/commit/67eaed5f1740c2234fcb0694070e68ce04e36cf3"
+            }
+          ]
+        },
+        {
+          "sha": "718be334024a278b1f1bab116817d8ea3e781f2c",
+          "node_id": "C_kwDOR8h0AdoAKDcxOGJlMzM0MDI0YTI3OGIxZjFiYWIxMTY4MTdkOGVhM2U3ODFmMmM",
+          "commit": {
+            "author": {
+              "name": "Vanessa Depraute",
+              "email": "vanessadepraute@gmail.com",
+              "date": "2026-05-11T09:00:26Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-11T09:00:26Z"
+            },
+            "message": "Merge pull request #83 from kwpale/feature/copilot-cli-tool-support\n\nfeat: add GitHub Copilot CLI tool support",
+            "tree": {
+              "sha": "136b76afccb08057c7f549323d25c075d23b3c87",
+              "url": "https://api.github.com/repos/XddXss888/Free-coding-models/git/trees/136b76afccb08057c7f549323d25c075d23b3c87"
+            },
+            "url": "https://api.github.com/repos/XddXss888/Free-coding-models/git/commits/718be334024a278b1f1bab116817d8ea3e781f2c",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqAZqqCRC1aQ7uu5UhlAAAuKwQAEJAZZBPN0ceWRTdvQ5xbPUm\n3zQ502yglCmR1AE+lDUPPmzL6ifhk4vYthWPeFQjWzL4lNX0WNNBuKMfQS3gaAdQ\nSO/dwfnZ0RMADltbCetyKXiiHmqHDXYgiJDM0F9XW7HfnBNrPfnC93pw7rAW5T5V\nip1HhZJ13CBuKL5Xjefvr9cpgvFSdccpiY+mnitxBwgVQ8iLB4Q0hOcotSh4UWU8\nbd1ogMZ0/AF7LBiHIPq+T4wCVBbZ+2HmEodb2oIM0qrqdvTu8AgjXR7pE3A6XPWh\nGGlOsfq73wK0W2CCjGq2oyc3yRXASi1jt0DQOVoesCoj5X2vv/xS5v3fxOGThLD6\nOr09WwcACpiZxRsi2F5XinIsBYjlKLUU+VIx19JKmi20jNmqtzgONWFQvG3P8Oak\nyJcxQkREEkXO1kKrcLHwbc8czs0qovYobPLortgB3bcLfEmSN1Dh2DZ5omUyGqAf\nglzBiaQ3LdL5EFfK0Pr74Y3Nl6pMoPTKD8CyqV4WR76NU3vmPoWu+SMSRmEcmKHv\nx1YGRyLxpy8D9Q7EsCFlcWDVPiddgy7SZ9p3tihPz0odujudKvskWlHCgvEbry2T\nk2UD+8XuYRANKkgWwKsgjq9ROWmplVQIrwWwRfIOQONkFNTYe8V1njdrLEOgoiwM\nrDLJl4BGYErd2BoApEkv\n=+WrW\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 136b76afccb08057c7f549323d25c075d23b3c87\nparent 67eaed5f1740c2234fcb0694070e68ce04e36cf3\nparent bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94\nauthor Vanessa Depraute <vanessadepraute@gmail.com> 1778490026 +0200\ncommitter GitHub <noreply@github.com> 1778490026 +0200\n\nMerge pull request #83 from kwpale/feature/copilot-cli-tool-support\n\nfeat: add GitHub Copilot CLI tool support",
+              "verified_at": "2026-05-11T09:00:27Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/718be334024a278b1f1bab116817d8ea3e781f2c",
+          "html_url": "https://github.com/XddXss888/Free-coding-models/commit/718be334024a278b1f1bab116817d8ea3e781f2c",
+          "comments_url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/718be334024a278b1f1bab116817d8ea3e781f2c/comments",
+          "author": {
+            "login": "vava-nessa",
+            "id": 5466264,
+            "node_id": "MDQ6VXNlcjU0NjYyNjQ=",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5466264?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/vava-nessa",
+            "html_url": "https://github.com/vava-nessa",
+            "followers_url": "https://api.github.com/users/vava-nessa/followers",
+            "following_url": "https://api.github.com/users/vava-nessa/following{/other_user}",
+            "gists_url": "https://api.github.com/users/vava-nessa/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/vava-nessa/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/vava-nessa/subscriptions",
+            "organizations_url": "https://api.github.com/users/vava-nessa/orgs",
+            "repos_url": "https://api.github.com/users/vava-nessa/repos",
+            "events_url": "https://api.github.com/users/vava-nessa/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/vava-nessa/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "67eaed5f1740c2234fcb0694070e68ce04e36cf3",
+              "url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/67eaed5f1740c2234fcb0694070e68ce04e36cf3",
+              "html_url": "https://github.com/XddXss888/Free-coding-models/commit/67eaed5f1740c2234fcb0694070e68ce04e36cf3"
+            },
+            {
+              "sha": "bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94",
+              "url": "https://api.github.com/repos/XddXss888/Free-coding-models/commits/bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94",
+              "html_url": "https://github.com/XddXss888/Free-coding-models/commit/bbe7d3d60623d2d2f3e5e1af308c5664d66bbf94"
+            }
+          ]
         }
       ]
     },
@@ -59028,7 +59443,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-05-11T04:55:22.292Z",
+      "updated_at": "2026-05-11T10:28:48.919Z",
       "commits": []
     },
     {
@@ -59042,7 +59457,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-05-11T04:55:22.659Z",
+      "updated_at": "2026-05-11T10:28:49.413Z",
       "commits": []
     },
     {
@@ -59056,7 +59471,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-05-11T04:55:23.117Z",
+      "updated_at": "2026-05-11T10:28:49.896Z",
       "commits": [
         {
           "sha": "daa2b6720cfec6d265f27a2e481fac4e39a90af8",
@@ -59153,7 +59568,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-05-11T04:55:23.665Z",
+      "updated_at": "2026-05-11T10:28:50.441Z",
       "commits": []
     },
     {
@@ -59167,7 +59582,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Grok-Mirror/compare/main...dairoot:main",
-      "updated_at": "2026-05-11T04:55:24.057Z",
+      "updated_at": "2026-05-11T10:28:51.008Z",
       "commits": []
     },
     {
@@ -59181,7 +59596,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-05-11T04:55:24.490Z",
+      "updated_at": "2026-05-11T10:28:51.629Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -59360,7 +59775,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-05-11T04:55:25.189Z",
+      "updated_at": "2026-05-11T10:28:52.345Z",
       "commits": [
         {
           "sha": "91f14068d9909154d23495eac4ce20250f682689",
@@ -60031,7 +60446,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-05-11T04:55:25.763Z",
+      "updated_at": "2026-05-11T10:28:53.214Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -72667,14 +73082,14 @@
       "repo": "mcp-gateway-platform",
       "upstream": "aiguicai/MCP-Gateway",
       "branch": "main",
-      "ahead_by": 28,
+      "ahead_by": 34,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-05-11T04:55:26.707Z",
+      "updated_at": "2026-05-11T10:28:54.496Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -74971,6 +75386,498 @@
               "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/68d34f1d513b5a0a213abd21a632d8bfdb26ba6f"
             }
           ]
+        },
+        {
+          "sha": "88b90e4ce679987db69fcf4c856afe446598b876",
+          "node_id": "C_kwDORl3Rn9oAKDg4YjkwZTRjZTY3OTk4N2RiNjlmY2Y0Yzg1NmFmZTQ0NjU5OGI4NzY",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T17:08:40Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-09T17:08:40Z"
+            },
+            "message": "fix: preserve reasonKey when editing a policy rule without changing reason\n\n- Add optional originalRule parameter to formToRule\n- Only clear reasonKey when the reason text actually changes\n- Pass the original rule when editing an existing rule in submitSkillRuleForm",
+            "tree": {
+              "sha": "983e4ab729d3f6c9e84549bf7bff170372e35c93",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/983e4ab729d3f6c9e84549bf7bff170372e35c93"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/88b90e4ce679987db69fcf4c856afe446598b876",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/88b90e4ce679987db69fcf4c856afe446598b876",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/88b90e4ce679987db69fcf4c856afe446598b876",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/88b90e4ce679987db69fcf4c856afe446598b876/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "7006b37a75b0fff896b37f10e7282446b79cbf13",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/7006b37a75b0fff896b37f10e7282446b79cbf13",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/7006b37a75b0fff896b37f10e7282446b79cbf13"
+            }
+          ]
+        },
+        {
+          "sha": "0865dd1b4b180132d08c13c237706fb8926a48b7",
+          "node_id": "C_kwDORl3Rn9oAKDA4NjVkZDFiNGIxODAxMzJkMDhjMTNjMjM3NzA2ZmI4OTI2YTQ4Yjc",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-10T02:38:48Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-10T02:38:48Z"
+            },
+            "message": "ci: reuse bundled ripgrep in release builds",
+            "tree": {
+              "sha": "abb17b5d8b772caeeae6bd7eea89ae68e29212d0",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/abb17b5d8b772caeeae6bd7eea89ae68e29212d0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/0865dd1b4b180132d08c13c237706fb8926a48b7",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/0865dd1b4b180132d08c13c237706fb8926a48b7",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/0865dd1b4b180132d08c13c237706fb8926a48b7",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/0865dd1b4b180132d08c13c237706fb8926a48b7/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "88b90e4ce679987db69fcf4c856afe446598b876",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/88b90e4ce679987db69fcf4c856afe446598b876",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/88b90e4ce679987db69fcf4c856afe446598b876"
+            }
+          ]
+        },
+        {
+          "sha": "652d314bee8cc5ae59e8a877338b2e8bbc74af00",
+          "node_id": "C_kwDORl3Rn9oAKDY1MmQzMTRiZWU4Y2M1YWU1OWU4YTg3NzMzOGIyZThiYmM3NGFmMDA",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-10T05:39:27Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-10T05:39:27Z"
+            },
+            "message": "feat: add optional OfficeCLI builtin tool",
+            "tree": {
+              "sha": "843d76b9b783f0de16ad7da41b92913cb939b3f2",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/843d76b9b783f0de16ad7da41b92913cb939b3f2"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/652d314bee8cc5ae59e8a877338b2e8bbc74af00",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/652d314bee8cc5ae59e8a877338b2e8bbc74af00",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/652d314bee8cc5ae59e8a877338b2e8bbc74af00",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/652d314bee8cc5ae59e8a877338b2e8bbc74af00/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "0865dd1b4b180132d08c13c237706fb8926a48b7",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/0865dd1b4b180132d08c13c237706fb8926a48b7",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/0865dd1b4b180132d08c13c237706fb8926a48b7"
+            }
+          ]
+        },
+        {
+          "sha": "ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9",
+          "node_id": "C_kwDORl3Rn9oAKGNlMTJkYzNjODQxYjZhYjRiMmFiNTM3ZWJiZGJmOTVjYzExNjQ1YTk",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-10T18:38:15Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-10T18:38:15Z"
+            },
+            "message": "feat(officecli): native Tauri install/detect, remove shell script dependency\n\n- Add Tauri-native officecli module with reqwest streaming download,\n  SHA256 verification, and real-time progress events\n- Add frontend TypeScript bindings for officecli check/install/uninstall\n- Refactor UI: reinstall confirm popover, download progress bar,\n  checking/installing/error state separation\n- Remove shell:allow-execute capability (no longer needed)\n- Add POST /admin/skills/officecli/install endpoint\n- Refactor check_officecli to use unified detection logic (PATH, config\n  dir, legacy paths)\n- Block officecli execution via shell_command when dedicated tool is\n  enabled, redirect AI to use officecli tool directly\n- Update SKILL.md: emphasize dedicated tool usage, add WPS compatibility\n  fix documentation, correct command examples\n- Fix builtin skill doc lookup to work regardless of tool enabled state\n- Add i18n strings for reinstall, checking, download failure states\n- Add .claude/ to .gitignore\n- Guard read_file/shell_command/multi_edit_file toggles behind valid\n  whitelist directory check",
+            "tree": {
+              "sha": "980dc9ca96b8836d775c2ffa6776002a005314ef",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/980dc9ca96b8836d775c2ffa6776002a005314ef"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "652d314bee8cc5ae59e8a877338b2e8bbc74af00",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/652d314bee8cc5ae59e8a877338b2e8bbc74af00",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/652d314bee8cc5ae59e8a877338b2e8bbc74af00"
+            }
+          ]
+        },
+        {
+          "sha": "d94fb38a85be1550716a7601c4054ebec047a53f",
+          "node_id": "C_kwDORl3Rn9oAKGQ5NGZiMzhhODViZTE1NTA3MTZhNzYwMWM0MDU0ZWJlYzA0N2E1M2Y",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-11T07:12:16Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-11T07:12:16Z"
+            },
+            "message": "feat(gateway): add failure reminders, inline screenshots, and IO conventions for bundled skills\n\n- Add --inline-base64 flag to chrome-cdp shot command for multimodal model consumption\n- Introduce read_file failure tracking (not-found/binary/too-large) with reminder after 3 consecutive failures\n- Add chrome-cdp stuck detection (timeout/WebSocket/target) with reminder after 3 consecutive stuck signals\n- Add officecli post-create WPS cleanup reminder triggered by next non-officecli tool call\n- Refactor BuiltinTool registry to use a single ALL constant with is_enabled and definition_builder methods\n- Add I/O conventions to chrome-cdp, chat-plus-adapter-debugger, and officecli SKILL.md (prefer read_file/multi_edit_file over raw shell)\n- Add officecli to README.md and README.zh.md with business-specific notes for chat-plus-adapter-debugger\n- Rename planning gate header from \"Planning Gate\" to \"Planning Integration\" with conditional rendering\n- Expand PlanningSuccessHints with read_failure_reminder, cdp_stuck_reminder, office_cli_post_create_reminder\n- Add new failure reminder fields to PlanningState and tool result helpers\n- Add comprehensive tests for new reminder logic (read failure, CDP stuck, officecli WPS cycle, disabled planning)\n- Remove trailing newline lint warnings in admin.rs and tool_impl.rs",
+            "tree": {
+              "sha": "9a821b006dc05cf7e8e02279b3b8154f81e33dff",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/9a821b006dc05cf7e8e02279b3b8154f81e33dff"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/d94fb38a85be1550716a7601c4054ebec047a53f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/d94fb38a85be1550716a7601c4054ebec047a53f",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/d94fb38a85be1550716a7601c4054ebec047a53f",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/d94fb38a85be1550716a7601c4054ebec047a53f/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/ce12dc3c841b6ab4b2ab537ebbdbf95cc11645a9"
+            }
+          ]
+        },
+        {
+          "sha": "0a468edc2cfab25ce50ba8b3f1a1d41d5703d180",
+          "node_id": "C_kwDORl3Rn9oAKDBhNDY4ZWRjMmNmYWIyNWNlNTBiYThiM2YxYTFkNDFkNTcwM2QxODA",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-11T07:17:57Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-11T07:17:57Z"
+            },
+            "message": "fix(gateway): resolve clippy redundant_closure and collapsible_if warnings",
+            "tree": {
+              "sha": "0688365f189c2b7c8c9ffdadc9cdee6ab51d3e0b",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/0688365f189c2b7c8c9ffdadc9cdee6ab51d3e0b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/0a468edc2cfab25ce50ba8b3f1a1d41d5703d180",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/0a468edc2cfab25ce50ba8b3f1a1d41d5703d180",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/0a468edc2cfab25ce50ba8b3f1a1d41d5703d180",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/0a468edc2cfab25ce50ba8b3f1a1d41d5703d180/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "d94fb38a85be1550716a7601c4054ebec047a53f",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/d94fb38a85be1550716a7601c4054ebec047a53f",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/d94fb38a85be1550716a7601c4054ebec047a53f"
+            }
+          ]
         }
       ]
     },
@@ -74985,7 +75892,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/metapi/compare/main...cita-777:main",
-      "updated_at": "2026-05-11T04:55:27.402Z",
+      "updated_at": "2026-05-11T10:28:55.375Z",
       "commits": [
         {
           "sha": "c94e3148dd3a22fc99033703922ddc8eb4e3ce01",
@@ -77069,7 +77976,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/MicroWARP/compare/main...ccbkkb:main",
-      "updated_at": "2026-05-11T04:55:28.153Z",
+      "updated_at": "2026-05-11T10:28:56.169Z",
       "commits": [
         {
           "sha": "fafc131d6c8a19ceef1b3a0fcfaa2961d191e217",
@@ -77929,7 +78836,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-05-11T04:55:28.713Z",
+      "updated_at": "2026-05-11T10:28:56.865Z",
       "commits": [
         {
           "sha": "6f22b3224a2b1b2b3e322d7e8742ae27e1a2fdbd",
@@ -78108,7 +79015,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-05-11T04:55:29.297Z",
+      "updated_at": "2026-05-11T10:28:57.495Z",
       "commits": [
         {
           "sha": "204efcaa1812c199453b256820cc0fc8d7375e00",
@@ -89111,7 +90018,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-05-11T04:55:30.579Z",
+      "updated_at": "2026-05-11T10:28:59.007Z",
       "commits": [
         {
           "sha": "06a56bf788be41454c08575177ad4a107c0d01f0",
@@ -109736,7 +110643,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/P4RS3LT0NGV3/compare/main...elder-plinius:main",
-      "updated_at": "2026-05-11T04:55:32.061Z",
+      "updated_at": "2026-05-11T10:29:00.716Z",
       "commits": []
     },
     {
@@ -109750,7 +110657,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Payloader/compare/main...3516634930:main",
-      "updated_at": "2026-05-11T04:55:32.507Z",
+      "updated_at": "2026-05-11T10:29:01.242Z",
       "commits": []
     },
     {
@@ -109764,7 +110671,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-05-11T04:55:32.968Z",
+      "updated_at": "2026-05-11T10:29:01.778Z",
       "commits": [
         {
           "sha": "edb016e5c765a63d91a3a70633003c8f3ebb48c8",
@@ -110194,7 +111101,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-05-11T04:55:33.705Z",
+      "updated_at": "2026-05-11T10:29:02.769Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -110455,7 +111362,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-05-11T04:55:34.237Z",
+      "updated_at": "2026-05-11T10:29:03.467Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
@@ -110962,7 +111869,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ruyipage/compare/main...LoseNine:main",
-      "updated_at": "2026-05-11T04:55:34.800Z",
+      "updated_at": "2026-05-11T10:29:04.101Z",
       "commits": [
         {
           "sha": "6ab3f417f9dbf04b15d341f1fdc6a7ff8dce9b35",
@@ -115405,7 +116312,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/subs-check/compare/master...beck-8:master",
-      "updated_at": "2026-05-11T04:55:35.668Z",
+      "updated_at": "2026-05-11T10:29:05.460Z",
       "commits": [
         {
           "sha": "04e67dd945f5f82cbe50918b0c2d94a8f4e15891",
@@ -116074,30 +116981,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit 65a930865fff9b509a9f30ff2d1e863b6d07237f.",
+      "reason": "Force-reset fork branch to upstream commit 934e42195fedb6defaf4a140c3ecedabe0807c8c.",
       "compare_url": "https://github.com/XddXss888/zenproxy/compare/main...Micky203:main",
-      "updated_at": "2026-05-11T04:55:36.206Z",
+      "updated_at": "2026-05-11T10:29:06.158Z",
       "commits": [
         {
-          "sha": "65a930865fff9b509a9f30ff2d1e863b6d07237f",
-          "node_id": "C_kwDOR6tQLNoAKDY1YTkzMDg2NWZmZjliNTA5YTlmMzBmZjJkMWU4NjNiNmQwNzIzN2Y",
+          "sha": "934e42195fedb6defaf4a140c3ecedabe0807c8c",
+          "node_id": "C_kwDOR6tQLNoAKDkzNGU0MjE5NWZlZGI2ZGVmYWY0YTE0MGMzZWNlZGFiZTA4MDdjOGM",
           "commit": {
             "author": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-05-11T04:17:21Z"
+              "date": "2026-05-11T07:15:17Z"
             },
             "committer": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-05-11T04:17:21Z"
+              "date": "2026-05-11T07:15:17Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "22c121141024d5d4e737589b1f782212f3ec8776",
               "url": "https://api.github.com/repos/XddXss888/zenproxy/git/trees/22c121141024d5d4e737589b1f782212f3ec8776"
             },
-            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/65a930865fff9b509a9f30ff2d1e863b6d07237f",
+            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/934e42195fedb6defaf4a140c3ecedabe0807c8c",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -116107,9 +117014,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/65a930865fff9b509a9f30ff2d1e863b6d07237f",
-          "html_url": "https://github.com/XddXss888/zenproxy/commit/65a930865fff9b509a9f30ff2d1e863b6d07237f",
-          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/65a930865fff9b509a9f30ff2d1e863b6d07237f/comments",
+          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/934e42195fedb6defaf4a140c3ecedabe0807c8c",
+          "html_url": "https://github.com/XddXss888/zenproxy/commit/934e42195fedb6defaf4a140c3ecedabe0807c8c",
+          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/934e42195fedb6defaf4a140c3ecedabe0807c8c/comments",
           "author": {
             "login": "Micky203",
             "id": 164007966,
