@@ -1,6 +1,6 @@
 {
-  "run_started_at": "2026-05-12T09:29:17.465Z",
-  "run_completed_at": "2026-05-12T09:30:11.988Z",
+  "run_started_at": "2026-05-13T04:38:52.219Z",
+  "run_completed_at": "2026-05-13T04:39:30.522Z",
   "summary": {
     "scanned": 51,
     "updated": 2,
@@ -20,7 +20,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ABCard/compare/main...kaima2022:main",
-      "updated_at": "2026-05-12T09:29:19.124Z",
+      "updated_at": "2026-05-13T04:38:53.810Z",
       "commits": [
         {
           "sha": "d7c3bc91788ca86fb05449d8cab42beff56dccf5",
@@ -199,21 +199,21 @@
       "result": "sync-failed",
       "reason": "Auto-sync failed: Branch not found",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkit/compare/main...HaudioHC:master",
-      "updated_at": "2026-05-12T09:29:20.004Z",
+      "updated_at": "2026-05-13T04:38:54.387Z",
       "commits": []
     },
     {
       "repo": "AI-Account-Toolkits",
       "upstream": "adminlove520/AI-Account-Toolkit",
       "branch": "main",
-      "ahead_by": 8,
+      "ahead_by": 13,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/AI-Account-Toolkits/compare/main...adminlove520:main",
-      "updated_at": "2026-05-12T09:29:20.898Z",
+      "updated_at": "2026-05-13T04:38:54.889Z",
       "commits": [
         {
           "sha": "003f2fa2064d55874fbad2f1c46d235568129df7",
@@ -750,6 +750,256 @@
               "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/f4e21ba2df1d50d4a9e7df5403f3a254dbf2ef5e"
             }
           ]
+        },
+        {
+          "sha": "bac74a5384605e9448c790b72ee541151f721272",
+          "node_id": "C_kwDORyfsM9oAKGJhYzc0YTUzODQ2MDVlOTQ0OGM3OTBiNzJlZTU0MTE1MWY3MjEyNzI",
+          "commit": {
+            "author": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T01:54:04Z"
+            },
+            "committer": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T01:54:04Z"
+            },
+            "message": "feat: release v2.4.0 - add grok2api/gopay submodules and maintenance workflow",
+            "tree": {
+              "sha": "ffd33951ae07829f677e4b1b6726f806753097a0",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/ffd33951ae07829f677e4b1b6726f806753097a0"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/bac74a5384605e9448c790b72ee541151f721272",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/bac74a5384605e9448c790b72ee541151f721272",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/bac74a5384605e9448c790b72ee541151f721272",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/bac74a5384605e9448c790b72ee541151f721272/comments",
+          "author": null,
+          "committer": null,
+          "parents": [
+            {
+              "sha": "ae64a8cebc311c1b176586688c3430b3b6540c76",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/ae64a8cebc311c1b176586688c3430b3b6540c76",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/ae64a8cebc311c1b176586688c3430b3b6540c76"
+            }
+          ]
+        },
+        {
+          "sha": "a222cc7668b8cd1456bc00f29d6ee1e5699630e3",
+          "node_id": "C_kwDORyfsM9oAKGEyMjJjYzc2NjhiOGNkMTQ1NmJjMDBmMjlkNmVlMWU1Njk5NjMwZTM",
+          "commit": {
+            "author": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T02:16:40Z"
+            },
+            "committer": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T02:16:40Z"
+            },
+            "message": "fix: update broken submodule URLs and remove dead ones (v2.4.1)",
+            "tree": {
+              "sha": "0432d5960587ad6ab7f19279feb38ef2f4acb122",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/0432d5960587ad6ab7f19279feb38ef2f4acb122"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/a222cc7668b8cd1456bc00f29d6ee1e5699630e3",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/a222cc7668b8cd1456bc00f29d6ee1e5699630e3",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/a222cc7668b8cd1456bc00f29d6ee1e5699630e3",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/a222cc7668b8cd1456bc00f29d6ee1e5699630e3/comments",
+          "author": null,
+          "committer": null,
+          "parents": [
+            {
+              "sha": "bac74a5384605e9448c790b72ee541151f721272",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/bac74a5384605e9448c790b72ee541151f721272",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/bac74a5384605e9448c790b72ee541151f721272"
+            }
+          ]
+        },
+        {
+          "sha": "1b47126d85a38940457b0a77a24a1e4d1b0e77be",
+          "node_id": "C_kwDORyfsM9oAKDFiNDcxMjZkODVhMzg5NDA0NTdiMGE3N2EyNGExZTRkMWIwZTc3YmU",
+          "commit": {
+            "author": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T02:27:41Z"
+            },
+            "committer": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T02:28:16Z"
+            },
+            "message": "fix: flatten 404 submodules and robustify sync workflow (v2.4.2)",
+            "tree": {
+              "sha": "66c618a6c71a930e12c5cfce4eab1232b60f2c09",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/66c618a6c71a930e12c5cfce4eab1232b60f2c09"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/1b47126d85a38940457b0a77a24a1e4d1b0e77be",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/1b47126d85a38940457b0a77a24a1e4d1b0e77be",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/1b47126d85a38940457b0a77a24a1e4d1b0e77be",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/1b47126d85a38940457b0a77a24a1e4d1b0e77be/comments",
+          "author": null,
+          "committer": null,
+          "parents": [
+            {
+              "sha": "a222cc7668b8cd1456bc00f29d6ee1e5699630e3",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/a222cc7668b8cd1456bc00f29d6ee1e5699630e3",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/a222cc7668b8cd1456bc00f29d6ee1e5699630e3"
+            }
+          ]
+        },
+        {
+          "sha": "c29fa84022e8e44e17c37dbce775fda50a99b5b3",
+          "node_id": "C_kwDORyfsM9oAKGMyOWZhODQwMjJlOGU0NGUxN2MzN2RiY2U3NzVmZGE1MGE5OWI1YjM",
+          "commit": {
+            "author": {
+              "name": "github-actions[bot]",
+              "email": "github-actions[bot]@users.noreply.github.com",
+              "date": "2026-05-13T02:30:46Z"
+            },
+            "committer": {
+              "name": "github-actions[bot]",
+              "email": "github-actions[bot]@users.noreply.github.com",
+              "date": "2026-05-13T02:30:46Z"
+            },
+            "message": "chore: sync submodules [skip ci]",
+            "tree": {
+              "sha": "a908262f70a1f8e2943a90ec19347ace67a6a0db",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/a908262f70a1f8e2943a90ec19347ace67a6a0db"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/c29fa84022e8e44e17c37dbce775fda50a99b5b3",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/c29fa84022e8e44e17c37dbce775fda50a99b5b3",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/c29fa84022e8e44e17c37dbce775fda50a99b5b3",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/c29fa84022e8e44e17c37dbce775fda50a99b5b3/comments",
+          "author": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "1b47126d85a38940457b0a77a24a1e4d1b0e77be",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/1b47126d85a38940457b0a77a24a1e4d1b0e77be",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/1b47126d85a38940457b0a77a24a1e4d1b0e77be"
+            }
+          ]
+        },
+        {
+          "sha": "3ad420b577f2c795039b7837c7be335cb51935c4",
+          "node_id": "C_kwDORyfsM9oAKDNhZDQyMGI1NzdmMmM3OTUwMzliNzgzN2M3YmUzMzVjYjUxOTM1YzQ",
+          "commit": {
+            "author": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T02:42:16Z"
+            },
+            "committer": {
+              "name": "小溪",
+              "email": "xiaoxi@openclaw.ai",
+              "date": "2026-05-13T02:44:04Z"
+            },
+            "message": "feat: release v2.5.0 - add 6 new high-quality submodules",
+            "tree": {
+              "sha": "908d12b71082ad02bbfc100de1a53b65bba7936a",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/trees/908d12b71082ad02bbfc100de1a53b65bba7936a"
+            },
+            "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/git/commits/3ad420b577f2c795039b7837c7be335cb51935c4",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/3ad420b577f2c795039b7837c7be335cb51935c4",
+          "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/3ad420b577f2c795039b7837c7be335cb51935c4",
+          "comments_url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/3ad420b577f2c795039b7837c7be335cb51935c4/comments",
+          "author": null,
+          "committer": null,
+          "parents": [
+            {
+              "sha": "c29fa84022e8e44e17c37dbce775fda50a99b5b3",
+              "url": "https://api.github.com/repos/XddXss888/AI-Account-Toolkits/commits/c29fa84022e8e44e17c37dbce775fda50a99b5b3",
+              "html_url": "https://github.com/XddXss888/AI-Account-Toolkits/commit/c29fa84022e8e44e17c37dbce775fda50a99b5b3"
+            }
+          ]
         }
       ]
     },
@@ -764,7 +1014,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/airforce-api-auto-register-system/compare/main...lza6:main",
-      "updated_at": "2026-05-12T09:29:21.997Z",
+      "updated_at": "2026-05-13T04:38:55.754Z",
       "commits": []
     },
     {
@@ -778,7 +1028,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between main and lxf746:main.",
       "compare_url": "https://github.com/XddXss888/any-auto-register",
-      "updated_at": "2026-05-12T09:29:22.693Z",
+      "updated_at": "2026-05-13T04:38:56.176Z",
       "commits": []
     },
     {
@@ -792,7 +1042,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/anything-analyzer/compare/main...Mouseww:main",
-      "updated_at": "2026-05-12T09:29:23.316Z",
+      "updated_at": "2026-05-13T04:38:56.614Z",
       "commits": [
         {
           "sha": "4ea6022c1f51ad47ebcfec327d2195a6831acfe7",
@@ -7521,7 +7771,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/bytebot/compare/main...bytebot-ai:main",
-      "updated_at": "2026-05-12T09:29:24.671Z",
+      "updated_at": "2026-05-13T04:38:57.715Z",
       "commits": []
     },
     {
@@ -7535,7 +7785,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CanvasToAPI/compare/main...iBUHub:main",
-      "updated_at": "2026-05-12T09:29:25.313Z",
+      "updated_at": "2026-05-13T04:38:58.108Z",
       "commits": [
         {
           "sha": "eee8146fb00139a8faade1889d6df8a0f1818e49",
@@ -8124,7 +8374,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CC-BOS/compare/main...Whiffe:main",
-      "updated_at": "2026-05-12T09:29:26.227Z",
+      "updated_at": "2026-05-13T04:38:58.628Z",
       "commits": []
     },
     {
@@ -8138,7 +8388,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfnew/compare/main...byJoey:main",
-      "updated_at": "2026-05-12T09:29:26.907Z",
+      "updated_at": "2026-05-13T04:38:59.077Z",
       "commits": [
         {
           "sha": "4a46e4999f57429ab9b93588abc3aa30c8a4570a",
@@ -9450,7 +9700,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cfspider-workers-ip-manager/compare/main...violettoolssite:main",
-      "updated_at": "2026-05-12T09:29:27.723Z",
+      "updated_at": "2026-05-13T04:38:59.653Z",
       "commits": [
         {
           "sha": "053f3fe9e01ea55349e7f70b8a6788912b4ee05c",
@@ -9507,7 +9757,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/chatgpt_register_v2_by_AI/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-05-12T09:29:28.364Z",
+      "updated_at": "2026-05-13T04:39:00.110Z",
       "commits": [
         {
           "sha": "eb21b35fc3044f8ea63254919495f316f40fa263",
@@ -9932,7 +10182,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/clash-auto-switch/compare/main...adminlove520:main",
-      "updated_at": "2026-05-12T09:29:29.293Z",
+      "updated_at": "2026-05-13T04:39:00.737Z",
       "commits": []
     },
     {
@@ -9946,7 +10196,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Claude-Code-Guide-Zh/compare/main...KimYx0207:main",
-      "updated_at": "2026-05-12T09:29:29.912Z",
+      "updated_at": "2026-05-13T04:39:01.170Z",
       "commits": [
         {
           "sha": "eff9e19b6e50a68622e8f446319953c529639031",
@@ -13574,7 +13824,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-code-source/compare/main...JrCx7scC:main",
-      "updated_at": "2026-05-12T09:29:31.111Z",
+      "updated_at": "2026-05-13T04:39:02.146Z",
       "commits": [
         {
           "sha": "431056a3ed6a0826e88cded587b88e5c2d91811c",
@@ -13664,14 +13914,14 @@
       "repo": "claude-mem",
       "upstream": "thedotmack/claude-mem",
       "branch": "main",
-      "ahead_by": 236,
+      "ahead_by": 237,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/claude-mem/compare/main...thedotmack:main",
-      "updated_at": "2026-05-12T09:29:32.289Z",
+      "updated_at": "2026-05-13T04:39:02.712Z",
       "commits": [
         {
           "sha": "8cdabe6315cf8fe7fb7b5d06df95599c48226f22",
@@ -33059,6 +33309,88 @@
               "html_url": "https://github.com/XddXss888/claude-mem/commit/f1b73a46dabbdb2e7c2598470b667bd485800ab3"
             }
           ]
+        },
+        {
+          "sha": "37d24944af5f4afaa0de2b0bd0034bb432f2b714",
+          "node_id": "C_kwDOSAM4GNoAKDM3ZDI0OTQ0YWY1ZjRhZmFhMGRlMmIwYmQwMDM0YmI0MzJmMmI3MTQ",
+          "commit": {
+            "author": {
+              "name": "Alex Newman",
+              "email": "thedotmack@gmail.com",
+              "date": "2026-05-13T03:38:37Z"
+            },
+            "committer": {
+              "name": "GitHub",
+              "email": "noreply@github.com",
+              "date": "2026-05-13T03:38:37Z"
+            },
+            "message": "feat(skills): wowerpoint share-link upload step (#2445)\n\n* feat(skills): wowerpoint share-link upload step\n\nAfter the kawaii NotebookLM PDF lands on disk, the subagent now also POSTs\nit to the WOWerpoint Server (if configured) and reports back a share URL.\nThe PDF is still the backup; the share URL is the primary deliverable.\n\nGated on three env vars (WOWERPOINT_API_BASE, WOWERPOINT_VIEWER_BASE,\nWOWERPOINT_UPLOAD_TOKEN) — if any are missing the skill skips the upload\nsilently and behaves exactly as before.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(skills): address CodeRabbit + Greptile findings on wowerpoint\n\n- Drop the ~/.wowerpoint.env reference: the subagent inherits the parent's\n  environment and never sources a dotenv file, so storing vars there would\n  silently disable the upload step. Documented only the shell-export path.\n- Switch jq parsing to `.id // empty` so a missing key yields an empty\n  string instead of the literal \"null\", letting the [-z \"$DECK_ID\"] guard\n  fire correctly on error responses.\n- Capture the full JSON response so a non-empty .error field is surfaced as\n  a warning rather than emitting an invalid …/d/null share URL.\n- Add TITLE to the subagent template's Inputs block so the parent agent\n  knows it must supply a title slot the curl command depends on.\n- Make step 6 itself guard on the env vars instead of relying on prose, so\n  the snippet works in isolation if a future agent skips the surrounding\n  instructions.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(skills): gate the top-level upload snippet on env vars too\n\nCodeRabbit pointed out the prose snippet at the top of the Share-link\nsection uploaded unconditionally, while the subagent step 6 version had the\nenv-var guard. Anyone copying the standalone snippet would have skipped\n\"silently\" by failing the curl request. Wrapping both in the same guard\nkeeps the two snippets in sync.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(skills): cap wowerpoint upload curls at 30 s\n\nGreptile flagged that a bare curl on an unreachable WOWERPOINT_API_BASE can\nsit on the OS TCP timeout (75–130 s) before returning, stalling the\nbackground subagent and delaying the completion notification. Adding\n--connect-timeout 10 --max-time 30 to both upload snippets bounds the\nhang and lets the share-link step fail fast.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* docs(skills): wowerpoint slug example reflects 3-word IDs\n\nServer now mints adjective-noun-creature slugs (e.g. quirky-compass-hawk)\ninstead of base64url. The curl/jq snippets are unchanged — they already\nparse .id as opaque — but the prose was stale.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* docs(skills): wowerpoint slug example reflects title-aware IDs\n\nServer now slugifies the title and appends a creature suffix\n(tokenrouter-quest-hawk) instead of three random words. Falls back to a\n3-word slug when the title is empty or non-ASCII. The curl/jq snippets\nare unchanged — they parse .id as opaque — but the prose was stale.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+            "tree": {
+              "sha": "45a25755ba103b4129cca6f29d61f318881fa060",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/git/trees/45a25755ba103b4129cca6f29d61f318881fa060"
+            },
+            "url": "https://api.github.com/repos/XddXss888/claude-mem/git/commits/37d24944af5f4afaa0de2b0bd0034bb432f2b714",
+            "comment_count": 0,
+            "verification": {
+              "verified": true,
+              "reason": "valid",
+              "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqA/I9CRC1aQ7uu5UhlAAAeWYQAC5+DuIURr9QO23cHbr2n8cb\nKMPra83XUn3vYoHYk5/h7ULajrLFEWQzFORQBSXSs98Uq0KVm1tfif9OpeTU5niP\npdSJG5I6mVsVFJxKLEpff01tC+maP3NMML/IOl2oM8WIR0E08kufmbobYZDNXHog\nc4ZANEy2ScTQhW/5FunDWHfiyAJQ+ux3ETBDLhefKq0fHHXgDYIV0qkCtrC6usCN\n+/C3gU1cTag9UKkwoXL06+Fmulq1jiAOntneFF2J6BvrBQtX6nglUKSkG1deG7YQ\neiqyg0IpZYWXnDnE3wJDO3yArYnUS12gMR/tNTvO28rDbradJ2ePHjlmNXOnBYO0\nGCEFvjcLUm21vJUmlK/2gZg32Z/iP/awAOsZmZhyWB8Zo9lNpH4suKkOyfeCmiyS\nF1e+zLhg9LCL+9BewssnxViV5y1aHWtsas284lKak52mVE4/X2DiuLEZKbX9zOt6\nk2v20A7byVUbwxzqiBAY7PitXhocAQikLW8/ja954P3adxMh1cYBqupoLs8n3dU3\nf2FyMxEHFnbzk8dHqzRVII7VBEAxN5HjFuJV7r0UyreacF9gWoCjuK4Ou0Whr8Yz\n5s2nFHR5eXKiFeQv1VKVvew16wWcE/6K96Ro4lwQjjKN+ZwOYvWcMwvH3lmMR7OE\nuYsIl0zrau8DtCLTlAHM\n=Orfz\n-----END PGP SIGNATURE-----\n",
+              "payload": "tree 45a25755ba103b4129cca6f29d61f318881fa060\nparent a81deb495aa4b33b4486d9fadb0e9028ac73060b\nauthor Alex Newman <thedotmack@gmail.com> 1778643517 -0700\ncommitter GitHub <noreply@github.com> 1778643517 -0700\n\nfeat(skills): wowerpoint share-link upload step (#2445)\n\n* feat(skills): wowerpoint share-link upload step\n\nAfter the kawaii NotebookLM PDF lands on disk, the subagent now also POSTs\nit to the WOWerpoint Server (if configured) and reports back a share URL.\nThe PDF is still the backup; the share URL is the primary deliverable.\n\nGated on three env vars (WOWERPOINT_API_BASE, WOWERPOINT_VIEWER_BASE,\nWOWERPOINT_UPLOAD_TOKEN) — if any are missing the skill skips the upload\nsilently and behaves exactly as before.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(skills): address CodeRabbit + Greptile findings on wowerpoint\n\n- Drop the ~/.wowerpoint.env reference: the subagent inherits the parent's\n  environment and never sources a dotenv file, so storing vars there would\n  silently disable the upload step. Documented only the shell-export path.\n- Switch jq parsing to `.id // empty` so a missing key yields an empty\n  string instead of the literal \"null\", letting the [-z \"$DECK_ID\"] guard\n  fire correctly on error responses.\n- Capture the full JSON response so a non-empty .error field is surfaced as\n  a warning rather than emitting an invalid …/d/null share URL.\n- Add TITLE to the subagent template's Inputs block so the parent agent\n  knows it must supply a title slot the curl command depends on.\n- Make step 6 itself guard on the env vars instead of relying on prose, so\n  the snippet works in isolation if a future agent skips the surrounding\n  instructions.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(skills): gate the top-level upload snippet on env vars too\n\nCodeRabbit pointed out the prose snippet at the top of the Share-link\nsection uploaded unconditionally, while the subagent step 6 version had the\nenv-var guard. Anyone copying the standalone snippet would have skipped\n\"silently\" by failing the curl request. Wrapping both in the same guard\nkeeps the two snippets in sync.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* fix(skills): cap wowerpoint upload curls at 30 s\n\nGreptile flagged that a bare curl on an unreachable WOWERPOINT_API_BASE can\nsit on the OS TCP timeout (75–130 s) before returning, stalling the\nbackground subagent and delaying the completion notification. Adding\n--connect-timeout 10 --max-time 30 to both upload snippets bounds the\nhang and lets the share-link step fail fast.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* docs(skills): wowerpoint slug example reflects 3-word IDs\n\nServer now mints adjective-noun-creature slugs (e.g. quirky-compass-hawk)\ninstead of base64url. The curl/jq snippets are unchanged — they already\nparse .id as opaque — but the prose was stale.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n* docs(skills): wowerpoint slug example reflects title-aware IDs\n\nServer now slugifies the title and appends a creature suffix\n(tokenrouter-quest-hawk) instead of three random words. Falls back to a\n3-word slug when the title is empty or non-ASCII. The curl/jq snippets\nare unchanged — they parse .id as opaque — but the prose was stale.\n\nCo-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>\n\n---------\n\nCo-authored-by: Claude Opus 4.7 (1M context) <noreply@anthropic.com>",
+              "verified_at": "2026-05-13T03:38:38Z"
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/37d24944af5f4afaa0de2b0bd0034bb432f2b714",
+          "html_url": "https://github.com/XddXss888/claude-mem/commit/37d24944af5f4afaa0de2b0bd0034bb432f2b714",
+          "comments_url": "https://api.github.com/repos/XddXss888/claude-mem/commits/37d24944af5f4afaa0de2b0bd0034bb432f2b714/comments",
+          "author": {
+            "login": "thedotmack",
+            "id": 683968,
+            "node_id": "MDQ6VXNlcjY4Mzk2OA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/thedotmack",
+            "html_url": "https://github.com/thedotmack",
+            "followers_url": "https://api.github.com/users/thedotmack/followers",
+            "following_url": "https://api.github.com/users/thedotmack/following{/other_user}",
+            "gists_url": "https://api.github.com/users/thedotmack/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/thedotmack/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/thedotmack/subscriptions",
+            "organizations_url": "https://api.github.com/users/thedotmack/orgs",
+            "repos_url": "https://api.github.com/users/thedotmack/repos",
+            "events_url": "https://api.github.com/users/thedotmack/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/thedotmack/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "a81deb495aa4b33b4486d9fadb0e9028ac73060b",
+              "url": "https://api.github.com/repos/XddXss888/claude-mem/commits/a81deb495aa4b33b4486d9fadb0e9028ac73060b",
+              "html_url": "https://github.com/XddXss888/claude-mem/commit/a81deb495aa4b33b4486d9fadb0e9028ac73060b"
+            }
+          ]
         }
       ]
     },
@@ -33073,7 +33405,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CLIProxyAPI-cleaner/compare/main...KJ20051223:main",
-      "updated_at": "2026-05-12T09:29:34.516Z",
+      "updated_at": "2026-05-13T04:39:04.528Z",
       "commits": [
         {
           "sha": "03a4b0b677576dd88e1d49173b638cfa1ee98c29",
@@ -34651,7 +34983,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cloudflare-temp-mail-service/compare/main...dreamhunter2333:main",
-      "updated_at": "2026-05-12T09:29:35.449Z",
+      "updated_at": "2026-05-13T04:39:05.117Z",
       "commits": [
         {
           "sha": "723e1fe75d9fb806cebf8d057a164d9a8b3bddc5",
@@ -44506,7 +44838,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-auto-register-tool/compare/main...0x5uo2hen:main",
-      "updated_at": "2026-05-12T09:29:37.637Z",
+      "updated_at": "2026-05-13T04:39:06.477Z",
       "commits": []
     },
     {
@@ -44520,7 +44852,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-console/compare/main...DestinyCycloid:main",
-      "updated_at": "2026-05-12T09:29:38.294Z",
+      "updated_at": "2026-05-13T04:39:06.952Z",
       "commits": [
         {
           "sha": "de03307cfbd900684b7414b361d05cb47a10909d",
@@ -44617,7 +44949,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codeX-register/compare/main...Msg-Lbo:main",
-      "updated_at": "2026-05-12T09:29:39.275Z",
+      "updated_at": "2026-05-13T04:39:07.503Z",
       "commits": [
         {
           "sha": "1ebec5171f928cc9ee089ed1689d0e7e120bc080",
@@ -46031,7 +46363,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/codex-session-patcher/compare/main...ryfineZ:main",
-      "updated_at": "2026-05-12T09:29:40.298Z",
+      "updated_at": "2026-05-13T04:39:08.165Z",
       "commits": [
         {
           "sha": "f202cf5dcbafbe7d5ea5ad20eb83862438a1dac1",
@@ -48106,7 +48438,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/CodexRegister/compare/master...yofers:master",
-      "updated_at": "2026-05-12T09:29:41.387Z",
+      "updated_at": "2026-05-13T04:39:08.897Z",
       "commits": []
     },
     {
@@ -48120,7 +48452,7 @@
       "result": "synced",
       "reason": "Merged upstream branch main.",
       "compare_url": "https://github.com/XddXss888/comicspuncher-auto-checkin-bot/compare/main...RahabHub:main",
-      "updated_at": "2026-05-12T09:29:42.024Z",
+      "updated_at": "2026-05-13T04:39:09.362Z",
       "commits": []
     },
     {
@@ -48134,7 +48466,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cursor-toolbox-extension/compare/main...aiguicai:main",
-      "updated_at": "2026-05-12T09:29:43.207Z",
+      "updated_at": "2026-05-13T04:39:10.161Z",
       "commits": [
         {
           "sha": "7e78373e0fe884e41985e87370d89a10ceeb990a",
@@ -48815,7 +49147,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/cyCronet/compare/main...2833844911:main",
-      "updated_at": "2026-05-12T09:29:44.060Z",
+      "updated_at": "2026-05-13T04:39:10.752Z",
       "commits": [
         {
           "sha": "308437a260c07e91e82bec8c5928c6f3ea55aa24",
@@ -50651,7 +50983,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/fanqiang/compare/master...bannedbook:master",
-      "updated_at": "2026-05-12T09:29:46.170Z",
+      "updated_at": "2026-05-13T04:39:12.570Z",
       "commits": [
         {
           "sha": "28e089783f4b8a33c793012afaaa2f89c550a731",
@@ -50748,7 +51080,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/FLUX-Webscan/compare/main...MY0723:main",
-      "updated_at": "2026-05-12T09:29:46.900Z",
+      "updated_at": "2026-05-13T04:39:13.011Z",
       "commits": [
         {
           "sha": "581107fc781d0a754b39a242cf33f19d503f8e98",
@@ -51255,7 +51587,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Free-coding-models/compare/main...vava-nessa:main",
-      "updated_at": "2026-05-12T09:29:47.756Z",
+      "updated_at": "2026-05-13T04:39:13.619Z",
       "commits": [
         {
           "sha": "9753727ce33319c2f8ed296a8a24db737e10cfdc",
@@ -59771,7 +60103,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/freemail-mailfree-service/compare/main...pEJXexhX:main",
-      "updated_at": "2026-05-12T09:29:49.529Z",
+      "updated_at": "2026-05-13T04:39:14.961Z",
       "commits": []
     },
     {
@@ -59785,7 +60117,7 @@
       "result": "compare-failed",
       "reason": "Failed to compare fork with upstream: No common ancestor between master and idinging:master.",
       "compare_url": "https://github.com/XddXss888/freemail-temp-mail-service",
-      "updated_at": "2026-05-12T09:29:50.236Z",
+      "updated_at": "2026-05-13T04:39:15.371Z",
       "commits": []
     },
     {
@@ -59799,7 +60131,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/gitee/compare/main...MallocPointer:main",
-      "updated_at": "2026-05-12T09:29:50.826Z",
+      "updated_at": "2026-05-13T04:39:15.816Z",
       "commits": [
         {
           "sha": "daa2b6720cfec6d265f27a2e481fac4e39a90af8",
@@ -59896,7 +60228,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok-batch-register-tool/compare/main...piaoyaozhe:main",
-      "updated_at": "2026-05-12T09:29:51.511Z",
+      "updated_at": "2026-05-13T04:39:16.354Z",
       "commits": []
     },
     {
@@ -59910,7 +60242,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Grok-Mirror/compare/main...dairoot:main",
-      "updated_at": "2026-05-12T09:29:52.180Z",
+      "updated_at": "2026-05-13T04:39:16.771Z",
       "commits": []
     },
     {
@@ -59924,7 +60256,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/grok2api/compare/main...TQZHR:main",
-      "updated_at": "2026-05-12T09:29:52.794Z",
+      "updated_at": "2026-05-13T04:39:17.239Z",
       "commits": [
         {
           "sha": "d6a945c031ff10c2ff4ffa77dad3313137ba8048",
@@ -60103,7 +60435,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/huggingface-openclaw-v2.0/compare/main...tianmingyun:main",
-      "updated_at": "2026-05-12T09:29:53.805Z",
+      "updated_at": "2026-05-13T04:39:17.819Z",
       "commits": [
         {
           "sha": "91f14068d9909154d23495eac4ce20250f682689",
@@ -60767,14 +61099,14 @@
       "repo": "keepalive-automation-client",
       "upstream": "klaas8/cs",
       "branch": "main",
-      "ahead_by": 155,
+      "ahead_by": 156,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/keepalive-automation-client/compare/main...klaas8:main",
-      "updated_at": "2026-05-12T09:29:54.760Z",
+      "updated_at": "2026-05-13T04:39:18.386Z",
       "commits": [
         {
           "sha": "3718de945020814c1631b6d35852a42081240b3d",
@@ -73485,6 +73817,88 @@
               "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/1421959bec965ba02348a3ac125d3601360f07fe"
             }
           ]
+        },
+        {
+          "sha": "35082962171dfe65bfe652a66f901e911186ccab",
+          "node_id": "C_kwDOREsBCNoAKDM1MDgyOTYyMTcxZGZlNjViZmU2NTJhNjZmOTAxZTkxMTE4NmNjYWI",
+          "commit": {
+            "author": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-13T01:50:46Z"
+            },
+            "committer": {
+              "name": "github-actions",
+              "email": "github-actions@github.com",
+              "date": "2026-05-13T01:50:46Z"
+            },
+            "message": "chore: keepalive",
+            "tree": {
+              "sha": "328dcd0f9bde08da0cd6e52de58cc914e68c9f4b",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/trees/328dcd0f9bde08da0cd6e52de58cc914e68c9f4b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/git/commits/35082962171dfe65bfe652a66f901e911186ccab",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/35082962171dfe65bfe652a66f901e911186ccab",
+          "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/35082962171dfe65bfe652a66f901e911186ccab",
+          "comments_url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/35082962171dfe65bfe652a66f901e911186ccab/comments",
+          "author": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "invalid-email-address",
+            "id": 148100,
+            "node_id": "MDQ6VXNlcjE0ODEwMA==",
+            "avatar_url": "https://avatars.githubusercontent.com/u/148100?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/invalid-email-address",
+            "html_url": "https://github.com/invalid-email-address",
+            "followers_url": "https://api.github.com/users/invalid-email-address/followers",
+            "following_url": "https://api.github.com/users/invalid-email-address/following{/other_user}",
+            "gists_url": "https://api.github.com/users/invalid-email-address/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/invalid-email-address/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/invalid-email-address/subscriptions",
+            "organizations_url": "https://api.github.com/users/invalid-email-address/orgs",
+            "repos_url": "https://api.github.com/users/invalid-email-address/repos",
+            "events_url": "https://api.github.com/users/invalid-email-address/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/invalid-email-address/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "17b6e4d5eb2bc4ddca91a4bb14e40f2678b2b67b",
+              "url": "https://api.github.com/repos/XddXss888/keepalive-automation-client/commits/17b6e4d5eb2bc4ddca91a4bb14e40f2678b2b67b",
+              "html_url": "https://github.com/XddXss888/keepalive-automation-client/commit/17b6e4d5eb2bc4ddca91a4bb14e40f2678b2b67b"
+            }
+          ]
         }
       ]
     },
@@ -73492,14 +73906,14 @@
       "repo": "mcp-gateway-platform",
       "upstream": "aiguicai/MCP-Gateway",
       "branch": "main",
-      "ahead_by": 38,
+      "ahead_by": 42,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/mcp-gateway-platform/compare/main...aiguicai:main",
-      "updated_at": "2026-05-12T09:29:56.106Z",
+      "updated_at": "2026-05-13T04:39:19.477Z",
       "commits": [
         {
           "sha": "0718e5a2040739db1e8ca7ba59d1dd1eca079fc2",
@@ -76616,6 +77030,334 @@
               "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/222d5352a4dfd30871d2252e9ede64f3957b476e"
             }
           ]
+        },
+        {
+          "sha": "57d921e98fe8e75d7dca5f825011ef5046ea8fdf",
+          "node_id": "C_kwDORl3Rn9oAKDU3ZDkyMWU5OGZlOGU3NWQ3ZGNhNWY4MjUwMTFlZjUwNDZlYThmZGY",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-12T06:32:50Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-12T06:32:50Z"
+            },
+            "message": "feat: add skill groups with per-group endpoints and copy feedback fix\n\n- Introduce SkillGroupsEditor component with collapsible groups, rename, delete, add/remove items, and bulk import\n- Migrate flat skill root entries to group-based model in App.tsx with group CRUD handlers\n- Add SkillGroup type, SkillGroupEntry config type, and createSkillGroup factory\n- Backend: add root_groups to SkillsConfig model, resolve group-specific roots in skill server handler, recognize group server names in is_skills_server\n- Add bilingual i18n entries and CSS styles for skill groups\n- Fix SkillGroupsEditor copy buttons: pass copied prop and render Check icon on copy success\n- Fix useUpdateCheck caching: force re-check on version change",
+            "tree": {
+              "sha": "e3df8d5be7d9dc34ed6b7eb47b61170ab0fd6a15",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/e3df8d5be7d9dc34ed6b7eb47b61170ab0fd6a15"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/57d921e98fe8e75d7dca5f825011ef5046ea8fdf",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/57d921e98fe8e75d7dca5f825011ef5046ea8fdf",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/57d921e98fe8e75d7dca5f825011ef5046ea8fdf",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/57d921e98fe8e75d7dca5f825011ef5046ea8fdf/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "5d0ed217530bd33a2c5424ec48c64fefb75ed296",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/5d0ed217530bd33a2c5424ec48c64fefb75ed296",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/5d0ed217530bd33a2c5424ec48c64fefb75ed296"
+            }
+          ]
+        },
+        {
+          "sha": "94b9a4e882cc8e687a1aa057fd1af224b50681d0",
+          "node_id": "C_kwDORl3Rn9oAKDk0YjlhNGU4ODJjYzhlNjg3YTFhYTA1N2ZkMWFmMjI0YjUwNjgxZDA",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-12T23:31:55Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-12T23:31:55Z"
+            },
+            "message": "fix: optimize the text output for timeout returns",
+            "tree": {
+              "sha": "e4e548350550c534c2ecca3001a97d995fe2a09d",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/e4e548350550c534c2ecca3001a97d995fe2a09d"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/94b9a4e882cc8e687a1aa057fd1af224b50681d0",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/94b9a4e882cc8e687a1aa057fd1af224b50681d0",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/94b9a4e882cc8e687a1aa057fd1af224b50681d0",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/94b9a4e882cc8e687a1aa057fd1af224b50681d0/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "57d921e98fe8e75d7dca5f825011ef5046ea8fdf",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/57d921e98fe8e75d7dca5f825011ef5046ea8fdf",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/57d921e98fe8e75d7dca5f825011ef5046ea8fdf"
+            }
+          ]
+        },
+        {
+          "sha": "8092f83be24e99b5ce7c46c92948d462f894079d",
+          "node_id": "C_kwDORl3Rn9oAKDgwOTJmODNiZTI0ZTk5YjVjZTdjNDZjOTI5NDhkNDYyZjg5NDA3OWQ",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-13T00:52:33Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-13T00:52:33Z"
+            },
+            "message": "feat: plans viewer modal and planningId in structured content\n\nBackend:\n- GET /api/v2/admin/skills/plans returning active plans with progress fields\n- top-level \"planningId\" in every task-planning tool result\n\nFrontend:\n- eye button on task-planning card opens plans modal with cards, progress bar, status tags\n- i18n keys for plan viewer (zh/en)\n\nDocs:\n- add built-in tools screenshot (image2.png) to README.md and README.zh.md\n- rename image.png -> image1.png",
+            "tree": {
+              "sha": "d27eff5a6f8d85e283e52cf0e1a34ce67fe5e9a2",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/d27eff5a6f8d85e283e52cf0e1a34ce67fe5e9a2"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/8092f83be24e99b5ce7c46c92948d462f894079d",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/8092f83be24e99b5ce7c46c92948d462f894079d",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/8092f83be24e99b5ce7c46c92948d462f894079d",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/8092f83be24e99b5ce7c46c92948d462f894079d/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "94b9a4e882cc8e687a1aa057fd1af224b50681d0",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/94b9a4e882cc8e687a1aa057fd1af224b50681d0",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/94b9a4e882cc8e687a1aa057fd1af224b50681d0"
+            }
+          ]
+        },
+        {
+          "sha": "719638e15e3171797cba5570a23ed03b71e8f06b",
+          "node_id": "C_kwDORl3Rn9oAKDcxOTYzOGUxNWUzMTcxNzk3Y2JhNTU3MGEyM2VkMDNiNzFlOGYwNmI",
+          "commit": {
+            "author": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-13T01:43:47Z"
+            },
+            "committer": {
+              "name": "510myRday",
+              "email": "1329418492@qq.com",
+              "date": "2026-05-13T01:43:47Z"
+            },
+            "message": "fix(skills): prevent false path-guard triggers from rg glob patterns and relative path resolution\n\nTwo fixes:\n\n1. is_path_like: exclude tokens starting with ! or containing */?\n   so that ripgrep glob patterns (-g, --glob, --type-add) are not\n   mistaken for file paths. Previously !target/** was parsed as a path\n   under cwd, triggering spurious out-of-whitelist confirmations.\n\n2. find_outside_whitelist_path: use script_path itself as script_dir\n   when it is a directory instead of unconditionally taking .parent().\n   The old behavior caused relative paths like mcp-gateway/crates to\n   resolve against the parent of cwd rather than cwd itself, producing\n   paths outside the whitelist.",
+            "tree": {
+              "sha": "9440217a2ffec7d76c53e9a76eb9402dcc98d24b",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/trees/9440217a2ffec7d76c53e9a76eb9402dcc98d24b"
+            },
+            "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/git/commits/719638e15e3171797cba5570a23ed03b71e8f06b",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/719638e15e3171797cba5570a23ed03b71e8f06b",
+          "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/719638e15e3171797cba5570a23ed03b71e8f06b",
+          "comments_url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/719638e15e3171797cba5570a23ed03b71e8f06b/comments",
+          "author": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "510myRday",
+            "id": 93992128,
+            "node_id": "U_kgDOBZo0wA",
+            "avatar_url": "https://avatars.githubusercontent.com/u/93992128?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/510myRday",
+            "html_url": "https://github.com/510myRday",
+            "followers_url": "https://api.github.com/users/510myRday/followers",
+            "following_url": "https://api.github.com/users/510myRday/following{/other_user}",
+            "gists_url": "https://api.github.com/users/510myRday/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/510myRday/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/510myRday/subscriptions",
+            "organizations_url": "https://api.github.com/users/510myRday/orgs",
+            "repos_url": "https://api.github.com/users/510myRday/repos",
+            "events_url": "https://api.github.com/users/510myRday/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/510myRday/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "8092f83be24e99b5ce7c46c92948d462f894079d",
+              "url": "https://api.github.com/repos/XddXss888/mcp-gateway-platform/commits/8092f83be24e99b5ce7c46c92948d462f894079d",
+              "html_url": "https://github.com/XddXss888/mcp-gateway-platform/commit/8092f83be24e99b5ce7c46c92948d462f894079d"
+            }
+          ]
         }
       ]
     },
@@ -76630,7 +77372,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/metapi/compare/main...cita-777:main",
-      "updated_at": "2026-05-12T09:29:57.188Z",
+      "updated_at": "2026-05-13T04:39:20.318Z",
       "commits": [
         {
           "sha": "c94e3148dd3a22fc99033703922ddc8eb4e3ce01",
@@ -78714,7 +79456,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/MicroWARP/compare/main...ccbkkb:main",
-      "updated_at": "2026-05-12T09:29:58.310Z",
+      "updated_at": "2026-05-13T04:39:21.067Z",
       "commits": [
         {
           "sha": "fafc131d6c8a19ceef1b3a0fcfaa2961d191e217",
@@ -79574,7 +80316,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/modelhealthcheck/compare/master...Arron196:master",
-      "updated_at": "2026-05-12T09:29:59.130Z",
+      "updated_at": "2026-05-13T04:39:21.685Z",
       "commits": [
         {
           "sha": "6f22b3224a2b1b2b3e322d7e8742ae27e1a2fdbd",
@@ -79753,7 +80495,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/NeuraDock/compare/main...i-rtfsc:main",
-      "updated_at": "2026-05-12T09:29:59.963Z",
+      "updated_at": "2026-05-13T04:39:22.247Z",
       "commits": [
         {
           "sha": "204efcaa1812c199453b256820cc0fc8d7375e00",
@@ -90756,7 +91498,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/outlookEmailPlus/compare/main...ZeroPointSix:main",
-      "updated_at": "2026-05-12T09:30:01.651Z",
+      "updated_at": "2026-05-13T04:39:23.785Z",
       "commits": [
         {
           "sha": "06a56bf788be41454c08575177ad4a107c0d01f0",
@@ -111381,7 +112123,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/P4RS3LT0NGV3/compare/main...elder-plinius:main",
-      "updated_at": "2026-05-12T09:30:04.084Z",
+      "updated_at": "2026-05-13T04:39:25.368Z",
       "commits": []
     },
     {
@@ -111395,7 +112137,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/Payloader/compare/main...3516634930:main",
-      "updated_at": "2026-05-12T09:30:04.873Z",
+      "updated_at": "2026-05-13T04:39:25.801Z",
       "commits": []
     },
     {
@@ -111409,7 +112151,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen-auto-register/compare/main...2263648274:main",
-      "updated_at": "2026-05-12T09:30:05.718Z",
+      "updated_at": "2026-05-13T04:39:26.311Z",
       "commits": [
         {
           "sha": "edb016e5c765a63d91a3a70633003c8f3ebb48c8",
@@ -111839,7 +112581,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/qwen2api/compare/master...smanx:master",
-      "updated_at": "2026-05-12T09:30:06.845Z",
+      "updated_at": "2026-05-13T04:39:27.088Z",
       "commits": [
         {
           "sha": "7efa62011fcbca84765051b4717fda1169f6ee39",
@@ -112100,7 +112842,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/regplatformm/compare/main...xiaolajiaoyyds:main",
-      "updated_at": "2026-05-12T09:30:07.771Z",
+      "updated_at": "2026-05-13T04:39:27.631Z",
       "commits": [
         {
           "sha": "1ec3033c3a90baf18dfb41081d98a0466742b528",
@@ -112600,14 +113342,14 @@
       "repo": "ruyipage",
       "upstream": "LoseNine/ruyipage",
       "branch": "main",
-      "ahead_by": 55,
+      "ahead_by": 56,
       "behind_by": 0,
       "status": "up_to_date",
       "action": "none",
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/ruyipage/compare/main...LoseNine:main",
-      "updated_at": "2026-05-12T09:30:08.617Z",
+      "updated_at": "2026-05-13T04:39:28.224Z",
       "commits": [
         {
           "sha": "6ab3f417f9dbf04b15d341f1fdc6a7ff8dce9b35",
@@ -117118,6 +117860,88 @@
               "html_url": "https://github.com/XddXss888/ruyipage/commit/271ef8bcb38a86edb86c02130cc2dfdb23f46968"
             }
           ]
+        },
+        {
+          "sha": "69be4298f285fd330776dde6a4ff7f22407f992f",
+          "node_id": "C_kwDOR-vgDtoAKDY5YmU0Mjk4ZjI4NWZkMzMwNzc2ZGRlNmE0ZmY3ZjIyNDA3Zjk5MmY",
+          "commit": {
+            "author": {
+              "name": "losenine",
+              "email": "losenine@163.com",
+              "date": "2026-05-12T14:22:04Z"
+            },
+            "committer": {
+              "name": "losenine",
+              "email": "losenine@163.com",
+              "date": "2026-05-12T14:22:04Z"
+            },
+            "message": "Release 1.2.15",
+            "tree": {
+              "sha": "94a2b7ec8c8383143eb0224d6441bb27c7e6ccc9",
+              "url": "https://api.github.com/repos/XddXss888/ruyipage/git/trees/94a2b7ec8c8383143eb0224d6441bb27c7e6ccc9"
+            },
+            "url": "https://api.github.com/repos/XddXss888/ruyipage/git/commits/69be4298f285fd330776dde6a4ff7f22407f992f",
+            "comment_count": 0,
+            "verification": {
+              "verified": false,
+              "reason": "unsigned",
+              "signature": null,
+              "payload": null,
+              "verified_at": null
+            }
+          },
+          "url": "https://api.github.com/repos/XddXss888/ruyipage/commits/69be4298f285fd330776dde6a4ff7f22407f992f",
+          "html_url": "https://github.com/XddXss888/ruyipage/commit/69be4298f285fd330776dde6a4ff7f22407f992f",
+          "comments_url": "https://api.github.com/repos/XddXss888/ruyipage/commits/69be4298f285fd330776dde6a4ff7f22407f992f/comments",
+          "author": {
+            "login": "charlesval",
+            "id": 52991166,
+            "node_id": "MDQ6VXNlcjUyOTkxMTY2",
+            "avatar_url": "https://avatars.githubusercontent.com/u/52991166?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/charlesval",
+            "html_url": "https://github.com/charlesval",
+            "followers_url": "https://api.github.com/users/charlesval/followers",
+            "following_url": "https://api.github.com/users/charlesval/following{/other_user}",
+            "gists_url": "https://api.github.com/users/charlesval/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/charlesval/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/charlesval/subscriptions",
+            "organizations_url": "https://api.github.com/users/charlesval/orgs",
+            "repos_url": "https://api.github.com/users/charlesval/repos",
+            "events_url": "https://api.github.com/users/charlesval/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/charlesval/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "committer": {
+            "login": "charlesval",
+            "id": 52991166,
+            "node_id": "MDQ6VXNlcjUyOTkxMTY2",
+            "avatar_url": "https://avatars.githubusercontent.com/u/52991166?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/charlesval",
+            "html_url": "https://github.com/charlesval",
+            "followers_url": "https://api.github.com/users/charlesval/followers",
+            "following_url": "https://api.github.com/users/charlesval/following{/other_user}",
+            "gists_url": "https://api.github.com/users/charlesval/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/charlesval/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/charlesval/subscriptions",
+            "organizations_url": "https://api.github.com/users/charlesval/orgs",
+            "repos_url": "https://api.github.com/users/charlesval/repos",
+            "events_url": "https://api.github.com/users/charlesval/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/charlesval/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "parents": [
+            {
+              "sha": "c58c38444f32b45211146f7e15a81ea9cf2b6cae",
+              "url": "https://api.github.com/repos/XddXss888/ruyipage/commits/c58c38444f32b45211146f7e15a81ea9cf2b6cae",
+              "html_url": "https://github.com/XddXss888/ruyipage/commit/c58c38444f32b45211146f7e15a81ea9cf2b6cae"
+            }
+          ]
         }
       ]
     },
@@ -117132,7 +117956,7 @@
       "result": "already-current",
       "reason": "",
       "compare_url": "https://github.com/XddXss888/subs-check/compare/master...beck-8:master",
-      "updated_at": "2026-05-12T09:30:09.957Z",
+      "updated_at": "2026-05-13T04:39:29.170Z",
       "commits": [
         {
           "sha": "04e67dd945f5f82cbe50918b0c2d94a8f4e15891",
@@ -117801,30 +118625,30 @@
       "status": "updated",
       "action": "force-reset",
       "result": "force-reset",
-      "reason": "Force-reset fork branch to upstream commit e86fa853a699bdc3115c8e88587f683cedf9bf2b.",
+      "reason": "Force-reset fork branch to upstream commit 083037d2b30d03ac82d65d68379e549b69ee64b4.",
       "compare_url": "https://github.com/XddXss888/zenproxy/compare/main...Micky203:main",
-      "updated_at": "2026-05-12T09:30:10.899Z",
+      "updated_at": "2026-05-13T04:39:29.740Z",
       "commits": [
         {
-          "sha": "e86fa853a699bdc3115c8e88587f683cedf9bf2b",
-          "node_id": "C_kwDOR6tQLNoAKGU4NmZhODUzYTY5OWJkYzMxMTVjOGU4ODU4N2Y2ODNjZWRmOWJmMmI",
+          "sha": "083037d2b30d03ac82d65d68379e549b69ee64b4",
+          "node_id": "C_kwDOR6tQLNoAKDA4MzAzN2QyYjMwZDAzYWM4MmQ2NWQ2ODM3OWU1NDliNjllZTY0YjQ",
           "commit": {
             "author": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-05-12T07:14:36Z"
+              "date": "2026-05-13T03:39:37Z"
             },
             "committer": {
               "name": "Micky203",
               "email": "164007966+Micky203@users.noreply.github.com",
-              "date": "2026-05-12T07:14:36Z"
+              "date": "2026-05-13T03:39:37Z"
             },
             "message": "Update README.md",
             "tree": {
               "sha": "22c121141024d5d4e737589b1f782212f3ec8776",
               "url": "https://api.github.com/repos/XddXss888/zenproxy/git/trees/22c121141024d5d4e737589b1f782212f3ec8776"
             },
-            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/e86fa853a699bdc3115c8e88587f683cedf9bf2b",
+            "url": "https://api.github.com/repos/XddXss888/zenproxy/git/commits/083037d2b30d03ac82d65d68379e549b69ee64b4",
             "comment_count": 0,
             "verification": {
               "verified": false,
@@ -117834,9 +118658,9 @@
               "verified_at": null
             }
           },
-          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/e86fa853a699bdc3115c8e88587f683cedf9bf2b",
-          "html_url": "https://github.com/XddXss888/zenproxy/commit/e86fa853a699bdc3115c8e88587f683cedf9bf2b",
-          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/e86fa853a699bdc3115c8e88587f683cedf9bf2b/comments",
+          "url": "https://api.github.com/repos/XddXss888/zenproxy/commits/083037d2b30d03ac82d65d68379e549b69ee64b4",
+          "html_url": "https://github.com/XddXss888/zenproxy/commit/083037d2b30d03ac82d65d68379e549b69ee64b4",
+          "comments_url": "https://api.github.com/repos/XddXss888/zenproxy/commits/083037d2b30d03ac82d65d68379e549b69ee64b4/comments",
           "author": {
             "login": "Micky203",
             "id": 164007966,
